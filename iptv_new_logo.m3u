@@ -558,19 +558,20 @@ http://origin.onworldtv.com:1935/liveorigin/byn/index.m3u8
 
 ##################################################################################
 
-#EXTINF:-1 group-title="VIETNAM TV24", [B][COLOR mediumspringgreen] >>> New Updated CH <<<[/COLOR][/B]
+#EXTINF:-1 group-title="VIETNAM TV24", [B][COLOR mediumspringgreen] >>> Vietnam TV <<<[/COLOR][/B]
 http://google.com/
 
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV1.jpg", VTV1
-http://103.21.148.45:81/icomchannelvtv/smil:v1_dump.smil/chunklist_b1328000_sleng.m3u8
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/vtv2.jpg", VTV2 
-http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV3.jpg",VTV3 HD 
-http://103.21.148.45:81/icomchannelvtv/smil:vtv3_ele_dump_1.smil/chunklist_b1328000_sleng.m3u8
-
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV1.jpg", VTV1 HD
+http://103.21.148.45:81/icomchannelvtv/smil:v1_dump_2111.smil/chunklist_b1328000_sleng.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/vtv2.jpg", VTV2 HD 
+http://103.21.148.45:81/icomchannelvtc/vtc12_576/chunklist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV3.jpg",VTV4 HD 
+http://113.187.31.44:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV3.jpg",VTV5 HD
+http://113.187.31.44:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV24",VTV6 HD 
-http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM TV24",VTV9 HD
+
+
 http://103.21.148.45:81/icomchannelvtv/smil:vtv9_adb.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1 group-title="VIETNAM TV24", Nhan dan HD
 http://live.cdn.mobifonetv.vn/motv/vietnamnet_hls.smil/chunklist_b1200000.m3u8
