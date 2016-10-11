@@ -2,14 +2,14 @@
 <addons>
 
 <addon id="service.stalkerEpgUpdate"
-    name="Stalker EPG Updater" version="1.0.9" provider-name="johoja">
+    name="Stalker EPG Updater" version="1.0.10" provider-name="johoja_hme">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
   </requires>
   <extension point="xbmc.service" library="default.py" start="login"></extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">update stalker</summary>
-    <description lang="en">update stalker epg from epg.ninja and auto configures your stalker client or your Long Hong TV Box (07.31.16)</description>
+    <description lang="en">update stalker epg from epg.ninja and auto configures your stalker client or your Long Hong TV Box (04.04.16)</description>
     <platform>all</platform>
     <language>en</language>
     <license>GPL</license>
@@ -1514,15 +1514,15 @@
 </addon>
 
 
-<addon id="repository.kodi4vn" name="Kodi4VN's REPO" version="1.4" provider-name="LongHong">
+<addon id="repository.kodi4vn" name="Kodi4VN's REPO" version="1.5" provider-name="LongHong">
 	<extension point="xbmc.addon.repository" name="LongHong's Addon Repository">
-		<info compressed="false">https://googledrive.com/host/0B3wDfMBF1O42NExXQkkyUXhyTHM/addons.xml</info>
-		<checksum>https://googledrive.com/host/0B3wDfMBF1O42NExXQkkyUXhyTHM/addons.xml.md5</checksum>
-		<datadir zip="true">https://googledrive.com/host/0B3wDfMBF1O42NExXQkkyUXhyTHM/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/LongHongVan/MyKodi/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/LongHongVan/MyKodi/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/LongHongVan/MyKodi/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Kodi4VN Addons</summary>
-		<description>Download and install addons from Kodi4VN's Repo Long Hong TV-Box (ViETViP) Edition 04.14.2016: Best addons for Vietnamese</description>
+		<description>Download and install addons from Kodi4VN's Repo Long Hong TV-Box (ViETViP) Edition 10.10.2016: Best addons for Vietnamese</description>
 		<platform>all</platform>
 	</extension>
 </addon>
@@ -1750,34 +1750,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.xbmctorrent" name="XBMCtorrent" version="0.6.4" provider-name="steeve">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.repository" name="XBMCtorrent Autoupdate Repository">
-        <info compressed="false">http://xbmctorrent.herokuapp.com/addons.xml</info>
-        <checksum>http://xbmctorrent.herokuapp.com/addons.xml.md5</checksum>
-        <datadir zip="true">http://xbmctorrent.herokuapp.com/</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <website><![CDATA[http://j.mp/xbmctorrent]]></website>
-        <forum><![CDATA[http://j.mp/xbmctorrent]]></forum>
-        <source><![CDATA[https://github.com/steeve/xbmctorrent]]></source>
-        <language></language>
-        <license><![CDATA[GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007]]></license>
-        <summary><![CDATA[XBMCtorrent: Torrent streaming for XBMC.]]></summary>
-        <description><![CDATA[Watch torrents directly from XBMC, without waiting.
-
-To get the latest updates:
-Twitter: twitter.com/xbmctorrent
-Facebook: facebook.com/xbmctorrent
-XBMC HUB: j.mp/xbmctorrent]]></description>
-    </extension>
-</addon>
 
 <addon id="plugin.video.stalker" name="IPTV Stalker" version="9.3.18" provider-name="esxbr">
     <requires>
