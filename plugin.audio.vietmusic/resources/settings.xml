@@ -1,0 +1,6 @@
+<settings>
+	<category label="Quality Settings">
+	    <setting label="Video" type="labelenum" id="video_quality" default="720p" values="240p|360p|480p|720p|1080p"/>
+	    <setting label="Mp3" type="labelenum" id="mp3_quality" default="320k" values="32k|128k|320k|500k|Lossless"/>
+	</category>
+</settings>

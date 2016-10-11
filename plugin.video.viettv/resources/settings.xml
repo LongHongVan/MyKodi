@@ -1,0 +1,6 @@
+<settings>
+	<category label="Quality Settings">
+	    <setting label="Bitrate" type="labelenum" id="video_quality" default="1000" values="500|1000|2500"/>
+	    <setting label="Streaming mode" type="labelenum" id="video_streaming" default="f4m" values="f4m|m3u8"/>
+	</category>
+</settings>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.viettv" version="1.0.1" name="VietTV" provider-name="VietMusic">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.video.F4mProxy" version="2.1.7"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>VietTV Online</summary>
+        <description></description>
+        <disclaimer lang="en">[COLOR red]I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

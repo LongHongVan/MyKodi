@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.vietmusic"
+       name="VietMusic"
+       version="1.8"
+       provider-name="VietMusic">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.simple.downloader" version="1.9.4" />
+	</requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>en</language>
+		<summary lang="en">Viet Music online</summary>
+		<description lang="en">Add-on play Vietnamese Music online</description>
+    </extension>
+</addon>
