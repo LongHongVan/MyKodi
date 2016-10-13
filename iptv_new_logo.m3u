@@ -3,6 +3,20 @@
 #EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
 http://google.com
 
+###################### New Movies 2016 ######################################
+#EXTINF:-1, tvg-logo="" group-title="New Movies 2016", Sniper Ghost Shooter
+http://torstream.se:5935/vod/9295107.mp4/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="New Movies 2016", The Perfect Weapon
+http://torstream.se:5935/vod/the_perfect_weapon_2016.mp4/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="New Movies 2016", Assassination
+http://torstream.se:5935/vod/assassination_2016.mp4
+
+#EXTINF:-1, tvg-logo="" group-title="New Movies 2016", Kickboxer Vengeance
+http://torstream.se:5935/vod/kickboxer_vengeance_2016.mp4/index.m3u8
+
+
 ###################### French TV ######################################
 #EXTINF:-1, tvg-logo="" group-title="French TV", CBC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12
@@ -44,16 +58,19 @@ http://google.com
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=488
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/1778.ts
+=http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station Extra
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/1779.ts
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Passion
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4333.ts
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
-#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Redlight
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4334.ts
+#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy Korea
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy TV 19+
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
 
 
 #EXTINF:-1, tvg-id="2" tvg-name="Hustler TV USA" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Hustler TV USA
@@ -321,6 +338,28 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=155
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=412
 
 
+#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 National HD
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
+
+#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Arizona HD
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
+
+#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Bay Area HD
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_2328_av-p.m3u8
+
+#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Los Angeles HD
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_2328_av-p.m3u8
+
+#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Oregon HD
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
+
+#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Washington HD
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+
+
 ###################### END TOP SPORT TV #################################
 
 
@@ -560,6 +599,9 @@ http://origin.onworldtv.com:1935/liveorigin/byn/index.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV24", [B][COLOR mediumspringgreen] >>> Vietnam TV <<<[/COLOR][/B]
 http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="rongbay2.vcmedia.vn/thumb_max/up_new/2012/05/31/0/201205182155_logo_hd1.jpg", K+1
+http://5.39.70.216/live/louis/louis/1031.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV1.jpg", VTV1 HD
 http://103.21.148.45:81/icomchannelvtv/smil:v1_dump_2111.smil/chunklist_b1328000_sleng.m3u8
@@ -887,6 +929,10 @@ http://www.mediafire.com/download/z273q3kyw6ciarr/TraiTimKhongNguYen.mkv
 ####################################### Others ##########################################
 
 #<!--------------------------------CANADA ------------------------->
+
+#EXTINF:-1 group-title="CANADA" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png", HGTV HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://5.39.70.216/live/louis/louis/60.ts
+
 
 #EXTINF:-1 group-title="CANADA" tvg-logo="youngalaskans.org/wp-content/uploads/2011/10/360North.jpg", 360 North (ALASKA)
 http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
