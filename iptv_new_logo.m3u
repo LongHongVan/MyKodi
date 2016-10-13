@@ -3,6 +3,24 @@
 #EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
 http://google.com
 
+
+###################### Kid TV ######################################
+#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/170.png", Nick HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
+
+#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/171.png", Kid Channel 1
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=171
+
+#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/172.png", Family HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=172
+
+#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/174.png", Disney East HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=174
+
+#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/176.png", Cartoon Network
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
+
+
 ###################### New Movies 2016 ######################################
 #EXTINF:-1, tvg-logo="" group-title="New Movies 2016", Sniper Ghost Shooter
 http://torstream.se:5935/vod/9295107.mp4/index.m3u8
@@ -11,7 +29,7 @@ http://torstream.se:5935/vod/9295107.mp4/index.m3u8
 http://torstream.se:5935/vod/the_perfect_weapon_2016.mp4/index.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="New Movies 2016", Assassination
-http://torstream.se:5935/vod/assassination_2016.mp4
+http://torstream.se:5935/vod/assassination_2016.mp4/index.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="New Movies 2016", Kickboxer Vengeance
 http://torstream.se:5935/vod/kickboxer_vengeance_2016.mp4/index.m3u8
@@ -56,6 +74,12 @@ http://google.com
 
 #EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Playboy TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=488
+
+#EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=499
+
+#EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=497
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station
 =http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
@@ -203,7 +227,11 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 http://google.com
 
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=53
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=152
+
+
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Now HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=153
 
 #EXTINF:-1, tvg-id="159" tvg-name="BEIN SPORTS" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", Bein Sports (Soccer)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=392
@@ -369,6 +397,9 @@ http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
 
 #EXTINF:-1, tvg-id="9241" tvg-name="ESKA Best Music HD" tvg-logo="digitaltveurope.net/wp-content/uploads/2011/09/Eska-TV1-85x85.jpg" group-title="Music Channels", ESKA Best Music HD [COLOR lime]720p[/COLOR]
 http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
+
+#EXTINF:-1, tvg-name="MTV Live" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Music Channels", MTV Live
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=160
 
 
 #EXTINF:-1, tvg-id="9242" tvg-name="Djing HD" tvg-logo="us.djing.com/newimages/logo.png" group-title="Music Channels", Djing HD [COLOR lime]720p[/COLOR]
@@ -973,13 +1004,16 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
 
 
 #EXTINF:-1, tvg-id="409" tvg-name="BOXnation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", BOXnation
-#http://149.202.207.8:8080/bOooXxnAtTIion_rAf/bOooXxnAtTIion_rAf/index.m3u8
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=420
 
 #EXTINF:-1, tvg-id="416" tvg-name="BT Sport 1" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sport 1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=422
 
 #EXTINF:-1, tvg-id="417" tvg-name="BT Sport 2" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sport 2
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=423
+
+#EXTINF:-1, tvg-id="417" tvg-name="BT Sport 2" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sport EU
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=424
 
 
 #EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", TSN 1
@@ -1007,10 +1041,22 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
 #EXTINF:-1, tvg-id="uktvnow:233" tvg-name="SportNet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", SportNet 360
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
 
-
-
 #EXTINF:0 group-title="TOP SPORT TV", tvg-id="Poker Central HD" tvg-logo="media.cardplayer.com/assets/000/016/219/poker_central.jpg", Poker Central HD
-#http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1074
+
+
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Sunday Ticket 1
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=121
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Sunday Ticket 2
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=122
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Sunday Ticket 3
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=123
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Sunday Ticket 4
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=124
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
+
+
 
 
 
@@ -1174,6 +1220,9 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=120
 
 #EXTINF:0 tvg-name="National Geographic Channel" group-title="Top Cloud USA TV" tvg-logo="www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg", National Geographic Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=186
+
+#EXTINF:0 tvg-name="National Geographic Channel" group-title="Top Cloud USA TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png", NAT GEO WILD HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=190
 
 #EXTINF:0 tvg-name="Nickelodeon East" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nickelodeon East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
