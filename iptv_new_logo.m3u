@@ -69,31 +69,23 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=35
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=36
 
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 37
+#EXTINF:-1, tvg-logo="" group-title="French TV", TV5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=37
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 38
+#EXTINF:-1, tvg-logo="" group-title="French TV", VRAK HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=38
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 41
+#EXTINF:-1, tvg-logo="" group-title="French TV", SERIES HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=41
-
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 42
+#EXTINF:-1, tvg-logo="" group-title="French TV", HISTORIA HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=42
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 43
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=43
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 93
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=93
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 95
+#EXTINF:-1, tvg-logo="" group-title="French TV", PRISE 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=95
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 380
+#EXTINF:-1, tvg-logo="" group-title="French TV", SUPER ECRAN 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=380
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 381
+#EXTINF:-1, tvg-logo="" group-title="French TV", SUPER ECRAN 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=381
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 1060
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1060
-#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 1061
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1061
+
 
 
 
