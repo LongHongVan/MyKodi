@@ -38,32 +38,62 @@ http://torstream.se:5935/vod/kickboxer_vengeance_2016.mp4/index.m3u8
 ###################### French TV ######################################
 #EXTINF:-1, tvg-logo="" group-title="French TV", CBC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12
+#EXTINF:-1, tvg-logo="" group-title="French TV", Yoopa HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=16
+#EXTINF:-1, tvg-logo="" group-title="French TV", TVA MTL HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=16
+#EXTINF:-1, tvg-logo="" group-title="French TV", RDI HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=19
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", ICI TV
-http://flowcaster1.cdn.clearcable.net:1935/icilive/icitv/master.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", TF1
+#EXTINF:-1, tvg-logo="" group-title="French TV", CTV MTL HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=26
+#EXTINF:-1, tvg-logo="" group-title="French TV", CBC MTL HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=27
+#EXTINF:-1, tvg-logo="" group-title="French TV", SRC QC HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=28
+#EXTINF:-1, tvg-logo="" group-title="French TV", TELE QUEBEC HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=29
+#EXTINF:-1, tvg-logo="" group-title="French TV", MUSIQUE PLUS HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=30
+
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", CBC MTL FRENCH HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=32
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", RDS2 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=34
+#EXTINF:-1, tvg-logo="" group-title="French TV", TVA SPORTS 1 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=35
+#EXTINF:-1, tvg-logo="" group-title="French TV", TVA SPORTS 2 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=36
+
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 37
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=37
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 38
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=38
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 41
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=41
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 42
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=42
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 43
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=43
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 93
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=93
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 95
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=95
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 380
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=380
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 381
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=381
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 1060
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1060
-#EXTINF:-1, tvg-logo="" group-title="French TV", H1 HD
+#EXTINF:-1, tvg-logo="" group-title="French TV", French CH 1061
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1061
-#EXTINF:-1, tvg-logo="" group-title="French TV", France 2
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1062
-#EXTINF:-1, tvg-logo="" group-title="French TV", France 3
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1063
-#EXTINF:-1, tvg-logo="" group-title="French TV", France 4
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1064
-#EXTINF:-1, tvg-logo="" group-title="French TV", France 5
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1065
-#EXTINF:-1, tvg-logo="" group-title="French TV", TV5
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1066
-#EXTINF:-1, tvg-logo="" group-title="French TV", Discovery Science FR
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1067
-#EXTINF:-1, tvg-logo="" group-title="French TV", TMC 1
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1068
-#EXTINF:-1, tvg-logo="" group-title="French TV", TMC 2
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1069
-#EXTINF:-1, tvg-logo="" group-title="French TV", Planete
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1070
 
 
 
