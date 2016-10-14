@@ -1,0 +1,9 @@
+--------------MpegTS Streams--------------[updated 7 oct]------$http://ignoreme.com
+s1$ http://ju031.jupiter.fastwebserver.de:8000/get.php?username=kris&password=kris&type=m3u
+S2$ http://765hub.com:8000/get.php?username=mazlumuluc&password=041220151345&type=m3u
+s3$ http://ip.kmsat.info:8000/get.php?username=salah&password=salah&type=m3u
+--------------HLS Streams--------------------$http://ignoreme.com
+s1$ http://ip.kmsat.info:8000/get.php?username=salah&password=salah&type=m3u&output=hls
+s2$ http://5.39.70.216/get.php?username=louis&password=louis&type=m3u&output=hls
+s3$ http://765hub.com:8000/get.php?username=mazlumuluc&password=041220151345&type=m3u&output=hls
+------------All Other TS Streams-------$ http://ignoreme.com
