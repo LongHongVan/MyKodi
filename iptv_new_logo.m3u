@@ -1323,7 +1323,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=120
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1039.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",(us) fox sports 1hd
-http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8522.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8522.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",(us) fox sport 2hd
