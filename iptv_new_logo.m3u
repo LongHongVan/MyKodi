@@ -1366,7 +1366,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1601.ts
 
 
-EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",k: sky sports 5
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",k: sky sports 5
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1602.ts
 
 
