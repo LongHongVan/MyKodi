@@ -1679,6 +1679,34 @@ http://torstream.se:5935/vod/12287.mp4/index.m3u8
 
 
 ###################### French TV ######################################
+
+###################### French TS Channels
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", France 24
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/739.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", A LA CARTE 1
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/262.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", France 2 HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/134.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", France 3 HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/135.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", France 4 HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/136.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", Sciences & Vie TV
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/150.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", PARIS PREMIERE  HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/572.ts
+
+###################### End French TS Channels
+
+###################### French Canada
+
 #EXTINF:-1, tvg-logo="" group-title="French TV", CBC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12
 #EXTINF:-1, tvg-logo="" group-title="French TV", Yoopa HD
