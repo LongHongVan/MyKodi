@@ -1686,83 +1686,83 @@ http://torstream.se:5935/vod/12287.mp4/index.m3u8
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/739.ts
 
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 2 HD
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/134.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 3 HD
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/135.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 4 HD
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/136.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 5 HD
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 5 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/137.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 0 HD
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 0 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/133.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="m.img.brothersoft.com/android/1a/1ad485f1c23626da6f80f92bb19daa79_icon.png", DISCOVERY
+#EXTINF:-1, group-title="French TV" tvg-logo="m.img.brothersoft.com/android/1a/1ad485f1c23626da6f80f92bb19daa79_icon.png", DISCOVERY
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/389.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="cdn.scratch.mit.edu/static/site/projects/thumbnails/204/6781.png", M6 HD
+#EXTINF:-1, group-title="French TV" tvg-logo="cdn.scratch.mit.edu/static/site/projects/thumbnails/204/6781.png", M6 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/141.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.sk-voest.com/joomla/images/stories/2015/eurosport-live.png", EUROSPORT 1 HD
+#EXTINF:-1, group-title="French TV" tvg-logo="www.sk-voest.com/joomla/images/stories/2015/eurosport-live.png", EUROSPORT 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/557.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="epg.canal-plus.com/mycanal/img/CHN43FB/PNG/288X218/CHN43FB_588.PNG", Planete  A&E HD
+#EXTINF:-1, group-title="French TV" tvg-logo="epg.canal-plus.com/mycanal/img/CHN43FB/PNG/288X218/CHN43FB_588.PNG", Planete  A&E HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/848.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="media.glassdoor.com/sqll/667042/euronews-squarelogo-1443077699989.png", EURONEWS
+#EXTINF:-1, group-title="French TV" tvg-logo="media.glassdoor.com/sqll/667042/euronews-squarelogo-1443077699989.png", EURONEWS
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/860.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 1
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/884.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 2
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/885.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 3
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/886.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 4
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1668.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 5
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 5
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1669.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 6
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 6
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1670.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 7
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 7
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1671.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 8
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 8
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1672.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 9
+#EXTINF:-1, group-title="French TV" tvg-logo="www.lexperteaudiovideo.fr/wp-content/uploads/2014/12/canalplay-vod.jpg", CANAL PLAY 9
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1673.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png", BEIN SPORT FR1
+#EXTINF:-1, group-title="French TV" tvg-logo="4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png", BEIN SPORT FR1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/130.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png", BEIN SPORT FR2
+#EXTINF:-1, group-title="French TV" tvg-logo="4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png", BEIN SPORT FR2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/131.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png", BEIN SPORT FR3
+#EXTINF:-1, group-title="French TV" tvg-logo="4.bp.blogspot.com/-5Dlgw-84qgw/VlCZA9hsYeI/AAAAAAAAAqU/2UfzJ6Vg_Ag/s1600/BeinSportHD1fr.png", BEIN SPORT FR3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1006.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png", E! ENTERTAINMENT
+#EXTINF:-1, group-title="French TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png", E! ENTERTAINMENT
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1848.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png" NAT GEO
+#EXTINF:-1, group-title="French TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png" NAT GEO
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/482.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 1
+#EXTINF:-1, group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1412.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 2
+#EXTINF:-1, group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1413.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 3
+#EXTINF:-1, group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1414.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 4
+#EXTINF:-1, group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1415.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 5
+#EXTINF:-1, group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 5
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1416.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 6
+#EXTINF:-1, group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 6
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1417.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 7
+#EXTINF:-1, group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 7
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1418.ts
-#EXTINF:-1, tvg-logo="" group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 8
+#EXTINF:-1, group-title="French TV" tvg-logo="pratsch.at/wp-content/uploads/2013/06/a_la_carte_logo.jpg", PPV A La Carte 8
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1419.ts
 
 
