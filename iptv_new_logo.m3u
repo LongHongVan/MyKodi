@@ -1685,8 +1685,6 @@ http://torstream.se:5935/vod/12287.mp4/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="French TV", France 24
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/739.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/884.ts
 
 #EXTINF:-1, tvg-logo="" group-title="French TV", France 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/134.ts
@@ -1718,8 +1716,56 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat
 #EXTINF:-1, tvg-logo="" group-title="French TV", EURONEWS
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/860.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", M6 Music
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/769.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/884.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/885.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/886.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1668.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 5
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1669.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 6
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1670.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 7
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1671.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 8
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1672.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", CANAL PLAY 9
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1673.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", BEIN SPORT FR1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/130.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", BEIN SPORT FR2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/131.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", BEIN SPORT FR3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1006.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", E! ENTERTAINMENT
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1848.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", Nat Geo
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/482.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV", PPV A La Carte 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1412.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", PPV A La Carte 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1413.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", PPV A La Carte 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1414.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", PPV A La Carte 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1415.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", PPV A La Carte 5
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1416.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", PPV A La Carte 6
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1417.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", PPV A La Carte 7
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1418.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", PPV A La Carte 8
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1419.ts
+
+
 
 ###################### End French TS Channels
 
