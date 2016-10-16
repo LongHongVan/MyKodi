@@ -1685,8 +1685,8 @@ http://torstream.se:5935/vod/12287.mp4/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="French TV", France 24
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/739.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", A LA CARTE 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/262.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", NATIONALGEO WILD HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/626.ts
 
 #EXTINF:-1, tvg-logo="" group-title="French TV", France 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/134.ts
@@ -1697,14 +1697,17 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat
 #EXTINF:-1, tvg-logo="" group-title="French TV", France 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/136.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", Sciences & Vie TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/150.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", France 5 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/137.ts
 
-#EXTINF:-1, tvg-logo="" group-title="French TV", PARIS PREMIERE  HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/572.ts
+#EXTINF:-1, tvg-logo="" group-title="French TV", France 0 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/133.ts
 
 #EXTINF:-1, tvg-logo="" group-title="French TV", DISCOVERY
-http://ip.kmsat.info:8000/live/salah/salah/389.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/389.ts
+
+#EXTINF:-1, tvg-logo="" group-title="French TV",CANAL PLAY 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/884.ts
 
 ###################### End French TS Channels
 
