@@ -1,5 +1,5 @@
 ﻿#EXTM3U tvg-shift=0
-# Test Updated 03.14.16 03:43 PM - by Long Hong
+# Test Updated 10.16.16 03:43 PM - by Long Hong
 #EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
 http://google.com
 
@@ -33,9 +33,6 @@ http://torstream.se:5935/vod/assassination_2016.mp4/index.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="New Movies 2016", Kickboxer Vengeance
 http://torstream.se:5935/vod/kickboxer_vengeance_2016.mp4/index.m3u8
-
-
-
 
 
 
@@ -2113,7 +2110,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=546
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=421
 
 #EXTINF:-1, tvg-id="421" tvg-name="Yes Network" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1812.png" group-title="TOP SPORT TV", Yes Network
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/4832
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=151
 
 #EXTINF:-1, tvg-id="156" tvg-name="UFC Network" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1299.png" group-title="TOP SPORT TV", UFC Network
 #http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/9577
@@ -3006,6 +3003,9 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=108
 
 #EXTINF:0 tvg-name="Spike TV" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=241
+
+#EXTINF:0 tvg-name="Tru TV America Latina" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV America Latina
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=242
 
 #EXTINF:0 tvg-name="USA Network East" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=105
