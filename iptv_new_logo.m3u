@@ -1695,7 +1695,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.ele
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.electro-clair.net:8000/live/test/test/526.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 0 HD
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.electro-clair.net:8000/live/test/test/527.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.electro-clair.net:8000/live/test/test/527.ts
 
 
 ###################### End French TS Channels
