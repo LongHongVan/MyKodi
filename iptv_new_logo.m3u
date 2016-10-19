@@ -2764,7 +2764,6 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=440
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=444
 
 
-
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 1" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Sunday Ticket 1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=221
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 2" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Sunday Ticket 2
@@ -3054,27 +3053,27 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.ju
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sport 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1017.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1017.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1009.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1009.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1010.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1010.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1601.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1601.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",k: sky sports 5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1602.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1602.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports f1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1603.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1603.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: bt sports 1
