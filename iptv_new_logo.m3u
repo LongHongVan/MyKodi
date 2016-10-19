@@ -2007,6 +2007,9 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=392
 #EXTINF:-1, tvg-id="159" tvg-name="BEIN DEPORTES HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BEIN DEPORTES HD (Soccer)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=873
 
+#EXTINF:-1, tvg-id="159" tvg-name="GOL TV ES HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", GOL TV ES HD (Soccer)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=870
+
 #EXTINF:-1, tvg-id="159" tvg-name="Bundesliga Soccer" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/439.png" group-title="TOP SPORT TV", Bundesliga Soccer
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=439
 
@@ -2034,8 +2037,14 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
 #EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 
+#EXTINF:-1, tvg-name="ESPN DEPORTES HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN DEPORTES HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=854
+
 #EXTINF:-1, tvg-id="9410" tvg-name="TNT" tvg-logo="www.everyjoe.com/files/2009/09/tnt-logo.jpg" group-title="TOP SPORT TV", TNT
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
+
+#EXTINF:-1, tvg-id="400" tvg-name="Super Tennis Italia" tvg-logo="www.snescentral.com/0/6/9/0690/logo.gif" group-title="TOP SPORT TV", Super Tennis Italia
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=623
 
 #EXTINF:-1, tvg-id="400" tvg-name="Tennis Channel" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1830.png" group-title="TOP SPORT TV", Tennis Channel 
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=410
