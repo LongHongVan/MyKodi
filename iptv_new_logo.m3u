@@ -2022,18 +2022,18 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=475
 #http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/413
 
 #EXTINF:-1, tvg-id="9410" tvg-name="Sky Sports 1" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 1
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=542
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=542
 
 #EXTINF:-1, tvg-id="411" tvg-name="Sky Sports 2" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1271.png" group-title="TOP SPORT TV", Sky Sports 2
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=543
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=543
 
 #EXTINF:-1, tvg-id="412" tvg-name="Sky Sports 3" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1273.png" group-title="TOP SPORT TV", Sky Sports 3
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=544
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=544
 
 #EXTINF:-1, tvg-id="413" tvg-name="Sky Sports 4" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1275.png" group-title="TOP SPORT TV", Sky Sports 4
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=545
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=545
 
-#EXTINF:-1, tvg-id="414" tvg-name="Sky Sports 5" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", Sky Sports 5
+#EXTINF:-1, tvg-id="414" tvg-name="Sky Sports 5" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", #Sky Sports 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=546
 
 
@@ -3053,27 +3053,27 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.ju
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sport 1
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1017.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1017.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 2
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1009.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1009.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 3
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1010.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1010.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 4
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1601.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1601.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",k: sky sports 5
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1602.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1602.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports f1
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1603.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1603.ts
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: bt sports 1
