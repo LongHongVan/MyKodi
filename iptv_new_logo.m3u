@@ -2754,6 +2754,16 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
 #EXTINF:0 group-title="TOP SPORT TV", tvg-id="Poker Central HD" tvg-logo="media.cardplayer.com/assets/000/016/219/poker_central.jpg", Poker Central HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1074
 
+#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Fight Network HD" tvg-logo="www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/fight-network/logo/large_logo.jpg", Fight Network HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1082
+
+#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Arena Sport 1 HD" tvg-logo="www.ktct.cz/files/images/loga/Logo%20AS1HD%20black.jpg", Arena Sport 1 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=440
+
+#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Super Sport 1 HD" tvg-logo="at1media.com/wp-content/uploads/2014/06/supersport.jpg", Super Sport 1 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=444
+
+
 
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 1" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Sunday Ticket 1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=221
@@ -2768,6 +2778,9 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=225
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL NOW" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL NOW (offline)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=153
+
+
+
 
 
 ######### MTV Music TV ########################################
