@@ -2376,17 +2376,14 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=960
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="yt3.ggpht.com/-NTEw5Vvn_pA/AAAAAAAAAAI/AAAAAAAAAAA/l4_jd0MiVhY/s88-c-k-no/photo.jpg", VietTV Show [COLOR lime]HD[/COLOR]
 http://api.new.livestream.com/accounts/11617763/events/3711057/videos/75928742.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", Saigon TV 55.3
-http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", Saigon TV
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=958
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="fs01.androidpit.info/a/22/2f/vbs-television-vietnamese-tv-222fac-w192.png", VBS TV
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="img.vietview.tv/1180x665/2014/07/28/livetv_sgn_banner.jpg", SGN TV Houston TX 51.3
-http://origin.onworldtv.com:1935/liveorigin/sgn/chunklist_w1449626630.m3u8?
-
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", Saigon Network[COLOR lime] 720p[/COLOR]
-http://origin.onworldtv.com:1935/liveorigin/sgn/chunklist_w942043689_tkd29ybGR0b2tlbnN0YXJ0dGltZT0xNDM0MzU2NjUxJndvcmxkdG9rZW5lbmR0aW1lPTE0MzQ0NDEyNTEmd29ybGR0b2tlbmhhc2g9dzNCdXB1NVpacjJDYVg1LUxhOGlCOTdlNDFkNG5PbWlpeE90bGEwbXRkQT0=.m3u8
+#http://origin.onworldtv.com:1935/liveorigin/sgn/chunklist_w1449626630.m3u8?
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="pbs.twimg.com/profile_images/572417953690157056/DxVzXJZV.png", BYN TV Channel[COLOR lime] 720p[/COLOR]
 http://origin.onworldtv.com:1935/liveorigin/byn/index.m3u8
