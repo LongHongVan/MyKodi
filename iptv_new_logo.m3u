@@ -2717,9 +2717,6 @@ http://www.mediafire.com/download/z273q3kyw6ciarr/TraiTimKhongNguYen.mkv
 
 #<!--------------------------------CANADA ------------------------->
 
-#EXTINF:-1 group-title="CANADA" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png", HGTV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://5.39.70.216/live/louis/louis/60.ts
-
 
 #EXTINF:-1 group-title="CANADA" tvg-logo="youngalaskans.org/wp-content/uploads/2011/10/360North.jpg", 360 North (ALASKA)
 http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
@@ -2739,11 +2736,23 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=401
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 3
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=402
 
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 4
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4" tvg-logo="www.mcquarrieweb.ca/TVGuideWebsite/images/tsn4.png" group-title="CANADA", TSN 4
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
 
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 5
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="activpn.com/images/watch_outside_ca/TSN%20-%20The%20Sports%20Network.png" group-title="CANADA", TSN 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
+
+#EXTINF:-1, tvg-id="SportNet One" tvg-name="SportNet" tvg-logo="www.cogeco.ca/web/resources/images/residential/tv/selecteur_des_chaines/140X90/logo_sportsnetAll.png" group-title="CANADA", SportNet One HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=405
+
+#EXTINF:-1, tvg-id="SportsNet Ont" tvg-name="SportNet" tvg-logo="www.cogeco.ca/web/resources/images/residential/tv/selecteur_des_chaines/140X90/logo_sportsnetAll.png" group-title="CANADA", SportNet Ont HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
+
+#EXTINF:-1, tvg-id="SportsNet 360" tvg-name="SportNet" tvg-logo="www.cogeco.ca/web/resources/images/residential/tv/selecteur_des_chaines/140X90/logo_sportsnetAll.png" group-title="CANADA", SportNet 360 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
+
+#EXTINF:-1, tvg-id="SportsNet World HD" tvg-name="SportNet" tvg-logo="www.cogeco.ca/web/resources/images/residential/tv/selecteur_des_chaines/140X90/logo_sportsnetAll.png" group-title="CANADA", SportsNet World HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
 
 
 #<!--------------------------------End CANADA ------------------------->
