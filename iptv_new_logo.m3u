@@ -2033,8 +2033,8 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=475
 #EXTINF:-1, tvg-id="413" tvg-name="Sky Sports 4" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1275.png" group-title="TOP SPORT TV", Sky Sports 4
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=545
 
-#EXTINF:-1, tvg-id="414" tvg-name="Sky Sports 5" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", #Sky Sports 5
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=546
+#EXTINF:-1, tvg-id="414" tvg-name="Sky Sports 5" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", Sky Sports 5
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=546
 
 
 #EXTINF:-1, tvg-id="407" tvg-name="MUTV" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/269.png" group-title="TOP SPORT TV", MUTV
