@@ -1682,18 +1682,18 @@ http://torstream.se:5935/vod/12287.mp4/index.m3u8
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 24 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=96
 
-#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 2 HD (New)
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 2 HD
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.electro-clair.net:8000/live/test/test/523.ts
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.t12v.com:8000/live/9090/9090/208.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.electro-clair.net:8000/live/test/test/524.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.t12v.com:8000/live/9090/9090/209.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.electro-clair.net:8000/live/test/test/525.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.t12v.com:8000/live/9090/9090/210.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.electro-clair.net:8000/live/test/test/526.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.t12v.com:8000/live/9090/9090/211.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 0 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.electro-clair.net:8000/live/test/test/527.ts
