@@ -1958,14 +1958,14 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=159
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
 
 
-#EXTINF:-1, tvg-name="Fox Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 US
+#EXTINF:-1, tvg-name="FOX Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
 #EXTINF:-1, tvg-name="Fox Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 US(2)
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1483.ts
 
 
-#EXTINF:-1, tvg-name="Fox Sports 2" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 US
+#EXTINF:-1, tvg-name="FOX Sports 2" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
 
 #EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN US
@@ -1990,7 +1990,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=410
 #http://167.114.41.215:8080/MuTTveE_rAf/MuTTveE_rAf/index
 
 
-#EXTINF:-1, tvg-id="144" tvg-name="ESPN2" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 US
+#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
 
 #EXTINF:-1, tvg-id="141" tvg-name="ESPNU" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPNU
@@ -2884,7 +2884,7 @@ http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
 
 
 
-#EXTINF:0 tvg-name="Fox News Channel" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News Channel
+#EXTINF:0 tvg-name="FOX News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 
 #EXTINF:0, tvg-id="8154" tvg-name="Weather Channel" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/12.png" group-title="NEWS TV", Weather USA
@@ -2920,7 +2920,7 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1, tvg-name="Bravo" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=129
 
-#EXTINF:0 tvg-name="A&E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A&E
+#EXTINF:0 tvg-name="A and E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A&E
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=118
 
 #EXTINF:0 tvg-name="AMC" group-title="Top Cloud USA TV" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/5/5b/Amc.jpg/revision/latest?cb=20120503012834", AMC
@@ -2929,14 +2929,14 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=131
 #EXTINF:0 tvg-name="Cartoon Network" group-title="Top Cloud USA TV" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
 
-#EXTINF:0 tvg-name="Comedy Central East" group-title="Top Cloud USA TV" tvg-logo="1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif", Comedy Central East
+#EXTINF:0 tvg-name="Comedy Central" group-title="Top Cloud USA TV" tvg-logo="1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif", Comedy Central East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=107
 
-#EXTINF:0 tvg-name="Discovery Channel USA" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel USA
+#EXTINF:0 tvg-name="Discovery Channel" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel USA
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=182
 
 
-#EXTINF:0 tvg-name="ESPN US" group-title="Top Cloud USA TV" tvg-logo="pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg", ESPN US
+#EXTINF:0 tvg-name="ESPN" group-title="Top Cloud USA TV" tvg-logo="pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg", ESPN US
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 
 #EXTINF:0 tvg-name="History" group-title="Top Cloud USA TV" tvg-logo="2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png", HISTORY
