@@ -2880,7 +2880,7 @@ http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
 
 
 
-#EXTINF:0 tvg-name="FOX News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News Channel
+#EXTINF:0 tvg-name="FOX News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", FOX News
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 
 #EXTINF:0, tvg-id="8154" tvg-name="Weather Channel" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/12.png" group-title="NEWS TV", Weather USA
@@ -2953,22 +2953,22 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 #EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=184
 
-#EXTINF:0 tvg-name="Lifetime East" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime East
+#EXTINF:0 tvg-name="Lifetime" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=108
 
-#EXTINF:0 tvg-name="Spike TV" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike TV
+#EXTINF:0 tvg-name="Spike" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=241
 
 #EXTINF:0 tvg-name="Tru TV America Latina" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV America Latina
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=242
 
-#EXTINF:0 tvg-name="USA Network East" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network East
+#EXTINF:0 tvg-name="USA Network" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=105
 
-#EXTINF:0 tvg-name="FX East" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX East
+#EXTINF:0 tvg-name="FX" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=136
 
-#EXTINF:-1, tvg-name="HGTV East" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV East
+#EXTINF:-1, tvg-name="HGTV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=112
 
 #EXTINF:-1, tvg-name="E!" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png" group-title="Top Cloud USA TV", E! Entertainment
@@ -2997,11 +2997,11 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=196
 #EXTINF:-1, tvg-name="SyFy HD" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", SyFy HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=122
 
-#EXTINF:-1, tvg-name="Food Network East" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network East
+#EXTINF:-1, tvg-name="Food Network" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=110
 
 
-#EXTINF:-1, tvg-name="MTV Live" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Top Cloud USA TV", MTV Live
+#EXTINF:-1, tvg-name="MTV" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Top Cloud USA TV", MTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=160
 
 #EXTINF:-1, tvg-name="Universal HD" tvg-logo="s32.postimg.org/ljmz5cfr9/universal.png" group-title="Top Cloud USA TV", Universal HD
