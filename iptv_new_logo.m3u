@@ -1958,11 +1958,8 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=159
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
 
 
-#EXTINF:-1, tvg-name="FOX Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 US
+#EXTINF:-1, tvg-name="FOX Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", FOX Sports 1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
-
-#EXTINF:-1, tvg-name="Fox Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 US(2)
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1483.ts
 
 
 #EXTINF:-1, tvg-name="FOX Sports 2" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 US
