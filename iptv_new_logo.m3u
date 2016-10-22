@@ -1925,7 +1925,10 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=73
 #EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC New York" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC New York
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 
-#EXTINF:-1, tvg-id="" tvg-name="CBS New York" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS New York
+#EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC Miami" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC Miami
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
+
+#EXTINF:-1, tvg-id="" tvg-name="CBS" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=72
 
 #EXTINF:-1, tvg-id="" tvg-name="CBS West" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS West
@@ -1952,10 +1955,6 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=442
 
 #EXTINF:-1, tvg-id="159" tvg-name="NBCSN" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sport Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=159
-
-
-#EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC Miami" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC Miami
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
 
 
 #EXTINF:-1, tvg-name="FOX Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", FOX Sports 1
