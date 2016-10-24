@@ -2946,7 +2946,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=190
 #EXTINF:0 tvg-name="Nickelodeon East" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nickelodeon East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 
-#EXTINF:0 tvg-name="Fox News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News
+#EXTINF:0 tvg-name="FOX News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", FOX News
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 
 #EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
