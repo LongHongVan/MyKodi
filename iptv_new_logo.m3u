@@ -1834,14 +1834,21 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=302
 #EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Comedy East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=307
 
-#EXTINF:-1, tvg-id="2" tvg-name="HBO Latinoamerica" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Latinoamerica
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=309
+#EXTINF:-1, tvg-id="2" tvg-name="Starz East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=350
 
+#EXTINF:-1, tvg-id="2" tvg-name="Starz Edge East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Edge East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=352
 
+#EXTINF:-1, tvg-id="2" tvg-name="Starz Comedy East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Comedy East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=354
 
+#EXTINF:-1, tvg-id="2" tvg-name="Starz In Black East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz In Black East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=355
 
-#EXTINF:-1, tvg-id="2" tvg-name="Moremax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Moremax
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
+#EXTINF:-1, tvg-id="2" tvg-name="Starz Kids and Family East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Kids and Family East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
+
 
 #EXTINF:-1, tvg-id="2" tvg-name="ActionMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ActionMax
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=313
@@ -1859,25 +1866,17 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=320
 
 
+#EXTINF:-1, tvg-id="2" tvg-name="HBO Latinoamerica" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Latinoamerica
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=309
+
+#EXTINF:-1, tvg-id="2" tvg-name="Moremax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Moremax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
 
 
 #EXTINF:-1, tvg-id="2" tvg-name="The Movie Channel East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", The Movie Channel East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=327
 
-#EXTINF:-1, tvg-id="2" tvg-name="Starz East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=350
 
-#EXTINF:-1, tvg-id="2" tvg-name="Starz Edge East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Edge East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=352
-
-#EXTINF:-1, tvg-id="2" tvg-name="Starz Comedy East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Comedy East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=354
-
-#EXTINF:-1, tvg-id="2" tvg-name="Starz In Black East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz In Black East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=355
-
-#EXTINF:-1, tvg-id="2" tvg-name="Starz Kids and Family East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Kids and Family East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
 
 #EXTINF:-1, tvg-id="2" tvg-name="Cinemax Latinoamerica" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Cinemax Latinoamerica
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=865
