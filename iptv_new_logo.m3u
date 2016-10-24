@@ -1813,7 +1813,7 @@ http://google.com
 #EXTINF:-1, tvg-id="2" tvg-name="AMC" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", AMC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=131
 
-#EXTINF:-1, tvg-id="2" tvg-name="TCM" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", TCM
+#EXTINF:-1, tvg-id="2" tvg-name="TCM US" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", TCM US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=132
 
 
@@ -1825,13 +1825,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=136
 
 
 
-#EXTINF:-1, tvg-id="2" tvg-name="HBO" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO
+#EXTINF:-1, tvg-id="2" tvg-name="HBO East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=300
 
-#EXTINF:-1, tvg-id="2" tvg-name="HBO Signature" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Signature
+#EXTINF:-1, tvg-id="2" tvg-name="HBO Signature East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Signature East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=302
 
-#EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Comedy
+#EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Comedy East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=307
 
 #EXTINF:-1, tvg-id="2" tvg-name="HBO Latinoamerica" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Latinoamerica
@@ -1876,7 +1876,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=354
 #EXTINF:-1, tvg-id="2" tvg-name="Starz In Black East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz In Black East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=355
 
-#EXTINF:-1, tvg-id="2" tvg-name="Starz Kids & Family East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Kids & Family East
+#EXTINF:-1, tvg-id="2" tvg-name="Starz Kids and Family East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Kids and Family East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
 
 #EXTINF:-1, tvg-id="2" tvg-name="Cinemax Latinoamerica" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Cinemax Latinoamerica
@@ -1897,7 +1897,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
 #EXTINF:-1, tvg-id="2" tvg-name="LMN HD" tvg-logo="nowwatchtvlive.co/wp-content/uploads/2011/07/LMN-hd-logo.jpeg" group-title="TOP MOVIES TV", LMN HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=109
 
-#EXTINF:-1, tvg-id="2" tvg-name="FXX HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FXX HD
+#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FXX
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 
 
@@ -2959,7 +2959,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=108
 #EXTINF:0 tvg-name="Spike" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=241
 
-#EXTINF:0 tvg-name="Tru TV America Latina" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV America Latina
+#EXTINF:0 tvg-name="Tru TV East" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=242
 
 #EXTINF:0 tvg-name="USA Network" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network
@@ -3031,7 +3031,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=74
 #EXTINF:-1, tvg-name="W NETWORK HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/127.png" group-title="Top Cloud USA TV", W NETWORK HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=127
 
-#EXTINF:-1, tvg-name="HALLMARK HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", HALLMARK HD
+#EXTINF:-1, tvg-name="Hallmark Movie Channel" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", Hallmark Movie Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=185
 
 ################### End  Top Cloud USA TV #############################       
