@@ -2840,7 +2840,7 @@ rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.higherme
 http://metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 
 
-#EXTINF:-1, tvg-id="9158" tvg-name="CNN US" tvg-logo="s-media-cache-ak0.pinimg.com/736x/e2/30/c2/e230c201a5cf729bedab24858d3cfbf1.jpg" group-title="NEWS TV", CNN US
+#EXTINF:-1, tvg-id="9158" tvg-name="CNN" tvg-logo="s-media-cache-ak0.pinimg.com/736x/e2/30/c2/e230c201a5cf729bedab24858d3cfbf1.jpg" group-title="NEWS TV", CNN
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=200
 
 #EXTINF:0 group-title="NEWS TV", al jazeera News
