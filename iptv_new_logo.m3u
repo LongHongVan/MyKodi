@@ -1985,7 +1985,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=410
 #http://167.114.41.215:8080/MuTTveE_rAf/MuTTveE_rAf/index
 
 
-#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 US
+#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
 
 #EXTINF:-1, tvg-id="141" tvg-name="ESPNU" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPNU
