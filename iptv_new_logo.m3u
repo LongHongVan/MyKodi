@@ -54,6 +54,252 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10783.ts
 
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies ShowCase
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/976.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Sci-Fi HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/977.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Premiere HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/978.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Modern Great HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/979.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Modern Great
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/980.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-movies-Thriller
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4211.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Drama HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/981.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Action HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/982.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky MOVIE Drama
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/983.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Family
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/985.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Showcase
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/259.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Thriller
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/971.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Select
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/260.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Family
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/261.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Disney.
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/262.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Comedy
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/263.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Action
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/264.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies -Premiere
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/265.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Film 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1019.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Action
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/990.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Disney
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/986.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Comedy
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/987.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sci-Fi
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/972.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Film4 UK
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/266.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky SciFi & Horror
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/257.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Drama
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/258.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Movies 4 Men
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1002.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", True Movies 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/965.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", UK Nick JR
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4212.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NickToo
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4216.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Cbeebies
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4225.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CBBC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4226.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nick
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/998.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Boomerang
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5299.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Disney XD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1028.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Disney Channel
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1029.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NickToons
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/935.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nickelodeon
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/197.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nick Junior
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/198.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Disney Junior
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/184.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery History
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/196.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Dinseny Channel UK
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/185.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Cartoon Network
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/199.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Disney Junior
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/946.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nickelodeon
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/936.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Rocks
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/938.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Music
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/939.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Hits
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/940.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Dance
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/941.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Classic
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/942.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/944.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", UK MTV Base
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4213.ts
+#EXTINF:-1,local: UK Discovery Turbo
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/948.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", UK Crime & Investigiation
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4214.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sy-Fy
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4215.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vevo 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4223.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", RTE 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/993.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", RTE 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/992.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", RTE One
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/191.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", RTE Two
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/190.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", E!
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4219.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vevo 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4221.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vevo 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4222.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", VIVA
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5666.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vivo 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5289.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vivo 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5290.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vivo 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5291.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vh1 Classic
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5292.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", UTV_Ireland
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5287.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Arts 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/989.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Really
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/994.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Quest
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/995.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Pick TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/997.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", National Geography Wild
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/999.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NATIONAL GEOGRAPHY
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1000.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Comedy Central Extra
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1037.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Comedy Central
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1038.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Comedy Central 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/200.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Alibi
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1054.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", More4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1003.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky_History_HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5288.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky News
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/974.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CNN
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5294.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CBS Reality
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5295.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CBS Drama
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5296.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CBS Action
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5297.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", 3E
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5300.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Home & Health
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/951.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery History
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/952.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY MOVIES CRIME
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/954.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TLC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/966.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TG4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/968.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Two
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/970.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Fox
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4217.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Dave
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4220.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ViVa UK
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/933.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", VH1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/934.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", LONDON LIFE
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4224.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Living
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1004.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", LiverPool TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1005.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ITV Encore
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1006.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Horror Channel
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1011.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Home
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1012.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", H2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1013.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Good Food
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1014.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Food Network
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1017.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Drama
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1026.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Dmax
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1027.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery World
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1030.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Turbo
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1031.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Science HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1032.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Science
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1033.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Investigation
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1034.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1035.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Yesterday
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/201.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Watch
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/202.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Mototrs TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/169.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Russia Documentary
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/193.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", National Geography HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/194.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", National Geo WILD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/195.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nat Geo Graphic
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/192.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Animal Planet
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/188.ts
+
+
 ###################### End TS Channels ######################################
 
 
