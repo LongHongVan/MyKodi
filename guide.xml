@@ -31,7 +31,27 @@
 		<display-name>404</display-name>
 		<display-name>The Sports Network 5</display-name>
 	</channel>
-
+	<channel id="Sportsnet Ont">
+		<display-name>Sportsnet Ont</display-name><display-name>SNOHD</display-name>
+		<display-name>1405 SNOHD</display-name>
+		<display-name>1405</display-name>
+		<display-name>Sportsnet Ontario HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62111_h3_aa.png" />
+	</channel>
+	<channel id="Sportsnet One">
+		<display-name>Sportsnet One</display-name><display-name>SN1HD</display-name>
+		<display-name>1409 SN1HD</display-name>
+		<display-name>1409</display-name>
+		<display-name>Rogers Sportsnet One HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68859_h3_aa.png" />
+	</channel>
+	<channel id="Sportsnet World">
+		<display-name>Sportsnet World</display-name><display-name>SNWLH</display-name>
+		<display-name>1414 SNWLH</display-name>
+		<display-name>1414</display-name>
+		<display-name>Sportsnet World HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68946_h3_aa.png" />
+	</channel>
 
   <channel id="4seven">
     <display-name lang="en">4 Seven</display-name>
@@ -834,6 +854,945 @@
     <display-name lang="en">Yesterday</display-name>
     <url>http://www.tvguide.co.uk</url>
   </channel>
+
+	<programme channel="Sportsnet Ont" start="20161027070000 +0000" stop="20161027080000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027080000 +0000" stop="20161027090000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027090000 +0000" stop="20161027100000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027100000 +0000" stop="20161027110000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027110000 +0000" stop="20161027120000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027120000 +0000" stop="20161027130000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027130000 +0000" stop="20161027140000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027140000 +0000" stop="20161027150000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027150000 +0000" stop="20161027160000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027160000 +0000" stop="20161027170000 +0000">
+		<title lang="en">Hockeycentral at Noon [New!]</title>
+		<desc lang="en">Hockey analysis and news..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027170000 +0000" stop="20161027173000 +0000">
+		<title lang="en">Gotta See It</title>
+		<desc lang="en">Fun and exciting must see moments from the world of sports..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Community</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027173000 +0000" stop="20161027180000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027180000 +0000" stop="20161027183000 +0000">
+		<title lang="en">Misplays of the Month</title>
+		<desc lang="en">Counting down the biggest botches, blunders and bloopers of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140616</date>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027183000 +0000" stop="20161027210000 +0000">
+		<title lang="en">Curling [New!]</title>
+		<desc lang="en">From Okotoks, Alberta..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Curling</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027210000 +0000" stop="20161027223000 +0000">
+		<title lang="en">Tim and Sid [New!]</title>
+		<desc lang="en">Tim Micallef and Sid Seixeiro, Canada's most edu-taining sports duo of the past decade, offer their daily take on the world of sports..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027223000 +0000" stop="20161027230000 +0000">
+		<title lang="en">Hockey Central [New!]</title>
+		<desc lang="en">Breaking news, analysis and debate from around the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027230000 +0000" stop="20161027233000 +0000">
+		<title lang="en">Misplays of the Month</title>
+		<desc lang="en">Counting down the biggest botches, blunders and bloopers of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140616</date>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161027233000 +0000" stop="20161028002500 +0000">
+		<title lang="en">NFL Football Pregame [New!]</title>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Football</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028002500 +0000" stop="20161028033000 +0000">
+		<title lang="en">NFL Football [New!]</title>
+		<desc lang="en">The Jaguars (2-4) visit the Titans (3-4) in a Week 8 prime-time battle of AFC South foes. This marks the first meeting since their December 2015 shootout, with Tennessee holding on for a thrilling 42-39 win..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Football</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028033000 +0000" stop="20161028043000 +0000">
+		<title lang="en">Sportsnet Central [New!]</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028043000 +0000" stop="20161028050000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028050000 +0000" stop="20161028060000 +0000">
+		<title lang="en">Sportsnet Central [New!]</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028060000 +0000" stop="20161028070000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028070000 +0000" stop="20161028080000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028080000 +0000" stop="20161028090000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028090000 +0000" stop="20161028100000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028100000 +0000" stop="20161028110000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028110000 +0000" stop="20161028120000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028120000 +0000" stop="20161028130000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028130000 +0000" stop="20161028140000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028140000 +0000" stop="20161028150000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028150000 +0000" stop="20161028160000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028160000 +0000" stop="20161028170000 +0000">
+		<title lang="en">Hockeycentral at Noon [New!]</title>
+		<desc lang="en">Hockey analysis and news..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028170000 +0000" stop="20161028173000 +0000">
+		<title lang="en">Misplays of the Month</title>
+		<desc lang="en">Counting down the biggest botches, blunders and bloopers of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140616</date>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028173000 +0000" stop="20161028183000 +0000">
+		<title lang="en">European Poker Tour</title>
+		<category lang="en">Card games</category>
+		<category lang="en">Poker</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028183000 +0000" stop="20161028210000 +0000">
+		<title lang="en">Curling [New!]</title>
+		<desc lang="en">From Okotoks, Alberta..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Curling</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028210000 +0000" stop="20161028223000 +0000">
+		<title lang="en">Tim and Sid [New!]</title>
+		<desc lang="en">Tim Micallef and Sid Seixeiro, Canada's most edu-taining sports duo of the past decade, offer their daily take on the world of sports..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028223000 +0000" stop="20161028230000 +0000">
+		<title lang="en">Hockey Central [New!]</title>
+		<desc lang="en">Breaking news, analysis and debate from around the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161028230000 +0000" stop="20161029000000 +0000">
+		<title lang="en">MLB Central [New!]</title>
+		<desc lang="en">Updates, news, highlights and interviews with guests, celebrities and insiders..TV Guide...Edited Version by LongHong.</desc>
+		<date>20161008</date>
+		<category lang="en">Baseball</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161029000000 +0000" stop="20161029040000 +0000">
+		<title lang="en">2016 World Series [New!]</title>
+		<desc lang="en">The series is knotted at a game apiece when the Cubs host the Indians for Game 3 of the World Series. This marks the first World Series game to be played within the friendly confines of Wrigley Field since 1945..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Baseball</category>
+		<category lang="en">Playoff sports</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161029040000 +0000" stop="20161029050000 +0000">
+		<title lang="en">Sportsnet Central [New!]</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161029050000 +0000" stop="20161029060000 +0000">
+		<title lang="en">Sportsnet Central [New!]</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161029060000 +0000" stop="20161029070000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161029070000 +0000" stop="20161029080000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet Ont" start="20161029080000 +0000" stop="20161029090000 +0000">
+		<title lang="en">Sportsnet Central</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027073000 +0000" stop="20161027080000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027080000 +0000" stop="20161027083000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027083000 +0000" stop="20161027090000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027090000 +0000" stop="20161027093000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027093000 +0000" stop="20161027100000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027100000 +0000" stop="20161027103000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027103000 +0000" stop="20161027110000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027110000 +0000" stop="20161027113000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027113000 +0000" stop="20161027120000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027120000 +0000" stop="20161027123000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027123000 +0000" stop="20161027130000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027130000 +0000" stop="20161027133000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027133000 +0000" stop="20161027140000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027140000 +0000" stop="20161027143000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027143000 +0000" stop="20161027150000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027150000 +0000" stop="20161027153000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027153000 +0000" stop="20161027160000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027160000 +0000" stop="20161027163000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027163000 +0000" stop="20161027170000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027170000 +0000" stop="20161027173000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027173000 +0000" stop="20161027180000 +0000">
+		<title lang="en">Misplays of the Month</title>
+		<desc lang="en">Counting down the biggest botches, blunders and bloopers of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140616</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027180000 +0000" stop="20161027190000 +0000">
+		<title lang="en">Darts</title>
+		<category lang="en">Darts</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027190000 +0000" stop="20161027200000 +0000">
+		<title lang="en">World Poker Tour</title>
+		<desc lang="en">Professional poker action from a series of international tournaments..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Poker</category>
+		<category lang="en">Card games</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027200000 +0000" stop="20161027210000 +0000">
+		<title lang="en">World Poker Tour</title>
+		<desc lang="en">Professional poker action from a series of international tournaments..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Card games</category>
+		<category lang="en">Poker</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027210000 +0000" stop="20161027220000 +0000">
+		<title lang="en">Darts</title>
+		<category lang="en">Darts</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161027220000 +0000" stop="20161028003000 +0000">
+		<title lang="en">Curling [New!]</title>
+		<category lang="en">Curling</category>
+		<new />
+	</programme>
+	<programme channel="Sportsnet One" start="20161028003000 +0000" stop="20161028010000 +0000">
+		<title lang="en">Misplays of the Month</title>
+		<desc lang="en">Counting down the biggest botches, blunders and bloopers of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140616</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028010000 +0000" stop="20161028013000 +0000">
+		<title lang="en">Gotta See It</title>
+		<desc lang="en">Fun and exciting must see moments from the world of sports..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Community</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028013000 +0000" stop="20161028040000 +0000">
+		<title lang="en">Curling [New!]</title>
+		<category lang="en">Curling</category>
+		<new />
+	</programme>
+	<programme channel="Sportsnet One" start="20161028040000 +0000" stop="20161028043000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028043000 +0000" stop="20161028050000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028050000 +0000" stop="20161028053000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028053000 +0000" stop="20161028060000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028060000 +0000" stop="20161028063000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028063000 +0000" stop="20161028070000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028070000 +0000" stop="20161028073000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028073000 +0000" stop="20161028080000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028080000 +0000" stop="20161028083000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028083000 +0000" stop="20161028090000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028090000 +0000" stop="20161028093000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028093000 +0000" stop="20161028100000 +0000">
+		<title lang="en">Gotta See It</title>
+		<desc lang="en">Fun and exciting must see moments from the world of sports..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Community</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028100000 +0000" stop="20161028103000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028103000 +0000" stop="20161028110000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028110000 +0000" stop="20161028113000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028113000 +0000" stop="20161028120000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028120000 +0000" stop="20161028123000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028123000 +0000" stop="20161028130000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028130000 +0000" stop="20161028133000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028133000 +0000" stop="20161028140000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028140000 +0000" stop="20161028143000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028143000 +0000" stop="20161028150000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028150000 +0000" stop="20161028153000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028153000 +0000" stop="20161028160000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028160000 +0000" stop="20161028163000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028163000 +0000" stop="20161028170000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028170000 +0000" stop="20161028173000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028173000 +0000" stop="20161028180000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028180000 +0000" stop="20161028183000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028183000 +0000" stop="20161028193000 +0000">
+		<title lang="en">Darts</title>
+		<category lang="en">Darts</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028193000 +0000" stop="20161028203000 +0000">
+		<title lang="en">World Poker Tour</title>
+		<category lang="en">Card games</category>
+		<category lang="en">Poker</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028203000 +0000" stop="20161028213000 +0000">
+		<title lang="en">Darts</title>
+		<category lang="en">Darts</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028213000 +0000" stop="20161028220000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028220000 +0000" stop="20161028223000 +0000">
+		<title lang="en">Misplays of the Month</title>
+		<desc lang="en">Counting down the biggest botches, blunders and bloopers of the month..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140616</date>
+		</programme>
+	<programme channel="Sportsnet One" start="20161028223000 +0000" stop="20161028230000 +0000">
+		<title lang="en">Toronto Raptors Pre-Game [New!]</title>
+		<desc lang="en">Coverage and analysis of Raptors basketball..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Basketball</category>
+		<category lang="en">Special</category>
+		<new />
+	</programme>
+	<programme channel="Sportsnet One" start="20161028230000 +0000" stop="20161029013000 +0000">
+		<title lang="en">NBA Basketball [New!]</title>
+		<desc lang="en">LeBron James leads the defending NBA champion Cavaliers into Toronto to battle DeMar DeRozan and the Raptors in a rematch of last season's Eastern Conference Finals, won in six games by Cleveland..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Basketball</category>
+		<new />
+	</programme>
+	<programme channel="Sportsnet One" start="20161029013000 +0000" stop="20161029020000 +0000">
+		<title lang="en">Sportsnet Central [New!]</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet One" start="20161029020000 +0000" stop="20161029043000 +0000">
+		<title lang="en">NHL Hockey [New!]</title>
+		<desc lang="en">From Rogers Arena in Vancouver, British Columbia..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		<new />
+	</programme>
+	<programme channel="Sportsnet One" start="20161029043000 +0000" stop="20161029050000 +0000">
+		<title lang="en">Sportsnet Central [New!]</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme><programme channel="Sportsnet One" start="20161029050000 +0000" stop="20161029053000 +0000">
+		<title lang="en">Raptors in 30</title>
+		<desc lang="en">From Oct. 28, 2016..TV Guide...Edited Version by LongHong.</desc>
+		<date>20161028</date>
+		<category lang="en">Basketball</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161029053000 +0000" stop="20161029060000 +0000">
+		<title lang="en">Raptors in 30</title>
+		<desc lang="en">From Oct. 28, 2016..TV Guide...Edited Version by LongHong.</desc>
+		<date>20161028</date>
+		<category lang="en">Basketball</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161029060000 +0000" stop="20161029063000 +0000">
+		<title lang="en">Raptors in 30</title>
+		<desc lang="en">From Oct. 28, 2016..TV Guide...Edited Version by LongHong.</desc>
+		<date>20161028</date>
+		<category lang="en">Basketball</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161029063000 +0000" stop="20161029070000 +0000">
+		<title lang="en">Raptors in 30</title>
+		<desc lang="en">From Oct. 28, 2016..TV Guide...Edited Version by LongHong.</desc>
+		<date>20161028</date>
+		<category lang="en">Basketball</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161029070000 +0000" stop="20161029073000 +0000">
+		<title lang="en">Raptors in 30</title>
+		<desc lang="en">From Oct. 28, 2016..TV Guide...Edited Version by LongHong.</desc>
+		<date>20161028</date>
+		<category lang="en">Basketball</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161029073000 +0000" stop="20161029080000 +0000">
+		<title lang="en">Raptors in 30</title>
+		<desc lang="en">From Oct. 28, 2016..TV Guide...Edited Version by LongHong.</desc>
+		<date>20161028</date>
+		<category lang="en">Basketball</category>
+		</programme>
+	<programme channel="Sportsnet One" start="20161029080000 +0000" stop="20161029083000 +0000">
+		<title lang="en">Raptors in 30</title>
+		<desc lang="en">From Oct. 28, 2016..TV Guide...Edited Version by LongHong.</desc>
+		<date>20161028</date>
+		<category lang="en">Basketball</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027073000 +0000" stop="20161027080000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027080000 +0000" stop="20161027083000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027083000 +0000" stop="20161027090000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027090000 +0000" stop="20161027093000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027093000 +0000" stop="20161027100000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027100000 +0000" stop="20161027103000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027103000 +0000" stop="20161027110000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027110000 +0000" stop="20161027113000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027113000 +0000" stop="20161027120000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027120000 +0000" stop="20161027123000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027123000 +0000" stop="20161027130000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027130000 +0000" stop="20161027133000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027133000 +0000" stop="20161027140000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027140000 +0000" stop="20161027143000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027143000 +0000" stop="20161027150000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027150000 +0000" stop="20161027153000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027153000 +0000" stop="20161027160000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027160000 +0000" stop="20161027173000 +0000">
+		<title lang="en">Football Today</title>
+		<desc lang="en">Live updates, analysis and in-depth reviews of the Barclays Premiere League..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027173000 +0000" stop="20161027180000 +0000">
+		<title lang="en">Fanzone</title>
+		<desc lang="en">Supporters discuss current club issues..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027180000 +0000" stop="20161027183000 +0000">
+		<title lang="en">Premier League News</title>
+		<desc lang="en">The latest news from English Premier League soccer..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027183000 +0000" stop="20161027190000 +0000">
+		<title lang="en">Premier League Legends</title>
+		<desc lang="en">A look at the former Arsenal captain and England international Tony Adams..TV Guide...Edited Version by LongHong.</desc>
+		<date>20140521</date>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027190000 +0000" stop="20161027210000 +0000">
+		<title lang="en">Premier League Classics</title>
+		<date>20150806</date>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027210000 +0000" stop="20161027223000 +0000">
+		<title lang="en">Football Today</title>
+		<desc lang="en">Live updates, analysis and in-depth reviews of the Barclays Premiere League..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027223000 +0000" stop="20161027230000 +0000">
+		<title lang="en">Fanzone</title>
+		<desc lang="en">Supporters discuss current club issues..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027230000 +0000" stop="20161027233000 +0000">
+		<title lang="en">Premier League News</title>
+		<desc lang="en">The latest news from English Premier League soccer..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161027233000 +0000" stop="20161028000000 +0000">
+		<title lang="en">Fantasy Football: Premier League</title>
+		<category lang="en">Rugby</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028000000 +0000" stop="20161028020000 +0000">
+		<title lang="en">Premier League Classics</title>
+		<date>20161016</date>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028020000 +0000" stop="20161028023000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028023000 +0000" stop="20161028030000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028030000 +0000" stop="20161028033000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028033000 +0000" stop="20161028040000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028040000 +0000" stop="20161028060000 +0000">
+		<title lang="en">Premier League Classics</title>
+		<date>20161016</date>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028060000 +0000" stop="20161028063000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028063000 +0000" stop="20161028070000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028070000 +0000" stop="20161028073000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028073000 +0000" stop="20161028080000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028080000 +0000" stop="20161028083000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028083000 +0000" stop="20161028090000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028090000 +0000" stop="20161028093000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028093000 +0000" stop="20161028100000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028100000 +0000" stop="20161028103000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028103000 +0000" stop="20161028110000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028110000 +0000" stop="20161028113000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028113000 +0000" stop="20161028120000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028120000 +0000" stop="20161028123000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028123000 +0000" stop="20161028130000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028130000 +0000" stop="20161028133000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028133000 +0000" stop="20161028140000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028140000 +0000" stop="20161028143000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028143000 +0000" stop="20161028150000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028150000 +0000" stop="20161028153000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028153000 +0000" stop="20161028160000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028160000 +0000" stop="20161028173000 +0000">
+		<title lang="en">Football Today</title>
+		<desc lang="en">Live updates, analysis and in-depth reviews of the Barclays Premiere League..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028173000 +0000" stop="20161028180000 +0000">
+		<title lang="en">Fanzone</title>
+		<desc lang="en">Supporters discuss current club issues..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028180000 +0000" stop="20161028183000 +0000">
+		<title lang="en">Premier League News</title>
+		<desc lang="en">The latest news from English Premier League soccer..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161028183000 +0000" stop="20161028203000 +0000">
+		<title lang="en">Premiership Rugby [New!]</title>
+		<category lang="en">Rugby</category>
+		<new />
+	</programme>
+	<programme channel="Sportsnet World" start="20161028203000 +0000" stop="20161028223000 +0000">
+		<title lang="en">Bundesliga Soccer [New!]</title>
+		<desc lang="en">Borussia Monchengladbach plays Eintracht Frankfurt at Borussia-Park. The host is unbeaten at home in the Bundesliga this season (W3-D1), while opponent Frankfurt has lost two of its three away matches this season, scoring only two goals..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Soccer</category>
+		<new />
+	</programme>
+	<programme channel="Sportsnet World" start="20161028223000 +0000" stop="20161029000000 +0000">
+		<title lang="en">Football Today</title>
+		<desc lang="en">Live updates, analysis and in-depth reviews of the Barclays Premiere League..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029000000 +0000" stop="20161029003000 +0000">
+		<title lang="en">Fanzone</title>
+		<desc lang="en">Supporters discuss current club issues..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029003000 +0000" stop="20161029023000 +0000">
+		<title lang="en">Premiership Rugby</title>
+		<category lang="en">Rugby</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029023000 +0000" stop="20161029030000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029030000 +0000" stop="20161029033000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029033000 +0000" stop="20161029040000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029040000 +0000" stop="20161029053000 +0000">
+		<title lang="en">Football Today</title>
+		<desc lang="en">Live updates, analysis and in-depth reviews of the Barclays Premiere League..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029053000 +0000" stop="20161029060000 +0000">
+		<title lang="en">Fanzone</title>
+		<desc lang="en">Supporters discuss current club issues..TV Guide...Edited Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Soccer</category>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029060000 +0000" stop="20161029063000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029063000 +0000" stop="20161029070000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029070000 +0000" stop="20161029073000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029073000 +0000" stop="20161029080000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet World" start="20161029080000 +0000" stop="20161029083000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events..TV Guide...Edited Version by LongHong.</desc>
+		</programme>
   
 	<programme channel="TSN 1" start="20161026230000 +0000" stop="20161026233000 +0000">
 		<title lang="en">Raptors Pregame [New!]</title>
