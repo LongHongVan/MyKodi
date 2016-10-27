@@ -15,17 +15,6 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10723.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", FOX Sports 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://premium-ott.com:8000/live/nicolasbelpaire/0r3znJHgrg/3223.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", FOX Sports 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://premium-ott.com:8000/live/nicolasbelpaire/0r3znJHgrg/3224.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ESPN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://premium-ott.com:8000/live/nicolasbelpaire/0r3znJHgrg/5344.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ESPN 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://premium-ott.com:8000/live/nicolasbelpaire/0r3znJHgrg/5345.ts
-
-#EXTINF:-1,|US| HGTV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://premium-ott.com:8000/live/nicolasbelpaire/0r3znJHgrg/5325.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10767.ts
