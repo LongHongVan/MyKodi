@@ -39,16 +39,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1029.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD5
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1028.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD6
-http://149.202.77.226:7500/live/ge103/ge103/1027.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD7
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1026.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD8
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1025.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD9
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1024.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD10
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1032.ts
+
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Eurosport 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10793.ts
