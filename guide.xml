@@ -52,7 +52,13 @@
 		<display-name>Sportsnet World HD</display-name>
 		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68946_h3_aa.png" />
 	</channel>
-
+	<channel id="Sportsnet 360">
+		<display-name>Sportsnet 360</display-name><display-name>SN360</display-name>
+		<display-name>410 SN360</display-name>
+		<display-name>410</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20203_h3_aa.png" />
+	</channel>
+	
   <channel id="4seven">
     <display-name lang="en">4 Seven</display-name>
     <url>http://www.tvguide.co.uk</url>
@@ -855,6 +861,227 @@
     <url>http://www.tvguide.co.uk</url>
   </channel>
 
+	<programme channel="Sportsnet 360" start="20161027070000 +0000" stop="20161027080000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027080000 +0000" stop="20161027090000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027090000 +0000" stop="20161027100000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027100000 +0000" stop="20161027110000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027110000 +0000" stop="20161027120000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027120000 +0000" stop="20161027130000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027130000 +0000" stop="20161027140000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027140000 +0000" stop="20161027150000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027150000 +0000" stop="20161027160000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027160000 +0000" stop="20161027170000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027170000 +0000" stop="20161027180000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027180000 +0000" stop="20161027190000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027190000 +0000" stop="20161027200000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027200000 +0000" stop="20161027230000 +0000">
+		<title lang="en">Prime Time Sports With Bob McCown [New!]</title>
+		<desc lang="en">Bob McCown discusses the latest issues and stories from around the world of sports..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Talk</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027230000 +0000" stop="20161027233000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161027233000 +0000" stop="20161028020000 +0000">
+		<title lang="en">NHL Hockey [New!]</title>
+		<desc lang="en">From the Bell Centre in Montreal..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028020000 +0000" stop="20161028023000 +0000">
+		<title lang="en">Sportsnet Central [New!]</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..Edited Guide Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028023000 +0000" stop="20161028030000 +0000">
+		<title lang="en">Highlights of the Night</title>
+		<desc lang="en">Highlights from this evening's action in the world of sports..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028030000 +0000" stop="20161028040000 +0000">
+		<title lang="en">Highlights of the Night</title>
+		<desc lang="en">Highlights from this evening's action in the world of sports..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028040000 +0000" stop="20161028050000 +0000">
+		<title lang="en">Highlights of the Night</title>
+		<desc lang="en">Highlights from this evening's action in the world of sports..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028050000 +0000" stop="20161028060000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028060000 +0000" stop="20161028070000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028070000 +0000" stop="20161028080000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028080000 +0000" stop="20161028090000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028090000 +0000" stop="20161028100000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028100000 +0000" stop="20161028110000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028110000 +0000" stop="20161028120000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028120000 +0000" stop="20161028130000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028130000 +0000" stop="20161028140000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028140000 +0000" stop="20161028150000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028150000 +0000" stop="20161028160000 +0000">
+		<title lang="en">Morning Highlights</title>
+		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports..Edited Guide Version by LongHong.</desc>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028160000 +0000" stop="20161028170000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028170000 +0000" stop="20161028180000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028180000 +0000" stop="20161028190000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028190000 +0000" stop="20161028200000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028200000 +0000" stop="20161028220000 +0000">
+		<title lang="en">Prime Time Sports With Bob McCown [New!]</title>
+		<desc lang="en">Bob McCown discusses the latest issues and stories from around the world of sports..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Talk</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet 360" start="20161028220000 +0000" stop="20161029003000 +0000">
+		<title lang="en">Curling [New!]</title>
+		<desc lang="en">From Okotoks, Alta..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Curling</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet 360" start="20161029003000 +0000" stop="20161029010000 +0000">
+		<title lang="en">Misplays of the Month</title>
+		<desc lang="en">Counting down the biggest botches, blunders and bloopers of the month..Edited Guide Version by LongHong.</desc>
+		<date>20140616</date>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161029010000 +0000" stop="20161029013000 +0000">
+		<title lang="en">Plays of the Month</title>
+		<desc lang="en">Highlighting the top plays of the month..Edited Guide Version by LongHong.</desc>
+		<date>20140610</date>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161029013000 +0000" stop="20161029020000 +0000">
+		<title lang="en">NHL's Best</title>
+		<desc lang="en">Showcasing the most exciting plays from the past week in the NHL..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161029020000 +0000" stop="20161029043000 +0000">
+		<title lang="en">NHL Hockey [New!]</title>
+		<desc lang="en">From Rogers Arena in Vancouver, British Columbia..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Hockey</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet 360" start="20161029043000 +0000" stop="20161029050000 +0000">
+		<title lang="en">Sportsnet Central [New!]</title>
+		<desc lang="en">Canada's premier destination for sports and analysis..Edited Guide Version by LongHong.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="Sportsnet 360" start="20161029050000 +0000" stop="20161029070000 +0000">
+		<title lang="en">WWE SmackDown!</title>
+		<desc lang="en">What's next for WWE Champion AJ Styles as Dean Ambrose continues to frustrate him?.Edited Guide Version by LongHong.</desc>
+		<date>20161025</date>
+		<category lang="en">Pro wrestling</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161029070000 +0000" stop="20161029080000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="Sportsnet 360" start="20161029080000 +0000" stop="20161029090000 +0000">
+		<title lang="en">The Final Score</title>
+		<desc lang="en">Sports scores, news and highlights..Edited Guide Version by LongHong.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
 	<programme channel="Sportsnet Ont" start="20161027070000 +0000" stop="20161027080000 +0000">
 		<title lang="en">Sportsnet Central</title>
 		<desc lang="en">Canada's premier destination for sports and analysis..TV Guide...Edited Version by LongHong.</desc>
