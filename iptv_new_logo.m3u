@@ -2137,8 +2137,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=482
 #EXTINF:-1, tvg-id="2" tvg-name="Showtime Showcase" tvg-logo="wtcks.com/assets/images/NoCrop_136x136/c260ef93a15a444b945309b5e06abcd4.jpg" group-title="ADULT TV", Showtime Showcase
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=321
 
-#EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="ADULT TV", Cinemax East 
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=310
+
 
 
 
@@ -2213,8 +2212,8 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=327
 
 
 
-#EXTINF:-1, tvg-id="2" tvg-name="Cinemax Latinoamerica" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Cinemax Latinoamerica
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=865
+#EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="TOP MOVIES TV", Cinemax East 
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=310
 
 #EXTINF:-1, tvg-id="2" tvg-name="SKY Premiere" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY Premiere
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=530
@@ -2228,7 +2227,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=533
 #EXTINF:-1, tvg-id="2" tvg-name="Sundance HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Sundance HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
 
-#EXTINF:-1, tvg-id="2" tvg-name="LMN HD" tvg-logo="nowwatchtvlive.co/wp-content/uploads/2011/07/LMN-hd-logo.jpeg" group-title="TOP MOVIES TV", LMN HD
+#EXTINF:-1, tvg-id="2" tvg-name="Lifetime" tvg-logo="nowwatchtvlive.co/wp-content/uploads/2011/07/LMN-hd-logo.jpeg" group-title="TOP MOVIES TV", Lifetime
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=109
 
 #EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FXX
