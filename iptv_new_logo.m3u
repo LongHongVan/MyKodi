@@ -354,7 +354,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
 
 ###################### New Movies 2016 ######################################
 
-#EXTINF:-1, tvg-id="2" tvg-name="VOD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="New Movies 2016", >> [B][COLOR red]VOD[/COLOR][/B] Video-On-Demand <<
+#EXTINF:-1, tvg-id="2" tvg-name="VOD" tvg-logo="www.allentownpa.gov/portals/0/images/VideoOnDemand1.png" group-title="New Movies 2016", >> [B][COLOR red]VOD[/COLOR][/B] Video-On-Demand <<
 http://google.com
 
 
