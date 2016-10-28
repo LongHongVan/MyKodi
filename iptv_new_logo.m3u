@@ -2089,13 +2089,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=381
 #EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", >> [B][COLOR red]Adult 18+[/COLOR][/B] PPV <<
 http://google.com
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Playboy TV
+#EXTINF:-1, tvg-id="2" tvg-name="Playboy HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Playboy HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=488
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
+#EXTINF:-1, tvg-id="2" tvg-name="Playboy HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=499
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
+#EXTINF:-1, tvg-id="2" tvg-name="Playboy HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=497
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station
@@ -2109,7 +2109,7 @@ http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy Korea
 http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
-#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy TV 19+
+#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy HD 19+
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
 
@@ -2273,7 +2273,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=158
 
 
-#EXTINF:-1, tvg-id="159" tvg-name="BEIN SPORTS" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", Bein Sports (Soccer)
+#EXTINF:-1, tvg-id="159" tvg-name="BEIN HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BEIN HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=392
 
 #EXTINF:-1, tvg-id="159" tvg-name="BEIN DEPORTES HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BEIN DEPORTES HD (Soccer)
@@ -2306,7 +2306,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=623
 #EXTINF:-1, tvg-id="400" tvg-name="Tennis Channel" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1830.png" group-title="TOP SPORT TV", Tennis Channel 
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=410
 
-#EXTINF:-1 group-title="TOP SPORT TV"  tvg-name="bein-sports" tvg-logo="f.vp9.tv/img/tv/channel/bein01.png", BEIN Sports 1[COLOR aqua] 1080p[/COLOR]
+#EXTINF:-1 group-title="TOP SPORT TV"  tvg-name="bein-sports" tvg-logo="f.vp9.tv/img/tv/channel/bein01.png", BEIN HD 1[COLOR aqua] 1080p[/COLOR]
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=392
 
 #EXTINF:-1 group-title="TOP SPORT TV" tvg-logo="soccer.indonewyork.com/wp-content/uploads/2013/07/wpid-mutv.jpeg", MUTV
