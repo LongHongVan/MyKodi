@@ -4,11 +4,67 @@
   <channel id="Sniper Ghost Shooter">
     <display-name>Sniper Ghost Shooter</display-name>
   </channel>
-  <programme channel="Sniper Ghost Shooter" start="20161027230000 +0000" stop="20161029230000 +0000">
+  <programme channel="Sniper Ghost Shooter" start="20161027230000 +0000" stop="20161129230000 +0000">
     <title lang="en">Sniper Ghost Shooter</title>
-    <desc lang="en">Elite snipers Brandon Beckett (Chad Michael Collins) and Richard Miller (Billy Zane) tasked with protecting a gas pipeline from terrorists looking to make a statement. When battles with the enemy lead to snipers being killed by a ghost shooter who knows their exact location, tensions boil as a security breach is suspected. Is there someone working with the enemy on the inside? Is the mission a front for other activity? Is the Colonel pulling the strings? </desc>
+    <desc lang="en">Elite snipers Brandon Beckett (Chad Michael Collins) and Richard Miller (Billy Zane) tasked with protecting a gas pipeline from terrorists looking to make a statement. When battles with the enemy lead to snipers being killed by a ghost shooter who knows their exact location, tensions boil as a security breach is suspected. Is there someone working with the enemy on the inside? Is the mission a front for other activity? Is the Colonel pulling the strings? Plot by LongHong </desc>
   </programme>
-
+  <channel id="The Perfect Weapon">
+    <display-name>The Perfect Weapon</display-name>
+  </channel>
+  <programme channel="The Perfect Weaponr" start="20161027230000 +0000" stop="20161129230000 +0000">
+    <title lang="en">The Perfect Weapon</title>
+    <desc lang="en">In the not so distant future, society is controlled by the powerful State and a dictator known as the Director. Condor works as a hitman for the State, but a reunion with someone he thought was dead forces him to consider who his enemies really are. Plot By LongHong</desc>
+  </programme>
+  <channel id="Assassination">
+    <display-name>Assassination</display-name>
+  </channel>
+  <programme channel="Assassinationr" start="20161027230000 +0000" stop="20161129230000 +0000">
+    <title lang="en">Assassination</title>
+    <desc lang="en">While Korea is occupied by the Japanese Army in 1933, the resistance plans to kill the Japanese Commander. But their plan is threatened by a traitor within their group and also the enemies' forces are hunting them down. Plot By LongHong</desc>
+  </programme> 
+  <channel id="Kickboxer Vengeance">
+    <display-name>Kickboxer Vengeance</display-name>
+  </channel>
+  <programme channel="Kickboxer Vengeancer" start="20161027230000 +0000" stop="20161129230000 +0000">
+    <title lang="en">Kickboxer Vengeance</title>
+    <desc lang="en">Kurt Sloane (Alain Moussi) has always been there for his brother, Eric (Darren Shahlavi), who's known in the martial arts world as a modern-day warrior. But when the ruthless and undefeated fighter Tong Po (Dave Bautista) brutally ends Eric's life in a no-holds-barred match in Thailand, Kurt devotes himself to training with a master in a quest for redemption and revenge. Plot By LongHong</desc>
+  </programme> 
+  <channel id="Better Off Single [2016]">
+    <display-name>Better Off Single [2016]</display-name>
+  </channel>
+  <programme channel="Better Off Single [2016]r" start="20161027230000 +0000" stop="20161129230000 +0000">
+    <title lang="en">Better Off Single [2016]</title>
+    <desc lang="en">When Charlie dumps his girlfriend and quits his job on the same day, he finally feels free. But even dipping a toe into the NYC dating pool has him wondering if he's made a huge mistake. Plot By LongHong</desc>
+  </programme>
+  <channel id="Krampus 2 The Devil Returns">
+    <display-name>Krampus 2 The Devil Returns</display-name>
+  </channel>
+  <programme channel="Krampus 2 The Devil Returnsr" start="20161027230000 +0000" stop="20161129230000 +0000">
+    <title lang="en">Krampus 2 The Devil Returns</title>
+    <desc lang="en">Five years after the murder of his wife and disappearance of his daughter, former police officer Jeremy Duffin is brought back to help in the hunt for a yuletide monster that punishes children that have been "naughty." As the monster becomes more erratic and unpredictable, Jeremy learns the truth about the disappearance of his daughter and the fate that has been bestowed upon him by an unlikely source. Can Jeremy finally end the nightmare Christmas monster that has terrorized this town for years? Plot By LongHong</desc>
+  </programme>
+  <channel id="Yoga Hosers">
+    <display-name>Yoga Hosers</display-name>
+  </channel>
+  <programme channel="Yoga Hosersr" start="20161027230000 +0000" stop="20161129230000 +0000">
+    <title lang="en">Yoga Hosers</title>
+    <desc lang="en">Two 15-year-old yoga enthusiasts (Lily-Rose Depp, Harley Quinn Smith) join forces with a legendary man-hunter (Johnny Depp) to battle Canadian Nazis who take the form of deadly sausages. Plot By LongHong</desc>
+  </programme>
+  <channel id="Ghostbusters 2016">
+    <display-name>Ghostbusters 2016</display-name>
+  </channel>
+  <programme channel="Ghostbusters 2016r" start="20161027230000 +0000" stop="20161129230000 +0000">
+    <title lang="en">Ghostbusters 2016</title>
+    <desc lang="en">Paranormal researcher Abby Yates (Melissa McCarthy) and physicist Erin Gilbert are trying to prove that ghosts exist in modern society. When strange apparitions appear in Manhattan, Gilbert and Yates turn to engineer Jillian Holtzmann for help. Also joining the team is Patty Tolan, a lifelong New Yorker who knows the city inside and out. Armed with proton packs and plenty of attitude, the four women prepare for an epic battle as more than 1,000 mischievous ghouls descend on Times Square. Plot By LongHong</desc>
+  </programme>
+  <channel id="The Last Starship">
+    <display-name>The Last Starship</display-name>
+  </channel>
+  <programme channel="The Last Starshipr" start="20161027230000 +0000" stop="20161129230000 +0000">
+    <title lang="en">The Last Starship</title>
+    <desc lang="en">Conflict and tension looms heavily across the broken remains of a distant, post-apocalyptic world. Controlled by a race of oppressive genetically-enhanced humans, the last natural-born humans have no choice but to bow down to their rule. The only alternative is to wander the vast wastelands surrounding the last habitable city, whilst relentlessly hunted by roaming pack of mutated monsters. Meanwhile, outside the towering walls of the citadel, aboard a massive hulking army tank, an uprising occurs amongst the natural-born crew. Their hope lies in the legend of the Republic of EZO: said to return aboard the last starship. Plot By LongHong</desc>
+  </programme>
+  
 	<channel id="TSN 1">
 		<display-name>TSN 1</display-name><display-name>TSN</display-name>
 		<display-name>400 TSN</display-name>
