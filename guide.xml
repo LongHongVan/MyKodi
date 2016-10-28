@@ -149,8 +149,8 @@
 		<display-name>ESPN2 HD</display-name>
 		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45507_h3_aa.png" />
 	</channel>
-	<channel id="Tennis HD">
-		<display-name>Tennis HD</display-name><display-name>TENNIS</display-name>
+	<channel id="Tennis Channel">
+		<display-name>Tennis Channel</display-name><display-name>TENNIS</display-name>
 		<display-name>217 TENNIS</display-name>
 		<display-name>217</display-name>
 		<display-name>Tennis Channel</display-name>
@@ -3449,99 +3449,99 @@
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161028110000 +0000" stop="20161028190000 +0000">
+	<programme channel="Tennis Channel" start="20161028110000 +0000" stop="20161028190000 +0000">
 		<title lang="en">Center Court [New!]</title>
 		<date>20161028</date>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161028190000 +0000" stop="20161028210000 +0000">
+	<programme channel="Tennis Channel" start="20161028190000 +0000" stop="20161028210000 +0000">
 		<title lang="en">Center Court [New!]</title>
 		<date>20161028</date>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161028210000 +0000" stop="20161028213000 +0000">
+	<programme channel="Tennis Channel" start="20161028210000 +0000" stop="20161028213000 +0000">
 		<title lang="en">Tennis Channel Live [New!]</title>
 		<desc lang="en">Tennis stories of the day, detailed analysis and more... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161028213000 +0000" stop="20161029000000 +0000">
+	<programme channel="Tennis Channel" start="20161028213000 +0000" stop="20161029000000 +0000">
 		<title lang="en">WTA Tennis [New!]</title>
 		<desc lang="en">From Singapore... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161029000000 +0000" stop="20161029053000 +0000">
+	<programme channel="Tennis Channel" start="20161029000000 +0000" stop="20161029053000 +0000">
 		<title lang="en">Tennis [New!]</title>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161029053000 +0000" stop="20161029080000 +0000">
+	<programme channel="Tennis Channel" start="20161029053000 +0000" stop="20161029080000 +0000">
 		<title lang="en">WTA Tennis [New!]</title>
 		<desc lang="en">From Singapore... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161029080000 +0000" stop="20161029100000 +0000">
+	<programme channel="Tennis Channel" start="20161029080000 +0000" stop="20161029100000 +0000">
 		<title lang="en">WTA Tennis [New!]</title>
 		<desc lang="en">From Singapore... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161029100000 +0000" stop="20161029113000 +0000">
+	<programme channel="Tennis Channel" start="20161029100000 +0000" stop="20161029113000 +0000">
 		<title lang="en">WTA Tennis [New!]</title>
 		<desc lang="en">From Singapore... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161029113000 +0000" stop="20161029170000 +0000">
+	<programme channel="Tennis Channel" start="20161029113000 +0000" stop="20161029170000 +0000">
 		<title lang="en">Center Court [New!]</title>
 		<date>20161029</date>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161029170000 +0000" stop="20161029173000 +0000">
+	<programme channel="Tennis Channel" start="20161029170000 +0000" stop="20161029173000 +0000">
 		<title lang="en">Tennis Channel Live [New!]</title>
 		<desc lang="en">Tennis stories of the day, detailed analysis and more... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161029173000 +0000" stop="20161029200000 +0000">
+	<programme channel="Tennis Channel" start="20161029173000 +0000" stop="20161029200000 +0000">
 		<title lang="en">WTA Tennis [New!]</title>
 		<desc lang="en">From Singapore... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161029200000 +0000" stop="20161030000000 +0000">
+	<programme channel="Tennis Channel" start="20161029200000 +0000" stop="20161030000000 +0000">
 		<title lang="en">Tennis [New!]</title>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161030000000 +0000" stop="20161030040000 +0000">
+	<programme channel="Tennis Channel" start="20161030000000 +0000" stop="20161030040000 +0000">
 		<title lang="en">Tennis [New!]</title>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161030040000 +0000" stop="20161030080000 +0000">
+	<programme channel="Tennis Channel" start="20161030040000 +0000" stop="20161030080000 +0000">
 		<title lang="en">Tennis [New!]</title>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161030080000 +0000" stop="20161030100000 +0000">
+	<programme channel="Tennis Channel" start="20161030080000 +0000" stop="20161030100000 +0000">
 		<title lang="en">WTA Tennis [New!]</title>
 		<desc lang="en">From Singapore... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161030100000 +0000" stop="20161030113000 +0000">
+	<programme channel="Tennis Channel" start="20161030100000 +0000" stop="20161030113000 +0000">
 		<title lang="en">WTA Tennis [New!]</title>
 		<desc lang="en">From Singapore... Want Better Support? No-Buff-ALL-HD UK/US/CAN IPTV WITH ALL THE SPORTS? Check out VADER  at http://vader.hosting  or http://twitter.com/VadersStreams  .</desc>
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="Tennis HD" start="20161030113000 +0000" stop="20161030163000 +0000">
+	<programme channel="Tennis Channel" start="20161030113000 +0000" stop="20161030163000 +0000">
 		<title lang="en">Center Court [New!]</title>
 		<date>20161030</date>
 		<category lang="en">Tennis</category>
