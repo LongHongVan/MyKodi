@@ -3837,7 +3837,7 @@
     <url>http://www.tvguide.co.uk</url>
   </channel>
   <channel id="NBA TV (NBA)">
-    <display-name lang="en">NBA TV</display-name>
+    <display-name lang="en">NBA TV Old</display-name>
     <url>http://www.directv.com</url>
   </channel>
   <channel id="WNBC (NBC)">
