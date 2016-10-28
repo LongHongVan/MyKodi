@@ -2089,13 +2089,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=381
 #EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", >> [B][COLOR red]Adult 18+[/COLOR][/B] PPV <<
 http://google.com
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Playboy HD
+#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", PLAYBOY HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=488
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
+#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=499
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
+#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=497
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station
@@ -2109,7 +2109,7 @@ http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy Korea
 http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
-#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy HD 19+
+#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", PLAYBOY HD 19+
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
 
