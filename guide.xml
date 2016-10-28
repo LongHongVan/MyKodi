@@ -72,6 +72,20 @@
 		<display-name>beIN Sports HD</display-name>
 		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s76950_h3_aa.png" />
 	</channel>
+	<channel id="NBA TV">
+		<display-name>NBA TV</display-name><display-name>NBATVHD</display-name>
+		<display-name>216 NBATVHD</display-name>
+		<display-name>216</display-name>
+		<display-name>NBA TV HDTV</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45526_h3_aa.png" />
+	</channel>
+	<channel id="ESPN 2">
+		<display-name>ESPN 2 US</display-name><display-name>ESPN2HD</display-name>
+		<display-name>209 ESPN2HD</display-name>
+		<display-name>209</display-name>
+		<display-name>ESPN2 HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45507_h3_aa.png" />
+	</channel>
 
 	
 	<programme channel="TSN 1" start="20161028120000 +0000" stop="20161028130000 +0000">
