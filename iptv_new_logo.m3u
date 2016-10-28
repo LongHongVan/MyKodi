@@ -32,7 +32,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2279.ts
 #EXTINF:-1, tvg-name="NBA TV" tvg-logo="" group-title="TEST Channels", NBA TV HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3484.ts
-#EXTINF:-1, tvg-name="BBC Two" tvg-logo="" group-title="TEST Channels", BBC Two HD
+#EXTINF:-1, tvg-name="BBC Two" tvg-logo="" group-title="TEST Channels", BBC Two
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/852.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 1
