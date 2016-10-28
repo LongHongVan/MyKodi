@@ -156,7 +156,12 @@
 		<display-name>Tennis Channel</display-name>
 		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33395_h3_aa.png" />
 	</channel>
-	
+	<channel id="NBC Sport Network">
+		<display-name>NBC Sport Network</display-name><display-name>NBCSN</display-name>
+		<display-name>159 NBCSN</display-name>
+		<display-name>159</display-name>
+		<display-name>NBC Sports Network</display-name>
+	</channel>	
 	
 	
 	<programme channel="TSN 1" start="20161028120000 +0000" stop="20161028130000 +0000">
@@ -3547,7 +3552,237 @@
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>	
-	
+	<programme channel="NBC Sport Network" start="20161026213000 +0000" stop="20161026230000 +0000">
+		<title lang="en">NASCAR America Live [New!]</title>
+		<desc lang="en">A daily roundup of NASCAR news and highlights, with access to drivers and personalities... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">auto racing</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1owImLbjXbtfHNF_fgKGKNjNGU5gAUITI3.lHNnuyI_JTbDJiEN_uhtqnN2NNCcipWYLADaNEjGJ9xeMk8XsmXfpEaGQGsK2StfPM3AMCCh.lw--&amp;w=267&amp;h=150" />
+		<new />
+	</programme>
+	<programme channel="NBC Sport Network" start="20161026230000 +0000" stop="20161027000000 +0000">
+		<title lang="en">NHL Live [New!]</title>
+		<desc lang="en">Highlights and updates on the day's NHL action... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">hockey</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oybhEePbSkYSPBzpWKKI5vuZtHFtPnQR9Bm5ru8ERN9QkGCHuC3P9bl1RgJGGvAg9Agp65EVw8oZWxtAjVEWDS.&amp;w=267&amp;h=150" />
+		<new />
+	</programme>
+	<programme channel="NBC Sport Network" start="20161027000000 +0000" stop="20161027024500 +0000">
+		<title lang="en">NHL Hockey</title>
+		<desc lang="en">Boston at New York Rangers. Claude Julien's Bruins bring a 2-1 road record into this Original Six matchup at MSG, where they've dropped their last three games. Centers David Backes and Mike Zibanejad head the teams' newcomers... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161026</date>
+		<category lang="en">Sports</category>
+		<category lang="en">hockey</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027024500 +0000" stop="20161027033000 +0000">
+		<title lang="en">NHL Overtime [New!]</title>
+		<desc lang="en">Highlights and analysis from around the NHL, including interviews and look-ins on game action... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">hockey</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1owWV5AkP_9zmzT5Dh2RfpWxe8OhXpj5dwSaAXjxJGZkXh93TITG1Sh2DSutjzC9Dp.LEb2AU4GwtXjyHnA2u3gW&amp;w=267&amp;h=150" />
+		<new />
+	</programme>
+	<programme channel="NBC Sport Network" start="20161027033000 +0000" stop="20161027040000 +0000">
+		<title lang="en">Sports Jeopardy!</title>
+		<desc lang="en">Contestants go head-to-head in a battle of sports knowledge... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Sports</category>
+		<category lang="en">game show</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oyCbAP0TsmJbYAODFtyBoVxcDDt.zFIaGO9nTJsc3Sc2PDtRJqWTVYgPDIm7cJk5snhGk_9QZktzoo80CpNC_OnA6k3HQt2bYIj49hlyLLi8coKqjt5isMqs.6afW0168peRiKsIIvF7SYyx8YUk5D82BnxzViYr7W3VpCIYtGXsA--&amp;w=267&amp;h=150" />
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027040000 +0000" stop="20161027043000 +0000">
+		<title lang="en">Sports Jeopardy!</title>
+		<desc lang="en">Contestants go head-to-head in a battle of sports knowledge... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Sports</category>
+		<category lang="en">game show</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oyCbAP0TsmJbYAODFtyBoVxcDDt.zFIaGO9nTJsc3Sc2PDtRJqWTVYgPDIm7cJk5snhGk_9QZktzoo80CpNC_OnA6k3HQt2bYIj49hlyLLi8coKqjt5isMqs.6afW0168peRiKsIIvF7SYyx8YUk5D82BnxzViYr7W3VpCIYtGXsA--&amp;w=267&amp;h=150" />
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027043000 +0000" stop="20161027050000 +0000">
+		<title lang="en">Sports Jeopardy!</title>
+		<desc lang="en">Contestants go head-to-head in a battle of sports knowledge... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Sports</category>
+		<category lang="en">game show</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oyCbAP0TsmJbYAODFtyBoVxcDDt.zFIaGO9nTJsc3Sc2PDtRJqWTVYgPDIm7cJk5snhGk_9QZktzoo80CpNC_OnA6k3HQt2bYIj49hlyLLi8coKqjt5isMqs.6afW0168peRiKsIIvF7SYyx8YUk5D82BnxzViYr7W3VpCIYtGXsA--&amp;w=267&amp;h=150" />
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027050000 +0000" stop="20161027053000 +0000">
+		<title lang="en">Sports Jeopardy!</title>
+		<desc lang="en">Contestants go head-to-head in a battle of sports knowledge... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Sports</category>
+		<category lang="en">game show</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oyCbAP0TsmJbYAODFtyBoVxcDDt.zFIaGO9nTJsc3Sc2PDtRJqWTVYgPDIm7cJk5snhGk_9QZktzoo80CpNC_OnA6k3HQt2bYIj49hlyLLi8coKqjt5isMqs.6afW0168peRiKsIIvF7SYyx8YUk5D82BnxzViYr7W3VpCIYtGXsA--&amp;w=267&amp;h=150" />
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027053000 +0000" stop="20161027060000 +0000">
+		<title lang="en">NFL Turning Point [New!]</title>
+		<desc lang="en">Key moments in the previous week's NFL games are highlighted and analyzed... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">football</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oxknJlQwM9BUEr2tZbmHFdMxuOk86t3qzP.2Mwkog5.0W80Pe9MVhp_qGyFapiX2rpnBYj6w2712jkD2xz6ZA6LL8yiJCV1zW_znR7XYr9FPBcv5Xus3kxxhSyy18QeKb8-&amp;w=267&amp;h=150" />
+		<new />
+	</programme>
+	<programme channel="NBC Sport Network" start="20161027060000 +0000" stop="20161027063000 +0000">
+		<title lang="en">Onward Notre Dame</title>
+		<desc lang="en">The rivalry with Stanford is explored... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">college</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1ozLQe1IPHeUrc_HkL.y4E3QwqSoScPPNKRivpddyxzZ78lc41WzNw7B_WjtLD1.5cymJpnIGN8I9gKdjU1bOzrX&amp;w=267&amp;h=150" />
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027063000 +0000" stop="20161027070000 +0000">
+		<title lang="en">NFL Turning Point</title>
+		<desc lang="en">Key moments in the previous week's NFL games are highlighted and analyzed... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Sports</category>
+		<category lang="en">football</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oxknJlQwM9BUEr2tZbmHFdMxuOk86t3qzP.2Mwkog5.0W80Pe9MVhp_qGyFapiX2rpnBYj6w2712jkD2xz6ZA6LL8yiJCV1zW_znR7XYr9FPBcv5Xus3kxxhSyy18QeKb8-&amp;w=267&amp;h=150" />
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027070000 +0000" stop="20161027073000 +0000">
+		<title lang="en">Red Skelton</title>
+		<desc lang="en">America's Clown Prince was a brilliant performer, a passionate patriot, and a master of classic comedy! Let Red entertain you with footage unseen for over 50 years... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Other</category>
+		<category lang="en">infomercial</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027073000 +0000" stop="20161027080000 +0000">
+		<title lang="en">Rock and Roll Hall of Fame Concerts - Live!</title>
+		<desc lang="en">Watch Rock and Roll Hall of Fame inductees perform live in concert in these one-time performances!.. Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Other</category>
+		<category lang="en">infomercial</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027080000 +0000" stop="20161027083000 +0000">
+		<title lang="en">Golden Age of Television</title>
+		<desc lang="en">Go back to a time when television would entertain you and make you smile! Watch some of the best entertainment from five incredible decades of TV history!.. Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Other</category>
+		<category lang="en">infomercial</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027083000 +0000" stop="20161027090000 +0000">
+		<title lang="en">Buddy Holly, Ritchie Valens, Chuck Berry</title>
+		<desc lang="en">The birth of rock n' roll brought us a new sound, new artists, and a new kind of love song... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Other</category>
+		<category lang="en">infomercial</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027090000 +0000" stop="20161027093000 +0000">
+		<title lang="en">Identity theft: learn about it and how to get LifeLock protection</title>
+		<desc lang="en">Are you at risk for identity theft? Get the facts from experts, and hear stories from victims. Discover how LifeLock can help protect you &#8211; with proprietary technology, and U.S.-based agents who help set things right if your identity is ever stolen... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Other</category>
+		<category lang="en">infomercial</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027093000 +0000" stop="20161027100000 +0000">
+		<title lang="en">Identity theft: learn about it and how to get LifeLock protection</title>
+		<desc lang="en">Are you at risk for identity theft? Get the facts from experts, and hear stories from victims. Discover how LifeLock can help protect you &#8211; with proprietary technology, and U.S.-based agents who help set things right if your identity is ever stolen... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Other</category>
+		<category lang="en">infomercial</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027100000 +0000" stop="20161027103000 +0000">
+		<title lang="en">Copper Chef</title>
+		<date>19900101</date>
+		<category lang="en">Other</category>
+		<category lang="en">infomercial</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027103000 +0000" stop="20161027110000 +0000">
+		<title lang="en">Nutri Ninja Blender Duo &#8211; Summer's Total Crushing Blender for Healthier Living, Made Easy. Two Machines in One!</title>
+		<desc lang="en">Ninja Auto-IQ technology combined with Pro Extractor Blades and 1500 watts of power breaks down whole foods, ice &amp; seeds for maximum nutrient &amp; vitamin extraction in the Nutri Ninja Cups... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>19900101</date>
+		<category lang="en">Other</category>
+		<category lang="en">infomercial</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027110000 +0000" stop="20161027130000 +0000">
+		<title lang="en">Pro Football Talk [New!]</title>
+		<desc lang="en">A look at top stories from around the NFL... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">football</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oybhEePbSkYSPBzpWKKI5vuVaeadoyEWnW6I3gpzigLCaRMm28CIJpL6MyOBPQm2a5s3kc.Q_Qus2SJ6EuP_PTcX6P.OkxOqT2INACZr8rEeA--&amp;w=267&amp;h=150" />
+		<new />
+	</programme>
+	<programme channel="NBC Sport Network" start="20161027130000 +0000" stop="20161027160000 +0000">
+		<title lang="en">The Dan Patrick Show [New!]</title>
+		<desc lang="en">Simulcast of the sports-talk radio show, featuring discussion of top news stories and interviews with stars from the worlds of sports and entertainment... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">sports stuff</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1oyk6I2wngy06pOZtmV59Eb1cgqU7FGu9P5wU28H3OC02LNZWnrfeZb0tDy8EXnlVff_DEKGAwIlc8GENLYADTpO&amp;w=267&amp;h=150" />
+		<new />
+	</programme>
+	<programme channel="NBC Sport Network" start="20161027160000 +0000" stop="20161027163000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027163000 +0000" stop="20161027170000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027170000 +0000" stop="20161027173000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027173000 +0000" stop="20161027180000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<desc lang="en">Vintage European sports cars at the auction... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027180000 +0000" stop="20161027183000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027183000 +0000" stop="20161027190000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027190000 +0000" stop="20161027193000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027193000 +0000" stop="20161027200000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027200000 +0000" stop="20161027203000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<desc lang="en">Top pre-war cars to be sold at Mecum Auction... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027203000 +0000" stop="20161027210000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<desc lang="en">Top street rods... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027210000 +0000" stop="20161027213000 +0000">
+		<title lang="en">Mecum Top 10</title>
+		<desc lang="en">Restomods at auction... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Other</category>
+		<category lang="en">auto info</category>
+		</programme>
+	<programme channel="NBC Sport Network" start="20161027213000 +0000" stop="20161027230000 +0000">
+		<title lang="en">NASCAR America Live [New!]</title>
+		<desc lang="en">A daily roundup of NASCAR news and highlights, with access to drivers and personalities... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<category lang="en">Sports</category>
+		<category lang="en">auto racing</category>
+		<icon src="http://images-eds.xboxlive.com/image?url=cOC861nTwwD6fdaNNqSphYhIoPdt3SpAXZveWYNx1owImLbjXbtfHNF_fgKGKNjNGU5gAUITI3.lHNnuyI_JTbDJiEN_uhtqnN2NNCcipWYLADaNEjGJ9xeMk8XsmXfpEaGQGsK2StfPM3AMCCh.lw--&amp;w=267&amp;h=150" />
+		<new />
+	</programme>
+	<programme channel="NBC Sport Network" start="20161027230000 +0000" stop="20161027233000 +0000">
+		<title lang="en">Racing Roots</title>
+		<desc lang="en">Kevin Harvick is featured... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161002</date>
+		<category lang="en">Sports</category>
+		<category lang="en">auto racing</category>
+		</programme>	
 
   <channel id="4seven">
     <display-name lang="en">4 Seven</display-name>
