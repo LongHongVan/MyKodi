@@ -1,0 +1,93 @@
+
+	<channel id="TSN 1">
+		<display-name>TSN 1</display-name><display-name>TSN</display-name>
+		<display-name>400 TSN</display-name>
+		<display-name>400</display-name>
+		<display-name>The Sports Network</display-name>
+	</channel>
+	<channel id="TSN 2">
+		<display-name>TSN 2</display-name><display-name>TSN2</display-name>
+		<display-name>401 TSN2</display-name>
+		<display-name>401</display-name>
+		<display-name>The Sports Network 2</display-name>
+	</channel>
+	<channel id="TSN 3">
+		<display-name>TSN 3</display-name><display-name>TSN3</display-name>
+		<display-name>402 TSN3</display-name>
+		<display-name>402</display-name>
+		<display-name>The Sports Network 3</display-name>
+	</channel>
+	<channel id="TSN 4">
+		<display-name>TSN 4</display-name><display-name>TSN4</display-name>
+		<display-name>403 TSN4</display-name>
+		<display-name>403</display-name>
+		<display-name>The Sports Network 4</display-name>
+	</channel>
+	<channel id="TSN 5">
+		<display-name>TSN 5</display-name><display-name>TSN5</display-name>
+		<display-name>404 TSN5</display-name>
+		<display-name>404</display-name>
+		<display-name>The Sports Network 5</display-name>
+	</channel>
+	<channel id="Sportsnet Ont">
+		<display-name>Sportsnet Ont</display-name><display-name>SNOHD</display-name>
+		<display-name>1405 SNOHD</display-name>
+		<display-name>1405</display-name>
+		<display-name>Sportsnet Ontario HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s62111_h3_aa.png" />
+	</channel>
+	<channel id="Sportsnet One">
+		<display-name>Sportsnet One</display-name><display-name>SN1HD</display-name>
+		<display-name>1409 SN1HD</display-name>
+		<display-name>1409</display-name>
+		<display-name>Rogers Sportsnet One HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68859_h3_aa.png" />
+	</channel>
+	<channel id="Sportsnet World">
+		<display-name>Sportsnet World</display-name><display-name>SNWLH</display-name>
+		<display-name>1414 SNWLH</display-name>
+		<display-name>1414</display-name>
+		<display-name>Sportsnet World HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s68946_h3_aa.png" />
+	</channel>
+	<channel id="Sportsnet 360">
+		<display-name>Sportsnet 360</display-name><display-name>SN360</display-name>
+		<display-name>410 SN360</display-name>
+		<display-name>410</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s20203_h3_aa.png" />
+	</channel>
+	<channel id="PLAYBOY HD">
+		<display-name>PLAYBOY HD</display-name><display-name>PLYPRMH</display-name>
+		<display-name>589 PLYPRMH</display-name>
+		<display-name>589</display-name>
+		<display-name>Playboy Premium HD</display-name>
+	</channel>
+	<channel id="BEIN HD">
+		<display-name>BEIN HD</display-name><display-name>BEIN1HD</display-name>
+		<display-name>620 BEIN1HD</display-name>
+		<display-name>620</display-name>
+		<display-name>beIN Sports HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s76950_h3_aa.png" />
+	</channel>
+	<channel id="NBA TV">
+		<display-name>NBA TV</display-name><display-name>NBATVHD</display-name>
+		<display-name>216 NBATVHD</display-name>
+		<display-name>216</display-name>
+		<display-name>NBA TV HDTV</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45526_h3_aa.png" />
+	</channel>
+	<channel id="ESPN 2">
+		<display-name>ESPN 2 US</display-name><display-name>ESPN2HD</display-name>
+		<display-name>209 ESPN2HD</display-name>
+		<display-name>209</display-name>
+		<display-name>ESPN2 HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45507_h3_aa.png" />
+	</channel>
+	<channel id="Tennis HD">
+		<display-name>Tennis HD</display-name><display-name>TENNIS</display-name>
+		<display-name>217 TENNIS</display-name>
+		<display-name>217</display-name>
+		<display-name>Tennis Channel</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s33395_h3_aa.png" />
+	</channel>
+	

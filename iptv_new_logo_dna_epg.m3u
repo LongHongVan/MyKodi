@@ -6,329 +6,329 @@ http://google.com
 
 ###################### TS Channels ######################################
 
-#EXTINF:-1, tvg-name="ASTRO SuperSport 1" tvg-logo="" group-title="UKTV TS CHANNELS", ASTRO SuperSport 1
+#EXTINF:-1, tvg-name="ASTRO SuperSport 1" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10726.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", ASTRO SuperSport 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10725.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", ASTRO SuperSport 3
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10724.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", ASTRO SuperSport 4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10723.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", NFL Network
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NFL Network
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/90.ts
 
-#EXTINF:-1, tvg-name="FOX Sports 1" tvg-logo="" group-title="UKTV TS CHANNELS", FOX Sports 1 HD
+#EXTINF:-1, tvg-name="FOX Sports 1" tvg-logo="" group-title="TEST Channels", FOX Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/14.ts
 
-#EXTINF:-1, tvg-name="TNT" tvg-logo="" group-title="UKTV TS CHANNELS", TNT HD
+#EXTINF:-1, tvg-name="TNT" tvg-logo="" group-title="TEST Channels", TNT HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/122.ts
 
-#EXTINF:-1, tvg-name="Bravo" tvg-logo="" group-title="UKTV TS CHANNELS", Bravo HD
+#EXTINF:-1, tvg-name="Bravo" tvg-logo="" group-title="TEST Channels", Bravo HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/128.ts
-#EXTINF:-1, tvg-name="ESPN" tvg-logo="" group-title="UKTV TS CHANNELS", ESPN HD
+#EXTINF:-1, tvg-name="ESPN" tvg-logo="" group-title="TEST Channels", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/189.ts
-#EXTINF:-1, tvg-name="Sportsnet" tvg-logo="" group-title="UKTV TS CHANNELS", Sportsnet HD
+#EXTINF:-1, tvg-name="Sportsnet" tvg-logo="" group-title="TEST Channels", Sportsnet HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2279.ts
-#EXTINF:-1, tvg-name="NBA TV" tvg-logo="" group-title="UKTV TS CHANNELS", NBA TV HD
+#EXTINF:-1, tvg-name="NBA TV" tvg-logo="" group-title="TEST Channels", NBA TV HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/3484.ts
-#EXTINF:-1, tvg-name="BBC Two" tvg-logo="" group-title="UKTV TS CHANNELS", BBC Two
+#EXTINF:-1, tvg-name="BBC Two" tvg-logo="" group-title="TEST Channels", BBC Two
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/852.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", SKY Sports 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10767.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", SKY Sports 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10768.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", SKY Sports 3
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10769.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", SKY Sports 4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10770.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", SKY Sports 5
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 5
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10771.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", SKY Sports F1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports F1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10778.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BeinSport-HD1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1033.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BeinSport-HD2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1031.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BeinSport-HD3
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1030.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BeinSport-HD4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1029.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BeinSport-HD5
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BeinSport-HD5
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/1028.ts
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Eurosport 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Eurosport 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10793.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Eurosport 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Eurosport 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10794.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Mototrs TV
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Mototrs TV
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10784.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Premier Sport
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Premier Sport
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10786.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Setanta Sports
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Setanta Sports
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10787.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BT Sport ESPN
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sport ESPN
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10792.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BT Sport 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sport 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10789.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BT Sport 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sport 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10791.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BT Sport 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sport 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10788.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", BT Sport 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sport 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10790.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Boxnation
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Boxnation
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10785.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Racing
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Racing
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10783.ts
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Movies ShowCase
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies ShowCase
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/976.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Movies Sci-Fi HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Sci-Fi HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/977.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Movies Premiere HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Premiere HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/978.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Movies Modern Great HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Modern Great HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/979.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Movies Modern Great
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Modern Great
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/980.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky-movies-Thriller
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-movies-Thriller
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4211.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Movies Drama HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Drama HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/981.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Movies Action HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Movies Action HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/982.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky MOVIE Drama
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky MOVIE Drama
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/983.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Family
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Family
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/985.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky-Movies-Showcase
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Showcase
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/259.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Thriller
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Thriller
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/971.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky-Movies-Select
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Select
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/260.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky-Movies-Family
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Family
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/261.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky-Movies-Disney.
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Disney.
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/262.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky-Movies-Comedy
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Comedy
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/263.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky-Movies-Action
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies-Action
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/264.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky-Movies -Premiere
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky-Movies -Premiere
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/265.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Film 4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Film 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1019.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Action
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Action
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/990.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Disney
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Disney
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/986.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Comedy
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Comedy
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/987.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Sci-Fi
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sci-Fi
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/972.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Film4 UK
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Film4 UK
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/266.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky SciFi & Horror
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky SciFi & Horror
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/257.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Drama
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Drama
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/258.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Movies 4 Men
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Movies 4 Men
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1002.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", True Movies 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", True Movies 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/965.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", UK Nick JR
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", UK Nick JR
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4212.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", NickToo
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NickToo
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4216.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Cbeebies
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Cbeebies
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4225.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", CBBC
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CBBC
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4226.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Nick
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nick
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/998.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Boomerang
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Boomerang
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5299.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Disney XD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Disney XD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1028.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Disney Channel
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Disney Channel
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1029.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", NickToons
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NickToons
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/935.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Nickelodeon
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nickelodeon
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/197.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Nick Junior
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nick Junior
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/198.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Disney Junior
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Disney Junior
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/184.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery History
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery History
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/196.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Dinseny Channel UK
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Dinseny Channel UK
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/185.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Cartoon Network
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Cartoon Network
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/199.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Disney Junior
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Disney Junior
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/946.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Nickelodeon
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nickelodeon
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/936.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", MTV Rocks
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Rocks
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/938.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", MTV Music
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Music
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/939.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", MTV Hits
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Hits
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/940.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", MTV Dance
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Dance
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/941.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", MTV Classic
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV Classic
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/942.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", MTV 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", MTV 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/944.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", UK MTV Base
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", UK MTV Base
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4213.ts
 #EXTINF:-1,local: UK Discovery Turbo
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/948.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", UK Crime & Investigiation
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", UK Crime & Investigiation
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4214.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sy-Fy
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sy-Fy
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4215.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Vevo 3
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vevo 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4223.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", RTE 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", RTE 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/993.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", RTE 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", RTE 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/992.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", RTE One
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", RTE One
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/191.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", RTE Two
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", RTE Two
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/190.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", E!
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", E!
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4219.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Vevo 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vevo 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4221.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Vevo 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vevo 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4222.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", VIVA
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", VIVA
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5666.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Vivo 3
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vivo 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5289.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Vivo 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vivo 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5290.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Vivo 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vivo 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5291.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Vh1 Classic
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Vh1 Classic
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5292.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", UTV_Ireland
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", UTV_Ireland
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5287.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Arts 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Arts 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/989.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Really
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Really
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/994.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Quest
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Quest
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/995.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Pick TV
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Pick TV
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/997.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", National Geography Wild
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", National Geography Wild
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/999.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", NATIONAL GEOGRAPHY
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NATIONAL GEOGRAPHY
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1000.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Comedy Central Extra
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Comedy Central Extra
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1037.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Comedy Central
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Comedy Central
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1038.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Comedy Central 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Comedy Central 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/200.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Alibi
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Alibi
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1054.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", More4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", More4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1003.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky_History_HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky_History_HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5288.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky News
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky News
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/974.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", CNN
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CNN
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5294.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", CBS Reality
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CBS Reality
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5295.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", CBS Drama
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CBS Drama
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5296.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", CBS Action
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CBS Action
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5297.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", 3E
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", 3E
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/5300.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery Home & Health
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Home & Health
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/951.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery History
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery History
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/952.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", SKY MOVIES CRIME
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY MOVIES CRIME
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/954.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", TLC
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TLC
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/966.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", TG4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TG4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/968.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Sky Two
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Two
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/970.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Fox
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Fox
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4217.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Dave
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Dave
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4220.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", ViVa UK
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ViVa UK
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/933.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", VH1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", VH1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/934.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", LONDON LIFE
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", LONDON LIFE
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/4224.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Living
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Living
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1004.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", LiverPool TV
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", LiverPool TV
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1005.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", ITV Encore
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ITV Encore
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1006.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Horror Channel
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Horror Channel
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1011.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Home
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Home
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1012.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", H2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", H2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1013.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Good Food
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Good Food
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1014.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Food Network
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Food Network
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1017.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Drama
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Drama
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1026.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Dmax
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Dmax
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1027.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery World
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery World
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1030.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery Turbo
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Turbo
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1031.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery Science HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Science HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1032.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery Science
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Science
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1033.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery Investigation
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Investigation
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1034.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Discovery
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/1035.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Yesterday
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Yesterday
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/201.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Watch
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Watch
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/202.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Mototrs TV
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Mototrs TV
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/169.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Russia Documentary
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Russia Documentary
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/193.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", National Geography HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", National Geography HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/194.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", National Geo WILD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", National Geo WILD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/195.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Nat Geo Graphic
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Nat Geo Graphic
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/192.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV TS CHANNELS", Animal Planet
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Animal Planet
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/tahir/tahir/188.ts
 
 
@@ -2089,13 +2089,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=381
 #EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", >> [B][COLOR red]Adult 18+[/COLOR][/B] PPV <<
 http://google.com
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Playboy TV
+#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", PLAYBOY HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=488
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
+#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=499
 
-#EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
+#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=497
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station
@@ -2109,7 +2109,7 @@ http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy Korea
 http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
-#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Playboy TV 19+
+#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", PLAYBOY HD 19+
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
 
@@ -2129,7 +2129,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=492
 #EXTINF:-1, tvg-id="2" tvg-name="Honey HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Honey HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=482
 
-#EXTINF:-1, tvg-id="2" tvg-name="Showtime Showcase East" tvg-logo="wtcks.com/assets/images/NoCrop_136x136/c260ef93a15a444b945309b5e06abcd4.jpg" group-title="ADULT TV", Showtime Showcase East
+#EXTINF:-1, tvg-id="2" tvg-name="Showtime Showcase" tvg-logo="wtcks.com/assets/images/NoCrop_136x136/c260ef93a15a444b945309b5e06abcd4.jpg" group-title="ADULT TV", Showtime Showcase
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=321
 
 #EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="ADULT TV", Cinemax East 
@@ -2147,10 +2147,10 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=131
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=132
 
 
-#EXTINF:-1, tvg-id="2" tvg-name="IFC East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", IFC East
+#EXTINF:-1, tvg-id="2" tvg-name="IFC" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", IFC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=133
 
-#EXTINF:-1, tvg-id="2" tvg-name="FX HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FX East
+#EXTINF:-1, tvg-id="2" tvg-name="FX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FX
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=136
 
 
@@ -2164,36 +2164,6 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=302
 #EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Comedy East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=307
 
-#EXTINF:-1, tvg-id="2" tvg-name="HBO Latinoamerica" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Latinoamerica
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=309
-
-
-
-
-#EXTINF:-1, tvg-id="2" tvg-name="Moremax East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Moremax East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
-
-#EXTINF:-1, tvg-id="2" tvg-name="ActionMax East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ActionMax East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=313
-
-#EXTINF:-1, tvg-id="2" tvg-name="5 StarMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", 5 StarMax
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=314
-
-#EXTINF:-1, tvg-id="2" tvg-name="ThrillerMax East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ThrillerMax East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=315
-
-#EXTINF:-1, tvg-id="2" tvg-name="Showtime East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Showtime East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
-
-#EXTINF:-1, tvg-id="2" tvg-name="Action Movies HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Action Movies HD 
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=320
-
-
-
-
-#EXTINF:-1, tvg-id="2" tvg-name="The Movie Channel East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", The Movie Channel East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=327
-
 #EXTINF:-1, tvg-id="2" tvg-name="Starz East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=350
 
@@ -2206,8 +2176,37 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=354
 #EXTINF:-1, tvg-id="2" tvg-name="Starz In Black East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz In Black East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=355
 
-#EXTINF:-1, tvg-id="2" tvg-name="Starz Kids & Family East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Kids & Family East
+#EXTINF:-1, tvg-id="2" tvg-name="Starz Kids and Family East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Kids and Family East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
+
+
+#EXTINF:-1, tvg-id="2" tvg-name="ActionMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ActionMax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=313
+
+#EXTINF:-1, tvg-id="2" tvg-name="5 StarMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", 5 StarMax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=314
+
+#EXTINF:-1, tvg-id="2" tvg-name="ThrillerMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ThrillerMax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=315
+
+#EXTINF:-1, tvg-id="2" tvg-name="Showtime" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Showtime
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
+
+#EXTINF:-1, tvg-id="2" tvg-name="Action Movies HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Action Movies HD 
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=320
+
+
+#EXTINF:-1, tvg-id="2" tvg-name="HBO Latinoamerica" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Latinoamerica
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=309
+
+#EXTINF:-1, tvg-id="2" tvg-name="Moremax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Moremax
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
+
+
+#EXTINF:-1, tvg-id="2" tvg-name="The Movie Channel East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", The Movie Channel East
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=327
+
+
 
 #EXTINF:-1, tvg-id="2" tvg-name="Cinemax Latinoamerica" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Cinemax Latinoamerica
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=865
@@ -2227,7 +2226,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
 #EXTINF:-1, tvg-id="2" tvg-name="LMN HD" tvg-logo="nowwatchtvlive.co/wp-content/uploads/2011/07/LMN-hd-logo.jpeg" group-title="TOP MOVIES TV", LMN HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=109
 
-#EXTINF:-1, tvg-id="2" tvg-name="FXX HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FXX HD
+#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FXX
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 
 
@@ -2241,21 +2240,30 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 #<!-------------------------------- sports HD ---------------->
 
 #EXTINF:-1, tvg-id="2" tvg-name="TOP SPORT TV" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="TOP SPORT TV", TOP SPORT TV
-http://google.com
+#http://google.com
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
-#EXTINF:-1, tvg-id="" tvg-name="FOX West" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX West
+#EXTINF:-1, tvg-id="" tvg-name="FOX" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=82
 
 #EXTINF:-1, tvg-id="" tvg-name="FOX Miami" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX Miami
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=73
 
+#EXTINF:-1, tvg-name="FOX Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", FOX Sports 1
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
+
+#EXTINF:-1, tvg-name="FOX Sports 2" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", FOX Sports 2
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
+
 #EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC New York" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC New York
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 
-#EXTINF:-1, tvg-id="" tvg-name="CBS New York" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS New York
+#EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC Miami" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC Miami
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
+
+#EXTINF:-1, tvg-id="" tvg-name="CBS" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=72
 
 #EXTINF:-1, tvg-id="" tvg-name="CBS West" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS West
@@ -2265,7 +2273,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=158
 
 
-#EXTINF:-1, tvg-id="159" tvg-name="BEIN SPORTS" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", Bein Sports (Soccer)
+#EXTINF:-1, tvg-id="159" tvg-name="BEIN HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BEIN HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=392
 
 #EXTINF:-1, tvg-id="159" tvg-name="BEIN DEPORTES HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BEIN DEPORTES HD (Soccer)
@@ -2283,21 +2291,6 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=442
 #EXTINF:-1, tvg-id="159" tvg-name="NBCSN" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sport Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=159
 
-
-#EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC Miami" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC Miami
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
-
-
-#EXTINF:-1, tvg-name="Fox Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
-
-#EXTINF:-1, tvg-name="Fox Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 US(2)
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1483.ts
-
-
-#EXTINF:-1, tvg-name="Fox Sports 2" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
-
 #EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 
@@ -2313,14 +2306,14 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=623
 #EXTINF:-1, tvg-id="400" tvg-name="Tennis Channel" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1830.png" group-title="TOP SPORT TV", Tennis Channel 
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=410
 
-#EXTINF:-1 group-title="TOP SPORT TV"  tvg-name="bein-sports" tvg-logo="f.vp9.tv/img/tv/channel/bein01.png", BEIN Sports 1[COLOR aqua] 1080p[/COLOR]
+#EXTINF:-1 group-title="TOP SPORT TV"  tvg-name="bein-sports" tvg-logo="f.vp9.tv/img/tv/channel/bein01.png", BEIN HD 1[COLOR aqua] 1080p[/COLOR]
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=392
 
 #EXTINF:-1 group-title="TOP SPORT TV" tvg-logo="soccer.indonewyork.com/wp-content/uploads/2013/07/wpid-mutv.jpeg", MUTV
 #http://167.114.41.215:8080/MuTTveE_rAf/MuTTveE_rAf/index
 
 
-#EXTINF:-1, tvg-id="144" tvg-name="ESPN2" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 US
+#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2 US" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
 
 #EXTINF:-1, tvg-id="141" tvg-name="ESPNU" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPNU
@@ -2396,6 +2389,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=155
 
 #EXTINF:-1, tvg-name="Golf Channel" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1205.png" group-title="TOP SPORT TV", Golf Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=412
+
 
 #EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 National HD
 #http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
@@ -3016,16 +3010,16 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="activpn.com/images/watch_outside_ca/TSN%20-%20The%20Sports%20Network.png" group-title="CANADA", TSN 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
 
-#EXTINF:-1, tvg-id="SportNet One" tvg-name="SportNet" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", SportNet One HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet One" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet One
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=405
 
-#EXTINF:-1, tvg-id="SportsNet Ont" tvg-name="SportNet" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", SportNet Ont HD
+#EXTINF:-1, tvg-id="" tvg-name="SportsNet Ont" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet Ont
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
 
-#EXTINF:-1, tvg-id="SportsNet 360" tvg-name="SportNet" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", SportNet 360 HD
+#EXTINF:-1, tvg-id="" tvg-name="SportsNet 360" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet 360
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
 
-#EXTINF:-1, tvg-id="SportsNet World HD" tvg-name="SportNet" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", SportsNet World HD
+#EXTINF:-1, tvg-id="" tvg-name="SportsNet World" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet World
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
 
 
@@ -3042,7 +3036,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
 #<!-------------------------------- Other Sports ------------------------->
 
 
-#EXTINF:-1, tvg-id="409" tvg-name="BOXnation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", BOXnation
+#EXTINF:-1, tvg-id="409" tvg-name="BoxNation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", BoxNation
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=420
 
 #EXTINF:-1, tvg-id="416" tvg-name="BT Sport 1" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sport 1
@@ -3071,13 +3065,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
 
 
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="SportNet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", SportNet One
+#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet One
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=405
 
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="SportNet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", SportNet Ont
+#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="Sportsnet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet Ont
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
 
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="SportNet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", SportNet 360
+#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="Sportsnet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet 360
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
 
 #EXTINF:0 group-title="TOP SPORT TV", tvg-id="Poker Central HD" tvg-logo="media.cardplayer.com/assets/000/016/219/poker_central.jpg", Poker Central HD
@@ -3173,7 +3167,7 @@ rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.higherme
 http://metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 
 
-#EXTINF:-1, tvg-id="9158" tvg-name="CNN US" tvg-logo="s-media-cache-ak0.pinimg.com/736x/e2/30/c2/e230c201a5cf729bedab24858d3cfbf1.jpg" group-title="NEWS TV", CNN US
+#EXTINF:-1, tvg-id="9158" tvg-name="CNN" tvg-logo="s-media-cache-ak0.pinimg.com/736x/e2/30/c2/e230c201a5cf729bedab24858d3cfbf1.jpg" group-title="NEWS TV", CNN
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=200
 
 #EXTINF:0 group-title="NEWS TV", al jazeera News
@@ -3213,7 +3207,7 @@ http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
 
 
 
-#EXTINF:0 tvg-name="Fox News Channel" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News Channel
+#EXTINF:0 tvg-name="FOX News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", FOX News
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 
 #EXTINF:0, tvg-id="8154" tvg-name="Weather Channel" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/12.png" group-title="NEWS TV", Weather USA
@@ -3237,7 +3231,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:0 tvg-name="RT International" tvg-language="English" tvg-country="US" tvg-id="RT" tvg-logo="3.bp.blogspot.com/-vOCWC7At39U/UcJeNcbRYQI/AAAAAAAABBQ/P22FdCmHrx0/s1600/RT+News+Live+Tv-+Watch+RT+News+Live+free+Streaming+Online+Play+Now.png" group-title="Top Cloud USA TV",RT International
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
 
-#EXTINF:0 tvg-name="CBS New York" tvg-language="English" tvg-country="US" tvg-id="CBSN" tvg-logo="cbsnews2.cbsistatic.com/hub/i/r/2012/09/04/f6252f6f-a644-11e2-a3f0-029118418759/thumbnail/620x350/f11390296c61f46a0351359ab30d08eb/cbsnews_logo_2012_1.jpg" group-title="Top Cloud USA TV",CBS New York
+#EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="US" tvg-id="CBSN" tvg-logo="cbsnews2.cbsistatic.com/hub/i/r/2012/09/04/f6252f6f-a644-11e2-a3f0-029118418759/thumbnail/620x350/f11390296c61f46a0351359ab30d08eb/cbsnews_logo_2012_1.jpg" group-title="Top Cloud USA TV",CBS New York
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 
 #EXTINF:0 tvg-name="Arirang TV" tvg-language="English" tvg-country="US" tvg-id="Arirang TV" tvg-logo="appdev.img.naver.com/appImg/50105_2/50105_1411023249137.png" group-title="Top Cloud USA TV",Arirang TV
@@ -3246,10 +3240,10 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 ########################### End Top 10 1-4 US General TV######################
 
 
-#EXTINF:-1, tvg-name="Bravo East" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo East
+#EXTINF:-1, tvg-name="Bravo" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=129
 
-#EXTINF:0 tvg-name="A&E East" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A&E East
+#EXTINF:0 tvg-name="A and E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A and E
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=118
 
 #EXTINF:0 tvg-name="AMC" group-title="Top Cloud USA TV" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/5/5b/Amc.jpg/revision/latest?cb=20120503012834", AMC
@@ -3258,14 +3252,14 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=131
 #EXTINF:0 tvg-name="Cartoon Network" group-title="Top Cloud USA TV" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
 
-#EXTINF:0 tvg-name="Comedy Central East" group-title="Top Cloud USA TV" tvg-logo="1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif", Comedy Central East
+#EXTINF:0 tvg-name="Comedy Central" group-title="Top Cloud USA TV" tvg-logo="1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif", Comedy Central
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=107
 
-#EXTINF:0 tvg-name="Discovery Channel USA" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel USA
+#EXTINF:0 tvg-name="Discovery Channel" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=182
 
 
-#EXTINF:0 tvg-name="ESPN US" group-title="Top Cloud USA TV" tvg-logo="pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg", ESPN US
+#EXTINF:0 tvg-name="ESPN" group-title="Top Cloud USA TV" tvg-logo="pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg", ESPN US
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 
 #EXTINF:0 tvg-name="History" group-title="Top Cloud USA TV" tvg-logo="2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png", HISTORY
@@ -3280,28 +3274,28 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=190
 #EXTINF:0 tvg-name="Nickelodeon East" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nickelodeon East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 
-#EXTINF:0 tvg-name="Fox News Channel" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News Channel
+#EXTINF:0 tvg-name="FOX News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", FOX News
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 
 #EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=184
 
-#EXTINF:0 tvg-name="Lifetime East" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime East
+#EXTINF:0 tvg-name="Lifetime" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=108
 
-#EXTINF:0 tvg-name="Spike TV" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike TV
+#EXTINF:0 tvg-name="Spike" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=241
 
-#EXTINF:0 tvg-name="Tru TV America Latina" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV America Latina
+#EXTINF:0 tvg-name="Tru TV East" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=242
 
-#EXTINF:0 tvg-name="USA Network East" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network East
+#EXTINF:0 tvg-name="USA Network" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=105
 
-#EXTINF:0 tvg-name="FX East" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX East
+#EXTINF:0 tvg-name="FX" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=136
 
-#EXTINF:-1, tvg-name="HGTV East" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV East
+#EXTINF:-1, tvg-name="HGTV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=112
 
 #EXTINF:-1, tvg-name="E!" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png" group-title="Top Cloud USA TV", E! Entertainment
@@ -3312,7 +3306,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=114
 #EXTINF:-1, tvg-name="DIY Network USA" tvg-logo="mir-s3-cdn-cf.behance.net/project_modules/disp/9336839151265.560c985e288ea.png" group-title="Top Cloud USA TV", DIY Network USA
 #http://158.69.54.54:8000/live/hWrb6XkX/tPzbyqbZ/6226.m3u8
 
-#EXTINF:-1, tvg-name="Showtime East" tvg-logo="app.uktvnow.net/images/channel_imgs/200116035931showtime.jpg" group-title="Top Cloud USA TV", Showtime East
+#EXTINF:-1, tvg-name="Showtime" tvg-logo="app.uktvnow.net/images/channel_imgs/200116035931showtime.jpg" group-title="Top Cloud USA TV", Showtime
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
 
 #EXTINF:-1, tvg-name="HBO East" tvg-logo="i62.tinypic.com/nzk2o0.png" group-title="Top Cloud USA TV", HBO East
@@ -3330,11 +3324,11 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=196
 #EXTINF:-1, tvg-name="SyFy HD" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", SyFy HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=122
 
-#EXTINF:-1, tvg-name="Food Network East" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network East
+#EXTINF:-1, tvg-name="Food Network" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=110
 
 
-#EXTINF:-1, tvg-name="MTV Live" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Top Cloud USA TV", MTV Live
+#EXTINF:-1, tvg-name="MTV" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Top Cloud USA TV", MTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=160
 
 #EXTINF:-1, tvg-name="Universal HD" tvg-logo="s32.postimg.org/ljmz5cfr9/universal.png" group-title="Top Cloud USA TV", Universal HD
@@ -3364,8 +3358,146 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=74
 #EXTINF:-1, tvg-name="W NETWORK HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/127.png" group-title="Top Cloud USA TV", W NETWORK HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=127
 
-#EXTINF:-1, tvg-name="HALLMARK HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", HALLMARK HD
+#EXTINF:-1, tvg-name="Hallmark Movie Channel" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", Hallmark Movie Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=185
 
 ################### End  Top Cloud USA TV #############################       
+
+
+
+
+
+################### Top UKTV TS Live Channels - 16.10.14 - LH #############################
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",UK_EUROSPORT_1_HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1050.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",UK_EUROSPORT_2_HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1113.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",UK_SKY_SPORT_F1
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1039.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",(us) fox sports 1hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8522.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",(us) fox sport 2hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8521.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: fox sport 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8551.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: fox sport 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8552.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: fox sport 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8553.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: k 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8546.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: k pc
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8545.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sport 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1017.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1009.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1010.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1601.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",k: sky sports 5
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1602.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports f1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1603.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: bt sports 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/2113.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: bt sports 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/2114.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: eurosport 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1254.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: premier sport
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1251.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky bt sport 1 hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1036.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky bt sport 2 hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1037.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky setanta sports 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1035.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports 1hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/10.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_2hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/9.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_3hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/8.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_4hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/7.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_5hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/6.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_6hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/5.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_7hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/4.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_8hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/3.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_9hd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/2.ts
+
+
+
+
+
+################### End Top UKTV #############################
+
+
+
+
 
