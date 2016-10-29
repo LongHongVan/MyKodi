@@ -162,6 +162,11 @@
 		<display-name>159</display-name>
 		<display-name>NBC Sports Network</display-name>
 	</channel>	
+	<channel id="Setanta Sports">
+		<display-name>Setanta Sports</display-name><display-name>423 Setanta Sports</display-name>
+		<display-name>423</display-name>
+		<display-name>Setanta Sports Ireland</display-name>
+	</channel>
 	
 	
 	<programme channel="TSN 1" start="20161028120000 +0000" stop="20161028130000 +0000">
@@ -4008,7 +4013,128 @@
 		<category lang="en">Sports</category>
 		<category lang="en">auto racing</category>
 		</programme>	
-
+	<programme channel="Setanta Sports" start="20161026233000 +0000" stop="20161027013000 +0000">
+		<title lang="en">CL: Celtic v Borussia Monchengladbach [New!]</title>
+		<desc lang="en">After a thrilling 3-3 draw with Manchester City on matchday two, Celtic welcome Borussia Monchengladbach from the Bundesliga to Celtic Park... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161020</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		<new />
+	</programme>
+	<programme channel="Setanta Sports" start="20161027013000 +0000" stop="20161027033000 +0000">
+		<title lang="en">Serie A: Pescara v Sampdoria</title>
+		<desc lang="en">Top flight action from Serie A in Italy... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161016</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027033000 +0000" stop="20161027053000 +0000">
+		<title lang="en">Serie A</title>
+		<desc lang="en">Top flight action from Serie A in Italy... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20160901</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027053000 +0000" stop="20161027063000 +0000">
+		<title lang="en">Goal</title>
+		<desc lang="en">All the action from some of Europe's top leagues, news and results, updates from the world of social media and features and interviews with top players... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20150423</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027063000 +0000" stop="20161027080000 +0000">
+		<title lang="en">GP2: Malaysia</title>
+		<desc lang="en">All the action from the Sepang International Circuit in Kuala Lumpur, as the GP2 season heats up... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161001</date>
+		<category lang="en">Motor Sports</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027080000 +0000" stop="20161027083000 +0000">
+		<title lang="en">Gillette World Sport</title>
+		<desc lang="en">A weekly look at all the biggest sporting events from around the globe, featuring profiles on some of the biggest sporting names on the planet... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20150612</date>
+		<category lang="en">Other</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027083000 +0000" stop="20161027090000 +0000">
+		<title lang="en">Fifa Football</title>
+		<desc lang="en">Highlights from some of the game's biggest matches, interviews with star names, epic moments from the archives and fascinating features from across every continent... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20150527</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027090000 +0000" stop="20161027100000 +0000">
+		<title lang="en">Golf Central</title>
+		<desc lang="en">Golf Central is the place to go to for up to date and comprehensive coverage from around the world of golf. Get expert insight and analysis, scores and highlights... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161026</date>
+		<category lang="en">Golf</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027100000 +0000" stop="20161027120000 +0000">
+		<title lang="en">CL: Arsenal v Ludogorets</title>
+		<desc lang="en">After a 2-0 win over Basel on matchday two, Arsenal face Bulgarian side Ludogorets at the Emirates. The Gunners currently lead Group A on goal difference... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161019</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027120000 +0000" stop="20161027140000 +0000">
+		<title lang="en">CL: Celtic v Borussia Monchengladbach</title>
+		<desc lang="en">After a thrilling 3-3 draw with Manchester City on matchday two, Celtic welcome Borussia Monchengladbach from the Bundesliga to Celtic Park... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161020</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027140000 +0000" stop="20161027145500 +0000">
+		<title lang="en">Nascar: Highlights</title>
+		<desc lang="en">All the highlights of the latest round of the 2016 Nascar Sprint Cup... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20160222</date>
+		<category lang="en">Motor Sports</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027145500 +0000" stop="20161027170000 +0000">
+		<title lang="en">Live EL: Qarabag v PAOK</title>
+		<desc lang="en">After a 5-1 mauling at the hands of Fiorentina on matchday two, Qarabag welcome Greek side PAOK to Baku... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161020</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027170000 +0000" stop="20161027180000 +0000">
+		<title lang="en">Golf Central</title>
+		<desc lang="en">Golf Central is the place to go to for up to date and comprehensive coverage from around the world of golf. Get expert insight and analysis, scores and highlights... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161027</date>
+		<category lang="en">Golf</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027180000 +0000" stop="20161027183000 +0000">
+		<title lang="en">Fifa Football</title>
+		<desc lang="en">Highlights from some of the game's biggest matches, interviews with star names, epic moments from the archives and fascinating features from across every continent... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20150527</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027183000 +0000" stop="20161027211500 +0000">
+		<title lang="en">Live EL: Dundalk v Zenit</title>
+		<desc lang="en">After a thrilling 1-0 win over Maccabi Tel Aviv on matchday two, Dundalk welcome Russian giants Zenit to Tallaght Stadium... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161020</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027211500 +0000" stop="20161027221500 +0000">
+		<title lang="en">Uefa Europa League: Highlights</title>
+		<desc lang="en">Highlights of all the latest action from the Uefa Europa League... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20160915</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+	<programme channel="Setanta Sports" start="20161027221500 +0000" stop="20161028001500 +0000">
+		<title lang="en">EL: Inter v Southampton</title>
+		<desc lang="en">After losing their opening two games in the Uefa Europa League this season, Inter will be desperate for maximum points, as they welcome Southampton to the San Siro... Please help support epg.ninja by going to the site and clicking on some ads or better yet, donating.</desc>
+		<date>20161020</date>
+		<category lang="en">Football</category>
+		<category lang="en">Sports</category>
+		</programme>
+		
+		
   <channel id="4seven">
     <display-name lang="en">4 Seven</display-name>
     <url>http://www.tvguide.co.uk</url>
