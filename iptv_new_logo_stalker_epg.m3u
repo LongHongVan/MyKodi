@@ -3016,16 +3016,16 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="activpn.com/images/watch_outside_ca/TSN%20-%20The%20Sports%20Network.png" group-title="CANADA", TSN 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
 
-#EXTINF:-1, tvg-id="SportNet One" tvg-name="SportNet" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", SportNet One HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet One" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet One
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=405
 
-#EXTINF:-1, tvg-id="SportsNet Ont" tvg-name="SportNet" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", SportNet Ont HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ont" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet Ont
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
 
-#EXTINF:-1, tvg-id="SportsNet 360" tvg-name="SportNet" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", SportNet 360 HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet 360
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
 
-#EXTINF:-1, tvg-id="SportsNet World HD" tvg-name="SportNet" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", SportsNet World HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet World" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet World
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
 
 
@@ -3070,15 +3070,17 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
 
-
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="SportNet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", SportNet One
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet One" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet One
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=405
 
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="SportNet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", SportNet Ont
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ont" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet Ont
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
 
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="SportNet" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", SportNet 360
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet 360
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
+
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet World" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="TOP SPORT TV", Sportsnet World
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
 
 #EXTINF:0 group-title="TOP SPORT TV", tvg-id="Poker Central HD" tvg-logo="media.cardplayer.com/assets/000/016/219/poker_central.jpg", Poker Central HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1074
