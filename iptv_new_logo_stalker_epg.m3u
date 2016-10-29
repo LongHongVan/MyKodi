@@ -3107,18 +3107,18 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=224
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=225
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL NOW" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL NOW (offline)
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=153
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=153
 
-#EXTINF:-1, tvg-id="154" tvg-name="Euro Sport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1086.png" group-title="TOP SPORT TV", Euro Sport 1
+#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1086.png" group-title="TOP SPORT TV", Eurosport 1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1272
 
-#EXTINF:-1, tvg-id="154" tvg-name="Euro Sport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1087.png" group-title="TOP SPORT TV", Euro Sport 2
+#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1087.png" group-title="TOP SPORT TV", Eurosportt 2
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1273
 
-#EXTINF:-1, tvg-id="154" tvg-name="Euro Sport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1088.png" group-title="TOP SPORT TV", Euro Sport Extra
+#EXTINF:-1, tvg-id="154" tvg-name="Eurosport Extra" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1088.png" group-title="TOP SPORT TV", Eurosport Extra
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1274
 
-#EXTINF:-1, tvg-id="154" tvg-name="PPV UFC" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/100.png" group-title="TOP SPORT TV", PPV UFC
+#EXTINF:-1, tvg-id="154" tvg-name="PPV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/100.png" group-title="TOP SPORT TV", PPV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=100
 
 
