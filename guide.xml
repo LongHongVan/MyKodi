@@ -1,5 +1,326 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.12 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+
+
+  <channel id="NFL Sunday Ticket (NFL1)">
+    <display-name lang="en">NFL Sunday Ticket 1</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NFL Sunday Ticket HDTV (NFL2)">
+    <display-name lang="en">NFL Sunday Ticket 2</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NFL Sunday Ticket (NFL3)">
+    <display-name lang="en">NFL Sunday Ticket 3</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NFL Sunday Ticket HDTV (NFLHD)">
+    <display-name lang="en">NFL Sunday Ticket 4</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NFL Sunday Ticket (NFL5)">
+    <display-name lang="en">NFL Sunday Ticket 5</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NFL Sunday Ticket (NFL6)">
+    <display-name lang="en">NFL Sunday Ticket 6</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="NFL Sunday Ticket (NFL7)">
+    <display-name lang="en">NFL Sunday Ticket 7</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <programme start="20161030050000 -0500" stop="20161030110000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030110000 -0500" stop="20161030120000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030120000 -0500" stop="20161030150000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030150000 -0500" stop="20161030180000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030180000 -0500" stop="20161030230000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030230000 -0500" stop="20161031050000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031050000 -0500" stop="20161031110000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031110000 -0500" stop="20161031120000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031120000 -0500" stop="20161031150000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031150000 -0500" stop="20161031180000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031180000 -0500" stop="20161031230000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031230000 -0500" stop="20161101050000 -0500" channel="NFL Sunday Ticket (NFL1)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030050000 -0500" stop="20161030110000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030110000 -0500" stop="20161030120000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030120000 -0500" stop="20161030150000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030150000 -0500" stop="20161030180000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030180000 -0500" stop="20161030230000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030230000 -0500" stop="20161031050000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031050000 -0500" stop="20161031110000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031110000 -0500" stop="20161031120000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031120000 -0500" stop="20161031150000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031150000 -0500" stop="20161031180000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031180000 -0500" stop="20161031230000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031230000 -0500" stop="20161101050000 -0500" channel="NFL Sunday Ticket HDTV (NFL2)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030050000 -0500" stop="20161030110000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030110000 -0500" stop="20161030120000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030120000 -0500" stop="20161030150000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030150000 -0500" stop="20161030180000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030180000 -0500" stop="20161030230000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030230000 -0500" stop="20161031050000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031050000 -0500" stop="20161031110000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031110000 -0500" stop="20161031120000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031120000 -0500" stop="20161031150000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031150000 -0500" stop="20161031180000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031180000 -0500" stop="20161031230000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031230000 -0500" stop="20161101050000 -0500" channel="NFL Sunday Ticket HDTV (NFLHD)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030050000 -0500" stop="20161030110000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030110000 -0500" stop="20161030120000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030120000 -0500" stop="20161030150000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Football</title>
+    <desc lang="en">New England (6-1) at Buffalo (4-3) in an intriguing rematch of the Bills' 16-0 Week 4 rout of New England, which has Tom Brady (132.6 QB rating) this time. Lorenzo Alexander heads the pass rush for Buffalo, which is an AFC-best plus-8 on turnovers. The Patriots have won 11 of their last 12 games in Buffalo(n)</desc>
+  </programme>
+  <programme start="20161030150000 -0500" stop="20161030180000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030180000 -0500" stop="20161030230000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030230000 -0500" stop="20161031050000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031050000 -0500" stop="20161031110000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031110000 -0500" stop="20161031120000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031120000 -0500" stop="20161031150000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031150000 -0500" stop="20161031180000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031180000 -0500" stop="20161031230000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031230000 -0500" stop="20161101050000 -0500" channel="NFL Sunday Ticket (NFL5)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030050000 -0500" stop="20161030110000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030110000 -0500" stop="20161030120000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030120000 -0500" stop="20161030150000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Football</title>
+    <desc lang="en">New York Jets (2-5) at Cleveland (0-7). Jets QB Ryan Fitzpatrick returns to his starting role looking to continue the Browns' run of allowing multiple TD passes in 10 straight games. Cleveland had five turnovers in a 31-10 loss last season to New York, which is coming off a season-best defensive effort (245 yards, 3 turnovers) in beating Baltimore(n)</desc>
+  </programme>
+  <programme start="20161030150000 -0500" stop="20161030180000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030180000 -0500" stop="20161030230000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030230000 -0500" stop="20161031050000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031050000 -0500" stop="20161031110000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031110000 -0500" stop="20161031120000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031120000 -0500" stop="20161031150000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031150000 -0500" stop="20161031180000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031180000 -0500" stop="20161031230000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031230000 -0500" stop="20161101050000 -0500" channel="NFL Sunday Ticket (NFL6)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030050000 -0500" stop="20161030110000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030110000 -0500" stop="20161030120000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030120000 -0500" stop="20161030150000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Football</title>
+    <desc lang="en">Kansas City (4-2) at Indianapolis (3-4). QB Andrew Luck and the Colts bid for their first back-to-back wins of 2016 as they meet K.C. for the first time since rallying for a 45-44 wild-card win three years ago. Marcus Peters and Vontae Davis are key DBs, with Peters contributing 5 INTs and a fumble recovery to the Chiefs' plus-7 turnover margin(n)</desc>
+  </programme>
+  <programme start="20161030150000 -0500" stop="20161030180000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030180000 -0500" stop="20161030230000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161030230000 -0500" stop="20161031050000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031050000 -0500" stop="20161031110000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031110000 -0500" stop="20161031120000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031120000 -0500" stop="20161031150000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031150000 -0500" stop="20161031180000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031180000 -0500" stop="20161031230000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>
+  <programme start="20161031230000 -0500" stop="20161101050000 -0500" channel="NFL Sunday Ticket (NFL7)">
+    <title lang="en">NFL Sunday Ticket</title>
+    <desc lang="en">Every snap of up to 14 regular-season NFL games is at your fingertips each Sunday in this popular package, a must for the armchair quarterback(n)</desc>
+  </programme>  
+  
+  
+
   <channel id="4seven">
     <display-name lang="en">4 Seven</display-name>
     <url>http://www.tvguide.co.uk</url>
