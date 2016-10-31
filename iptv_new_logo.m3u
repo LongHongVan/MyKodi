@@ -80,7 +80,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10788.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sport 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10790.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Boxnation
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BOXnation
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10785.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Racing
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10783.ts
