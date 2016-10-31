@@ -3064,7 +3064,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
 #<!-------------------------------- Other Sports ------------------------->
 
 
-#EXTINF:-1, tvg-id="409" tvg-name="BoxNation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", BoxNation
+#EXTINF:-1, tvg-id="409" tvg-name="BOXnation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", BOXnation
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=420
 
 #EXTINF:-1, tvg-id="416" tvg-name="BT Sports 1 HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sports 1 HD
