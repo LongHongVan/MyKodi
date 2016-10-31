@@ -3067,13 +3067,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
 #EXTINF:-1, tvg-id="409" tvg-name="BoxNation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", BoxNation
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=420
 
-#EXTINF:-1, tvg-id="416" tvg-name="BT Sport 1" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sport 1
+#EXTINF:-1, tvg-id="416" tvg-name="BT Sports 1 HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sports 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=422
 
-#EXTINF:-1, tvg-id="417" tvg-name="BT Sport 2" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sport 2
+#EXTINF:-1, tvg-id="417" tvg-name="BT Sports 2 HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sports 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=423
 
-#EXTINF:-1, tvg-id="417" tvg-name="BT Sport 2" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sport EU
+#EXTINF:-1, tvg-id="417" tvg-name="BT Sports ESPN HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sports ESPN HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=424
 
 
