@@ -3220,7 +3220,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
 #EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="Fox West" tvg-logo="www.thewhirlingwind.com/wp-content/uploads/2012/12/fox_news.jpg", Fox West
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=82
 
-#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="CBS West" tvg-logo="insearchoflostfrogs.com/wp-content/uploads/2014/10/cbsnewslogo_greybgcolor-1.png", CBS West
+#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="CBS W HD" tvg-logo="insearchoflostfrogs.com/wp-content/uploads/2014/10/cbsnewslogo_greybgcolor-1.png", CBS W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
 
 #EXTINF:0 group-title="NEWS TV",  tvg-id="9204" tvg-name="CBSN" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1087.png", CBSN [COLOR lime] 1080p[/COLOR]
@@ -3346,7 +3346,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=300
 #EXTINF:-1, tvg-name="CBS New York" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=42
 
-#EXTINF:-1, tvg-name="CBS New York" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS West
+#EXTINF:-1, tvg-name="CBS New York" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
 
 #EXTINF:-1, tvg-name="Travel Channel UK" tvg-logo="cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM28E.png" group-title="Top Cloud USA TV", Travel Channel UK
