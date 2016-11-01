@@ -2270,7 +2270,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
 #EXTINF:-1, tvg-id="" tvg-name="CBS HD" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=72
 
-#EXTINF:-1, tvg-id="" tvg-name="CBS West" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS West
+#EXTINF:-1, tvg-id="" tvg-name="CBS W HD" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
 
 #EXTINF:-1, tvg-id="" tvg-name="CBS Sports Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/92.png" group-title="TOP SPORT TV", CBS Sports Network
@@ -3238,7 +3238,7 @@ http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
 
 
 
-#EXTINF:0 tvg-name="FOX News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", FOX News
+#EXTINF:0 tvg-name="Fox News HD" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 
 #EXTINF:0, tvg-id="8154" tvg-name="Weather Channel" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/12.png" group-title="NEWS TV", Weather USA
@@ -3286,7 +3286,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
 #EXTINF:0 tvg-name="Comedy Central" group-title="Top Cloud USA TV" tvg-logo="1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif", Comedy Central
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=107
 
-#EXTINF:0 tvg-name="Discovery Channel" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel
+#EXTINF:0 tvg-name="Discovery Channel HD" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=182
 
 
@@ -3311,10 +3311,10 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 #EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=184
 
-#EXTINF:0 tvg-name="Lifetime" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime
+#EXTINF:0 tvg-name="Lifetime HD" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=108
 
-#EXTINF:0 tvg-name="Spike" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike
+#EXTINF:0 tvg-name="Spike HD" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=241
 
 #EXTINF:0 tvg-name="Tru TV East" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV East
@@ -3323,10 +3323,10 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=242
 #EXTINF:0 tvg-name="USA Network" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=105
 
-#EXTINF:0 tvg-name="FX" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX
+#EXTINF:0 tvg-name="FX HD" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=136
 
-#EXTINF:-1, tvg-name="HGTV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV
+#EXTINF:-1, tvg-name="HGTV HD" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=112
 
 #EXTINF:-1, tvg-name="E!" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png" group-title="Top Cloud USA TV", E! Entertainment
@@ -3337,7 +3337,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=114
 #EXTINF:-1, tvg-name="DIY Network USA" tvg-logo="mir-s3-cdn-cf.behance.net/project_modules/disp/9336839151265.560c985e288ea.png" group-title="Top Cloud USA TV", DIY Network USA
 #http://158.69.54.54:8000/live/hWrb6XkX/tPzbyqbZ/6226.m3u8
 
-#EXTINF:-1, tvg-name="Showtime" tvg-logo="app.uktvnow.net/images/channel_imgs/200116035931showtime.jpg" group-title="Top Cloud USA TV", Showtime
+#EXTINF:-1, tvg-name="Showtime East" tvg-logo="app.uktvnow.net/images/channel_imgs/200116035931showtime.jpg" group-title="Top Cloud USA TV", Showtime East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
 
 #EXTINF:-1, tvg-name="HBO East" tvg-logo="i62.tinypic.com/nzk2o0.png" group-title="Top Cloud USA TV", HBO East
@@ -3352,10 +3352,10 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
 #EXTINF:-1, tvg-name="Travel Channel UK" tvg-logo="cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM28E.png" group-title="Top Cloud USA TV", Travel Channel UK
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=196
 
-#EXTINF:-1, tvg-name="SyFy HD" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", SyFy HD
+#EXTINF:-1, tvg-name="SYFY HD" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", SYFY HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=122
 
-#EXTINF:-1, tvg-name="Food Network" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network
+#EXTINF:-1, tvg-name="Food Network HD" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=110
 
 
@@ -3371,25 +3371,25 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=192
 #EXTINF:-1, tvg-name="History" tvg-logo="" group-title="Top Cloud USA TV", History
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=120
 
-#EXTINF:-1, tvg-name="Fox Life HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/108.png" group-title="Top Cloud USA TV", Fox Life HD
+#EXTINF:-1, tvg-name="LMN HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/108.png" group-title="Top Cloud USA TV", LMN HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=108
 
-#EXTINF:-1, tvg-name="Bet HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/124.png" group-title="Top Cloud USA TV", Bet HD
+#EXTINF:-1, tvg-name="BET HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/124.png" group-title="Top Cloud USA TV", BET HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=124
 
-#EXTINF:-1, tvg-name="SLICE HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/134.png" group-title="Top Cloud USA TV", SLICE HD
+#EXTINF:-1, tvg-name="Slice HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/134.png" group-title="Top Cloud USA TV", Slice HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=134
 
-#EXTINF:-1, tvg-name="WE TV HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/128.png" group-title="Top Cloud USA TV", WE TV HD
+#EXTINF:-1, tvg-name="WE TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/128.png" group-title="Top Cloud USA TV", WE TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=128
 
 #EXTINF:-1, tvg-name="PBS HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/44.png" group-title="Top Cloud USA TV", PBS HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=74
 
-#EXTINF:-1, tvg-name="W NETWORK HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/127.png" group-title="Top Cloud USA TV", W NETWORK HD
+#EXTINF:-1, tvg-name="W Network HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/127.png" group-title="Top Cloud USA TV", W Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=127
 
-#EXTINF:-1, tvg-name="Hallmark Movie Channel" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", Hallmark Movie Channel
+#EXTINF:-1, tvg-name="Hallmark Channel HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", Hallmark Channel HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=185
 
 ################### End  Top Cloud USA TV #############################       
