@@ -3260,7 +3260,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=209
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
 #EXTINF:0 tvg-name="RT International" tvg-language="English" tvg-country="US" tvg-id="RT" tvg-logo="3.bp.blogspot.com/-vOCWC7At39U/UcJeNcbRYQI/AAAAAAAABBQ/P22FdCmHrx0/s1600/RT+News+Live+Tv-+Watch+RT+News+Live+free+Streaming+Online+Play+Now.png" group-title="Top Cloud USA TV", RT International
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
+#http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
 
 #EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="US" tvg-id="CBSN" tvg-logo="cbsnews2.cbsistatic.com/hub/i/r/2012/09/04/f6252f6f-a644-11e2-a3f0-029118418759/thumbnail/620x350/f11390296c61f46a0351359ab30d08eb/cbsnews_logo_2012_1.jpg" group-title="Top Cloud USA TV",CBS New York
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
@@ -3274,10 +3274,10 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 #EXTINF:-1, tvg-name="Bravo" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=129
 
-#EXTINF:0 tvg-name="A and E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A and E
+#EXTINF:0 tvg-name="A&E HD" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A&E HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=118
 
-#EXTINF:0 tvg-name="AMC" group-title="Top Cloud USA TV" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/5/5b/Amc.jpg/revision/latest?cb=20120503012834", AMC
+#EXTINF:0 tvg-name="AMC HD" group-title="Top Cloud USA TV" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/5/5b/Amc.jpg/revision/latest?cb=20120503012834", AMC HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=131
 
 #EXTINF:0 tvg-name="Cartoon Network" group-title="Top Cloud USA TV" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
