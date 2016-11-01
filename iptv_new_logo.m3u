@@ -7,9 +7,9 @@ http://google.com
 ###################### TS Channels ######################################
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet Pacific
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet Pacific HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2448.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet West
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet West HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/sportTVapp2/FkgeTiLQYQ/2449.ts
 
 #EXTINF:-1, tvg-name="ASTRO SuperSport 1" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 1
