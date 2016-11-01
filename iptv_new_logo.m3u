@@ -3259,7 +3259,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=209
 #EXTINF:0 tvg-name="ABC" tvg-language="English" tvg-country="US" tvg-id="ABC News" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113057abc.jpg" group-title="Top Cloud USA TV",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
-#EXTINF:0 tvg-name="RT International" tvg-language="English" tvg-country="US" tvg-id="RT" tvg-logo="3.bp.blogspot.com/-vOCWC7At39U/UcJeNcbRYQI/AAAAAAAABBQ/P22FdCmHrx0/s1600/RT+News+Live+Tv-+Watch+RT+News+Live+free+Streaming+Online+Play+Now.png" group-title="Top Cloud USA TV",RT International
+#EXTINF:0 tvg-name="RT International" tvg-language="English" tvg-country="US" tvg-id="RT" tvg-logo="3.bp.blogspot.com/-vOCWC7At39U/UcJeNcbRYQI/AAAAAAAABBQ/P22FdCmHrx0/s1600/RT+News+Live+Tv-+Watch+RT+News+Live+free+Streaming+Online+Play+Now.png" group-title="Top Cloud USA TV", RT International
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/chunklist.m3u8
 
 #EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="US" tvg-id="CBSN" tvg-logo="cbsnews2.cbsistatic.com/hub/i/r/2012/09/04/f6252f6f-a644-11e2-a3f0-029118418759/thumbnail/620x350/f11390296c61f46a0351359ab30d08eb/cbsnews_logo_2012_1.jpg" group-title="Top Cloud USA TV",CBS New York
@@ -3305,7 +3305,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=190
 #EXTINF:0 tvg-name="Nickelodeon East" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nickelodeon East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 
-#EXTINF:0 tvg-name="FOX News" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", FOX News
+#EXTINF:0 tvg-name="Fox News HD" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 
 #EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
