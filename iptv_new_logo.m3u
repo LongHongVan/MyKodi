@@ -2360,13 +2360,13 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.1
 
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10767.ts
-#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1271.png" group-title="TOP SPORT TV", SKY Sports 2
+#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1271.png" group-title="TOP SPORT TV", Sky Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10768.ts
-#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1273.png" group-title="TOP SPORT TV", SKY Sports 3
+#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1273.png" group-title="TOP SPORT TV", Sky Sports 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10769.ts
-#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1275.png" group-title="TOP SPORT TV", SKY Sports 4
+#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1275.png" group-title="TOP SPORT TV", Sky Sports 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10770.ts
-#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", SKY Sports 5
+#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", Sky Sports 5 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10771.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TOP SPORT TV", SKY Sports F1
