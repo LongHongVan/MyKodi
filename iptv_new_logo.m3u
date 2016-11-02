@@ -33,9 +33,9 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsens
 #EXTINF:-1, tvg-name="Bravo" tvg-logo="" group-title="TEST Channels", Bravo HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/ariva010/sWTLPKNJQl/2410.ts
 #EXTINF:-1, tvg-name="ESPN" tvg-logo="" group-title="TEST Channels", ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/129.ts|User-Agent=livetvandroid1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/129.ts|User-Agent=livetvandroid1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ESPN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/121.ts|User-Agent=livetvandroid1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/121.ts|User-Agent=livetvandroid1
 
 #EXTINF:-1, tvg-name="Bravo" tvg-logo="" group-title="TEST Channels", PAC-12 Washington HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/10143.ts
