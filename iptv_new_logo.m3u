@@ -7,45 +7,41 @@ http://google.com
 ###################### TS Channels ######################################
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet Pacific HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/2448.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet West HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/2449.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NBC Sport Network HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9523.ts
 
 #EXTINF:-1, tvg-name="ASTRO SuperSport 1" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10726.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9518.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10725.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9519.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10724.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10723.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9520.ts
+
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NFL Network
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/90.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/90.ts
 
 #EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="TEST Channels", Fox Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/14.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/8681.ts
 
 #EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="TEST Channels", Fox Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/13.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9391.ts
 
 #EXTINF:-1, tvg-name="TNT" tvg-logo="" group-title="TEST Channels", TNT HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/122.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/13180.ts
 
 #EXTINF:-1, tvg-name="Bravo" tvg-logo="" group-title="TEST Channels", Bravo HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/128.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/8691.ts
 #EXTINF:-1, tvg-name="ESPN" tvg-logo="" group-title="TEST Channels", ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/189.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/8358.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ESPN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/121.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/13230.ts
 
-#EXTINF:-1, tvg-name="Sportsnet" tvg-logo="" group-title="TEST Channels", Sportsnet HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/2279.ts
+#EXTINF:-1, tvg-name="Bravo" tvg-logo="" group-title="TEST Channels", PAC-12 Washington HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/10143.ts
+
 #EXTINF:-1, tvg-name="NBA TV" tvg-logo="" group-title="TEST Channels", NBA TV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/3484.ts
-#EXTINF:-1, tvg-name="BBC Two" tvg-logo="" group-title="TEST Channels", BBC Two
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/852.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9524
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10767.ts
