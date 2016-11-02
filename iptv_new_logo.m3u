@@ -8,7 +8,7 @@ http://google.com
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NBC Sport Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9523.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/ariva010/sWTLPKNJQl/2392.ts
 
 #EXTINF:-1, tvg-name="ASTRO SuperSport 1" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9518.ts
@@ -33,7 +33,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsens
 #EXTINF:-1, tvg-name="Bravo" tvg-logo="" group-title="TEST Channels", Bravo HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/8691.ts
 #EXTINF:-1, tvg-name="ESPN" tvg-logo="" group-title="TEST Channels", ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/8358.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/13229.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ESPN 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/13230.ts
 
