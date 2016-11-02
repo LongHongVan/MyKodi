@@ -3058,7 +3058,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet One HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet One HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=405
 
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ont HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet Ont HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ontario HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet Ontario HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
 
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360 HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet 360 HD
