@@ -17,24 +17,15 @@ http://google.com
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 3
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9520.ts
 
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 5*
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/96.ts|User-Agent=livetvandroid1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 4 HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/95.ts|User-Agent=livetvandroid1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 3*
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/94.ts|User-Agent=livetvandroid1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 2
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/93.ts|User-Agent=livetvandroid1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 1*
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/92.ts|User-Agent=livetvandroid1
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NFL Network
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/90.ts
 
 #EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="TEST Channels", Fox Sports 1 HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/14.ts|User-Agent=livetvandroid1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/UEFA2/2/V2kPBlij3w/2402.ts
 
 #EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="TEST Channels", Fox Sports 2 HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/13.ts|User-Agent=livetvandroid1
