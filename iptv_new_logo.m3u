@@ -22,10 +22,10 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsens
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/8/www.iptvrestream.net/90.ts
 
 #EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="TEST Channels", Fox Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/8681.ts
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/14.ts|User-Agent=livetvandroid1
 
 #EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="TEST Channels", Fox Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9391.ts
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/13.ts|User-Agent=livetvandroid1
 
 #EXTINF:-1, tvg-name="TNT" tvg-logo="" group-title="TEST Channels", TNT HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/13180.ts
