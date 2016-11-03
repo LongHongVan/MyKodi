@@ -1,0 +1,27 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,XX: PRIVATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2903.ts
+#EXTINF:-1,XX: Primafila Hot Club 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2896.ts
+#EXTINF:-1,XX: Primafila Hot Club 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2895.ts
+#EXTINF:-1,XX: Primafila Hot Club 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2894.ts
+#EXTINF:-1,XX: Primafila Hot Club 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2893.ts
+#EXTINF:-1,XX: Primafila Hot Club 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2892.ts
+#EXTINF:-1,XX: PLAYBOY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2904.ts
+#EXTINF:-1,XX: PINK EROTIC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2897.ts
+#EXTINF:-1,XX: PINK EROTIC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2898.ts
+#EXTINF:-1,XX: PINK EROTIC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2899.ts
+
+#EXTINF:-1,XX: brazzers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://151.80.105.182:8000/live/imran/imran/2910.ts
