@@ -8,7 +8,7 @@ http://google.com
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NBC Sports Network
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent=iptvrestream.net
+#http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent=iptvrestream.net
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="ASTRO SuperSport 1" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 1
@@ -19,72 +19,72 @@ http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent=iptvres
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvsensation.ns01.biz:6500/live/george1/george1/9520.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/96.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/96.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/95.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/95.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/94.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/94.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/93.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/93.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", TSN 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/92.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/92.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NFL Network
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/90.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/90.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="TEST Channels", Fox Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/14.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/14.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="TEST Channels", Fox Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/13.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/13.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="TNT HD" tvg-logo="" group-title="TEST Channels", TNT HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/122.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/122.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="Bravo HD" tvg-logo="" group-title="TEST Channels", Bravo HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/128.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/128.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="ESPN" tvg-logo="" group-title="TEST Channels", ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/129.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/129.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", ESPN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/121.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/121.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", HBO HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2455.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2455.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", A&E HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/50.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/50.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", PAC-12 Washington HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/397.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/397.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="NBA TV" tvg-logo="" group-title="TEST Channels", NBA TV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3484.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3484.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sport Europe HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sports ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/6.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/6.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", BT Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/8.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/8.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Animal Planet HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/441.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/441.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", FX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1075.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1075.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Food Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1079.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1079.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", DIY Network USA
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1100.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1100.ts|User-Agent=iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Discovery Science HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1080.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1080.ts|User-Agent=iptvrestream.net
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sports 1 HD
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10767.ts
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/26.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/26.ts|User-Agent=iptvrestream.net
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10768.ts
@@ -2412,7 +2412,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.1
 
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 1 HD
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10767.ts
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/26.ts|User-Agent=iptvrestream.net
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/26.ts|User-Agent=iptvrestream.net
 
 
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1271.png" group-title="TOP SPORT TV", Sky Sports 2 HD
