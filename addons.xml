@@ -375,7 +375,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.nbcsnliveextra" name="NBC Sports Live Extra 11.02" version="2016.11.04" provider-name="eracknaphobia_hme">
+<addon id="plugin.video.nbcsnliveextra" name="NBC Sports Live Extra 11.06" version="2016.11.06" provider-name="eracknaphobia_hme">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>   
    <import addon="script.module.simplejson" version="3.3.0"/>    
