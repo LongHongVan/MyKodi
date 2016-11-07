@@ -9,6 +9,9 @@ http://google.com
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", OLYMPIC Channel
 http://IPTVFREE1.COM:6969/live/Livetvfuckyou/2BdAqhZZiM/4641.ts|User-Agent=www.iptvrestream.net
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Offical Olympic Channel (tsf4)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4641.ts|User-Agent=www.iptvrestream.net
+
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NBC Sports Network
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent=www.iptvrestream.net
