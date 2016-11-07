@@ -2744,15 +2744,15 @@ http://google.com/
 http://5.39.70.216/live/louis/louis/1031.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV1.jpg", VTV1 HD
-http://103.21.148.45:81/icomchannelvtv/smil:v1_dump_2111.smil/chunklist_b1328000_sleng.m3u8
+http://123.30.185.126/hls/vtv1.m3u8
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/vtv2.jpg", VTV2 HD 
 http://103.21.148.45:81/icomchannelvtc/vtc12_576/chunklist.m3u8
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV3.jpg",VTV4 HD 
-http://113.187.31.44:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV3.jpg",VTV3 HD 
+http://123.30.185.126/hls/vtv3.m3u8
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV3.jpg",VTV5 HD
-http://113.187.31.44:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
+#http://113.187.31.44:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV24",VTV6 HD 
-http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
+#http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV24",HTV7
 #http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w520143836_b1000000.m3u8
