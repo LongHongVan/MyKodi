@@ -2462,26 +2462,38 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=155
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=412
 
 
-#EXTINF:-1, tvg-name="Sport 1" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 National HD
+#EXTINF:-1, tvg-name="Sport 1" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 National
 http://xrxs.net/video/live-p12netw-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="Sport 2" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Arizona HD
+#EXTINF:-1, tvg-name="Sport 7" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Arizona
 http://xrxs.net/video/live-p12ariz-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="Sport 3" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Bay Area HD
+#EXTINF:-1, tvg-name="Sport 4" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Bay Area
 http://xrxs.net/video/live-p12baya-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="Sport 4" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Los Angeles HD
+#EXTINF:-1, tvg-name="Sport 5" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Los Angeles
 http://xrxs.net/video/live-p12losa-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="Sport 5" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Mountain HD
+#EXTINF:-1, tvg-name="Sport 2" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Mountain
 http://xrxs.net/video/live-p12moun-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="Sport 6" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Oregon HD
+#EXTINF:-1, tvg-name="Sport 3" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Oregon
 http://xrxs.net/video/live-p12oreg-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Washington HD
-#http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+#EXTINF:-1, tvg-name="Sport 6" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Washington
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+
+
+#EXTINF:-1, tvg-name="Sport 6" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Washington 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/397.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="Sport 3" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Oregon 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/395.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="Sport 5" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Los Angeles 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/394.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="Sport 4" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Bay Area 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/393.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="Sport 7" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Arizona 730p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/392.ts|User-Agent=www.iptvrestream.net
 
 
 ###################### END TOP SPORT TV #################################
