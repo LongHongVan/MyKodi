@@ -3175,6 +3175,19 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=224
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 5" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=225
 
+#EXTINF:-1, tvg-id="154" tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 6
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4634.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-id="154" tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 7
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4633.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-id="154" tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 8
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4632.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-id="154" tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 9
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4631.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-id="154" tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 10
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4635.ts|User-Agent=www.iptvrestream.net
+
+
+
 #EXTINF:-1, tvg-id="" tvg-name="NFL NOW" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL NOW (offline)
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=153
 
