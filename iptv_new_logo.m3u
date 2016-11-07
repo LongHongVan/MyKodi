@@ -2462,7 +2462,6 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=155
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=412
 
 
-
 #EXTINF:-1, tvg-name="Sport 1" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", Sport 1
 http://xrxs.net/video/live-p12netw-1164.m3u8?IPTVBRASILHD
 #EXTINF:-1, tvg-name="Sport 2" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", Sport 2
@@ -2492,8 +2491,6 @@ http://xrxs.net/video/live-p12ariz-1164.m3u8?IPTVBRASILHD
 
 
 ###################### END TOP SPORT TV #################################
-
-
 
 
 #<!-------------------------------- Music HD ------------------------->
