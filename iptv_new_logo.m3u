@@ -2416,36 +2416,19 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10723.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 1 HD
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10767.ts
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/26.ts|User-Agent=www.iptvrestream.net
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=542
 
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1271.png" group-title="TOP SPORT TV", Sky Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10768.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=543
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1273.png" group-title="TOP SPORT TV", Sky Sports 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10769.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=544
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1275.png" group-title="TOP SPORT TV", Sky Sports 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10770.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=545
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", Sky Sports 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10771.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=546
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TOP SPORT TV", SKY Sports F1
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10778.ts
-
-#EXTINF:-1, tvg-id="9410" tvg-name="Sky Sports 1" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 1
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=542
-
-#EXTINF:-1, tvg-id="411" tvg-name="Sky Sports 2" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1271.png" group-title="TOP SPORT TV", Sky Sports 2
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=543
-
-#EXTINF:-1, tvg-id="412" tvg-name="Sky Sports 3" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1273.png" group-title="TOP SPORT TV", Sky Sports 3
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=544
-
-#EXTINF:-1, tvg-id="413" tvg-name="Sky Sports 4" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1275.png" group-title="TOP SPORT TV", Sky Sports 4
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=545
-
-#EXTINF:-1, tvg-id="414" tvg-name="Sky Sports 5" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", Sky Sports 5
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=546
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=519
 
 
 #EXTINF:-1, tvg-id="407" tvg-name="MUTV" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/269.png" group-title="TOP SPORT TV", MUTV
@@ -2479,22 +2462,22 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=155
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=412
 
 
-#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 National HD
+#EXTINF:-1, tvg-name="Sport 1" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 National HD
 http://xrxs.net/video/live-p12netw-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Arizona HD
+#EXTINF:-1, tvg-name="Sport 2" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Arizona HD
 http://xrxs.net/video/live-p12ariz-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Bay Area HD
+#EXTINF:-1, tvg-name="Sport 3" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Bay Area HD
 http://xrxs.net/video/live-p12baya-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Los Angeles HD
+#EXTINF:-1, tvg-name="Sport 4" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Los Angeles HD
 http://xrxs.net/video/live-p12losa-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Mountain HD
+#EXTINF:-1, tvg-name="Sport 5" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Mountain HD
 http://xrxs.net/video/live-p12moun-1164.m3u8?IPTVBRASILHD
 
-#EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Oregon HD
+#EXTINF:-1, tvg-name="Sport 6" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Oregon HD
 http://xrxs.net/video/live-p12oreg-1164.m3u8?IPTVBRASILHD
 
 #EXTINF:-1, tvg-name="PAC 12" tvg-logo="http://beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC 12 Washington HD
