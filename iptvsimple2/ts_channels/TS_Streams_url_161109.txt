@@ -1,0 +1,54 @@
+
+--------------MpegTS Streams--------------[updated 30 oct]------$http://ignoreme.com
+s1$http://esiptv.tn:7500/get.php?username=mama3&password=mama3&type=m3u
+S2$http://151.80.105.182:8000/get.php?username=tahir&password=tahir&type=m3u
+s4 special$http://IPTVFREE1.COM:6969/get.php?username=Livetvfuckyou&password=2BdAqhZZiM&type=m3u&output=ts|User-Agent=Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-G900F Build/KOT49H)|User-Agent=https://pastebin.com/raw/yK6gbK41
+--------------HLS Streams--------------------$http://ignoreme.com
+s1$http://esiptv.tn:7500/get.php?username=mama3&password=mama3&type=m3u&output=hls
+s2$http://151.80.105.182:8000/get.php?username=tahir&password=tahir&type=m3u&output=hls
+s4 special$http://IPTVFREE1.COM:6969/get.php?username=Livetvfuckyou&password=2BdAqhZZiM&type=m3u&output=hls|User-Agent=Dalvik/1.6.0 (Linux; U; Android 4.4.2; SM-G900F Build/KOT49H)|User-Agent=https://pastebin.com/raw/yK6gbK41
+------------All Other TS Streams-------$http://ignoreme.com
+
+http://free-premium-iptv.ddns.net:9090/streams/free123
+
+http://IPTVFREE1.COM:6969/get.php?username=Livetvfuckyou&password=2BdAqhZZiM&type=m3u
+
+http://91.121.104.43:8000/get.php?username=idou&password=idou&type=m3u
+
+http://esiptv.tn:7500/get.php?username=ge159&password=ge159&type=m3u
+
+http://bstream.summerwaves.net:8000/get.php?username=maialino&password=blur&type=m3u
+
+http://cableking-iptv.com:8000/get.php?username=liam&password=liam&type=m3u
+
+http://esiptv.tn:7500/get.php?username=25025&password=25025&type=m3u
+
+http://163.172.6.8:8000/get.php?username=00&password=00&type=m3u
+
+http://dmiptv.noip.me:8000/get.php?username=kabir&password=kabir&type=m3u
+
+http://ipworld.homelinux.net:8000/get.php?username=eno&password=eno&type=m3u
+
+http://ipworld.homelinux.net:8000/get.php?username=Aa&password=Aa&type=m3u
+
+http://78.46.78.148:8000/get.php?username=tana&password=tana&type=m3u
+
+http://IPTVFREE1.COM:6969/get.php?username=9&password===>_www.iptvrestream.net_<==&type=m3u
+
+http://iptvfree1.com:6969/get.php?username=AppsVilla1&password=TYkQ5kwKlI&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=ALL3/3&password=1bN8b0K4Fh&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=ALL3/2&password=vOkm0GmfTw&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=ALL3/1&password=aMJCbIJ8KL&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=zeromeca&password=mg89912Swv&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=mix020&password=ewqzZrwDEy&type=m3u
+
+http://IPTVFREE1.COM:6969/get.php?username=9&password=www.iptvrestream.net&type=m3u
+
+http://37.187.162.224:1557/get.php?username=ALL3/1&password=aMJCbIJ8KL&type=m3u
+
+http://37.187.162.224:1557/get.php?username=ALL3/2&password=vOkm0GmfTw&type=m3u
