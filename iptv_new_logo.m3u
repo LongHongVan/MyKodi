@@ -2346,7 +2346,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
 
 #EXTINF:-1, tvg-id="155" tvg-name="NBA Pass" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA League Pass
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1294
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1294
 
 #EXTINF:-1, tvg-id="153" tvg-name="NHL Network USA" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/41.png" group-title="TOP SPORT TV", NHL Network USA
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=475
