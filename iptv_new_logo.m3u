@@ -3566,11 +3566,6 @@ http://localhost:8888/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
 ################### End USTVNow #############################
 
-### START Long Hong TV-Box auto created (date: 04.19.2016) USTVNow m3u playlist...###
 
-#EXTINF:-1," tvg-name="ABC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow", Get All USTVNow Channels
-http://localhost:8888/channels-1.m3u
-
-### END Long Hong TV-Box auto created (date: 04.19.2016) USTVNow m3u playlist...###
 
 
