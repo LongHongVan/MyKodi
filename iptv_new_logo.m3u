@@ -3560,6 +3560,10 @@ http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
 http://ilv12.lledg.ustvnow.com/ilv01/mp4:D865CWHTMUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1478869505&cf=1479013505&h=75658bcb03fed50dbbc95a5fbaba4bea
 
 
+#EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="USTVNow", NFL Network 2
+http://localhost:8888/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
+
+
 ################### End USTVNow #############################
 
 
