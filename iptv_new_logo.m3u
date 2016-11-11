@@ -3556,8 +3556,8 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat
 #EXTINF:-1, tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow", ABC HD
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
 
-#EXTINF:-1, tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow", ABC HD 2
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:D865CWHTMUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1478869505&cf=1479013505&h=75658bcb03fed50dbbc95a5fbaba4bea
+#EXTINF:-1, tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow", ABC HD 3
+http://ilv12.oedg.ustvnow.com/ilv01/mp4:D865CWHTMUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae3f7d45f5ea79f041cd86a25a8e9dbfef042afcabb498480463e0575cd44a0b753ab4
 
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="USTVNow", NFL Network 2
