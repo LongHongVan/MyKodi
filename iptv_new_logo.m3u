@@ -3551,3 +3551,12 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat
 ################### End Top UKTV #############################
 
 
+################### USTVNow #############################
+
+#EXTINF:-1, tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow", ABC HD
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
+
+
+################### End USTVNow #############################
+
+
