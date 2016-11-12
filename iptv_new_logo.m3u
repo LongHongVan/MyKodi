@@ -14,6 +14,17 @@ http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4693.ts|User-Agent=www.i
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CHCH HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4694.ts|User-Agent=www.iptvrestream.net
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet World HD
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3058.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet West HD
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2449.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet One HD
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2450.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet 360 HD
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3057.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sportsnet Ontario HD
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2451.ts|User-Agent=www.iptvrestream.net
+
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NBC Sports Network HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent=www.iptvrestream.net
