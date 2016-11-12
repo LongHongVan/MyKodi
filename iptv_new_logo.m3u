@@ -340,8 +340,7 @@ http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/437.ts|User-Agent=www.ip
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/438.ts|User-Agent=www.iptvrestream.net
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Chelsea TV
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/439.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Animal Planet
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/441.ts|User-Agent=www.iptvrestream.net
+
 
 
 ###################### End TS Channels ######################################
@@ -2270,7 +2269,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=82
 #EXTINF:-1, tvg-id="" tvg-name="FOX Miami" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX Miami
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=73
 
-#EXTINF:-1, tvg-name="Fox Sports 1 US" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 US
+#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
 #EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 HD
@@ -3327,7 +3326,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 #EXTINF:0 tvg-name="Fox News HD" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 
-#EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
+#EXTINF:0 tvg-name="Animal Planet HD" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=184
 
 #EXTINF:0 tvg-name="Lifetime HD" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime HD
@@ -3351,7 +3350,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=111
 #EXTINF:-1, tvg-name="HGTV HD" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=112
 
-#EXTINF:-1, tvg-name="E!" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png" group-title="Top Cloud USA TV", E! Entertainment
+#EXTINF:-1, tvg-name="E! HD" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png" group-title="Top Cloud USA TV", E! HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=114
 
 
