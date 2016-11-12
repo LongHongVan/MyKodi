@@ -9,11 +9,13 @@ http://google.com
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", OLYMPIC Channel
 http://IPTVFREE1.COM:6969/live/Livetvfuckyou/2BdAqhZZiM/4641.ts|User-Agent=www.iptvrestream.net
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Offical Olympic Channel (tsf4)
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4641.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Cooking Channel
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4693.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", CHCH HD
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4694.ts|User-Agent=www.iptvrestream.net
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NBC Sports Network
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", NBC Sports Network HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent=www.iptvrestream.net
 
 #EXTINF:-1, tvg-name="ASTRO SuperSport 1" tvg-logo="" group-title="TEST Channels", ASTRO SuperSport 1
@@ -2306,7 +2308,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=439
 #EXTINF:-1, tvg-id="159" tvg-name="Arena Sports" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/442.png" group-title="TOP SPORT TV", Arena Sports 3 (Soccer)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=442
 
-#EXTINF:-1, tvg-id="159" tvg-name="NBC Sport Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sport Network
+#EXTINF:-1, tvg-id="159" tvg-name="NBC Sports Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sports Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=159
 
 #EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN US
@@ -2315,7 +2317,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 #EXTINF:-1, tvg-name="ESPN Latinoamerica" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN Latinoamerica
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=854
 
-#EXTINF:-1, tvg-id="9410" tvg-name="TNT" tvg-logo="www.everyjoe.com/files/2009/09/tnt-logo.jpg" group-title="TOP SPORT TV", TNT
+#EXTINF:-1, tvg-id="9410" tvg-name="TNT HD" tvg-logo="www.everyjoe.com/files/2009/09/tnt-logo.jpg" group-title="TOP SPORT TV", TNT HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
 
 #EXTINF:-1, tvg-id="400" tvg-name="Super Tennis Italia" tvg-logo="www.snescentral.com/0/6/9/0690/logo.gif" group-title="TOP SPORT TV", Super Tennis Italia
