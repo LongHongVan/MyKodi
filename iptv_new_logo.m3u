@@ -2299,7 +2299,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 #EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC Miami" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC Miami
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
 
-#EXTINF:-1, tvg-id="" tvg-name="CBS HD" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS HD
+#EXTINF:-1, tvg-id="" tvg-name="CBS HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e0/NFLCBS06.png" group-title="TOP SPORT TV", CBS HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=72
 
 #EXTINF:-1, tvg-id="" tvg-name="CBS W HD" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS W HD
