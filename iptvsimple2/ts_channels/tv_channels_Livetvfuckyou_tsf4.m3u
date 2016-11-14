@@ -2,6 +2,10 @@
 
 #EXTINF:-1,USA: Offical Olympic Channel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4641.ts|User-Agent=www.iptvrestream.net
+
+#EXTINF:-1,USA: Offical Olympic Channel (2)
+plugin://plugin.video.nbcsnliveextra/?url=http://185.115.32.12:8088/live/8393/skfhsngdfbr/4641.ts&mode=11&name=Olympic_Channel
+
 #EXTINF:-1,USA | NBC XTRA 5 720P
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4636.ts|User-Agent=www.iptvrestream.net
 #EXTINF:-1,USA | NBC XTRA 4 720P
