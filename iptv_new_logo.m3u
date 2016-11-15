@@ -3592,8 +3592,24 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat
 #EXTINF:-1, tvg-name="HGTV HD" tvg-logo="" group-title="USA TV NEW", HGTV HD (USAIPTV)
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/203.mpegts
 
-#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD
-http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2402.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2618.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Bravo HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2410.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet World HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/4030.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet West HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/4031.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet One HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/4032.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet 360 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/4033.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet Ontario HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/4034.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", SPIKE HD
+http://37.187.162.224:1557/live/enigma15/GEALZUocrU/4035.ts
 
 #EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD (F4M)
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2402.ts
