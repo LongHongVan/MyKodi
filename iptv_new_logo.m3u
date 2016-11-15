@@ -3607,6 +3607,9 @@ http://5.226.137.162:8081/BT/222222/index.m3u8
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", BOXnation
 http://88.150.198.114:1857/bax/nation/index.m3u8
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 2 HD
+http://88.150.198.114:1857/FOXSPORTS2/Sports2/index.m3u8
+
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", WWE
 http://88.150.198.114:1857/Wrestling/livewrestling/index.m3u8
 
