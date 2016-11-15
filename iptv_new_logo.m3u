@@ -3595,8 +3595,22 @@ http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2402.ts
 #EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD (F4M)
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2402.ts
 
-#EXTINF:-1, tvg-name="NBC HD" tvg-logo="" group-title="USA TV NEW", NBC HD (F4M)
+#EXTINF:-1, tvg-name="NBC Miami" tvg-logo="" group-title="USA TV NEW", NBC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2440.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NFL Network HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2391.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2432.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2431.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2430.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2429.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 5
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2428.ts
 
 
 ################### End USA TV NEW #############################
