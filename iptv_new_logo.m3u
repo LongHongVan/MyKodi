@@ -3610,6 +3610,21 @@ http://88.150.198.114:1857/bax/nation/index.m3u8
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", WWE
 http://88.150.198.114:1857/Wrestling/livewrestling/index.m3u8
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
+http://79.143.83.90:8600/TSN1/TSN1/index.m3u8
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 2
+http://79.143.83.90:8600/TSN2/TSN2/index.m3u8
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 3
+http://79.143.83.90:8600/TSN3/TSN3/index.m3u8
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 4
+http://79.143.83.90:8600/TSN4/TSN4/index.m3u8
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 5
+http://79.143.83.90:8600/TSN5/TSN5/index.m3u8
+
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 1 HD
 http://79.143.83.90:8600/ARENA1/SPORTS/index.m3u8
 
