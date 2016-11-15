@@ -105,15 +105,15 @@ http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1080.ts|User-Agent==iptv
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sports 1 HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/26.ts|User-Agent==iptvrestream.net=
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sports 2 HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/24.ts|User-Agent==iptvrestream.net=
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sports 3 HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/23.ts|User-Agent==iptvrestream.net=
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 4 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sports 4 HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/20.ts|User-Agent==iptvrestream.net=
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports 5 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sports 5 HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/28.ts|User-Agent==iptvrestream.net=
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", SKY Sports F1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Sky Sports F1 HD
 #http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/26.ts|User-Agent==iptvrestream.net=
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TEST Channels", Bein Sports USA
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1104.ts|User-Agent==iptvrestream.net=
@@ -2402,7 +2402,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=545
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", Sky Sports 5 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=546
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TOP SPORT TV", SKY Sports F1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TOP SPORT TV", Sky Sports F1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=519
 
 
