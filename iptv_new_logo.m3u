@@ -3604,6 +3604,12 @@ http://5.226.137.162:8081/BT/11111/index.m3u8
 #EXTINF:-1, tvg-name="BT Sports 2 HD" tvg-logo="" group-title="USA TV NEW", BT Sports 2 HD
 http://5.226.137.162:8081/BT/222222/index.m3u8
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", BOXnation
+http://88.150.198.114:1857/bax/nation/index.m3u8
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", WWE
+http://88.150.198.114:1857/Wrestling/livewrestling/index.m3u8
+
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 1 HD
 http://79.143.83.90:8600/ARENA1/SPORTS/index.m3u8
 
@@ -3615,6 +3621,8 @@ http://79.143.83.90:8600/ARENA3/SPORTS3/index.m3u8
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 4 HD
 http://79.143.83.90:8600/ARENA4/SPORTS4/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 5 HD
+http://79.143.83.90:8600/ARENA5/SPORTS5/index.m3u8
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2618.ts
