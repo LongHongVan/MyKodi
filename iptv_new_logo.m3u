@@ -3590,7 +3590,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat
 ################### USA TV NEW #############################
 
 #EXTINF:-1, tvg-name="HGTV HD" tvg-logo="" group-title="USA TV NEW", HGTV HD (USAIPTV)
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/203.mpegts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/203.mpegts
 
 #EXTINF:-1, tvg-name="Sport 4" tvg-logo="" group-title="USA TV NEW", PAC 12 Bay Area 1080i
 http://xrxs.net/video/live-p12baya-4728.m3u8
@@ -3654,7 +3654,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TBS HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2380.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", CNN HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", CNN News HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2406.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Lifetime HD
