@@ -3651,6 +3651,18 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Bravo HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2410.ts
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TBS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2380.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", CNN HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2406.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Lifetime HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2396.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", AFN Sports HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/2412.ts
+
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet World HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/enigma15/GEALZUocrU/4030.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet West HD
