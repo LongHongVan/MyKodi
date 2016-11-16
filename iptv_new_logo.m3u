@@ -3387,7 +3387,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/878.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BBC Two HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1839.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", CBBC Three
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BBC Three HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1840.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BBC News
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1841.ts
