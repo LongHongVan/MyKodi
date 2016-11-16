@@ -18,11 +18,11 @@ http://free-premium-iptv.ddns.net:9090/load/free123/5.mpegts
 http://free-premium-iptv.ddns.net:9090/load/free123/8.mpegts
 #EXTINF:-1    group-title="TEST Channels",USA Network HD
 http://free-premium-iptv.ddns.net:9090/load/free123/10.mpegts
-#EXTINF:-1    group-title="TEST Channels",SyFY HD
+#EXTINF:-1    group-title="TEST Channels",SYFY HD
 http://free-premium-iptv.ddns.net:9090/load/free123/11.mpegts
 #EXTINF:-1    group-title="TEST Channels",Spike HD
 http://free-premium-iptv.ddns.net:9090/load/free123/12.mpegts
-#EXTINF:-1    group-title="TEST Channels",HallMark HD
+#EXTINF:-1    group-title="TEST Channels",Hallmark Channel HD
 http://free-premium-iptv.ddns.net:9090/load/free123/9.mpegts
 #EXTINF:-1    group-title="TEST Channels",FX HD
 http://free-premium-iptv.ddns.net:9090/load/free123/7.mpegts
@@ -32,23 +32,23 @@ http://free-premium-iptv.ddns.net:9090/load/free123/6.mpegts
 http://free-premium-iptv.ddns.net:9090/load/free123/13.mpegts
 #EXTINF:-1    group-title="TEST Channels",Comedy Central HD
 http://free-premium-iptv.ddns.net:9090/load/free123/14.mpegts
-#EXTINF:-1    group-title="TEST Channels",Lifetime US
+#EXTINF:-1    group-title="TEST Channels",Lifetime HD
 http://free-premium-iptv.ddns.net:9090/load/free123/15.mpegts
 #EXTINF:-1    group-title="TEST Channels",CNN HD
 http://free-premium-iptv.ddns.net:9090/load/free123/16.mpegts
-#EXTINF:-1    group-title="TEST Channels",HBO EAST
+#EXTINF:-1    group-title="TEST Channels",HBO East
 http://free-premium-iptv.ddns.net:9090/load/free123/17.mpegts
-#EXTINF:-1    group-title="TEST Channels",HBO Comedy
+#EXTINF:-1    group-title="TEST Channels",HBO Comedy East
 http://free-premium-iptv.ddns.net:9090/load/free123/53.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO Family
 http://free-premium-iptv.ddns.net:9090/load/free123/52.mpegts
-#EXTINF:-1    group-title="TEST Channels",HBO Signature
+#EXTINF:-1    group-title="TEST Channels",HBO Signature East
 http://free-premium-iptv.ddns.net:9090/load/free123/51.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO ZONE
 http://free-premium-iptv.ddns.net:9090/load/free123/50.mpegts
-#EXTINF:-1    group-title="TEST Channels",Showtime
+#EXTINF:-1    group-title="TEST Channels",Showtime East
 http://free-premium-iptv.ddns.net:9090/load/free123/19.mpegts
-#EXTINF:-1    group-title="TEST Channels",Cinemas EAST
+#EXTINF:-1    group-title="TEST Channels",Cinemas East
 http://free-premium-iptv.ddns.net:9090/load/free123/18.mpegts
 #EXTINF:-1    group-title="TEST Channels",Cinemax ActionMax
 http://free-premium-iptv.ddns.net:9090/load/free123/20.mpegts
@@ -66,21 +66,21 @@ http://free-premium-iptv.ddns.net:9090/load/free123/25.mpegts
 http://free-premium-iptv.ddns.net:9090/load/free123/49.mpegts
 #EXTINF:-1    group-title="TEST Channels",National Geographic HD
 http://free-premium-iptv.ddns.net:9090/load/free123/26.mpegts
-#EXTINF:-1    group-title="TEST Channels",NatGeo Wild HD
+#EXTINF:-1    group-title="TEST Channels",Nat Geo Wild HD
 http://free-premium-iptv.ddns.net:9090/load/free123/48.mpegts
 #EXTINF:-1    group-title="TEST Channels",Animal Planet HD
 http://free-premium-iptv.ddns.net:9090/load/free123/27.mpegts
-#EXTINF:-1    group-title="TEST Channels",Investigation Discovery  HD
+#EXTINF:-1    group-title="TEST Channels",Investigation Discovery
 http://free-premium-iptv.ddns.net:9090/load/free123/28.mpegts
 #EXTINF:-1    group-title="TEST Channels",HGTV HD
 http://free-premium-iptv.ddns.net:9090/load/free123/29.mpegts
 #EXTINF:-1    group-title="TEST Channels",ESPN HD
 http://free-premium-iptv.ddns.net:9090/load/free123/30.mpegts
-#EXTINF:-1    group-title="TEST Channels",ESPN2 HD
+#EXTINF:-1    group-title="TEST Channels",ESPN 2 US
 http://free-premium-iptv.ddns.net:9090/load/free123/31.mpegts
-#EXTINF:-1    group-title="TEST Channels",Fox Sports1 HD
+#EXTINF:-1    group-title="TEST Channels",Fox Sports 1 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/32.mpegts
-#EXTINF:-1    group-title="TEST Channels",Fox Sports2 HD
+#EXTINF:-1    group-title="TEST Channels",Fox Sports 2 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/33.mpegts
 #EXTINF:-1    group-title="TEST Channels",NBA TV HD
 http://free-premium-iptv.ddns.net:9090/load/free123/34.mpegts
