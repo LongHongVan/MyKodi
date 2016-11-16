@@ -3393,64 +3393,64 @@ http://79.143.83.90:8600/ARENA4/SPORTS4/index.m3u8
 http://79.143.83.90:8600/ARENA5/SPORTS5/index.m3u8
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2618.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2618.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NBA TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//3716.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3716.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Bravo HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2410.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2410.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TBS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2380.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2380.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", CNN News HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2406.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2406.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Lifetime HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2396.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2396.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", AFN Sports HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2412.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2412.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet World HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//4030.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4030.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet West HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//4031.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4031.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet One HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//4032.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4032.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet 360 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//4033.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4033.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet Ontario HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//4034.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4034.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", E! HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//4063.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4063.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", FYI HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//4058.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4058.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Cartoon Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//4073.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4073.ts
 
 #EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD (F4M)
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2402.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2402.ts
 
 #EXTINF:-1, tvg-name="NBC Miami" tvg-logo="" group-title="USA TV NEW", NBC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2440.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2440.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NFL Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2391.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2391.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2432.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2432.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2431.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2431.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2430.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2430.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2429.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2429.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix15/iJqewva2VG//2428.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2428.ts
 
 
 ################### End USA TV NEW #############################
