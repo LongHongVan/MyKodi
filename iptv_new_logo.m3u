@@ -4,112 +4,112 @@
 http://google.com
 
 
-#EXTINF:-1    group-title="TEST Channels",NBC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/1.mpegts
-#EXTINF:-1    group-title="TEST Channels",A&E
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/2.mpegts
-#EXTINF:-1    group-title="TEST Channels",ABC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/3.mpegts
-#EXTINF:-1    group-title="TEST Channels",AMC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/4.mpegts
-#EXTINF:-1    group-title="TEST Channels",E!
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/5.mpegts
-#EXTINF:-1    group-title="TEST Channels",LMN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/8.mpegts
-#EXTINF:-1    group-title="TEST Channels",USA Network
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/10.mpegts
-#EXTINF:-1    group-title="TEST Channels",SyFY US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/11.mpegts
-#EXTINF:-1    group-title="TEST Channels",Spike US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/12.mpegts
-#EXTINF:-1    group-title="TEST Channels",HallMark
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/9.mpegts
-#EXTINF:-1    group-title="TEST Channels",FX
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/7.mpegts
-#EXTINF:-1    group-title="TEST Channels",FOX
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/6.mpegts
-#EXTINF:-1    group-title="TEST Channels",TNT
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/13.mpegts
-#EXTINF:-1    group-title="TEST Channels",Comedy Central US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/14.mpegts
+#EXTINF:-1    group-title="TEST Channels",NBC HD
+http://free-premium-iptv.ddns.net:9090/load/free123/1.mpegts
+#EXTINF:-1    group-title="TEST Channels",A&E HD
+http://free-premium-iptv.ddns.net:9090/load/free123/2.mpegts
+#EXTINF:-1    group-title="TEST Channels",ABC HD
+http://free-premium-iptv.ddns.net:9090/load/free123/3.mpegts
+#EXTINF:-1    group-title="TEST Channels",AMC HD
+http://free-premium-iptv.ddns.net:9090/load/free123/4.mpegts
+#EXTINF:-1    group-title="TEST Channels",E! HD
+http://free-premium-iptv.ddns.net:9090/load/free123/5.mpegts
+#EXTINF:-1    group-title="TEST Channels",LMN HD
+http://free-premium-iptv.ddns.net:9090/load/free123/8.mpegts
+#EXTINF:-1    group-title="TEST Channels",USA Network HD
+http://free-premium-iptv.ddns.net:9090/load/free123/10.mpegts
+#EXTINF:-1    group-title="TEST Channels",SyFY HD
+http://free-premium-iptv.ddns.net:9090/load/free123/11.mpegts
+#EXTINF:-1    group-title="TEST Channels",Spike HD
+http://free-premium-iptv.ddns.net:9090/load/free123/12.mpegts
+#EXTINF:-1    group-title="TEST Channels",HallMark HD
+http://free-premium-iptv.ddns.net:9090/load/free123/9.mpegts
+#EXTINF:-1    group-title="TEST Channels",FX HD
+http://free-premium-iptv.ddns.net:9090/load/free123/7.mpegts
+#EXTINF:-1    group-title="TEST Channels",FOX HD
+http://free-premium-iptv.ddns.net:9090/load/free123/6.mpegts
+#EXTINF:-1    group-title="TEST Channels",TNT HD
+http://free-premium-iptv.ddns.net:9090/load/free123/13.mpegts
+#EXTINF:-1    group-title="TEST Channels",Comedy Central HD
+http://free-premium-iptv.ddns.net:9090/load/free123/14.mpegts
 #EXTINF:-1    group-title="TEST Channels",Lifetime US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/15.mpegts
-#EXTINF:-1    group-title="TEST Channels",CNN US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/16.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/15.mpegts
+#EXTINF:-1    group-title="TEST Channels",CNN HD
+http://free-premium-iptv.ddns.net:9090/load/free123/16.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO EAST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/17.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/17.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO Comedy
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/53.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/53.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO Family
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/52.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/52.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO Signature
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/51.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/51.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO ZONE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/50.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/50.mpegts
 #EXTINF:-1    group-title="TEST Channels",Showtime
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/19.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/19.mpegts
 #EXTINF:-1    group-title="TEST Channels",Cinemas EAST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/18.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/18.mpegts
 #EXTINF:-1    group-title="TEST Channels",Cinemax ActionMax
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/20.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/20.mpegts
 #EXTINF:-1    group-title="TEST Channels",Cinemax 5Stars
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/21.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/21.mpegts
 #EXTINF:-1    group-title="TEST Channels",Starz Edge
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/22.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/22.mpegts
 #EXTINF:-1    group-title="TEST Channels",Starz Encore
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/23.mpegts
-#EXTINF:-1    group-title="TEST Channels",History US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/24.mpegts
-#EXTINF:-1    group-title="TEST Channels",H2 US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/25.mpegts
-#EXTINF:-1    group-title="TEST Channels",Discovery Channel US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/49.mpegts
-#EXTINF:-1    group-title="TEST Channels",National Geographic US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/26.mpegts
-#EXTINF:-1    group-title="TEST Channels",NatGeo Wild US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/48.mpegts
-#EXTINF:-1    group-title="TEST Channels",Animal Planet US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/27.mpegts
-#EXTINF:-1    group-title="TEST Channels",Investigation Discovery  US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/28.mpegts
-#EXTINF:-1    group-title="TEST Channels",HGTV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/29.mpegts
-#EXTINF:-1    group-title="TEST Channels",ESPN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/30.mpegts
-#EXTINF:-1    group-title="TEST Channels",ESPN2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/31.mpegts
-#EXTINF:-1    group-title="TEST Channels",Fox Sports1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/32.mpegts
-#EXTINF:-1    group-title="TEST Channels",Fox Sports2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/33.mpegts
-#EXTINF:-1    group-title="TEST Channels",NBA
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/34.mpegts
-#EXTINF:-1    group-title="TEST Channels",NFL Network
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/35.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/36.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/37.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/38.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/39.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/40.mpegts
-#EXTINF:-1    group-title="TEST Channels",TBS
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/42.mpegts
-#EXTINF:-1    group-title="TEST Channels",NBC SN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/43.mpegts
-#EXTINF:-1    group-title="TEST Channels",Sportnet 360
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/45.mpegts
-#EXTINF:-1    group-title="TEST Channels",SPORTSNET WORLD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/46.mpegts
-#EXTINF:-1    group-title="TEST Channels",Sportsnet Ontario
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/47.mpegts
-#EXTINF:-1    group-title="TEST Channels",Sportsnet ONE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/44.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/23.mpegts
+#EXTINF:-1    group-title="TEST Channels",History
+http://free-premium-iptv.ddns.net:9090/load/free123/24.mpegts
+#EXTINF:-1    group-title="TEST Channels",H2
+http://free-premium-iptv.ddns.net:9090/load/free123/25.mpegts
+#EXTINF:-1    group-title="TEST Channels",Discovery Channel HD
+http://free-premium-iptv.ddns.net:9090/load/free123/49.mpegts
+#EXTINF:-1    group-title="TEST Channels",National Geographic HD
+http://free-premium-iptv.ddns.net:9090/load/free123/26.mpegts
+#EXTINF:-1    group-title="TEST Channels",NatGeo Wild HD
+http://free-premium-iptv.ddns.net:9090/load/free123/48.mpegts
+#EXTINF:-1    group-title="TEST Channels",Animal Planet HD
+http://free-premium-iptv.ddns.net:9090/load/free123/27.mpegts
+#EXTINF:-1    group-title="TEST Channels",Investigation Discovery  HD
+http://free-premium-iptv.ddns.net:9090/load/free123/28.mpegts
+#EXTINF:-1    group-title="TEST Channels",HGTV HD
+http://free-premium-iptv.ddns.net:9090/load/free123/29.mpegts
+#EXTINF:-1    group-title="TEST Channels",ESPN HD
+http://free-premium-iptv.ddns.net:9090/load/free123/30.mpegts
+#EXTINF:-1    group-title="TEST Channels",ESPN2 HD
+http://free-premium-iptv.ddns.net:9090/load/free123/31.mpegts
+#EXTINF:-1    group-title="TEST Channels",Fox Sports1 HD
+http://free-premium-iptv.ddns.net:9090/load/free123/32.mpegts
+#EXTINF:-1    group-title="TEST Channels",Fox Sports2 HD
+http://free-premium-iptv.ddns.net:9090/load/free123/33.mpegts
+#EXTINF:-1    group-title="TEST Channels",NBA TV HD
+http://free-premium-iptv.ddns.net:9090/load/free123/34.mpegts
+#EXTINF:-1    group-title="TEST Channels",NFL Network HD
+http://free-premium-iptv.ddns.net:9090/load/free123/35.mpegts
+#EXTINF:-1    group-title="TEST Channels",TSN 1
+http://free-premium-iptv.ddns.net:9090/load/free123/36.mpegts
+#EXTINF:-1    group-title="TEST Channels",TSN 2
+http://free-premium-iptv.ddns.net:9090/load/free123/37.mpegts
+#EXTINF:-1    group-title="TEST Channels",TSN 3
+http://free-premium-iptv.ddns.net:9090/load/free123/38.mpegts
+#EXTINF:-1    group-title="TEST Channels",TSN 4
+http://free-premium-iptv.ddns.net:9090/load/free123/39.mpegts
+#EXTINF:-1    group-title="TEST Channels",TSN 5
+http://free-premium-iptv.ddns.net:9090/load/free123/40.mpegts
+#EXTINF:-1    group-title="TEST Channels",TBS HD
+http://free-premium-iptv.ddns.net:9090/load/free123/42.mpegts
+#EXTINF:-1    group-title="TEST Channels",NBC Sports Network
+http://free-premium-iptv.ddns.net:9090/load/free123/43.mpegts
+#EXTINF:-1    group-title="TEST Channels",Sportnets 360
+http://free-premium-iptv.ddns.net:9090/load/free123/45.mpegts
+#EXTINF:-1    group-title="TEST Channels",Sportnets World
+http://free-premium-iptv.ddns.net:9090/load/free123/46.mpegts
+#EXTINF:-1    group-title="TEST Channels",Sportnets Ontario
+http://free-premium-iptv.ddns.net:9090/load/free123/47.mpegts
+#EXTINF:-1    group-title="TEST Channels",Sportnets One
+http://free-premium-iptv.ddns.net:9090/load/free123/44.mpegts
 #EXTINF:-1    group-title="TEST Channels",Showtime West
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://free-premium-iptv.ddns.net:9090/load/free123/54.mpegts
+http://free-premium-iptv.ddns.net:9090/load/free123/54.mpegts
 
 
 ###################### Kid TV ######################################
