@@ -3358,5 +3358,263 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sports F1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1796.ts
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/882.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/883.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 3 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/884.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 4 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/885.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 5 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/886.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 6 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/887.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 7 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/888.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 8 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/889.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 9 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1729.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 10 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1730.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Bein Sports 11 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1769.ts
+
+############# More UKTV - Entertainments #######################
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BBC 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/878.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BBC_one
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1838.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BBC Two
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1839.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", CBBC Three
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1840.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BBC News
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1841.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BBC 4 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1745.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", More4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3777.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", CHANNEL 5
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1742.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", RTE Two
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3759.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", RTE One
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3758.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", RTE 3 J.R
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3760.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", 3E Ireland
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3780.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", E!
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3779.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Itv Encore
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3778.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", ITV 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1267.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", ITV 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1266.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", ITV 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1265.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", ITV 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1264.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Watch
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1738.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", ABC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1928.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", TV Nasa
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1568.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", TLC-IRELAND
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1746.ts
+#EXTINF:-1,FR: EuroNews
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/920.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", SYFY
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3770.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", FOX
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1783.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Fox sd
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3776.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", TCM (film)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3757.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Life Time
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1831.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Comedy Central
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2709.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky One HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1833.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", SKY Two HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1259.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", SKY Atlantic HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1258.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", SKY Movies Premier HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1253.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies  Premiere
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1748.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Action & Adventure HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1060.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Hits Showcase HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1795.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", SkyShowcase
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2712.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Action
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1747.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Family HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2708.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Comedy HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1096.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Drama & Romance
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1694.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Drama & Romance.
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1794.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Crime &Thriller HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1251.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Thriller
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1805.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Sci-fi & Horror HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1252.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Greats HD HarryPotter
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1098.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Movies Select
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1099.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", SkySelect
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2714.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", HBO Comedy HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3768.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", HBO
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3766.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Gold TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3775.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", SKY Movies Disney HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1255.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Disney XD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1832.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Disney Junior
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1271.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Cartoon Network
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2378.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", NIck JR
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1672.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Nickelodeon
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1261.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", NickToons
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3748.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Nick JR+1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3750.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Nick JR Peppa
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3751.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BoomeRang
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/891.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Boomerang+1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2713.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Baby TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2927.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Movies4Man1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3764.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Movies4Man
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3763.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Movies24
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3774.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", CBS Action
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1277.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", CBS Drama
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1276.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", CBS Reality
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1275.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", True Movies 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2710.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", True Movies 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2711.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Film 4 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2715.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Film 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1813.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Channel 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1820.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Arts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1782.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Alibi
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1793.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Star LifeOK (hindi)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3781.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Star Gold
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3771.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", SONY TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3761.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sony Sab
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3772.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sony Movie
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3773.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sony Max
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3782.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", MTV Rocks
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3756.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", MTV Music
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3755.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", MTV Hits
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3754.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", MTV Dance
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3753.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", MTV Base
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3752.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", 5 USA
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1824.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", 3E
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1825.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Travel
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1802.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", TLC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1803.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky News
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1829.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Good Food
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1791.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Quest
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1807.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", PICK
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1808.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", REALLY
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1935.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", ITVBE
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1936.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Discovery Turbo
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1815.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Discovery Science
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1816.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Discovery Home Health
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1817.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Discovery
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1818.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Discovery Channel
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1673.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Nat Geo Wild
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1262.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", National Geographic Channel
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1322.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Nat Geo
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1263.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Discovery History
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1274.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", History Channel
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1268.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Animal Planet
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1822.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Dave
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1790.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Chelsea TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1835.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", At The Races
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1821.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sport News HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1675.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sport F1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1120.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BT Sport ESPN
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1671.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Setanta spor
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2745.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", EuroSport 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/921.ts
+
 ################### Top UKTV ###################################
 
