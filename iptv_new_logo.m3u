@@ -1877,13 +1877,13 @@ http://google.com
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=488
 
 #EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=499
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1713.ts
 
 #EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=497
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3476.ts
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station
-=http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1698.ts
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station Extra
 http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
