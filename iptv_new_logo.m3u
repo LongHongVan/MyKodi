@@ -34,7 +34,7 @@ http://free-premium-iptv.ddns.net:9090/load/free123/13.mpegts
 http://free-premium-iptv.ddns.net:9090/load/free123/14.mpegts
 #EXTINF:-1    group-title="TEST Channels",Lifetime HD
 http://free-premium-iptv.ddns.net:9090/load/free123/15.mpegts
-#EXTINF:-1    group-title="TEST Channels",CNN HD
+#EXTINF:-1    group-title="TEST Channels",CNN News HD
 http://free-premium-iptv.ddns.net:9090/load/free123/16.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO East
 http://free-premium-iptv.ddns.net:9090/load/free123/17.mpegts
@@ -64,7 +64,7 @@ http://free-premium-iptv.ddns.net:9090/load/free123/24.mpegts
 http://free-premium-iptv.ddns.net:9090/load/free123/25.mpegts
 #EXTINF:-1    group-title="TEST Channels",Discovery Channel HD
 http://free-premium-iptv.ddns.net:9090/load/free123/49.mpegts
-#EXTINF:-1    group-title="TEST Channels",National Geographic HD
+#EXTINF:-1    group-title="TEST Channels",National Geographic Channel
 http://free-premium-iptv.ddns.net:9090/load/free123/26.mpegts
 #EXTINF:-1    group-title="TEST Channels",Nat Geo Wild HD
 http://free-premium-iptv.ddns.net:9090/load/free123/48.mpegts
@@ -98,15 +98,15 @@ http://free-premium-iptv.ddns.net:9090/load/free123/39.mpegts
 http://free-premium-iptv.ddns.net:9090/load/free123/40.mpegts
 #EXTINF:-1    group-title="TEST Channels",TBS HD
 http://free-premium-iptv.ddns.net:9090/load/free123/42.mpegts
-#EXTINF:-1    group-title="TEST Channels",NBC Sports Network
+#EXTINF:-1    group-title="TEST Channels",NBC Sports Network HD
 http://free-premium-iptv.ddns.net:9090/load/free123/43.mpegts
-#EXTINF:-1    group-title="TEST Channels",Sportnets 360
+#EXTINF:-1    group-title="TEST Channels",Sportnets 360 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/45.mpegts
-#EXTINF:-1    group-title="TEST Channels",Sportnets World
+#EXTINF:-1    group-title="TEST Channels",Sportnets World HD
 http://free-premium-iptv.ddns.net:9090/load/free123/46.mpegts
-#EXTINF:-1    group-title="TEST Channels",Sportnets Ontario
+#EXTINF:-1    group-title="TEST Channels",Sportnets Ontario HD
 http://free-premium-iptv.ddns.net:9090/load/free123/47.mpegts
-#EXTINF:-1    group-title="TEST Channels",Sportnets One
+#EXTINF:-1    group-title="TEST Channels",Sportnets One HD
 http://free-premium-iptv.ddns.net:9090/load/free123/44.mpegts
 #EXTINF:-1    group-title="TEST Channels",Showtime West
 http://free-premium-iptv.ddns.net:9090/load/free123/54.mpegts
