@@ -43,27 +43,27 @@ http://free-premium-iptv.ddns.net:9090/load/free123/15.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO Comedy East
 http://free-premium-iptv.ddns.net:9090/load/free123/53.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO Family
-http://free-premium-iptv.ddns.net:9090/load/free123/52.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/52.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO Signature East
 http://free-premium-iptv.ddns.net:9090/load/free123/51.mpegts
 #EXTINF:-1    group-title="TEST Channels",HBO ZONE
-http://free-premium-iptv.ddns.net:9090/load/free123/50.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/50.mpegts
 #EXTINF:-1    group-title="TEST Channels",Showtime East
-http://free-premium-iptv.ddns.net:9090/load/free123/19.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/19.mpegts
 #EXTINF:-1    group-title="TEST Channels",Cinemas East
 #http://free-premium-iptv.ddns.net:9090/load/free123/18.mpegts
 #EXTINF:-1    group-title="TEST Channels",Cinemax ActionMax
-http://free-premium-iptv.ddns.net:9090/load/free123/20.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/20.mpegts
 #EXTINF:-1    group-title="TEST Channels",Cinemax 5Stars
-http://free-premium-iptv.ddns.net:9090/load/free123/21.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/21.mpegts
 #EXTINF:-1    group-title="TEST Channels",Starz Edge
-http://free-premium-iptv.ddns.net:9090/load/free123/22.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/22.mpegts
 #EXTINF:-1    group-title="TEST Channels",Starz Encore
-http://free-premium-iptv.ddns.net:9090/load/free123/23.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/23.mpegts
 #EXTINF:-1    group-title="TEST Channels",History
 http://free-premium-iptv.ddns.net:9090/load/free123/24.mpegts
 #EXTINF:-1    group-title="TEST Channels",H2
-http://free-premium-iptv.ddns.net:9090/load/free123/25.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/25.mpegts
 #EXTINF:-1    group-title="TEST Channels",Discovery Channel HD
 http://free-premium-iptv.ddns.net:9090/load/free123/49.mpegts
 #EXTINF:-1    group-title="TEST Channels",National Geographic Channel
