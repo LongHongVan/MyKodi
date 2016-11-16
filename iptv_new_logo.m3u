@@ -3421,21 +3421,17 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", BT Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1386.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sport 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1109.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sport 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1112.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sport 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1113.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sport 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1115.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sport 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1116.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sport 4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1388.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sport 5 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 5 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1119.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports F1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports F1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1796.ts
 
 
