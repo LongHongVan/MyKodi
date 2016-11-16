@@ -3193,134 +3193,6 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=185
 
 
 
-################### Top UKTV TS Live Channels - 16.10.14 - LH #############################
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",UK_EUROSPORT_1_HD
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1050.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",UK_EUROSPORT_2_HD
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1113.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",UK_SKY_SPORT_F1
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1039.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",(us) fox sports 1hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8522.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",(us) fox sport 2hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8521.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: fox sport 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8551.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: fox sport 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8552.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: fox sport 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8553.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: k 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8546.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Epl: k pc
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ju031.jupiter.fastwebserver.de:8000/live/kris/kris/8545.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sport 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1017.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1009.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1010.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1601.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",k: sky sports 5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1602.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky sports f1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1603.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: bt sports 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/2113.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: bt sports 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/2114.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: eurosport 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1254.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: premier sport
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1251.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky bt sport 1 hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1036.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky bt sport 2 hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1037.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Uk: sky setanta sports 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/1035.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports 1hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/10.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_2hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/9.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_3hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/8.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_4hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/7.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_5hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/6.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_6hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/5.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_7hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/4.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_8hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/3.ts
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV",Beinsports_9hd
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ip.kmsat.info:8000/live/salah/salah/2.ts
-
-
-################### End Top UKTV #############################
-
-
 ################### USTVNow #############################
 
 #EXTINF:-1, tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow", ABC HD
@@ -3348,19 +3220,15 @@ http://xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF:-1, tvg-name="Sport 3" tvg-logo="" group-title="USA TV NEW", PAC 12 LA 720p
 http://xrxs.net/video/live-p12losa-2328.m3u8
 
-#EXTINF:-1, tvg-name="BT Sports 1 HD" tvg-logo="" group-title="USA TV NEW", BT Sports 1 HD
-http://5.226.137.162:8081/BT/11111/index.m3u8
 
-#EXTINF:-1, tvg-name="BT Sports 2 HD" tvg-logo="" group-title="USA TV NEW", BT Sports 2 HD
-http://5.226.137.162:8081/BT/222222/index.m3u8
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", BOXnation
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", BOXnation
 http://88.150.198.114:1857/bax/nation/index.m3u8
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 2 HD
 http://88.150.198.114:1857/FOXSPORTS2/Sports2/index.m3u8
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", WWE
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", WWE
 http://88.150.198.114:1857/Wrestling/livewrestling/index.m3u8
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
@@ -3377,20 +3245,6 @@ http://79.143.83.90:8600/TSN3/TSN3/index.m3u8
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 5
 http://79.143.83.90:8600/TSN5/TSN5/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 1 HD
-http://79.143.83.90:8600/ARENA1/SPORTS/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 2 HD
-http://79.143.83.90:8600/ARENA2/SPORTS2/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 3 HD
-http://79.143.83.90:8600/ARENA3/SPORTS3/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 4 HD
-http://79.143.83.90:8600/ARENA4/SPORTS4/index.m3u8
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Arena Sports 5 HD
-http://79.143.83.90:8600/ARENA5/SPORTS5/index.m3u8
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2618.ts
@@ -3413,28 +3267,6 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Showtime East
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2390.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", AFN Sports HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2412.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", BT Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/892.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", BT Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1386.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1109.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1112.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1115.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1388.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1119.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sky Sports F1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1796.ts
-
-
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet World HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4030.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet West HD
@@ -3454,7 +3286,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Cartoon Network HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/4073.ts
 
-#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD (F4M)
+#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2402.ts
 
 #EXTINF:-1, tvg-name="NBC Miami" tvg-logo="" group-title="USA TV NEW", NBC HD
@@ -3476,4 +3308,55 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 
 
 ################### End USA TV NEW #############################
+
+################### Top UKTV ###################################
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Arena Sports 1 HD
+http://79.143.83.90:8600/ARENA1/SPORTS/index.m3u8
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Arena Sports 2 HD
+http://79.143.83.90:8600/ARENA2/SPORTS2/index.m3u8
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Arena Sports 3 HD
+http://79.143.83.90:8600/ARENA3/SPORTS3/index.m3u8
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Arena Sports 4 HD
+http://79.143.83.90:8600/ARENA4/SPORTS4/index.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Arena Sports 5 HD
+http://79.143.83.90:8600/ARENA5/SPORTS5/index.m3u8
+
+
+#EXTINF:-1, tvg-name="BT Sports 1 HD" tvg-logo="" group-title="USA TV NEW", BT Sports 1 HD
+http://5.226.137.162:8081/BT/11111/index.m3u8
+
+#EXTINF:-1, tvg-name="BT Sports 2 HD" tvg-logo="" group-title="USA TV NEW", BT Sports 2 HD
+http://5.226.137.162:8081/BT/222222/index.m3u8
+
+#EXTINF:-1, tvg-name="BT Sports 1 HD" tvg-logo="" group-title="Top UKTV", BT Sports 1 HD 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/892.ts
+#EXTINF:-1, tvg-name="BT Sports 2 HD" tvg-logo="" group-title="Top UKTV", BT Sports 2 HD 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1386.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", AFN Sports HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/2412.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Eurosport 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3956.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Eurosport 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/3957.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sports 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1109.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sports 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1112.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sports 3 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1115.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sports 4 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1388.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sports 5 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1119.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="Top UKTV", Sky Sports F1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/mix16/a85UYfpKR4/1796.ts
+
+################### Top UKTV ###################################
 
