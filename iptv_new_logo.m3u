@@ -5,17 +5,19 @@ http://google.com
 
 
 #EXTINF:-1    group-title="TEST Channels",NBC HD
-http://free-premium-iptv.ddns.net:9090/load/free123/1.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/1.mpegts
 #EXTINF:-1    group-title="TEST Channels",A&E HD
-http://free-premium-iptv.ddns.net:9090/load/free123/2.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/2.mpegts
 #EXTINF:-1    group-title="TEST Channels",ABC HD
-http://free-premium-iptv.ddns.net:9090/load/free123/3.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/3.mpegts
 #EXTINF:-1    group-title="TEST Channels",AMC HD
-http://free-premium-iptv.ddns.net:9090/load/free123/4.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/4.mpegts
 #EXTINF:-1    group-title="TEST Channels",E! HD
-http://free-premium-iptv.ddns.net:9090/load/free123/5.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/5.mpegts
 #EXTINF:-1    group-title="TEST Channels",LMN HD
-http://free-premium-iptv.ddns.net:9090/load/free123/8.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/8.mpegts
+
+
 #EXTINF:-1    group-title="TEST Channels",USA Network HD
 http://free-premium-iptv.ddns.net:9090/load/free123/10.mpegts
 #EXTINF:-1    group-title="TEST Channels",SYFY HD
@@ -23,7 +25,7 @@ http://free-premium-iptv.ddns.net:9090/load/free123/11.mpegts
 #EXTINF:-1    group-title="TEST Channels",Spike HD
 http://free-premium-iptv.ddns.net:9090/load/free123/12.mpegts
 #EXTINF:-1    group-title="TEST Channels",Hallmark Channel HD
-http://free-premium-iptv.ddns.net:9090/load/free123/9.mpegts
+#http://free-premium-iptv.ddns.net:9090/load/free123/9.mpegts
 #EXTINF:-1    group-title="TEST Channels",FX HD
 http://free-premium-iptv.ddns.net:9090/load/free123/7.mpegts
 #EXTINF:-1    group-title="TEST Channels",FOX HD
