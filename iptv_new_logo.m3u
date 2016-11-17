@@ -2069,7 +2069,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=873
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=870
 
 #EXTINF:-1, tvg-id="159" tvg-name="Bundesliga Soccer" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/439.png" group-title="TOP SPORT TV", Bundesliga Soccer
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=439
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=439
 
 #EXTINF:-1, tvg-id="159" tvg-name="Arena Sports" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/442.png" group-title="TOP SPORT TV", Arena Sports 3 (Soccer)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=442
@@ -2202,15 +2202,13 @@ http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
 
 
 #EXTINF:-1, tvg-name="Sport 6" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Washington HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/397.ts|User-Agent==iptvrestream.net=
+#http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/397.ts|User-Agent==iptvrestream.net=
 #EXTINF:-1, tvg-name="Sport 3" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Oregon HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/395.ts|User-Agent==iptvrestream.net=
+#http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/395.ts|User-Agent==iptvrestream.net=
 #EXTINF:-1, tvg-name="Sport 5" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Los Angeles HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/394.ts|User-Agent==iptvrestream.net=
+http://xrxs.net/video/live-p12losa-2328.m3u8
 #EXTINF:-1, tvg-name="Sport 4" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Bay Area HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/393.ts|User-Agent==iptvrestream.net=
-#EXTINF:-1, tvg-name="Sport 7" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Arizona HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/392.ts|User-Agent==iptvrestream.net=
+http://xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF:-1, tvg-name="Sport 7" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Arizona HD
 http://xrxs.net/video/live-p12ariz-1164.m3u8?IPTVBRASILHD
 
