@@ -3236,24 +3236,28 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/670.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NFL Network HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/674.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", WWE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/669.ts
 
 #orbit-iptv.com ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2323.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 2
+#EXTINF:-1, tvg-name="" tvg-logo="Fox Sports 2 HD" group-title="USA TV NEW", Fox Sports 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2208.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 1
+#EXTINF:-1, tvg-name="" tvg-logo="Fox Sports 1 HD" group-title="USA TV NEW", Fox Sports 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2207.ts
 
 ################### USA TV NEW (Entertainment & News) #############################
 
+#EXTINF:-1, tvg-name="CNN News HD" tvg-logo="" group-title="USA TV NEW", CNN News UHD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/3333.ts
+
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NBC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/675.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HGTV
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ABC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/668.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HGTV HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5084.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", History
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5083.ts
@@ -3264,19 +3268,6 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-ip
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Discovery Channel HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5092.ts
 
-
-################### USA TV NEW (Movie & Others) #############################
-
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HBO ZONE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/665.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HBO SIGNATURE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/666.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HBO HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/667.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ABC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/668.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Hallmark Channel HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/676.ts
