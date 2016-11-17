@@ -3211,93 +3211,42 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=185
 
 ################### USA TV NEW #############################
 
-#EXTINF:-1, tvg-name="HGTV HD" tvg-logo="" group-title="USA TV NEW", HGTV HD (USAIPTV)
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/203.mpegts
-
-#EXTINF:-1, tvg-name="Sport 4" tvg-logo="" group-title="USA TV NEW", PAC 12 Bay Area 1080i
-http://xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1, tvg-name="Sport 3" tvg-logo="" group-title="USA TV NEW", PAC 12 LA 720p
-http://xrxs.net/video/live-p12losa-2328.m3u8
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 2 HD
-http://88.150.198.114:1857/FOXSPORTS2/Sports2/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
-http://79.143.83.90:8600/TSN1/TSN1/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 2
-#http://79.143.83.90:8600/TSN2/TSN2/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 3
-http://79.143.83.90:8600/TSN3/TSN3/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 4
-#http://79.143.83.90:8600/TSN4/TSN4/index.m3u8
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 5
-http://79.143.83.90:8600/TSN5/TSN5/index.m3u8
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2618.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NBA TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/3716.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Bravo HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2410.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TBS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2380.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", CNN News HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2406.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Lifetime HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2396.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Showtime East
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2390.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet World HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/4030.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet West HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/4031.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet One HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/4032.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet 360 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/4033.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet Ontario HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/4034.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", E! HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/4063.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", FYI HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/4058.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Cartoon Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/4073.ts
-
-#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2402.ts
-
-#EXTINF:-1, tvg-name="NBC Miami" tvg-logo="" group-title="USA TV NEW", NBC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2440.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NFL Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2391.ts
-
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2432.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2431.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2430.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NBA
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/664.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HBO ZONE
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/665.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HBO SIGNATURE
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/666.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HBO HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/667.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ABC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/668.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", WWE_RAWHD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/669.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2429.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2428.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/673.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/672.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/671.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/670.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NFL Network HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/674.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NBC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/675.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Hallmark Channel HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/676.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/677.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/678.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", BeIN Sports USA HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/679.ts
 
 
 ################### End USA TV NEW #############################
