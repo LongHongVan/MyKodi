@@ -3609,8 +3609,21 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 
 ################### Top UKTV ###################################
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sport Box Office PPV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5644.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports Box Office
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5086.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports F1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1684.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 5 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1688.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 4 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1690.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 3 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1693.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1695.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BBC One HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5691.ts
