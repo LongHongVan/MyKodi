@@ -3356,10 +3356,6 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 15 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1723.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 14 HDa
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1724.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 13 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1725.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 11 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1727.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 10 HD
@@ -3369,8 +3365,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1715.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 8 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1716.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 7 HDa
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1717.ts
+
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 6 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1718.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 4 HD
