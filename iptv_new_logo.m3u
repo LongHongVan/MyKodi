@@ -3615,12 +3615,12 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5690.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BBC Three HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1864.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BBC Four UK
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BBC Four HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1871.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Animal Planet HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5664.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ITV2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ITV 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5685.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ITV1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5686.ts
