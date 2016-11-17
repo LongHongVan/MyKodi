@@ -2790,10 +2790,10 @@ http://www.mediafire.com/download/z273q3kyw6ciarr/TraiTimKhongNguYen.mkv
 
 
 #EXTINF:-1 group-title="CANADA" tvg-logo="youngalaskans.org/wp-content/uploads/2011/10/360North.jpg", 360 North (ALASKA)
-http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
+#http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
   
 #EXTINF:-1 group-title="CANADA" tvg-logo="shopboxingday.ca/wp-content/uploads/2012/12/the-shopping-channel-boxing-day.png", The Shopping Channel 1080p
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-b.m3u8
+#http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-b.m3u8
 
 #EXTINF:-1, tvg-id="8154" tvg-name="WeatherNation" tvg-logo="www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0002/2390/brand.gif?itok=jU1s1wrp" group-title="CANADA", WeatherNation
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=23
