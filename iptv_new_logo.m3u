@@ -3634,5 +3634,17 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", RTE ONE
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5710.ts
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports Extra 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1701.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports EUROPE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1702.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1757.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1758.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports ESPN
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1704.ts
+
+
 
 
