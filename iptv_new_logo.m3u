@@ -3340,6 +3340,16 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1704.ts
 
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ASTRO SPORTS HD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6216.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ASTRO SPORTS HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6215.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ASTRO SPORTS HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6214.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ASTRO SPORTS HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.monkeycline.com:25461/live/jasne/jasne/6213.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
+
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 15 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1723.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 11 HD
