@@ -3371,7 +3371,7 @@ http://free-premium-iptv.ddns.net:9090/load/free123/35.mpegts
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
-#EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="" group-title="NFL Thursday Night", [COLOR lime]Sky Sports 1 HD[/COLOR] Good
+#EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="" group-title="NFL Thursday Night", [COLOR lime]Sky Sports 1 HD[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
 
 
