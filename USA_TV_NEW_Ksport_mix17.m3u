@@ -1,0 +1,65 @@
+#EXTM3U
+################### USA TV NEW #############################
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2618.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NBA TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/3716.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Bravo HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2410.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TBS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2380.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", CNN News HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2406.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Lifetime HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2396.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Showtime East
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2390.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet World HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/4030.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet West HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/4031.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet One HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/4032.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet 360 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/4033.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Sportsnet Ontario HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/4034.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", E! HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/4063.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", FYI HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/4058.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Cartoon Network HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/4073.ts
+
+#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2402.ts
+
+#EXTINF:-1, tvg-name="NBC Miami" tvg-logo="" group-title="USA TV NEW", NBC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2440.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NFL Network HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2391.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2432.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2431.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2430.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2429.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 5
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ksportiptv.com:1557/live/mix17/7NKUutyFUc/2428.ts
+
+
+################### End USA TV NEW #############################

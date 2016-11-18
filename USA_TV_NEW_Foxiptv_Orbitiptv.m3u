@@ -1,0 +1,65 @@
+#EXTM3U
+
+################### USA TV NEW #############################
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/2618.ts
+
+#foxiptv.stream.tf ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/677.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/678.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NBA TV HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/664.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/673.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/672.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/671.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", TSN 1
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/670.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NFL Network HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/674.ts
+
+#orbit-iptv.com ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2323.ts
+#EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 2 HD2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2208.ts
+#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2207.ts
+
+################### USA TV NEW (Entertainment & News) #############################
+
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", NBC HD
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/675.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ABC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/668.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HGTV HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5084.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", History
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5083.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Animal Planet
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5101.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Discovery Science HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5091.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Discovery Channel HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5092.ts
+
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Hallmark Channel HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/676.ts
+
+
+################### End USA TV NEW #############################
