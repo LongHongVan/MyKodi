@@ -1,6 +1,32 @@
 #EXTM3U
 #EXTINF:-1,♣♣♣♣♣United Kingdom♣♣♣♣♣
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/12480.ts
+#EXTINF:-1,UK:Motors_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19610.ts
+#EXTINF:-1,UK:Liverpool_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19611.ts
+#EXTINF:-1,UK:ITV_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19612.ts
+#EXTINF:-1,UK:iTV_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19613.ts
+#EXTINF:-1,UK:iTV_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19614.ts
+#EXTINF:-1,UK:iTV_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19615.ts
+#EXTINF:-1,UK:Investigation_Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19616.ts
+#EXTINF:-1,UK:Eurosport_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19617.ts
+#EXTINF:-1,UK:BT_Sport_Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19618.ts
+#EXTINF:-1,UK:BT_Sport_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19619.ts
+#EXTINF:-1,UK:BT_Sport_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19620.ts
+#EXTINF:-1,UK:BT_ESPN_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19621.ts
+#EXTINF:-1,UK:Box_Nation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19622.ts
 #EXTINF:-1,UK: BBC 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/10789.ts
 #EXTINF:-1,UK: UK Sky Sports F1 HD
@@ -319,90 +345,394 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/16948.ts
 #EXTINF:-1,♣♣♣♣♣Turkish Channels♣♣♣♣♣
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/7457.ts
+#EXTINF:-1,TR:SPORTS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19717.ts
+#EXTINF:-1,TR:BURSASPOR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19718.ts
+#EXTINF:-1,TR: WORLD TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19713.ts
+#EXTINF:-1,TR: VUSLAT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19714.ts
+#EXTINF:-1,TR: ULUSAL KANAL SE�ENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19715.ts
+#EXTINF:-1,TR: ÜLKE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19716.ts
+#EXTINF:-1,TR: UFUK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19719.ts
+#EXTINF:-1,TR: UCANKUS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19720.ts
+#EXTINF:-1,TR: TV52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19721.ts
+#EXTINF:-1,TR: TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19722.ts
+#EXTINF:-1,TR: TV41
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19723.ts
+#EXTINF:-1,TR: TV10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19724.ts
+#EXTINF:-1,TR: TV KAYSERI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19725.ts
+#EXTINF:-1,TR: TV 8 Int
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19659.ts
+#EXTINF:-1,TR: TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19726.ts
+#EXTINF:-1,TR: TV 2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19727.ts
+#EXTINF:-1,TR: TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19660.ts
+#EXTINF:-1,TR: TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19728.ts
+#EXTINF:-1,TR: TRTSPOR SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19729.ts
+#EXTINF:-1,TR: TRTHABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19730.ts
+#EXTINF:-1,TR: TRT WORD HD 'Feed2'
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19661.ts
+#EXTINF:-1,TR: TRT TüRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19731.ts
+#EXTINF:-1,TR: TRT MüZIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19732.ts
+#EXTINF:-1,TR: TRT KURDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19733.ts
+#EXTINF:-1,TR: TRT HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19734.ts
+#EXTINF:-1,TR: TRT DIYANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19735.ts
+#EXTINF:-1,TR: TRT BELGESEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19736.ts
+#EXTINF:-1,TR: TRT ARAPçA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19737.ts
+#EXTINF:-1,TR: TRT 1 HD 'Feed2'
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19662.ts
+#EXTINF:-1,TR: TRT 1 HD 'Feed1'
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19663.ts
+#EXTINF:-1,TR: TRT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19738.ts
+#EXTINF:-1,TR: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19664.ts
+#EXTINF:-1,TR: TJK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19739.ts
+#EXTINF:-1,TR: TGRTHABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19740.ts
+#EXTINF:-1,TR: TGRT BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19741.ts
+#EXTINF:-1,TR: TARSUS GüNEY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19742.ts
+#EXTINF:-1,TR: SPORTS TV SEÇENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19743.ts
+#EXTINF:-1,TR: SPORTS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19744.ts
+#EXTINF:-1,TR: Smart Spor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19665.ts
+#EXTINF:-1,TR: SIVAS SRT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19745.ts
+#EXTINF:-1,TR: SineMAX Turk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19666.ts
+#EXTINF:-1,TR: SineMAX Nostalgia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19667.ts
+#EXTINF:-1,TR: SineMAX Fear HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19668.ts
+#EXTINF:-1,TR: SHOW TüRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19746.ts
+#EXTINF:-1,TR: SHOW MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19747.ts
+#EXTINF:-1,TR: Seymen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19669.ts
+#EXTINF:-1,TR: SEMERKAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19748.ts
+#EXTINF:-1,TR: SEMERKAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19749.ts
+#EXTINF:-1,TR: Salon 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19670.ts
+#EXTINF:-1,TR: Salon 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19671.ts
+#EXTINF:-1,TR: Salon 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19672.ts
+#EXTINF:-1,TR: Salon 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19673.ts
+#EXTINF:-1,TR: SALON 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19674.ts
+#EXTINF:-1,TR: SALON 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19675.ts
+#EXTINF:-1,TR: Salon 2 3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19676.ts
+#EXTINF:-1,TR: Salon 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19677.ts
+#EXTINF:-1,TR: SALON 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19678.ts
+#EXTINF:-1,TR: Salon 1 3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19679.ts
+#EXTINF:-1,TR: RUMELI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19750.ts
+#EXTINF:-1,TR: POWERTüRK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19751.ts
+#EXTINF:-1,TR: POWER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19752.ts
+#EXTINF:-1,TR: PLANET TüRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19753.ts
+#EXTINF:-1,TR: PLANET PEMBE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19754.ts
+#EXTINF:-1,TR: Planet Cocuk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19680.ts
+#EXTINF:-1,TR: ON 4 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19755.ts
+#EXTINF:-1,TR: NUMBER ONE TüRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19756.ts
+#EXTINF:-1,TR: NUMBER ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19757.ts
+#EXTINF:-1,TR: Ntv Spor (DENIS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19681.ts
+#EXTINF:-1,TR: Ntv Euro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19682.ts
+#EXTINF:-1,TR: NRT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19758.ts
+#EXTINF:-1,TR: Nr 1 Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19683.ts
+#EXTINF:-1,TR: Movie Smart Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19684.ts
+#EXTINF:-1,TR: Movie Smart Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19685.ts
+#EXTINF:-1,TR: Movie Max Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19686.ts
+#EXTINF:-1,TR: Movie Max Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19687.ts
+#EXTINF:-1,TR: Movie Max Festival
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19688.ts
+#EXTINF:-1,TR: Movie Max Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19689.ts
+#EXTINF:-1,TR: MINIKA GO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19690.ts
+#EXTINF:-1,TR: MERSIN SUN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19759.ts
+#EXTINF:-1,TR: M-TV AZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19760.ts
+#EXTINF:-1,TR: LIG TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19656.ts
+#EXTINF:-1,TR: LIG TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19657.ts
+#EXTINF:-1,TR: LIG TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19658.ts
+#EXTINF:-1,TR: KIRŞEHİR KTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19761.ts
+#EXTINF:-1,TR: KAPADOKYA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19762.ts
+#EXTINF:-1,TR: KANALD HD SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19763.ts
+#EXTINF:-1,TR: KANALD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19764.ts
+#EXTINF:-1,TR: KANAL V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19765.ts
+#EXTINF:-1,TR: Kanal D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19691.ts
+#EXTINF:-1,TR: Kanal D Euro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19692.ts
+#EXTINF:-1,TR: KANAL A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19766.ts
+#EXTINF:-1,TR: KANAL 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19693.ts
+#EXTINF:-1,TR: Halk Haber TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19767.ts
+#EXTINF:-1,TR: HABERTüRK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19768.ts
+#EXTINF:-1,TR: Filmbox Yesilcam HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19694.ts
+#EXTINF:-1,TR: Filmbox Turk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19695.ts
+#EXTINF:-1,TR: Filmbox Special HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19696.ts
+#EXTINF:-1,TR: Filmbox Oscars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19697.ts
+#EXTINF:-1,TR: Filmbox Korku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19698.ts
+#EXTINF:-1,TR: Filmbox Komedi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19699.ts
+#EXTINF:-1,TR: Filmbox BilimKurgu HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19700.ts
+#EXTINF:-1,TR: Filmbox Animasyon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19701.ts
+#EXTINF:-1,TR: Filmbox Andrenalin HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19702.ts
+#EXTINF:-1,TR: Filmbox Aksiyon 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19703.ts
+#EXTINF:-1,TR: Filmbox Aile HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19704.ts
+#EXTINF:-1,TR: FANATIK TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19705.ts
+#EXTINF:-1,TR: FANATIK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19769.ts
+#EXTINF:-1,TR: DREAMTüRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19770.ts
+#EXTINF:-1,TR: DREAM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19771.ts
+#EXTINF:-1,TR: DREAM TüRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19772.ts
+#EXTINF:-1,TR: DREAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19773.ts
+#EXTINF:-1,TR: DOST TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19774.ts
+#EXTINF:-1,TR: Dasma TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19706.ts
+#EXTINF:-1,TR: CNNTüRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19775.ts
+#EXTINF:-1,TR: CNN TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19707.ts
+#EXTINF:-1,TR: CNN TüRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19776.ts
+#EXTINF:-1,TR: Cinevision 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19708.ts
+#EXTINF:-1,TR: Cinebox 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19709.ts
+#EXTINF:-1,TR: Cinebox 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19710.ts
+#EXTINF:-1,TR: ÇAY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19777.ts
+#EXTINF:-1,TR: BURSASPOR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19778.ts
+#EXTINF:-1,TR: BRT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19779.ts
+#EXTINF:-1,TR: BLOOMBERG HT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19780.ts
+#EXTINF:-1,TR: BEREKET TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19781.ts
+#EXTINF:-1,TR: BENGüTüRK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19782.ts
+#EXTINF:-1,TR: BELGESEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19783.ts
+#EXTINF:-1,TR: AKSU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19784.ts
+#EXTINF:-1,TR: AHITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19785.ts
+#EXTINF:-1,TR: 360 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19711.ts
+#EXTINF:-1,TR: 24 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19712.ts
+#EXTINF:-1,TR: 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19786.ts
+#EXTINF:-1,TR: 1 TRTCOCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19787.ts
+#EXTINF:-1,TR:  YABAN TV SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19788.ts
+#EXTINF:-1,TR:  VATAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19789.ts
+#EXTINF:-1,TR:  ULUSAL KANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19790.ts
+#EXTINF:-1,TR:  TVNET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19791.ts
+#EXTINF:-1,TR:  TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19792.ts
+#EXTINF:-1,TR:  TV2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19793.ts
+#EXTINF:-1,TR:  TRTSPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19794.ts
+#EXTINF:-1,TR:  TRTHABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19795.ts
+#EXTINF:-1,TR:  TRTCOCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19796.ts
+#EXTINF:-1,TR:  TRT1 HD SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19797.ts
+#EXTINF:-1,TR:  TRT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19798.ts
+#EXTINF:-1,TR:  TRT WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19799.ts
+#EXTINF:-1,TR:  TRT TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19800.ts
+#EXTINF:-1,TR:  TRT MUZIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19801.ts
+#EXTINF:-1,TR:  TRT KURDI(6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19802.ts
+#EXTINF:-1,TR:  TRT AVAZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19803.ts
+#EXTINF:-1,TR:  TRT ARAPCA(ARABIC)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19804.ts
+#EXTINF:-1,TR:  TJK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19805.ts
+#EXTINF:-1,TR:  THABER HD SE�ENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19806.ts
+#EXTINF:-1,TR:  TGRTHABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19807.ts
+#EXTINF:-1,TR:  STAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19808.ts
+#EXTINF:-1,TR:  SPORTS TV SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19809.ts
+#EXTINF:-1,TR:  SKYTURK 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19810.ts
+#EXTINF:-1,TR:  SHOWTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19811.ts
+#EXTINF:-1,TR:  POWERTURK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19812.ts
+#EXTINF:-1,TR:  PLANET COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19813.ts
+#EXTINF:-1,TR:  NUMBER ONE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19814.ts
+#EXTINF:-1,TR:  NUMBER ONE TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19815.ts
+#EXTINF:-1,TR:  NTVSPOR SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19816.ts
+#EXTINF:-1,TR:  NTVSPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19817.ts
+#EXTINF:-1,TR:  NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19818.ts
+#EXTINF:-1,TR:  MAVI KARADENIZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19819.ts
+#EXTINF:-1,TR:  KANALURFA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19820.ts
+#EXTINF:-1,TR:  KANALD HD SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19821.ts
+#EXTINF:-1,TR:  KANALD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19822.ts
+#EXTINF:-1,TR:  KANAL B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19823.ts
+#EXTINF:-1,TR:  KANAL A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19824.ts
+#EXTINF:-1,TR:  HALK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19825.ts
+#EXTINF:-1,TR:  HABERTURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19826.ts
+#EXTINF:-1,TR:  HABERTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19827.ts
+#EXTINF:-1,TR:  FOXTV HD SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19828.ts
+#EXTINF:-1,TR:  FOXTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19829.ts
+#EXTINF:-1,TR:  FLASH TV SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19830.ts
+#EXTINF:-1,TR:  FLASH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19831.ts
+#EXTINF:-1,TR:  FANATIK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19832.ts
+#EXTINF:-1,TR:  DREAM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19833.ts
+#EXTINF:-1,TR:  DOST TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19834.ts
+#EXTINF:-1,TR:  CNNTURK SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19835.ts
+#EXTINF:-1,TR:  CNNTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19836.ts
+#EXTINF:-1,TR:  CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19837.ts
+#EXTINF:-1,TR:  BUGUN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19838.ts
+#EXTINF:-1,TR:  BLOOMBERG HT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19839.ts
+#EXTINF:-1,TR:  BEYAZ TV SECENEK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19840.ts
+#EXTINF:-1,TR:  BEYAZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19841.ts
+#EXTINF:-1,TR:  BENGUTURK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19842.ts
+#EXTINF:-1,TR:  BEN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19843.ts
+#EXTINF:-1,TR:  ATV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19844.ts
+#EXTINF:-1,TR:  ASPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19845.ts
+#EXTINF:-1,TR:  AKIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19846.ts
+#EXTINF:-1,TR:  360 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19847.ts
+#EXTINF:-1,TR:  24 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19848.ts
 #EXTINF:-1,TR: ULKE_TV_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/17525.ts
-#EXTINF:-1,TR: TV8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18987.ts
-#EXTINF:-1,TR: TRT WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18988.ts
-#EXTINF:-1,TR: TRT MUZIK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18989.ts
-#EXTINF:-1,TR: TRT BELGESEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19005.ts
-#EXTINF:-1,TR: TRT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18981.ts
-#EXTINF:-1,TR: STAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18992.ts
-#EXTINF:-1,TR: SINEMA 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18975.ts
-#EXTINF:-1,TR: SINEMA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18974.ts
-#EXTINF:-1,TR: SINEMA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18973.ts
-#EXTINF:-1,TR: SINEMA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18972.ts
-#EXTINF:-1,TR: SINEMA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18971.ts
-#EXTINF:-1,TR: SINEMA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18970.ts
-#EXTINF:-1,TR: SINEMA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18969.ts
-#EXTINF:-1,TR: SINEMA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18968.ts
-#EXTINF:-1,TR: SINEMA 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18976.ts
-#EXTINF:-1,TR: SINEMA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18967.ts
-#EXTINF:-1,TR: SHOW TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18983.ts
-#EXTINF:-1,TR: SHOW TURK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18984.ts
-#EXTINF:-1,TR: SALON 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18985.ts
-#EXTINF:-1,TR: SALON 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18986.ts
-#EXTINF:-1,TR: POWERTURK TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18995.ts
-#EXTINF:-1,TR: NR1 TURK  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18982.ts
-#EXTINF:-1,TR: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18950.ts
-#EXTINF:-1,TR: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19006.ts
-#EXTINF:-1,TR: Nat Geo People HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18951.ts
-#EXTINF:-1,TR: MOVIEMAX STARS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18977.ts
-#EXTINF:-1,TR: MOVIEMAX FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18978.ts
-#EXTINF:-1,TR: MOVIEMAX ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18980.ts
-#EXTINF:-1,TR: KANAL D HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18996.ts
-#EXTINF:-1,TR: KANAL 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18997.ts
-#EXTINF:-1,TR: Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18952.ts
-#EXTINF:-1,TR: Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18953.ts
-#EXTINF:-1,TR: CNN TURK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19001.ts
-#EXTINF:-1,TR: CINESTAR VIZYON 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18960.ts
-#EXTINF:-1,TR: CINESTAR VIZYON 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18959.ts
-#EXTINF:-1,TR: CINESTAR VIZYON 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18958.ts
-#EXTINF:-1,TR: CINESTAR T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18961.ts
-#EXTINF:-1,TR: CINESTAR NOSTALJI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18962.ts
-#EXTINF:-1,TR: CINESTAR KORKU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18963.ts
-#EXTINF:-1,TR: CINESTAR KOMEDI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18964.ts
-#EXTINF:-1,TR: CINESTAR GERILIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18965.ts
 #EXTINF:-1,TR: TVNET
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/17526.ts
 #EXTINF:-1,TR: TV8
@@ -1207,6 +1537,64 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/12652.ts
 #EXTINF:-1,♣♣♣♣♣OSN Channels♣♣♣♣♣
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/7459.ts
+#EXTINF:-1,|VIP| OSN YaHala-Shabab_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19623.ts
+#EXTINF:-1,|VIP| OSN YaHala-Drama_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19624.ts
+#EXTINF:-1,|VIP| OSN YaHala-Cinema_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19625.ts
+#EXTINF:-1,|VIP| OSN Star-World_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19626.ts
+#EXTINF:-1,|VIP| OSN Nat-Geo-Wild-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19627.ts
+#EXTINF:-1,|VIP| OSN Music-Now_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19628.ts
+#EXTINF:-1,|VIP| OSN Movies2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19629.ts
+#EXTINF:-1,|VIP| OSN Movies-Premiere_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19630.ts
+#EXTINF:-1,|VIP| OSN Movies-Kids_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19631.ts
+#EXTINF:-1,|VIP| OSN Movies-Festlval_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19632.ts
+#EXTINF:-1,|VIP| OSN Movies-Drama-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19633.ts
+#EXTINF:-1,|VIP| OSN Movies-Comedy-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19634.ts
+#EXTINF:-1,|VIP| OSN Movies-AMC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19635.ts
+#EXTINF:-1,|VIP| OSN Movies-Action2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19636.ts
+#EXTINF:-1,|VIP| OSN Movies-Action_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19637.ts
+#EXTINF:-1,|VIP| OSN Movies_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19638.ts
+#EXTINF:-1,|VIP| OSN First-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19639.ts
+#EXTINF:-1,|VIP| OSN Disney-Junior_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19641.ts
+#EXTINF:-1,|VIP| OSN Discovery-Science-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19642.ts
+#EXTINF:-1,|VIP| OSN Discovery_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19643.ts
+#EXTINF:-1,|VIP| OSN Demand-Extra_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19644.ts
+#EXTINF:-1,|VIP| OSN Box-OFFICE-3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19646.ts
+#EXTINF:-1,|VIP| OSN Box-OFFICE-2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19647.ts
+#EXTINF:-1,|VIP| OSN Box-OFFICE-1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19648.ts
+#EXTINF:-1,|VIP| OSN ART-Hekayat-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19650.ts
+#EXTINF:-1,|VIP| OSN ART-Cinema-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19651.ts
+#EXTINF:-1,|VIP| OSN ART-Aflam-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19652.ts
+#EXTINF:-1,|VIP| OSN ART-Aflam-1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19653.ts
+#EXTINF:-1,|VIP| OSN Animal-Planet-AB_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19654.ts
 #EXTINF:-1,OSN_Yahala_Shabab
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/14671.ts
 #EXTINF:-1,OSN_Yahala_Drama
@@ -1595,258 +1983,318 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/12825.ts
 #EXTINF:-1,♣♣♣♣♣DE Channels♣♣♣♣♣
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/7464.ts
-#EXTINF:-1,DE:Zee One HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19110.ts
-#EXTINF:-1,DE:VOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19105.ts
-#EXTINF:-1,DE:Tele 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19109.ts
-#EXTINF:-1,DE:Super RTL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19167.ts
-#EXTINF:-1,DE:Sport 1 US HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19178.ts
-#EXTINF:-1,DE:Sport 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19176.ts
-#EXTINF:-1,DE:Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19177.ts
-#EXTINF:-1,DE:Spiegel TV Wissen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19163.ts
-#EXTINF:-1,DE:Spiegel TV Geschichte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19158.ts
-#EXTINF:-1,DE:SKY Prosieben Fun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19108.ts
-#EXTINF:-1,DE:SKY Germany Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19139.ts
-#EXTINF:-1,DE:SKY Germany TNT Serie HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19146.ts
-#EXTINF:-1,DE:SKY Germany TNT Film HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19145.ts
-#EXTINF:-1,DE:SKY Germany TNT Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19147.ts
-#EXTINF:-1,DE:SKY Germany Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19140.ts
-#EXTINF:-1,DE:SKY Germany Sports News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19182.ts
-#EXTINF:-1,DE:SKY Germany Sportdigital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19181.ts
-#EXTINF:-1,DE:SKY Germany Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19134.ts
-#EXTINF:-1,DE:SKY Germany Silverline
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19135.ts
-#EXTINF:-1,DE:SKY Germany Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19151.ts
-#EXTINF:-1,DE:SKY Germany Nostalgie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19143.ts
-#EXTINF:-1,DE:SKY Germany National Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19153.ts
-#EXTINF:-1,DE:SKY Germany NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19154.ts
-#EXTINF:-1,DE:SKY Germany Nat Geo People HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19155.ts
-#EXTINF:-1,DE:SKY Germany MGM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19137.ts
-#EXTINF:-1,DE:SKY Germany Krimi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19144.ts
-#EXTINF:-1,DE:SKY Germany Kinowelt HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19142.ts
-#EXTINF:-1,DE:SKY Germany Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19165.ts
-#EXTINF:-1,DE:SKY Germany Hits HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19126.ts
-#EXTINF:-1,DE:SKY Germany History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19157.ts
-#EXTINF:-1,DE:SKY Germany Goldstar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19150.ts
-#EXTINF:-1,DE:SKY Germany Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19138.ts
-#EXTINF:-1,DE:SKY Germany Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19130.ts
-#EXTINF:-1,DE:SKY Germany Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19168.ts
-#EXTINF:-1,DE:SKY Germany Disney Jr. HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19164.ts
-#EXTINF:-1,DE:SKY Germany Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19131.ts
-#EXTINF:-1,DE:SKY Germany Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19127.ts
-#EXTINF:-1,DE:SKY Germany Cinema 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19129.ts
-#EXTINF:-1,DE:SKY Germany Cinema 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19128.ts
-#EXTINF:-1,DE:SKY Germany AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19141.ts
-#EXTINF:-1,DE:SKY Germany Atlantic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19132.ts
-#EXTINF:-1,DE:SKY Germany Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19156.ts
-#EXTINF:-1,DE:SKY Germany Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19125.ts
-#EXTINF:-1,DE:SKY Germany A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19148.ts
-#EXTINF:-1,DE:SKY Germany 13Th Street HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19136.ts
-#EXTINF:-1,DE:SKY E! Entertainm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19149.ts
-#EXTINF:-1,DE:SKY Disney Cinemagic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19169.ts
-#EXTINF:-1,DE:SKY Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19170.ts
-#EXTINF:-1,DE:SKY Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19152.ts
-#EXTINF:-1,DE:SKY Auto Motor Sport Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19179.ts
-#EXTINF:-1,DE:Sixx HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19123.ts
-#EXTINF:-1,DE:ServusTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19124.ts
-#EXTINF:-1,DE:SAT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19103.ts
-#EXTINF:-1,DE:RTL2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19095.ts
-#EXTINF:-1,DE:RTL Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19094.ts
-#EXTINF:-1,DE:RTL Passion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19099.ts
-#EXTINF:-1,DE:RTL Nitro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19097.ts
-#EXTINF:-1,DE:RTL Nitro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19098.ts
-#EXTINF:-1,DE:RTL Living HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19100.ts
-#EXTINF:-1,DE:RTL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19092.ts
-#EXTINF:-1,DE:RTL Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19101.ts
-#EXTINF:-1,DE:RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19093.ts
-#EXTINF:-1,DE:Romance TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19102.ts
-#EXTINF:-1,DE:ProSieben Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19107.ts
-#EXTINF:-1,DE:ProSieben HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19106.ts
-#EXTINF:-1,DE:ORF 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19116.ts
-#EXTINF:-1,DE:ORF 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19115.ts
-#EXTINF:-1,DE:ORF 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19114.ts
-#EXTINF:-1,DE:NTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19120.ts
-#EXTINF:-1,DE:Nickelolocalon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19172.ts
-#EXTINF:-1,DE:Nick Jr. HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19171.ts
-#EXTINF:-1,DE:N24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19159.ts
-#EXTINF:-1,DE:Kabel Classic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19113.ts
-#EXTINF:-1,DE:Kabel 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19112.ts
-#EXTINF:-1,DE:Heimatkanal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19162.ts
-#EXTINF:-1,DE:Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19175.ts
-#EXTINF:-1,DE:Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19174.ts
-#EXTINF:-1,DE:DMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19111.ts
-#EXTINF:-1,DE:Das Erste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19088.ts
-#EXTINF:-1,DE:Classica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19122.ts
-#EXTINF:-1,DE:Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19166.ts
-#EXTINF:-1,DE:Arte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19121.ts
-#EXTINF:-1,DE:ARD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19089.ts
-#EXTINF:-1,DE: Sky Sport 9 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18903.ts
-#EXTINF:-1,DE: Sky Sport 8 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18902.ts
-#EXTINF:-1,DE: Sky Sport 7 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18901.ts
-#EXTINF:-1,DE: Sky Sport 6 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18900.ts
-#EXTINF:-1,DE: Sky Sport 5 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18899.ts
-#EXTINF:-1,DE: Sky Sport 4 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18898.ts
-#EXTINF:-1,DE: Sky Sport 3 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18897.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18896.ts
-#EXTINF:-1,DE: Sky Sport 10 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18904.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18895.ts
-#EXTINF:-1,DE: Sky Bundesliga 9 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18893.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18892.ts
-#EXTINF:-1,DE: Sky Bundesliga 7 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18891.ts
-#EXTINF:-1,DE: Sky Bundesliga 6 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18890.ts
-#EXTINF:-1,DE: Sky Bundesliga 5 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18889.ts
-#EXTINF:-1,DE: Sky Bundesliga 4 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18888.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18887.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18886.ts
-#EXTINF:-1,DE: Sky Bundesliga 10 HD [on Matchday]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18894.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18885.ts
-#EXTINF:-1,DE: SKY_SELECT_9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18409.ts
-#EXTINF:-1,DE: SKY_SELECT_8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18410.ts
-#EXTINF:-1,DE: SKY_SELECT_7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18411.ts
-#EXTINF:-1,DE: SKY_SELECT_6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18412.ts
-#EXTINF:-1,DE: SKY_SELECT_5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18413.ts
-#EXTINF:-1,DE: SKY_SELECT_4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18414.ts
-#EXTINF:-1,DE: SKY_SELECT_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18415.ts
-#EXTINF:-1,DE: SKY_SELECT_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18416.ts
-#EXTINF:-1,DE: SKY_SELECT_10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18417.ts
-#EXTINF:-1,DE: SKY_CINEMA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18423.ts
-#EXTINF:-1,DE: SKY_CINEMA_24_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18418.ts
-#EXTINF:-1,DE: SKY_CINEMA_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18419.ts
-#EXTINF:-1,DE: SKY-STORT-HD-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18422.ts
-#EXTINF:-1,DE: TNT_SERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18408.ts
-#EXTINF:-1,DE: Sat_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18424.ts
-#EXTINF:-1,DE: RTL_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18421.ts
-#EXTINF:-1,DE: Prosieben-Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18425.ts
-#EXTINF:-1,DE: Prosieben
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18426.ts
-#EXTINF:-1,DE: PRO_7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18406.ts
-#EXTINF:-1,DE: NAT_GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18420.ts
-#EXTINF:-1,DE: Kika_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18433.ts
-#EXTINF:-1,DE: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18429.ts
-#EXTINF:-1,DE: Dmax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/18407.ts
+#EXTINF:-1,ProSieben HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20017.ts
+#EXTINF:-1,Zee One HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20020.ts
+#EXTINF:-1,Tele 5 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20019.ts
+#EXTINF:-1,SKY Prosieben Fun HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20018.ts
+#EXTINF:-1,SKY Germany Sony HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20038.ts
+#EXTINF:-1,SKY Germany Hits HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20033.ts
+#EXTINF:-1,SKY Germany Cinema HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20034.ts
+#EXTINF:-1,SKY Germany Cinema 24 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20036.ts
+#EXTINF:-1,SKY Germany Cinema 1  HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20035.ts
+#EXTINF:-1,SKY Germany Atlantic HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20037.ts
+#EXTINF:-1,SKY Germany Action HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20032.ts
+#EXTINF:-1,Sixx HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20030.ts
+#EXTINF:-1,ServusTV HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20031.ts
+#EXTINF:-1,SAT 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20016.ts
+#EXTINF:-1,RTL2 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20009.ts
+#EXTINF:-1,RTL Passion HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20012.ts
+#EXTINF:-1,RTL Nitro HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20011.ts
+#EXTINF:-1,RTL ll You HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20010.ts
+#EXTINF:-1,RTL Living HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20013.ts
+#EXTINF:-1,RTL Crime HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20014.ts
+#EXTINF:-1,Romance TV HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20015.ts
+#EXTINF:-1,ORF 3 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20026.ts
+#EXTINF:-1,ORF 2 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20025.ts
+#EXTINF:-1,ORF 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20024.ts
+#EXTINF:-1,NTV HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20027.ts
+#EXTINF:-1,Kabel Classic HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20023.ts
+#EXTINF:-1,Kabel 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20022.ts
+#EXTINF:-1,DMAX HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20021.ts
+#EXTINF:-1,Das Erste HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20008.ts
+#EXTINF:-1,Arte HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20028.ts
+#EXTINF:-1,WDR DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19887.ts
+#EXTINF:-1,SRF HD DE 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19913.ts
+#EXTINF:-1,SRF HD DE 1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19912.ts
+#EXTINF:-1,Sport 1  HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19984.ts
+#EXTINF:-1,Spiegel TV Wissen HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19956.ts
+#EXTINF:-1,Spiegel TV Geschichte DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19951.ts
+#EXTINF:-1,SKY Select 9 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19981.ts
+#EXTINF:-1,SKY Select 7 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19979.ts
+#EXTINF:-1,SKY Select 6 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19978.ts
+#EXTINF:-1,SKY Select 5 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19977.ts
+#EXTINF:-1,SKY Select 4 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19976.ts
+#EXTINF:-1,SKY Select 3 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19975.ts
+#EXTINF:-1,SKY Select 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19974.ts
+#EXTINF:-1,SKY Select 1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19973.ts
+#EXTINF:-1,SKY Select  8 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19980.ts
+#EXTINF:-1,SKY Germany Universal HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19932.ts
+#EXTINF:-1,SKY Germany TNT Serie HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19939.ts
+#EXTINF:-1,SKY Germany TNT Film HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19938.ts
+#EXTINF:-1,SKY Germany TNT Comedy HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19940.ts
+#EXTINF:-1,SKY Germany Syfy HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19933.ts
+#EXTINF:-1,SKY Germany Sports News HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19988.ts
+#EXTINF:-1,SKY Germany Sportdigital DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19987.ts
+#EXTINF:-1,SKY Germany Sport 9 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19998.ts
+#EXTINF:-1,SKY Germany Sport 8 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19997.ts
+#EXTINF:-1,SKY Germany Sport 7 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19996.ts
+#EXTINF:-1,SKY Germany Sport 6 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19995.ts
+#EXTINF:-1,SKY Germany Sport 5 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19994.ts
+#EXTINF:-1,SKY Germany Sport 4 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19993.ts
+#EXTINF:-1,SKY Germany Sport 3 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19992.ts
+#EXTINF:-1,SKY Germany Sport 2 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19991.ts
+#EXTINF:-1,SKY Germany Sport 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19990.ts
+#EXTINF:-1,SKY Germany Silverline
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19928.ts
+#EXTINF:-1,SKY Germany Planet HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19944.ts
+#EXTINF:-1,SKY Germany Nostalgie DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19936.ts
+#EXTINF:-1,SKY Germany National Geo HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19946.ts
+#EXTINF:-1,SKY Germany NatGeo Wild HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19947.ts
+#EXTINF:-1,SKY Germany Nat Geo People HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19948.ts
+#EXTINF:-1,SKY Germany Motorvision DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19986.ts
+#EXTINF:-1,SKY Germany MGM DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19930.ts
+#EXTINF:-1,SKY Germany Krimi DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19937.ts
+#EXTINF:-1,SKY Germany Kinowelt HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19935.ts
+#EXTINF:-1,SKY Germany Junior DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19958.ts
+#EXTINF:-1,SKY Germany History HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19950.ts
+#EXTINF:-1,SKY Germany Goldstar DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19943.ts
+#EXTINF:-1,SKY Germany Fox HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19931.ts
+#EXTINF:-1,SKY Germany Emotion DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19924.ts
+#EXTINF:-1,SKY Germany Disney XD HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19960.ts
+#EXTINF:-1,SKY Germany Disney Jr. HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19957.ts
+#EXTINF:-1,SKY Germany Comedy DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19925.ts
+#EXTINF:-1,Sky Germany Bundesliga 9 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20007.ts
+#EXTINF:-1,SKY Germany Bundesliga 8 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20006.ts
+#EXTINF:-1,SKY Germany Bundesliga 7 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20005.ts
+#EXTINF:-1,SKY Germany Bundesliga 6 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20004.ts
+#EXTINF:-1,SKY Germany Bundesliga 5 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20003.ts
+#EXTINF:-1,SKY Germany Bundesliga 4 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20002.ts
+#EXTINF:-1,SKY Germany Bundesliga 3 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20001.ts
+#EXTINF:-1,SKY Germany Bundesliga 2 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20000.ts
+#EXTINF:-1,SKY Germany Bundesliga 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19999.ts
+#EXTINF:-1,SKY Germany AXN HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19934.ts
+#EXTINF:-1,SKY Germany Austria HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19989.ts
+#EXTINF:-1,SKY Germany Animal Planet HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19949.ts
+#EXTINF:-1,SKY Germany A&E HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19941.ts
+#EXTINF:-1,SKY Germany 13Th Street HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19929.ts
+#EXTINF:-1,SKY E! Entertainm DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19942.ts
+#EXTINF:-1,SKY Disney Cinemagic HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19961.ts
+#EXTINF:-1,SKY Disney Channel HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19962.ts
+#EXTINF:-1,SKY Discovery Channel HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19945.ts
+#EXTINF:-1,SKY Auto Motor Sport Channel HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19985.ts
+#EXTINF:-1,Sat1 Emotions SD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19900.ts
+#EXTINF:-1,Sat 1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19875.ts
+#EXTINF:-1,RTL Plus DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19890.ts
+#EXTINF:-1,RTL Nitro DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19894.ts
+#EXTINF:-1,RTL HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19872.ts
+#EXTINF:-1,RTL DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19889.ts
+#EXTINF:-1,RTL CRIME DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19879.ts
+#EXTINF:-1,RTL 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19878.ts
+#EXTINF:-1,Prosieben Max DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19876.ts
+#EXTINF:-1,Prosieben DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19877.ts
+#EXTINF:-1,PRO 7 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19857.ts
+#EXTINF:-1,Nickelolocalon HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19964.ts
+#EXTINF:-1,Nick Jr. HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19963.ts
+#EXTINF:-1,NAT GEO DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19871.ts
+#EXTINF:-1,N24 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19952.ts
+#EXTINF:-1,MTV HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19953.ts
+#EXTINF:-1,Kika HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19884.ts
+#EXTINF:-1,Jukebox DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19954.ts
+#EXTINF:-1,Heimatkanal DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19955.ts
+#EXTINF:-1,FOX DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19880.ts
+#EXTINF:-1,FILME DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19972.ts
+#EXTINF:-1,FILM CLUB HD 6 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19971.ts
+#EXTINF:-1,FILM CLUB HD 5 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19970.ts
+#EXTINF:-1,FILM CLUB HD 4 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19969.ts
+#EXTINF:-1,FILM CLUB HD 3 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19968.ts
+#EXTINF:-1,FILM CLUB HD 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19967.ts
+#EXTINF:-1,FILM CLUB HD 1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19966.ts
+#EXTINF:-1,Eurosport DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19983.ts
+#EXTINF:-1,Eurosport 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19982.ts
+#EXTINF:-1,Dmax DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19858.ts
+#EXTINF:-1,Das Erste DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19881.ts
+#EXTINF:-1,Cartoon Network HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19965.ts
+#EXTINF:-1,Boomerang HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19959.ts
+#EXTINF:-1,arte DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19882.ts
+#EXTINF:-1,ARD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19886.ts
+#EXTINF:-1,ZDF DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19849.ts
+#EXTINF:-1,VOX HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19883.ts
+#EXTINF:-1,TNT SERIE DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19859.ts
+#EXTINF:-1,SUPER RTL HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19850.ts
+#EXTINF:-1,SKy STORT HD 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19873.ts
+#EXTINF:-1,SKY SPORT 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19851.ts
+#EXTINF:-1,SKY SPORT 1 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19852.ts
+#EXTINF:-1,SKY SELECT 10 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19868.ts
+#EXTINF:-1,SKY HITS HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19853.ts
+#EXTINF:-1,SKY CINEMA HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19874.ts
+#EXTINF:-1,SKY CINEMA 24 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19869.ts
+#EXTINF:-1,SKY CINEMA 1 HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19870.ts
+#EXTINF:-1,SKY ATLANTIC HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19854.ts
+#EXTINF:-1,SKy ACTION DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19855.ts
+#EXTINF:-1,SKY 13STREET DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19856.ts
+#EXTINF:-1,Box Office 9 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19860.ts
+#EXTINF:-1,Box Office 8 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19861.ts
+#EXTINF:-1,Box Office 7 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19862.ts
+#EXTINF:-1,Box Office 6 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19863.ts
+#EXTINF:-1,Box Office 5 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19864.ts
+#EXTINF:-1,Box Office 4 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19865.ts
+#EXTINF:-1,Box Office 3 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19866.ts
+#EXTINF:-1,Box Office 2 DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19867.ts
 #EXTINF:-1,AFR-Canal 2 Info (CMR)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/4196.ts
 #EXTINF:-1,♣♣♣♣♣Africa♣♣♣♣♣
@@ -2235,6 +2683,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/5821.ts
 #EXTINF:-1,♣♣♣♣♣Arabic♣♣♣♣♣
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/7440.ts
+#EXTINF:-1,AR:Rotana Music HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20150.ts
+#EXTINF:-1,AR:Rotana Masriah HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20151.ts
+#EXTINF:-1,AR:Rotana Khalijiah HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20152.ts
+#EXTINF:-1,AR:Rotana Classic HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20153.ts
+#EXTINF:-1,AR:Rotana Cinema HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20154.ts
+#EXTINF:-1,AR:Rotana Aflam HD ARB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/20155.ts
 #EXTINF:-1,OSN-Movies-2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/4146.ts
 #EXTINF:-1,AR: BEINMOVIES_HD1
@@ -3055,10 +3515,116 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19225.ts
 #EXTINF:-1,AL: A1 Shqiptare
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19224.ts
+#EXTINF:-1,AL: Super Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19655.ts
 #EXTINF:-1,◊◊◊◊DIGITALB◊◊◊◊
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/16444.ts
 #EXTINF:-1,♣♣♣♣♣Spanish♣♣♣♣♣
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/7448.ts
+#EXTINF:-1,ES-TOROS  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19479.ts
+#EXTINF:-1,ES-TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19521.ts
+#EXTINF:-1,ES-TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19506.ts
+#EXTINF:-1,ES-Telesur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19507.ts
+#EXTINF:-1,ES-SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19522.ts
+#EXTINF:-1,ES-SKY TG24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19480.ts
+#EXTINF:-1,ES-RT DOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19481.ts
+#EXTINF:-1,ES-REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19508.ts
+#EXTINF:-1,ES-RAI NEWS24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19482.ts
+#EXTINF:-1,ES-QUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19509.ts
+#EXTINF:-1,ES-Parlamento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19510.ts
+#EXTINF:-1,ES-PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19523.ts
+#EXTINF:-1,ES-NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19483.ts
+#EXTINF:-1,ES-NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19524.ts
+#EXTINF:-1,ES-MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19484.ts
+#EXTINF:-1,ES-LOS 40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19511.ts
+#EXTINF:-1,ES-LALIGA TV BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19512.ts
+#EXTINF:-1,ES-LALIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19513.ts
+#EXTINF:-1,ES-IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19525.ts
+#EXTINF:-1,ES-HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19526.ts
+#EXTINF:-1,ES-HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19485.ts
+#EXTINF:-1,ES-GolTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19486.ts
+#EXTINF:-1,ES-FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19487.ts
+#EXTINF:-1,ES-FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19488.ts
+#EXTINF:-1,ES-eurosport hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19489.ts
+#EXTINF:-1,ES-ESTRELAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19514.ts
+#EXTINF:-1,ES-EHS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19527.ts
+#EXTINF:-1,ES-DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19490.ts
+#EXTINF:-1,ES-DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19491.ts
+#EXTINF:-1,ES-CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19492.ts
+#EXTINF:-1,ES-COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19515.ts
+#EXTINF:-1,ES-CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19493.ts
+#EXTINF:-1,ES-CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19494.ts
+#EXTINF:-1,ES-CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19516.ts
+#EXTINF:-1,ES-CASTILLA LA MANCHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19495.ts
+#EXTINF:-1,ES-CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19528.ts
+#EXTINF:-1,ES-CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19517.ts
+#EXTINF:-1,ES-CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19496.ts
+#EXTINF:-1,ES-C XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19529.ts
+#EXTINF:-1,ES-C & I
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19497.ts
+#EXTINF:-1,ES-C  COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19530.ts
+#EXTINF:-1,ES-BLOOMBERG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19498.ts
+#EXTINF:-1,ES-BEIN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19499.ts
+#EXTINF:-1,ES-BEIN SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19500.ts
+#EXTINF:-1,ES-BEIN LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19518.ts
+#EXTINF:-1,ES-BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19519.ts
+#EXTINF:-1,ES-Bar?a TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19501.ts
+#EXTINF:-1,ES-AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19502.ts
+#EXTINF:-1,ES-ARIRANG WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19503.ts
+#EXTINF:-1,ES-AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19520.ts
+#EXTINF:-1,ES-Al Jazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19504.ts
+#EXTINF:-1,ES-#0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/19505.ts
 #EXTINF:-1,ES-TNT HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.softiptv.com:9900/live/Julian/Julian/8185.ts
 #EXTINF:-1,ES-TELEDEPORTE
