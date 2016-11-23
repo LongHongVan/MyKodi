@@ -3348,3 +3348,135 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 ################### End UKTV HD ####################################
 
 
+################### New Sports TV ####################################
+
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", 
+
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", NBCSN
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", OLYMPIC CHANNEL
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4641.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/129.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN 2
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/121.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", NFL Network HD
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/90.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", BYU TV
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/164.ts|User-Agent==iptvrestream.net= 	
+
+
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", BT Sports 1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/8.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", BT Sports 2
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/6.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", BT Sports ESPN
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", PAC-12 Bay Area
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/393.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", PAC-12 Washington
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/397.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", PAC-12 Oregon
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/395.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", PAC-12 Los Angeles
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/394.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/14.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 2
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/13.ts|User-Agent==iptvrestream.net=
+
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/92.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 2
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/93.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 3
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/94.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 4
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/05.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 5
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/06.ts|User-Agent==iptvrestream.net=
+	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportnet Ontario
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2451.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportnet Pacific
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2448.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportnet world
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3058.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportnet West
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2449.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportnet One
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2450.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportnet 360
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2457.ts|User-Agent==iptvrestream.net=
+	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sky Sports 1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/26.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sky Sports 2
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/24.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sky Sports 3
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/22.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sky Sports 4
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/20.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sky Sports 5
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/18.ts|User-Agent==iptvrestream.net=
+	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Astro Sports 1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3060.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Astro Sports 2
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3061.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Astro Sports 3
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3062.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Astro Sports 4
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/3063.ts|User-Agent==iptvrestream.net=
+
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Eurosport 1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4472.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Eurosport 2
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4473.ts|User-Agent==iptvrestream.net=
+	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports USA
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1104.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", AFN Sports
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1082.ts|User-Agent==iptvrestream.net=
+	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Satenta Sports
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1027.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Premier Sports
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1427.ts|User-Agent==iptvrestream.net=
+	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 1
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/30.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 2
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/31.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 3
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/32.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 4
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/33.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 5
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/34.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 6
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/35.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 7
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/36.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 8
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/37.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 9
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/38.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 10
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/39.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 11
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/40.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 12
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/41.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 13
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/42.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 14
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/43.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 15
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/44.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 16
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/45.ts|User-Agent==iptvrestream.net=	
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 17
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/46.ts|User-Agent==iptvrestream.net=
+
+################### End New Sports TV ####################################
