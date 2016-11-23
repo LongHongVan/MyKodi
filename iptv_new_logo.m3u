@@ -3352,9 +3352,9 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", 
 
-#EXTINF:0 group-title="New Sports TV",  tvg-id="NBC Sports Network HD" tvg-name="" tvg-logo="", NBCSN
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="NBC Sports Network HD" tvg-logo="", NBCSN HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/98.ts|User-Agent==iptvrestream.net=
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", OLYMPIC CHANNEL
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", OLYMPIC CHANNEL FHD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/4641.ts|User-Agent==iptvrestream.net=
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/129.ts|User-Agent==iptvrestream.net=
@@ -3362,8 +3362,7 @@ http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/129.ts|User-Agent==iptvr
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/121.ts|User-Agent==iptvrestream.net=
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", NFL Network HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/90.ts|User-Agent==iptvrestream.net=
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", BYU TV
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/164.ts|User-Agent==iptvrestream.net= 	
+ 	
 
 
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", BT Sports 1 HD
@@ -3443,6 +3442,8 @@ http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1082.ts|User-Agent==iptv
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1027.ts|User-Agent==iptvrestream.net=	
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Premier Sports
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/1427.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", BYU TV
+http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/164.ts|User-Agent==iptvrestream.net=
 	
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports 1
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/30.ts|User-Agent==iptvrestream.net=	
