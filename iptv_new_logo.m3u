@@ -3215,25 +3215,25 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=85
 
 ### START Long Hong TV-Box auto created - Date: 2016-11-23 22:16:11 (GMT) USTVNow m3u playlist...###
 
-#EXTINF:-1 tvg-name="ABC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow",ABC
+#EXTINF:-1 tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow",ABC HD
 http://ilv12.oedg.ustvnow.com/ilv01/mp4:B09A4WHTMUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae3f7c44f4ef739c766f9b45380569944a24415f4be4c5f60c3d5efa7d1e31c42c75ac
 
-#EXTINF:-1 tvg-name="CBS" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CBS.png" group-title="USTVNow",CBS
+#EXTINF:-1 tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CBS.png" group-title="USTVNow",CBS HD
 http://ilv05.oedg.ustvnow.com/ilv05/mp4:D9244WHP0USTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae3f7c44f4ef739c766f9b45380569944a24415f4be4c5f60c3d5efa7d1e31c42c75ac
 
-#EXTINF:-1 tvg-name="CW" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CW.png" group-title="USTVNow",CW
+#EXTINF:-1 tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CW.png" group-title="USTVNow",CW HD
 http://ilv10.oedg.ustvnow.com/ilv10/mp4:3A3BCWLYHUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae3f7c44f4ef739c766f9b45380569944a24415f4be4c5f60c3d5efa7d1e31c42c75ac
 
-#EXTINF:-1 tvg-name="FOX" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FOX.png" group-title="USTVNow",FOX
+#EXTINF:-1 tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FOX.png" group-title="USTVNow",FOX HD
 http://ilv10.oedg.ustvnow.com/ilv10/mp4:909AAWPMTUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae3f7c44f4ef739c766f9b45380569944a24415f4be4c5f60c3d5efa7d1e31c42c75ac
 
-#EXTINF:-1 tvg-name="NBC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/NBC.png" group-title="USTVNow",NBC
+#EXTINF:-1 tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/NBC.png" group-title="USTVNow",NBC HD
 http://ilv05.oedg.ustvnow.com/ilv05/mp4:89928WGALUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae3f7c44f4ef739c766f9b45380569944a24415f4be4c5f60c3d5efa7d1e31c42c75ac
 
-#EXTINF:-1 tvg-name="PBS" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/PBS.png" group-title="USTVNow",PBS
+#EXTINF:-1 tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/PBS.png" group-title="USTVNow",PBS HD
 http://ilv11.oedg.ustvnow.com/ilv11/mp4:459C4WPSUUSTVNOW4/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae3f7c44f4ef739c766f9b45380569944a24415f4be4c5f60c3d5efa7d1e31c42c75ac
 
-#EXTINF:-1 tvg-name="MY9" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/MY9.png" group-title="USTVNow",MY9
+#EXTINF:-1 tvg-name="" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/MY9.png" group-title="USTVNow",MY9 HD
 http://ilv12.oedg.ustvnow.com/ilv01/mp4:DCB91WHVLUSTVNOW3/playlist.m3u8?f1a2823da53acb9b9d726286209af87f2333d3ba6a878f736cae3f7c44f4ef739c766f9b45380569944a24415f4be4c5f60c3d5efa7d1e31c42c75ac
 
 ### END Long Hong TV-Box auto created - USTVNow m3u playlist...###
