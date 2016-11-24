@@ -3215,91 +3215,91 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=85
 
 #EXTM3U
 
-### START LH TV-Box auto created - Date: 2016-11-24 09:28:34 (GMT) USTVNow m3u playlist...###
+### START LH TV-Box auto created - Date: 2016-11-24 20:28:46 (GMT) USTVNow m3u playlist...###
 
 #EXTINF:-1 tvg-name="ABC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow",ABC
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:B09A4WHTMUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008517&cf=1480152517&h=1c9dffee8942b29d97c00dc138f5a8a6
+http://ilv12.lledg.ustvnow.com/ilv01/mp4:74D33WHTMUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048129&cf=1480192129&h=198a14696e534bc43242e9312fdacd2d
 
 #EXTINF:-1 tvg-name="CBS" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CBS.png" group-title="USTVNow",CBS
-http://ilv05.lledg.ustvnow.com/ilv05/mp4:D9244WHP0USTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008517&cf=1480152517&h=32eba8f6566c886ef97ae9a4766b2509
+http://ilv05.lledg.ustvnow.com/ilv05/mp4:8F540WHP0USTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048130&cf=1480192130&h=495e702862638507e80b0ad400f84441
 
 #EXTINF:-1 tvg-name="CW" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CW.png" group-title="USTVNow",CW
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:3A3BCWLYHUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008518&cf=1480152518&h=456140c6150b5d6d0dd5db48332edfa6
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:449B4WLYHUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048130&cf=1480192130&h=4023ef6b76ac22365b6a3ed2e2e6175d
 
 #EXTINF:-1 tvg-name="FOX" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FOX.png" group-title="USTVNow",FOX
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:909AAWPMTUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008518&cf=1480152518&h=456140c6150b5d6d0dd5db48332edfa6
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:4CCACWPMTUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048130&cf=1480192130&h=4023ef6b76ac22365b6a3ed2e2e6175d
 
 #EXTINF:-1 tvg-name="NBC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/NBC.png" group-title="USTVNow",NBC
-http://ilv05.lledg.ustvnow.com/ilv05/mp4:89928WGALUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008519&cf=1480152519&h=f2a188a35ba54ad95222d3c4498f0b1a
+http://ilv05.lledg.ustvnow.com/ilv05/mp4:B1F1AWGALUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048131&cf=1480192131&h=8fc58ea84aefbaa5aada5d162c400532
 
 #EXTINF:-1 tvg-name="PBS" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/PBS.png" group-title="USTVNow",PBS
-http://ilv11.lledg.ustvnow.com/ilv11/mp4:459C4WPSUUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008519&cf=1480152519&h=dfda956c9ec958cde02999cb168d414f
+http://ilv11.lledg.ustvnow.com/ilv11/mp4:E2612WPSUUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048131&cf=1480192131&h=5eb5d3d1835c89f9503cf8ac6b3f15b0
 
 #EXTINF:-1 tvg-name="MY9" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/MY9.png" group-title="USTVNow",MY9
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:DCB91WHVLUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008519&cf=1480152519&h=463164159496449992226bbb82bd1fa0
+http://ilv12.lledg.ustvnow.com/ilv01/mp4:CD4FAWHVLUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048131&cf=1480192131&h=265d4ed222ceae43e8fb2ff9bcf0e91d
 
 #EXTINF:-1 tvg-name="AE" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/AE.png" group-title="USTVNow",AE
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:D3270AETVUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008520&cf=1480152520&h=69de702272af57f555e4d5863f55d581
+http://ilv12.lledg.ustvnow.com/ilv01/mp4:51779AETVUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048132&cf=1480192132&h=131eeab6093e844fb14c6ba0202814ae
 
 #EXTINF:-1 tvg-name="AMC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/AMC.png" group-title="USTVNow",AMC
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:80E7AAMC0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008520&cf=1480152520&h=69de702272af57f555e4d5863f55d581
+http://ilv12.lledg.ustvnow.com/ilv01/mp4:287DDAMC0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048132&cf=1480192132&h=131eeab6093e844fb14c6ba0202814ae
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Animal%20Planet.png" group-title="USTVNow",Animal Planet
-http://ilv05.lledg.ustvnow.com/ilv05/mp4:00000ANIMUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008520&cf=1480152520&h=3bd4f3a84ab0d022e6a223febb6bd768
+http://ilv05.lledg.ustvnow.com/ilv05/mp4:00000ANIMUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048133&cf=1480192133&h=3b58d6bf06c08a4a488865d44c4ec8a7
 
 #EXTINF:-1 tvg-name="Bravo" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Bravo.png" group-title="USTVNow",Bravo
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:1AC77BRAVUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008521&cf=1480152521&h=6fc3994dcfb7c397c7cf2b1214c23c8e
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:5512FBRAVUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048133&cf=1480192133&h=b5123d374bf5517010f295adc1b3dc92
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Cartoon%20Network.png" group-title="USTVNow",Cartoon Network
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:38CFECARTUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008521&cf=1480152521&h=6fc3994dcfb7c397c7cf2b1214c23c8e
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:9E040CARTUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048133&cf=1480192133&h=b5123d374bf5517010f295adc1b3dc92
 
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNBC.png" group-title="USTVNow",CNBC
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:A2C5ACNBCUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008522&cf=1480152522&h=57daa44842d535125db784ae58440420
+http://ilv12.lledg.ustvnow.com/ilv01/mp4:D75A5CNBCUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048134&cf=1480192134&h=8fb633c607457daa6fac97cd3275609f
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNN.png" group-title="USTVNow",CNN
-http://ilv11.lledg.ustvnow.com/ilv11/mp4:524DACNN0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008522&cf=1480152522&h=3dee19af6a023eb0809f5e236a79be67
+http://ilv11.lledg.ustvnow.com/ilv11/mp4:F8BD9CNN0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048134&cf=1480192134&h=72779f3a5d7d8a420c93cb96e3cc7f49
 
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Comedy%20Central.png" group-title="USTVNow",Comedy Central
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:2DA42COMEUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008522&cf=1480152522&h=57daa44842d535125db784ae58440420
+http://ilv12.lledg.ustvnow.com/ilv01/mp4:10F4FCOMEUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048135&cf=1480192135&h=f00c7db193f2fc88a150851fcf4b162a
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Discovery.png" group-title="USTVNow",Discovery
-http://ilv05.lledg.ustvnow.com/ilv05/mp4:48DA8DISCUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008523&cf=1480152523&h=64ff08ea191635c5bcdc048a45c2f275
+http://ilv05.lledg.ustvnow.com/ilv05/mp4:85579DISCUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048135&cf=1480192135&h=b4625bd09add7b3801bc847d73d7d121
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ESPN.png" group-title="USTVNow",ESPN
-http://ilv11.lledg.ustvnow.com/ilv11/mp4:CFFF4ESPNUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008523&cf=1480152523&h=cd237c610d2f0f3d6644368fa48e62d2
+http://ilv11.lledg.ustvnow.com/ilv11/mp4:3EEDCESPNUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048136&cf=1480192136&h=b8b7e1c2ab694c2a3d23991b164735b1
 
 #EXTINF:-1 tvg-name="Fox News" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Fox%20News.png" group-title="USTVNow",Fox News
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:4CC99FOXNUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008523&cf=1480152523&h=409121eb293435913098af36045676c0
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:82AFDFOXNUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048136&cf=1480192136&h=a4939105260412df373dc1dd721d32b1
 
 #EXTINF:-1 tvg-name="FX" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FX.png" group-title="USTVNow",FX
-http://ilv11.lledg.ustvnow.com/ilv11/mp4:80029FX00USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008524&cf=1480152524&h=b2063d69e5b741f7b83aadedcb32cfd6
+http://ilv11.lledg.ustvnow.com/ilv11/mp4:AA01BFX00USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048136&cf=1480192136&h=b8b7e1c2ab694c2a3d23991b164735b1
 
 #EXTINF:-1 tvg-name="History" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/History.png" group-title="USTVNow",History
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:7C8F5HISTUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008524&cf=1480152524&h=6eb1bdcd1a5b14049f105f66bb623247
+http://ilv12.lledg.ustvnow.com/ilv01/mp4:A4A79HISTUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048137&cf=1480192137&h=123bff6a0af6faeb4078b602ed21b3b0
 
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Lifetime.png" group-title="USTVNow",Lifetime
-http://ilv05.lledg.ustvnow.com/ilv05/mp4:00000LIFEUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008525&cf=1480152525&h=5b12eba0b91d8cae557f338b9f523f45
+http://ilv05.lledg.ustvnow.com/ilv05/mp4:00000LIFEUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048137&cf=1480192137&h=5ba4a835fa39c85c954204fb0f98a483
 
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/National%20Geographic.png" group-title="USTVNow",National Geographic
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:56F6DNATGUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008525&cf=1480152525&h=02666876fc58e3e0daec4cfb0c244374
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:EC288NATGUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048137&cf=1480192137&h=ec1bc26ade1b836754be617b08c01d2a
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Nickelodeon.png" group-title="USTVNow",Nickelodeon
-http://ilv05.lledg.ustvnow.com/ilv05/mp4:00000NICKUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008525&cf=1480152525&h=5b12eba0b91d8cae557f338b9f523f45
+http://ilv05.lledg.ustvnow.com/ilv05/mp4:00000NICKUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048138&cf=1480192138&h=7f25ed00a9b30a6db55358b2e5c7dba2
 
 #EXTINF:-1 tvg-name="SPIKE TV" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/SPIKE%20TV.png" group-title="USTVNow",SPIKE TV
-http://ilv12.lledg.ustvnow.com/ilv01/mp4:672E9SPIKUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008526&cf=1480152526&h=b1733ef989de43d41c1da929097a4070
+http://ilv12.lledg.ustvnow.com/ilv01/mp4:DE10CSPIKUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048138&cf=1480192138&h=5cbd51da8c52448ace2b74dd92e445ca
 
 #EXTINF:-1 tvg-name="Syfy" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Syfy.png" group-title="USTVNow",Syfy
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:79AE1SYFYUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008526&cf=1480152526&h=0753509bea7119698305c332a862c233
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:0E1AESYFYUSTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048138&cf=1480192138&h=80c33f4392813eb11f48501e85409efa
 
 #EXTINF:-1 tvg-name="TBS" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/TBS.png" group-title="USTVNow",TBS
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:FEB5BTBS0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008526&cf=1480152526&h=0753509bea7119698305c332a862c233
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:5D837TBS0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048139&cf=1480192139&h=34b7f405f92cd2b10a89bd2dda22d3b2
 
 #EXTINF:-1 tvg-name="TNT" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/TNT.png" group-title="USTVNow",TNT
-http://ilv10.lledg.ustvnow.com/ilv10/mp4:A5039TNT0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008527&cf=1480152527&h=1bae8a4b7655b38d956c1ac6156be881
+http://ilv10.lledg.ustvnow.com/ilv10/mp4:071EBTNT0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048139&cf=1480192139&h=34b7f405f92cd2b10a89bd2dda22d3b2
 
 #EXTINF:-1 tvg-name="USA Network" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/USA%20Network.png" group-title="USTVNow",USA Network
-http://ilv11.lledg.ustvnow.com/ilv11/mp4:5E078USA0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480008527&cf=1480152527&h=510870f3d4792bcd4d192209081cb9cb
+http://ilv11.lledg.ustvnow.com/ilv11/mp4:5DCE2USA0USTVNOW3/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480048140&cf=1480192140&h=f3ca4f37fd46d0cb5cb75b062a3a46fe
 
 ### END LH TV-Box auto created - USTVNow m3u playlist...###
 
