@@ -3217,6 +3217,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=85
 
 ### START LH TV-Box auto created - Date: 2016-11-25 17:20:21 (GMT) USTVNow m3u playlist...###
 
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USTVNow", [COLOR aqua]ABC HD[/COLOR]
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USTVNow", [COLOR aqua]CBS HD[/COLOR]
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CBS
+
+
 #EXTINF:-1 tvg-name="ABC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow",ABC
 http://ilv12.lledg.ustvnow.com/ilv01/mp4:13D72WHTMUSTVNOW4/playlist.m3u8?p=31&ip=76.21.124.238&ci=28800&cd=300&e=1480123225&cf=1480267225&h=06fe601174fa8eb59fc19b4ae704922d
 
