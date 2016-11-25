@@ -3249,13 +3249,13 @@ http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AE
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AMC
 
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Animal%20Planet.png" group-title="USTVNow",Animal Planet
-http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Animal Planet
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Animal%20Planet
 
 #EXTINF:-1 tvg-name="Bravo East" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Bravo.png" group-title="USTVNow",Bravo
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Bravo
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Cartoon%20Network.png" group-title="USTVNow",Cartoon Network
-http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Cartoon Network
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Cartoon%20Network
 
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNBC.png" group-title="USTVNow",CNBC
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNBC
@@ -3264,7 +3264,7 @@ http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNBC
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNN
 
 #EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Comedy%20Central.png" group-title="USTVNow",Comedy Central
-http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Comedy Central
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Comedy%20Central
 
 #EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Discovery.png" group-title="USTVNow",Discovery
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Discovery
@@ -3273,7 +3273,7 @@ http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Discovery
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ESPN
 
 #EXTINF:-1 tvg-name="Fox News HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Fox%20News.png" group-title="USTVNow",Fox News
-http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Fox News
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Fox%20News
 
 #EXTINF:-1 tvg-name="FX HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FX.png" group-title="USTVNow",FX
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FX
@@ -3285,13 +3285,13 @@ http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=History
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Lifetime
 
 #EXTINF:-1 tvg-name="National Geographic Channel" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/National%20Geographic.png" group-title="USTVNow",National Geographic
-http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=National Geographic
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=National%20Geographic
 
 #EXTINF:-1 tvg-name="Nick HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Nickelodeon.png" group-title="USTVNow",Nickelodeon
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Nickelodeon
 
 #EXTINF:-1 tvg-name="Spike HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/SPIKE%20TV.png" group-title="USTVNow",SPIKE TV
-http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=SPIKE TV
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=SPIKE%20V
 
 #EXTINF:-1 tvg-name="SYFY HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Syfy.png" group-title="USTVNow",Syfy
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Syfy
@@ -3303,7 +3303,7 @@ http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=TBS
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=TNT
 
 #EXTINF:-1 tvg-name="USA Network HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/USA%20Network.png" group-title="USTVNow",USA Network
-http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=USA Network
+http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=USA%20Network
 
 ### END LH TV-Box auto created - USTVNow m3u playlist...###
 
