@@ -3445,8 +3445,15 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/129.ts|User-Agent==iptvrestream.net=
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN 2 US
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/121.ts|User-Agent==iptvrestream.net=
+
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", NFL Network HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/90.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", FOX HD
+http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4691.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", CBS HD
+http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4695.ts|User-Agent==iptvrestream.net=
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", NBC HD
+http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4689.ts|User-Agent==iptvrestream.net=
  	
 
 
