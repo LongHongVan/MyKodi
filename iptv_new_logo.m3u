@@ -3603,7 +3603,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Animal Planet HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/256.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", National Geographic Channel HD
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", National Geographic Channel
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/244.ts
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Nat Geo Wild HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/245.ts
