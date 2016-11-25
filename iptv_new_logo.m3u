@@ -3106,7 +3106,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=186
 #EXTINF:0 tvg-name="Nat Geo Wild HD" group-title="Top Cloud USA TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png", Nat Geo Wild HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=190
 
-#EXTINF:0 tvg-name="Nickelodeon HD" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nickelodeon HD
+#EXTINF:0 tvg-name="Nick HD" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nick HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 
 #EXTINF:0 tvg-name="Fox News HD" group-title="Top Cloud USA TV" tvg-logo="cdn.newsbusters.org/images/fnclogolarge.jpg", Fox News HD
@@ -3251,7 +3251,7 @@ http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AMC
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Animal%20Planet.png" group-title="USTVNow",Animal Planet
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Animal Planet
 
-#EXTINF:-1 tvg-name="Bravo HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Bravo.png" group-title="USTVNow",Bravo
+#EXTINF:-1 tvg-name="Bravo East" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Bravo.png" group-title="USTVNow",Bravo
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Bravo
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Cartoon%20Network.png" group-title="USTVNow",Cartoon Network
@@ -3287,7 +3287,7 @@ http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Lifetime
 #EXTINF:-1 tvg-name="National Geographic Channel" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/National%20Geographic.png" group-title="USTVNow",National Geographic
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=National Geographic
 
-#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Nickelodeon.png" group-title="USTVNow",Nickelodeon
+#EXTINF:-1 tvg-name="Nick HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Nickelodeon.png" group-title="USTVNow",Nickelodeon
 http://localhost:8888/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Nickelodeon
 
 #EXTINF:-1 tvg-name="Spike HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/SPIKE%20TV.png" group-title="USTVNow",SPIKE TV
