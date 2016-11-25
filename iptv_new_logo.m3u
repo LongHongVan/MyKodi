@@ -3592,22 +3592,15 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6907.ts
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TBS HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6903.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", NBC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6386.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", FOX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6900.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", HALLMARK
+
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Hallmark Channel HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6915.ts
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Discovery Science HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/655.ts
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TLC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/259.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Food Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/646.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Travel Channel UK
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5335.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Eden HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/4244.ts
+
+
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Animal Planet HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/256.ts
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", National Geographic Channel HD
