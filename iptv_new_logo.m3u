@@ -3573,3 +3573,59 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/46.ts|User-Agent==iptvrestream.net=
 
 ################### End New Sports TV ####################################
+
+
+################### New Entertainment USA TV #####################################
+
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", FOX NEWS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6898.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", CW HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6905.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", CNN HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6904.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", ABC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6906.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Spike HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6383.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Lifetime HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6409.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", A&E HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6389.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", AMC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6384.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", USA Net
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6907.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TBS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6903.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", NBC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6386.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", FOX
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6900.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", HALLMARK
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/6915.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Discovery Science HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/655.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TLC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/259.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Good Food
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/643.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Food Network
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/646.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Travel Channel UK
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5335.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Eden
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/4244.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Animal Planet
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/256.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Nat Geo Graphic
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/563.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", National Geographic Channel
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/244.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Nat Geo Wild
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/245.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Discovery History
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/606.ts
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", Crime Investigation
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/616.ts
+
+################### End New Entertainment USA TV #####################################
