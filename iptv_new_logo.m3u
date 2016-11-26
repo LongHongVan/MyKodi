@@ -2028,6 +2028,12 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
+#EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN US
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
+
+#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2 US" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 US
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
+
 #EXTINF:-1, tvg-id="" tvg-name="ABC HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/41.png" group-title="TOP SPORT TV", ABC HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=71
 
@@ -2078,8 +2084,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=442
 #EXTINF:-1, tvg-id="159" tvg-name="NBC Sports Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sports Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=159
 
-#EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
+
 
 #EXTINF:-1, tvg-name="ESPN Latinoamerica" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN Latinoamerica
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=854
@@ -2099,9 +2104,6 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=410
 #EXTINF:-1 group-title="TOP SPORT TV" tvg-logo="soccer.indonewyork.com/wp-content/uploads/2013/07/wpid-mutv.jpeg", MUTV
 #http://167.114.41.215:8080/MuTTveE_rAf/MuTTveE_rAf/index
 
-
-#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2 US" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
 
 #EXTINF:-1, tvg-id="141" tvg-name="ESPNU" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPNU
 #http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/979
