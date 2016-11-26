@@ -3752,23 +3752,23 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1501
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=790
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",GLOBAL TV  EDMONTON
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6785
-#EXTINF:-1   tvg-id="ABC TESTs 24" group-title="[COLOR yellow]TEST [/COLOR]TESTs",ABC TESTs 24
+#EXTINF:-1   tvg-id="ABC News 24" group-title="[COLOR yellow]TEST [/COLOR]News",ABC News 24
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=136
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]TESTs",MSNBC
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",MSNBC
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6949
-#EXTINF:-1   tvg-id="CNNUS" group-title="[COLOR yellow]TEST [/COLOR]TESTs",CNN US
+#EXTINF:-1   tvg-id="CNNUS" group-title="[COLOR yellow]TEST [/COLOR]News",CNN US
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1505
-#EXTINF:-1   tvg-id="CNBCUS" group-title="[COLOR yellow]TEST [/COLOR]TESTs",CNBC US
+#EXTINF:-1   tvg-id="CNBCUS" group-title="[COLOR yellow]TEST [/COLOR]News",CNBC US
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1506
-#EXTINF:-1   tvg-id="Fox TESTs Channel" group-title="[COLOR yellow]TEST [/COLOR]TESTs",Fox TESTs
+#EXTINF:-1   tvg-id="Fox News Channel" group-title="[COLOR yellow]TEST [/COLOR]News",Fox News
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=440
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]TESTs",Fox Business US
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",Fox Business US
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6947
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]TESTs",EuroTESTs English
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",EuroNews English
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1259
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]TESTs",BNN
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",BNN
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6966
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]TESTs",WGN
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",WGN
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1613
 #EXTINF:-1   tvg-id="I210.10161.schedulesdirect.org" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",C-Span 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=596
@@ -3822,7 +3822,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=393
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=417
 #EXTINF:-1   tvg-id="RTÉ Two" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",RTE Two
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=418
-#EXTINF:-1   tvg-id="RTE TESTs Now" group-title="[COLOR yellow]TEST [/COLOR]TESTs",RTE TESTs
+#EXTINF:-1   tvg-id="RTE News Now" group-title="[COLOR yellow]TEST [/COLOR]News",RTE News
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=399
 #EXTINF:-1   tvg-id="RTÉ Jr" group-title="[COLOR yellow]TEST [/COLOR]Kids",RTE Jr
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1204
@@ -3874,11 +3874,11 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=655
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=105
 #EXTINF:-1   tvg-id="Yesterday" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Yesterday
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=74
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]TESTs",CNN
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",CNN
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=678
-#EXTINF:-1   tvg-id="EuroTESTs" group-title="[COLOR yellow]TEST [/COLOR]TESTs",Euro TESTs
+#EXTINF:-1   tvg-id="EuroNews" group-title="[COLOR yellow]TEST [/COLOR]News",Euro News
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1139
-#EXTINF:-1   tvg-id="Bloomberg" group-title="[COLOR yellow]TEST [/COLOR]TESTs",Bloomberg
+#EXTINF:-1   tvg-id="Bloomberg" group-title="[COLOR yellow]TEST [/COLOR]News",Bloomberg
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=392
 #EXTINF:-1   tvg-id="HBO 2 East" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=188
@@ -4052,7 +4052,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=371
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=466
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPNU
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1638
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN TESTs
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN News
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1611
 #EXTINF:-1   tvg-id="FOX Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",FOX Sports 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=212
@@ -4150,7 +4150,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=28
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=64
 #EXTINF:-1   tvg-id="Sky Sports Box Office" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports Box Office
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=446
-#EXTINF:-1   tvg-id="I405.759235.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports TESTs
+#EXTINF:-1   tvg-id="I405.759235.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports News
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=63
 #EXTINF:-1   tvg-id="BoxNation" group-title="[COLOR yellow]TEST [/COLOR]Sports",BoxNation
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=47
@@ -4250,7 +4250,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=559
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=638
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport 2 DE
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=696
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport TESTs DE
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport News DE
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=697
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",SportKlub 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6778
