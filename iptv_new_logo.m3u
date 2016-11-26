@@ -88,15 +88,15 @@ http://free-premium-iptv.ddns.net:9090/load/free123/33.mpegts
 http://free-premium-iptv.ddns.net:9090/load/free123/34.mpegts
 #EXTINF:-1    group-title="TEST Channels",NFL Network HD
 http://free-premium-iptv.ddns.net:9090/load/free123/35.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN 1
+#EXTINF:-1    group-title="TEST Channels",TSN 1 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/36.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN 2
+#EXTINF:-1    group-title="TEST Channels",TSN 2 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/37.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN 3
+#EXTINF:-1    group-title="TEST Channels",TSN 3 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/38.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN 4
+#EXTINF:-1    group-title="TEST Channels",TSN 4 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/39.mpegts
-#EXTINF:-1    group-title="TEST Channels",TSN 5
+#EXTINF:-1    group-title="TEST Channels",TSN 5 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/40.mpegts
 #EXTINF:-1    group-title="TEST Channels",TBS HD
 http://free-premium-iptv.ddns.net:9090/load/free123/42.mpegts
@@ -2815,19 +2815,19 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=55
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/57.png", CTV Vancouver
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=57
 
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", TSN 1
+#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", TSN 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=400
 
-#EXTINF:-1, tvg-id="uktvnow:234" tvg-name="TSN 2" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="CANADA", TSN 2
+#EXTINF:-1, tvg-id="uktvnow:234" tvg-name="TSN 2 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="CANADA", TSN 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=401
 
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 3
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 3 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=402
 
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4" tvg-logo="www.mcquarrieweb.ca/TVGuideWebsite/images/tsn4.png" group-title="CANADA", TSN 4
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4 HD" tvg-logo="www.mcquarrieweb.ca/TVGuideWebsite/images/tsn4.png" group-title="CANADA", TSN 4 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
 
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="activpn.com/images/watch_outside_ca/TSN%20-%20The%20Sports%20Network.png" group-title="CANADA", TSN 5
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5 HD" tvg-logo="activpn.com/images/watch_outside_ca/TSN%20-%20The%20Sports%20Network.png" group-title="CANADA", TSN 5 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
 
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet One HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet One HD
@@ -2866,19 +2866,19 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4.ts|User-Agent==iptvrestream.net=
 
 
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", TSN 1
+#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", TSN 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=400
 
-#EXTINF:-1, tvg-id="uktvnow:234" tvg-name="TSN 2" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="TOP SPORT TV", TSN 2
+#EXTINF:-1, tvg-id="uktvnow:234" tvg-name="TSN 2 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="TOP SPORT TV", TSN 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=401
 
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 3
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 3 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=402
 
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 4
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 4 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
 
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 5
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 5 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
 
 
@@ -3481,15 +3481,15 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 2 HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/13.ts|User-Agent==iptvrestream.net=
 
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 1
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 1 HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/92.ts|User-Agent==iptvrestream.net=	
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 2
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 2 HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/93.ts|User-Agent==iptvrestream.net=
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 3
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 3 HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/94.ts|User-Agent==iptvrestream.net=
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 4
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 4 HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/05.ts|User-Agent==iptvrestream.net=
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 5
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 5 HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/06.ts|User-Agent==iptvrestream.net=
 	
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportsnet Ontario HD
@@ -3630,15 +3630,15 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5083.ts
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", ASTRO SPORT 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5084.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 1
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5085.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 2
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5086.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 3
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5087.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 4
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5088.ts
-#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 5
+#EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 5 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5089.ts
 #EXTINF:-1 group-title="New Entertainment USA TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.159.218:8000/live/777/777/5091.ts
