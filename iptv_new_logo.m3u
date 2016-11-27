@@ -2062,7 +2062,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=72
 #EXTINF:-1, tvg-id="" tvg-name="CBS W HD" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
 
-#EXTINF:-1, tvg-id="" tvg-name="CBS Sports Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/92.png" group-title="TOP SPORT TV", CBS Sports Network
+#EXTINF:-1, tvg-id="" tvg-name="CBS Sports Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/92.png" group-title="TOP SPORT TV", CBS Sports Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=158
 
 
@@ -3158,7 +3158,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=300
 #EXTINF:-1, tvg-name="CBS New York" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=42
 
-#EXTINF:-1, tvg-name="CBS New York" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS W HD
+#EXTINF:-1, tvg-name="CBS W HD" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
 
 #EXTINF:-1, tvg-name="Travel Channel UK" tvg-logo="cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM28E.png" group-title="Top Cloud USA TV", Travel Channel HD
@@ -3226,7 +3226,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=85
 #http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
 
 
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow",[COLOR aqua]ABC HD[/COLOR]
+#EXTINF:-1 tvg-name="ABC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="USTVNow",[COLOR aqua]ABC HD[/COLOR]
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
 
 #EXTINF:-1 tvg-name="CBS HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CBS.png" group-title="USTVNow",CBS
@@ -3238,7 +3238,7 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CW
 #EXTINF:-1 tvg-name="FOX HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FOX.png" group-title="USTVNow",FOX
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FOX
 
-#EXTINF:-1 tvg-name="NBC Miami" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/NBC.png" group-title="USTVNow",NBC
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/NBC.png" group-title="USTVNow",NBC
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=NBC
 
 #EXTINF:-1 tvg-name="PBS HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/PBS.png" group-title="USTVNow",PBS
@@ -4061,7 +4061,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1472
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=421
 #EXTINF:-1   tvg-id="Food Network UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Food Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=319
-#EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NHL Sports Network HD
+#EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBC Sports Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=467
 #EXTINF:-1   tvg-id="CBS Sports Network (CBS SN)" group-title="[COLOR yellow]TEST [/COLOR]Sports",CBS Sports Network
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=785
