@@ -3670,17 +3670,6 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.sof
 
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptv USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="",  NBA TV HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/17381.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptv USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="",  LMN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/17384.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptv USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="",  ID HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/17385.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptv USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="",  HSN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/17386.ts
-
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptv USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/12611.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptv USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/12610.ts
 
 
 
