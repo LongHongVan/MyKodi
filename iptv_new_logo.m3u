@@ -3222,38 +3222,34 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=85
 
 ### START LH TV-Box auto created - Date: 2016-11-25 17:20:21 (GMT) USTVNow m3u playlist...###
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]", [COLOR aqua]ABC HD[/COLOR]
-#http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
-
-
-#EXTINF:-1 tvg-name="ABC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",[COLOR aqua]ABC HD[/COLOR]
+#EXTINF:-1 tvg-name="ABC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]", ABC HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
 
-#EXTINF:-1 tvg-name="CBS HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CBS
+#EXTINF:-1 tvg-name="CBS HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CBS HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CBS
 
-#EXTINF:-1 tvg-name="CW HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CW.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CW
+#EXTINF:-1 tvg-name="CW HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CW.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CW HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CW
 
-#EXTINF:-1 tvg-name="FOX HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FOX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FOX
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FOX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FOX HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FOX
 
-#EXTINF:-1 tvg-name="NBC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/NBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",NBC
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/NBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",NBC HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=NBC
 
-#EXTINF:-1 tvg-name="PBS HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/PBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",PBS
+#EXTINF:-1 tvg-name="PBS HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/PBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",PBS HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=PBS
 
 #EXTINF:-1 tvg-name="MY9" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/MY9.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",MY9
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=My9
 
-#EXTINF:-1 tvg-name="A&E HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/AE.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AE
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/AE.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AE HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AE
 
-#EXTINF:-1 tvg-name="AMC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/AMC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AMC
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/AMC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AMC HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AMC
 
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Animal%20Planet.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Animal%20Planet.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Animal Planet HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Animal%20Planet
 
 #EXTINF:-1 tvg-name="Bravo HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Bravo.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Bravo HD
@@ -3265,28 +3261,28 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Cartoon%20Net
 #EXTINF:-1 tvg-name="CNBC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNBC HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNBC
 
-#EXTINF:-1 tvg-name="CNN News HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNN
+#EXTINF:-1 tvg-name="CNN News HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNN News HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNN
 
 #EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Comedy%20Central.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Comedy Central HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Comedy%20Central
 
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Discovery.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Discovery
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Discovery.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Discovery Channel HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Discovery
 
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ESPN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",ESPN HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ESPN
 
-#EXTINF:-1 tvg-name="Fox News HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Fox%20News.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Fox News
+#EXTINF:-1 tvg-name="Fox News HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Fox%20News.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Fox News HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Fox%20News
 
-#EXTINF:-1 tvg-name="FX HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FX
+#EXTINF:-1 tvg-name="FX HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FX HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FX
 
-#EXTINF:-1 tvg-name="History HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/History.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",History
+#EXTINF:-1 tvg-name="History HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/History.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",History HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=History
 
-#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Lifetime.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Lifetime
+#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Lifetime.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Lifetime HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Lifetime
 
 #EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/National%20Geographic.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",National Geographic HD
@@ -3304,10 +3300,10 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Syfy
 #EXTINF:-1 tvg-name="TBS HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/TBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TBS HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=TBS
 
-#EXTINF:-1 tvg-name="TNT HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/TNT.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TNT
+#EXTINF:-1 tvg-name="TNT HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/TNT.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TNT HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=TNT
 
-#EXTINF:-1 tvg-name="USA Network HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/USA%20Network.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",USA Network
+#EXTINF:-1 tvg-name="USA Network HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/USA%20Network.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",USA Network HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=USA%20Network
 
 ### END LH TV-Box auto created - USTVNow m3u playlist...###
