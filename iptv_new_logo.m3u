@@ -3080,7 +3080,7 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 ########################### End Top 10 1-4 US General TV######################
 
 
-#EXTINF:-1, tvg-name="Bravo" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo East
+#EXTINF:-1, tvg-name="Bravo HD" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=129
 
 #EXTINF:0 tvg-name="A&E HD" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A&E HD
@@ -3105,7 +3105,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=182
 #EXTINF:0 tvg-name="History HD" group-title="Top Cloud USA TV" tvg-logo="2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png", History HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=120
 
-#EXTINF:0 tvg-name="National Geographic Channel" group-title="Top Cloud USA TV" tvg-logo="www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg", National Geographic Channel
+#EXTINF:0 tvg-name="Nat Geo HD" group-title="Top Cloud USA TV" tvg-logo="www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg", National Geographic Channel HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=186
 
 #EXTINF:0 tvg-name="Nat Geo Wild HD" group-title="Top Cloud USA TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png", Nat Geo Wild HD
@@ -3256,13 +3256,13 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AMC
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Animal%20Planet.png" group-title="USTVNow",Animal Planet
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Animal%20Planet
 
-#EXTINF:-1 tvg-name="Bravo East" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Bravo.png" group-title="USTVNow",Bravo
+#EXTINF:-1 tvg-name="Bravo HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Bravo.png" group-title="USTVNow",Bravo HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Bravo
 
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Cartoon%20Network.png" group-title="USTVNow",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Cartoon%20Network.png" group-title="USTVNow",Cartoon Network HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Cartoon%20Network
 
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNBC.png" group-title="USTVNow",CNBC
+#EXTINF:-1 tvg-name="CNBC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNBC.png" group-title="USTVNow",CNBC HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNBC
 
 #EXTINF:-1 tvg-name="CNN News HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CNN.png" group-title="USTVNow",CNN
@@ -3289,7 +3289,7 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=History
 #EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Lifetime.png" group-title="USTVNow",Lifetime
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Lifetime
 
-#EXTINF:-1 tvg-name="National Geographic Channel" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/National%20Geographic.png" group-title="USTVNow",National Geographic
+#EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/National%20Geographic.png" group-title="USTVNow",National Geographic HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=National%20Geographic
 
 #EXTINF:-1 tvg-name="Nick HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/Nickelodeon.png" group-title="USTVNow",Nickelodeon
@@ -4007,7 +4007,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=476
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=469
 #EXTINF:-1   tvg-id="H2 USA" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",H2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=375
-#EXTINF:-1   tvg-id="National Geographic TV (NGC)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",National Geographic HD
+#EXTINF:-1   tvg-id="National Geographic TV (NGC)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=473
 #EXTINF:-1   tvg-id="Nat Geo WILD (NGW)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=474
@@ -4329,7 +4329,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6842
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1052
 #EXTINF:-1   tvg-id="CartoonNetworkUS" group-title="[COLOR yellow]TEST [/COLOR]Kids",Cartoon Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=471
-#EXTINF:-1   tvg-id="Cartoon Network" group-title="[COLOR yellow]TEST [/COLOR]Kids",Cartoon Network UK
+#EXTINF:-1   tvg-id="Cartoon Network HD" group-title="[COLOR yellow]TEST [/COLOR]Kids",Cartoon Network UK
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=50
 #EXTINF:-1   tvg-id="Boomerang" group-title="[COLOR yellow]TEST [/COLOR]Kids",Boomerang HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1396
