@@ -2041,7 +2041,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=71
 #EXTINF:-1, tvg-id="" tvg-name="FOX HD" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=82
 
-#EXTINF:-1, tvg-id="" tvg-name="FOX Miami" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX Miami
+#EXTINF:-1, tvg-id="" tvg-name="FOX W HD" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=73
 
 #EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 HD
@@ -2121,16 +2121,16 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
 #EXTINF:-1, tvg-id="153" tvg-name="NHL Network USA" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/41.png" group-title="TOP SPORT TV", NHL Network USA
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=475
 
-#EXTINF:-1, tvg-id="5" tvg-name="ABC Miami" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2334.png" group-title="TOP SPORT TV", ABC Miami
+#EXTINF:-1, tvg-id="5" tvg-name="ABC W HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2334.png" group-title="TOP SPORT TV", ABC W HD
 #http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/6114
 
 #EXTINF:-1, tvg-id="8100" tvg-name="ABC New York" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/90.png" group-title="TOP SPORT TV", ABC New York
 #http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F8486
 
-#EXTINF:-1, tvg-id="7" tvg-name="NBC Miami" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/233.png" group-title="TOP SPORT TV", NBC Miami
+#EXTINF:-1, tvg-id="7" tvg-name="NBC W HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/233.png" group-title="TOP SPORT TV", NBC W HD
 #http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/411
 
-#EXTINF:-1, tvg-id="8" tvg-name="FOX Miami" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/235.png" group-title="TOP SPORT TV", FOX Miami
+#EXTINF:-1, tvg-id="8" tvg-name="FOX W HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/235.png" group-title="TOP SPORT TV", FOX W HD
 #http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/413
 
 
