@@ -3625,17 +3625,12 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.sof
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19401.ts
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", History HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19402.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Fox News HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19403.ts
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19397.ts
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", CW HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19405.ts
-
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", CBS HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19408.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Bravo HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19409.ts
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Animal Planet HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19410.ts
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", ABC News HD
@@ -3664,29 +3659,14 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.sof
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Nick HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19421.ts
 
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", H2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19424.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", FX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19425.ts
-
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", FOXX HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19427.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Food Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19428.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", DIY Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19429.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Discovery Science HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19430.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Cinemax East
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19431.ts
+
+
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", BTN Sport HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19434.ts
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", Bein Sports USA HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19435.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", AFN SPORTS 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19436.ts
-#EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="", AFN SPORTS
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.softiptv.com:9900/live/Julian/Julian/19437.ts
 
 
 #EXTINF:-1 group-title="[COLOR aqua]New Softiptvt USA TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="",  OMNI Toronto HD
