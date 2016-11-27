@@ -2112,7 +2112,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=410
 #EXTINF:-1, tvg-id="152" tvg-name="MLB Network" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/40.png" group-title="TOP SPORT TV", MLB Network
 #http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/192
 
-#EXTINF:-1, tvg-id="155" tvg-name="NBA TV" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA TV
+#EXTINF:-1, tvg-id="155" tvg-name="NBA TV HD" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA TV HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
 
 #EXTINF:-1, tvg-id="155" tvg-name="NBA Pass" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA League Pass
