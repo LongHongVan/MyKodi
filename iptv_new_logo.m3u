@@ -4061,15 +4061,15 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1472
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=421
 #EXTINF:-1   tvg-id="Food Network UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Food Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=319
-#EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBC Sports HD
+#EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBC Sports Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=467
-#EXTINF:-1   tvg-id="CBS Sports Network (CBS SN)" group-title="[COLOR yellow]TEST [/COLOR]Sports",CBS Sport  Network
+#EXTINF:-1   tvg-id="CBS Sports Network (CBS SN)" group-title="[COLOR yellow]TEST [/COLOR]Sports",CBS Sports Network
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=785
 #EXTINF:-1   tvg-id="ESPNUS" group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=371
 #EXTINF:-1   tvg-id="ESPN2US" group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=466
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPNU HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN U HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1638
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN News HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1611
@@ -4103,7 +4103,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6931
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6932
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1190
-#EXTINF:-1   tvg-id="NFL Network (NFL)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Network Now HD
+#EXTINF:-1   tvg-id="NFL Network (NFL)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Now HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1066
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Red Zone
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6871
@@ -4143,7 +4143,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=343
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=344
 #EXTINF:-1   tvg-id="TSN4" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 4 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=345
-#EXTINF:-1   tvg-id="TSN5" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 5 ND
+#EXTINF:-1   tvg-id="TSN5" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 5 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=346
 #EXTINF:-1   tvg-id="Sports Net One" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet One HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=698
@@ -4183,7 +4183,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1755
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=432
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6828
-#EXTINF:-1   tvg-id="BT Sports ESPN" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports ESPN
+#EXTINF:-1   tvg-id="BT Sports ESPN" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports ESPN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=273
 #EXTINF:-1   tvg-id="Racing UK" group-title="[COLOR yellow]TEST [/COLOR]Sports",Racing HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=261
