@@ -2224,7 +2224,7 @@ http://xrxs.net/video/live-p12ariz-1164.m3u8?IPTVBRASILHD
 #EXTINF:-1, tvg-id="9241" tvg-name="ESKA Best Music HD" tvg-logo="digitaltveurope.net/wp-content/uploads/2011/09/Eska-TV1-85x85.jpg" group-title="Music Channels", ESKA Best Music HD [COLOR yellow]720p[/COLOR]
 http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-name="MTV Live" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Music Channels", MTV Live
+#EXTINF:-1, tvg-name="MTV" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Music Channels", MTV Live
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=160
 
 
@@ -3171,7 +3171,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=122
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=110
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Top Cloud USA TV", MTV HD
+#EXTINF:-1, tvg-name="MTV" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Top Cloud USA TV", MTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=160
 
 #EXTINF:-1, tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/162.png" group-title="Top Cloud USA TV", VH1 HD
