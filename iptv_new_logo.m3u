@@ -4071,7 +4071,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=371
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=466
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN U HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1638
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN News HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPNews HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1611
 #EXTINF:-1   tvg-id="Fox Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=212
