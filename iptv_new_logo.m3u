@@ -4061,7 +4061,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1472
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=421
 #EXTINF:-1   tvg-id="Food Network UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Food Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=319
-#EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBC Sports Network HD
+#EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NHL Sports Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=467
 #EXTINF:-1   tvg-id="CBS Sports Network (CBS SN)" group-title="[COLOR yellow]TEST [/COLOR]Sports",CBS Sports Network
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=785
