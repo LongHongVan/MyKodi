@@ -3681,7 +3681,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://live.sof
 
 #EXTINF:-1   tvg-id="NBC" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",NBC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=140
-#EXTINF:-1   tvg-id="AETV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",A&E ND
+#EXTINF:-1   tvg-id="AETV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",A&E HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=300
 #EXTINF:-1   tvg-id="ABC" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ABC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=9
@@ -3695,11 +3695,11 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=964
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1516
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBC Canada
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1547
-#EXTINF:-1   tvg-id="CIVT" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CTV
+#EXTINF:-1   tvg-id="CIVT" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=377
 #EXTINF:-1   tvg-id="E! (E!)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E! HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=468
-#EXTINF:-1   tvg-id="Fox HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Fox HD
+#EXTINF:-1   tvg-id="Fox HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FOX HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=139
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Family HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=653
@@ -3707,7 +3707,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=653
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=337
 #EXTINF:-1   tvg-id="FXX (FXX)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FXX HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=782
-#EXTINF:-1   tvg-id="PBSNET (PBS)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",PBS
+#EXTINF:-1   tvg-id="PBSNET (PBS)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",PBS HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=141
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",LMN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=674
@@ -3731,7 +3731,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=335
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=645
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ABC Family HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1634
-#EXTINF:-1   tvg-id="CHCH" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CHCH
+#EXTINF:-1   tvg-id="CHCH" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CHCH HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=778
 #EXTINF:-1   tvg-id="TeleCentro (TLCN)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TLC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=347
@@ -3751,7 +3751,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=479
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=480
 #EXTINF:-1   tvg-id="W Network" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",W NETWORK HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=962
-#EXTINF:-1   tvg-id="CW" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CW
+#EXTINF:-1   tvg-id="CW" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CW HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=138
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",ESCAPE
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6952
@@ -3771,7 +3771,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1501
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=790
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",GLOBAL TV  EDMONTON
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6785
-#EXTINF:-1   tvg-id="ABC News 24" group-title="[COLOR yellow]TEST [/COLOR]News",ABC News 24
+#EXTINF:-1   tvg-id="ABC News 24" group-title="[COLOR yellow]TEST [/COLOR]News",ABC News HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=136
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",MSNBC
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6949
@@ -3785,9 +3785,9 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=440
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6947
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",EuroNews English
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1259
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",BNN
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",BNN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6966
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",WGN
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",WGN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1613
 #EXTINF:-1   tvg-id="I210.10161.schedulesdirect.org" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",C-Span 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=596
@@ -3797,19 +3797,19 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=597
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=598
 #EXTINF:-1   tvg-id="Drama" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Drama
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=365
-#EXTINF:-1   tvg-id="Syfy UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Syfy UK
+#EXTINF:-1   tvg-id="Syfy UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",SYFY HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=101
-#EXTINF:-1   tvg-id="Spike" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Spike UK
+#EXTINF:-1   tvg-id="Spike" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Spike HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=482
 #EXTINF:-1   tvg-id="Home Shopping Network (HSN)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",HSN
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=363
 #EXTINF:-1   tvg-id="FOX" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Fox UK
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=35
-#EXTINF:-1   tvg-id="EUK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E! UK
+#EXTINF:-1   tvg-id="EUK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E! HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=483
 #EXTINF:-1   tvg-id="Universal" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Universal
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1041
-#EXTINF:-1   tvg-id="TLC UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TLC UK
+#EXTINF:-1   tvg-id="TLC UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TLC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=277
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=77
