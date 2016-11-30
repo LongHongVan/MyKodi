@@ -1,8 +1,46 @@
+11.30.2016
+
+ http://151.80.22.140/get.php?username=marwan&password=marwan&type=m3u
+
+http://149.202.77.226:7500/get.php?username=hafedh&password=hafedh&type=m3u
+
+http://51.254.113.188:8000/get.php?username=maison&password=maison&type=m3u bAD
+
+http://51.254.113.188:8000/get.php?username=samsung&password=samsung&type=m3u BAD
+
+http://painel.soeu.ws:8000/get.php?username=rrr&password=rrr&type=m3u
+
+http://178.63.45.122/get.php?username=Joze2&password=Joze2&type=m3u
+
+http://work.myvisio.me:9889/get.php?username=copp&password=copp&type=m3u
+
+http://178.63.45.122/get.php?username=Kijo&password=Kijo&type=m3u
+
+http://69.197.155.114:8000/get.php?username=zina&password=zina&type=m3u BAD
+
+http://50.7.141.34:8000/get.php?username=iptvs161&password=cbUKYGEt41&type=m3u
+
+http://abraiptv.no-ip.org:5475/get.php?username=GERMANY&password=GERMANY&type=m3u BAD
+
+http://xxx.iptv1.tk:8000/get.php?username=akif&password=akif&type=m3u
+
+http://mcktvsports.gotdns.org:25461/get.php?username=richardsmith&password=An14LHwQke&type=m3u No Links Work
+
+http://149.202.77.226:7500/get.php?username=ge101&password=ge101&type=m3u
+
+http://149.202.77.226:7500/get.php?username=ge100&password=ge100&type=m3u
+
+http://149.202.77.226:7500/get.php?username=ge110&password=ge110&type=m3u
+
+
+
 11.29.2016
 
 +++++++
 http://IPTVFREE1.COM:6969/get.php?username===>_www.iptvrestream.net_<==&password===>_www.iptvrestream.net_<==&type=m3u&output=ts  (Good zem S4)
 http://IPTVFREE1.COM:6969/get.php?username=6&password=www.iptvrestream.net&type=m3u GOOD for 1 day?
+
+http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=ts Good 
 
 
 +++++++
