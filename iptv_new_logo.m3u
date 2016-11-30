@@ -3722,7 +3722,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=369
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=964
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1516
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBC Canada
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBC Vancover
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1547
 #EXTINF:-1   tvg-id="CIVT" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=377
@@ -3744,7 +3744,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=674
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=328
 #EXTINF:-1   tvg-id="Hallmark (HALL)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Hallmark Channel HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=298
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC AMERICA
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC America HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6950
 #EXTINF:-1   tvg-id="USA Network HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",USA Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=428
@@ -3907,7 +3907,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=2
 #EXTINF:-1   tvg-id="BBC4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC Four HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=4
 #EXTINF:-1   tvg-id="BBC Alba" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC ALBA
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=533
+#http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=533
 #EXTINF:-1   tvg-id="ITV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=29
 #EXTINF:-1   tvg-id="ITV2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 2 HD
