@@ -3489,7 +3489,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 ################### New Sports TV ####################################
 
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Bein NBA Sports 
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://50.7.141.34:8000/live/iptvs161/cbUKYGEt41/3066.ts
+#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://50.7.141.34:8000/live/iptvs161/cbUKYGEt41/3066.ts
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", NBA TV NETWORK [COLOR lime]CSN[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://server.internext.tv:8000/live/habib/habib/2115.ts
 
