@@ -1,4 +1,87 @@
+
+12.01.2016
+
+++++++++++Test++++++++++++
+
+http://iptvfree1.com:6969/live/18/www.iptvrestream.net/98.ts|User-Agent=iptvrestream.net
+
+++++++++++++++++++++++++++++
+
+http://51.254.196.76:8000/get.php?username=user1&password=user1&type=m3u No USA
+
+http://51.254.108.114:8000/get.php?username=tomy6565&password=78290f&type=m3u
+
+http://server.internext.tv:8000/get.php?username=habib&password=habib&type=m3u GOOD USA Sports Ch
+
+http://46.4.91.207:25461/get.php?username=xxFhhGxmep&password=EKNsZ9glpE&type=m3u NO USA
+
+http://work.myvisio.me:9889/get.php?username=UXUJ28loAK&password=sEDBNvZP7P&type=m3u No USA
+
+http://IPTVFREE1.COM:6969/get.php?username=18&password=www.iptvrestream.net&type=m3u OK for 1 day - Not working!
+
+http://51.254.84.25:8000/get.php?username=Star7arab&password=Star7Arab&type=m3u
+
+http://ipchamor.dyndns.tv:9911/get.php?username=tessT&password=TeSt&type=m3u BAD
+
+http://iptv.electro-clair.net:8000/get.php?username=user1&password=user1&type=m3u No USA
+
+http://149.202.77.226:7500/get.php?username=smart&password=smart&type=m3u No USA
+
+http://136.243.62.141:8000/get.php?username=2fVGpGtSsc&password=S8JqvK5zxm&type=%20m3u No USA
+
+http://163.172.15.23:8000/get.php?username=ldfClEnjcOy&password=rrtaxRw5Qk7&type=m3u No USA
+
+http://iptvthebest.ddns.net:15000/get.php?username=calatafimi1&password=calatafimi1&type=m3u No USA
+
+http://fastandfurious.no-ip.org:8085/get.php?username=testline&password=testline&type=m3u No USA
+
+http://www.zeebra.tv:8000/get.php?username=571&password=571&type=m3u BAD
+
+http://iptvch.selfip.info/get.php?username=sayed&password=sayed&type=m3u GOOD 
+
+http://51.254.84.25:8000/get.php?username=Star7arab&password=Star7Arab&type=m3u
+
+http://mylg1.iptvcc.info:22114/get.php?username=888SurrEYaSelBIN22035TZGH&password=01022017&type=m3u No USA
+
+http://spirit01.webhop.me:8000/get.php?username=2fVGpGtSsc&password=S8JqvK5zxm&type=m3u No USA
+
+http://www.zeebra.tv:8000/get.php?username=8506&password=8506&type=m3u OK
+
+http://www.zeebra.tv:8000/get.php?username=659&password=659&type=m3u
+
+http://130.25.237.159:5000/playlist.m3u8
+
+http://46.8.38.5:8000/playlist.m3u8 No USA
+
+http://146.66.254.1:8000/playlist.m3u8 No USA
+
+http://94.61.211.124:8010/playlist.m3u8
+
+http://213.58.181.40:8000/playlist.m3u8
+
+http://213.58.181.42:8000/playlist.m3u8
+
+http://213.58.181.41:8000/playlist.m3u8
+
+http://213.58.181.47:8000/playlist.m3u8
+
+http://213.58.181.46:8000/playlist.m3u8
+
+http://81.254.205.139:9000/playlist.m3u8
+
+http://iptv.kamikkadzetv.ru:3434/playlist.m3u8  
+
 11.30.2016
+
++++++++++Special+++++++++++++++
+http://50.7.141.34:8000/get.php?username=iptvs161&password=cbUKYGEt41&type=m3u OK
+
+http://www.zeebra.tv:8000/get.php?username=571&password=571&type=m3u
+
+#EXTINF:-1,beIN SPORTS NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://50.7.141.34:8000/live/iptvs161/cbUKYGEt41/3066.ts
+
+++++++++++++++++++++++++++++++
 
  http://151.80.22.140/get.php?username=marwan&password=marwan&type=m3u
 
