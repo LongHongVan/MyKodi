@@ -4040,12 +4040,15 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=375
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=473
 #EXTINF:-1   tvg-id="Nat Geo WILD (NGW)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=474
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Destination America
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1635
+
 #EXTINF:-1   tvg-id="AnimalPlanetUS" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Animal Planet HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=373
+#EXTINF:-1   tvg-id="Nat Geo HD" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
+http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=57
+#EXTINF:-1   tvg-id="Nat Geo Wild" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
+http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=58
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Velocity
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6993
+#http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6993
 #EXTINF:-1   tvg-id="Investigation Discovery (ID)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",ID HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=477
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Love Nature HD
@@ -4054,8 +4057,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=987
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=203
 #EXTINF:-1   tvg-id="DIY" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",DIY Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=204
-#EXTINF:-1   tvg-id="NASA" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",NASA
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=150
+
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Travel Channel HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6948
 #EXTINF:-1   tvg-id="Discovery" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery HD
@@ -4076,10 +4078,7 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=54
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=278
 #EXTINF:-1   tvg-id="Disc.Turbo" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Turbo
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=55
-#EXTINF:-1   tvg-id="Nat Geo HD" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=57
-#EXTINF:-1   tvg-id="Nat Geo Wild" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=58
+
 #EXTINF:-1   tvg-id="Crime Investigation UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Crime Investigation HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=95
 #EXTINF:-1   tvg-id="Investigation Discovery" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Investigation Discovery
@@ -4090,6 +4089,13 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1472
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=421
 #EXTINF:-1   tvg-id="Food Network UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Food Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=319
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Destination America
+http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1635
+#EXTINF:-1   tvg-id="NASA" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",NASA
+http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=150
+
+
+
 #EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBC Sports Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=467
 #EXTINF:-1   tvg-id="CBS Sports Network (CBS SN)" group-title="[COLOR yellow]TEST [/COLOR]Sports",CBS Sports Network
