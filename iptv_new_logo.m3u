@@ -3900,23 +3900,23 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=332
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=331
 #EXTINF:-1   tvg-id="DMAX UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",DMAX UK
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=317
-#EXTINF:-1   tvg-id="BBC1" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC ONE
+#EXTINF:-1   tvg-id="BBC1" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC One HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1
-#EXTINF:-1   tvg-id="BBC2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC TWO
+#EXTINF:-1   tvg-id="BBC2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC Two HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=2
-#EXTINF:-1   tvg-id="BBC4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC Four
+#EXTINF:-1   tvg-id="BBC4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC Four HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=4
 #EXTINF:-1   tvg-id="BBC Alba" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC ALBA
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=533
-#EXTINF:-1   tvg-id="ITV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV
+#EXTINF:-1   tvg-id="ITV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=29
-#EXTINF:-1   tvg-id="ITV2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV2
+#EXTINF:-1   tvg-id="ITV2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=30
-#EXTINF:-1   tvg-id="ITV3" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV3
+#EXTINF:-1   tvg-id="ITV3" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=31
-#EXTINF:-1   tvg-id="ITV4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV4
+#EXTINF:-1   tvg-id="ITV4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 4 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=32
-#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV Encore
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV Encore HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=655
 #EXTINF:-1   tvg-id="ITVBe" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITVBe
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=105
