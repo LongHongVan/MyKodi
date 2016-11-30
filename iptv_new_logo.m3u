@@ -4039,12 +4039,12 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=375
 #EXTINF:-1   tvg-id="National Geographic TV (NGC)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=473
 #EXTINF:-1   tvg-id="Nat Geo WILD (NGW)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=474
+#http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=474
 
 #EXTINF:-1   tvg-id="AnimalPlanetUS" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Animal Planet HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=373
 #EXTINF:-1   tvg-id="Nat Geo HD" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=57
+#http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=57
 #EXTINF:-1   tvg-id="Nat Geo Wild" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=58
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Velocity
@@ -4056,10 +4056,10 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=987
 #EXTINF:-1   tvg-id="HGTV" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",HGTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=203
 #EXTINF:-1   tvg-id="DIY" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",DIY Network HD
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=204
+#http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=204
 
 #EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Travel Channel HD
-http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6948
+#http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6948
 #EXTINF:-1   tvg-id="Discovery" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=414
 #EXTINF:-1   tvg-id="History" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",History HD
