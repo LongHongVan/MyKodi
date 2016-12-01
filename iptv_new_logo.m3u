@@ -4803,6 +4803,9 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=1&portal=1&channel=50
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
 http://localhost:8898/onetv.m3u?&pkid=0&tmp=0&portal=1&channel=3baf7db0d8f1d400816fb6166b297f46.m3u8
 
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC HD" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD (Test)
+http://185.152.64.236/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=2peMJqWBx9X2G6LY0S03SQ&e=1480638449|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36&referer=mobdro.me
+
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD
 http://localhost:8898/onetv.m3u?&pkid=0&tmp=0&portal=1&channel=3ba354149f3c117ceb69529a1542b6281.m3u8
 
