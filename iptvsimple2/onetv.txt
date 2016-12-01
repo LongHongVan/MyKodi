@@ -1,0 +1,104 @@
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
+3baf7db0d8f1d400816fb6166b297f46.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD
+ba354149f3c117ceb69529a1542b6281.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vruusq1434471511.png", CBS HD
+4d0fadca2686a2cdd4a4a6623212449c.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX SD
+938230615eafe3e2adf33332d1be3940.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX HD
+12435593255e0696ec0a09071b96f97e.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/ssywwv1433449119.png", BRAVO HD
+582b19f3ef5459a2f139ec69ee2053d0.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD
+296e56c668bc8bd6b0044d3e4f034153.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", AE HD
+ce425ca32dea0f37b22717ae989bcffb.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC HD
+b06316b29b6c788ecf95287567cb2a3a.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium", HBO HD
+509e5f41146e278f9eab1ddaceb34515.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD
+d377ff63e9e229343418ba065acb643f.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT HD
+e00dd9ccbf6cba8e47ca458993f307c1.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="www.thelogodb.com/images/media/logo/qwxspu1433452709.png" tvg-logo="", TCM HD
+1debc5c648b7d2fa58d76d8e90f314a9.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wqqvyq1433967407.png", Spike HD 
+a01d4a2d79052d6b1c2c63bf2d284202.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/syytuy1467823090.png", USA Network HD
+0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", History
+d722293bb9bbf20cc112924ef000a225.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", History 2
+ca2bf3f6b7e18a508253e9521510a4b5.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="", TLC HD
+e12a8b6e18ee3d67dc8153f4f4713a40.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="", SYFY HD
+d8320fedb4a90fb06c9f7bff96a7e619.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xpttwp1433424253.png", Animal Planet HD
+a0f8ddb8c8251a68f136648b32c0f62d.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/usvxwq1433945505.png", Discovery Channel HD
+075d66993151c178df1ed9840202d983.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="", WWOR TV 
+f55025e27be5231454658cc200a5565e.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="", Lifetime HD
+171879baa092ef14d5ec8f401aeaffcd.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="", E! HD
+c73381d6543700790e949ee08157120f.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/ysysuu1434506168.png", Discovery Velocity
+http://216.31.255.235/hlsl/6/VELOCITY/04.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", Nat Geo HD 
+be2fa358e4f1c9a0ee833aa15f829f81.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/ypptyq1433943719.png", Nat Geo Wild HD
+acf9249594df8395d62a4fee0dd484cb.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD
+aca0a31d14c85e19f7023c9a3889f37b.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vpwptv1434501703.png", ESPN 2 HD
+7a39b11b9af247053ebd637ff1ca9db8.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/svqtwt1433452768.png", NBC Golf
+5eed0d397932b4241d4866728c3b7fcf.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN HD
+e4d6b46ca81b601fe8461b43f641488c.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/twvwtx1464553130.png", Fox Sports 1 HD
+c1ba19187bba4d273cdc877dc413564a.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="", MLB Network HD
+fdfa99e57d0b886df98fa16b8cefa2b8.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="", NFL Network HD
+877ad69c810ccc693b207cf11badc04a.m3u8
+
+
