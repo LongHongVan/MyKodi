@@ -78,7 +78,7 @@ http://free-premium-iptv.ddns.net:9090/load/free123/28.mpegts
 http://free-premium-iptv.ddns.net:9090/load/free123/29.mpegts
 #EXTINF:-1    group-title="TEST Channels",ESPN HD
 http://free-premium-iptv.ddns.net:9090/load/free123/30.mpegts
-#EXTINF:-1    group-title="TEST Channels",ESPN 2 US
+#EXTINF:-1    group-title="TEST Channels",ESPN 2 HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/31.mpegts
 #EXTINF:-1    group-title="TEST Channels",Fox Sports 1 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/32.mpegts
@@ -3502,7 +3502,7 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4641.ts|User-Agent=iptvrestream.net
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/129.ts|User-Agent=iptvrestream.net
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN 2 US
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN 2 HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/121.ts|User-Agent=iptvrestream.net
 
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", NFL Network HD
