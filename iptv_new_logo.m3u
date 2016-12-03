@@ -4819,7 +4819,7 @@ http://185.152.64.236/p2p/4d0fadca2686a2cdd4a4a6623212449c.m3u8?st=xPX3Vk4U2w0eY
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX HD
 http://localhost:8898/onetv.m3u?&pkid=FOX&tmp=0&portal=1&channel=938230615eafe3e2adf33332d1be3940.m3u8
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX HD [COLOR yellow]TEST[/COLOR] Extended
-http://46.234.113.2/p2p/938230615eafe3e2adf33332d1be3940.m3u8?st=Uh39u4dwrdvpTba-IslvkA&e=1480809016|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=aNY9__dcatM50jVve65UnA&e=1480752972|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD
 http://localhost:8898/onetv.m3u?&pkid=CW&tmp=0&portal=1&channel=296e56c668bc8bd6b0044d3e4f034153.m3u8
