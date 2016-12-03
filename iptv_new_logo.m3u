@@ -4800,51 +4800,57 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=1&portal=1&channel=50
 
 ################### New OneTV Server #####################################
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD (TEST 2)
-http://localhost:8898/onetv.m3u?&pkid=NBC&tmp=0&portal=1&channel=1234
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC HD" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD [COLOR yellow]TEST[/COLOR] Extended
-http://185.152.64.235/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=6v7puWsAEPJI0ca-GaLAMw&e=1480808735|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC HD" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
+http://185.152.64.234/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=czmneGceKxQ2uAvnM6EnSg&e=1480885112|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="ABC HD" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD
-http://localhost:8898/onetv.m3u?&pkid=ABC&tmp=0&portal=1&channel=ba354149f3c117ceb69529a1542b6281.m3u8
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD [COLOR yellow]TEST[/COLOR] Extended
-http://46.234.113.2/p2p/ba354149f3c117ceb69529a1542b6281.m3u8?st=xi-p7TGdzA7XXTCcsCHyRw&e=1480809004|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD
+http://185.152.64.235/p2p/ba354149f3c117ceb69529a1542b6281.m3u8?st=o3_BP3BzfWiviiwjZjwi4w&e=1480885143|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vruusq1434471511.png", CBS HD
-http://localhost:8898/onetv.m3u?&pkid=CBS&tmp=0&portal=1&channel=4d0fadca2686a2cdd4a4a6623212449c.m3u8
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vruusq1434471511.png", CBS HD [COLOR yellow]TEST[/COLOR] Extended
 http://185.152.64.236/p2p/4d0fadca2686a2cdd4a4a6623212449c.m3u8?st=xPX3Vk4U2w0eYfKS7qNfMQ&e=1480809011|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX HD
-http://localhost:8898/onetv.m3u?&pkid=FOX&tmp=0&portal=1&channel=938230615eafe3e2adf33332d1be3940.m3u8
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX HD [COLOR yellow]TEST[/COLOR] Extended
-http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=aNY9__dcatM50jVve65UnA&e=1480752972|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+http://185.152.64.236/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=Mt9NOu5L-uVSTT_qqv4bHg&e=1480885180|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD
-http://localhost:8898/onetv.m3u?&pkid=CW&tmp=0&portal=1&channel=296e56c668bc8bd6b0044d3e4f034153.m3u8
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD [COLOR yellow]TEST[/COLOR]
-http://185.152.64.235/p2p/296e56c668bc8bd6b0044d3e4f034153.m3u8?st=y-CClYHj4orPiXjoTUrFSw&e=1480672374|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+http://185.152.64.234/p2p/296e56c668bc8bd6b0044d3e4f034153.m3u8?st=ZqZo4ThTg7LmlF-BS56Nxw&e=1480884492|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="Bravo HD" tvg-logo="www.thelogodb.com/images/media/logo/qwqrws1434470899.png", Bravo HD [COLOR yellow]TEST[/COLOR
+http://185.152.64.235/p2p/582b19f3ef5459a2f139ec69ee2053d0.m3u8?st=NFnwrFhUfviLSxTqhXz1XA&e=1480884565|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E HD
-http://localhost:8898/onetv.m3u?&pkid=AE&tmp=0&portal=1&channel=ce425ca32dea0f37b22717ae989bcffb.m3u8
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E HD [COLOR yellow]TEST[/COLOR]
-http://185.152.64.235/p2p/ce425ca32dea0f37b22717ae989bcffb.m3u8?st=6aQrjeb39-sLXXAaQSisNA&e=1480672379|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+http://46.234.113.2/p2p/ce425ca32dea0f37b22717ae989bcffb.m3u8?st=IM3zeYL-Weq_HyoKpE3mSw&e=1480884732|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC HD
-http://localhost:8898/onetv.m3u?&pkid=AMC&tmp=0&portal=1&channel=b06316b29b6c788ecf95287567cb2a3a.m3u8
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC HD [COLOR yellow]TEST[/COLOR]
-http://185.152.64.236/p2p/b06316b29b6c788ecf95287567cb2a3a.m3u8?st=KSaq_3YelkhDhF4tEnqeDQ&e=1480672387|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC HD 
+http://185.59.222.232/p2p/b06316b29b6c788ecf95287567cb2a3a.m3u8?st=uAhpn0c3lDpsif4Hz1DJQA&e=1480884777|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD
-http://localhost:8898/onetv.m3u?&pkid=TBS&tmp=0&portal=1&channel=d377ff63e9e229343418ba065acb643f.m3u8
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD [COLOR yellow]TEST[/COLOR]
-http://185.152.64.234/p2p/d377ff63e9e229343418ba065acb643f.m3u8?st=ipJZ2d8PcMi38rKf7reW9Q&e=1480672391|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD 
+http://185.59.222.232/p2p/d377ff63e9e229343418ba065acb643f.m3u8?st=PW5dHxRWxer4f6CfEN4CXA&e=1480884821|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT HD
-http://localhost:8898/onetv.m3u?&pkid=TNT&tmp=0&portal=1&channel=e00dd9ccbf6cba8e47ca458993f307c1.m3u8
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT HD [COLOR yellow]TEST[/COLOR]
-http://185.59.222.232/p2p/e00dd9ccbf6cba8e47ca458993f307c1.m3u8?st=yQFPb0FJ2xHZlXeoMEIrbA&e=1480672395|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="TNT HD" tvg-logo="www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT HD 
+http://46.234.113.2/p2p/e00dd9ccbf6cba8e47ca458993f307c1.m3u8?st=NmROpWB74HF4CS3GNoeFsQ&e=1480884853|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/syytuy1467823090.png", USA Network HD
+http://185.152.64.236/p2p/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8?st=vlds6TiPX4kZWwLKxjefTw&e=1480885245|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", History
+http://185.152.64.236/p2p/d722293bb9bbf20cc112924ef000a225.m3u8?st=WzfkM3ra-pTpUfBQX__Q0w&e=1480885409|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/quwyru1480459347.png", SYFY HD
+http://185.59.222.232/p2p/d8320fedb4a90fb06c9f7bff96a7e619.m3u8?st=tEvQd_ihZA7tQO9sO_HMwQ&e=1480885502|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xpttwp1433424253.png", Animal Planet HD
+http://185.59.222.232/p2p/a0f8ddb8c8251a68f136648b32c0f62d.m3u8?st=kr1zFwMpRtmGNQ8xOI_VeQ&e=1480885595|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/usvxwq1433945505.png", Discovery Channel HD
+http://185.59.222.232/p2p/075d66993151c178df1ed9840202d983.m3u8?st=MfBjNmzPhL7TY0bzb2Gb7g&e=1480885658|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="www.thelogodb.com/images/media/logo/qwqypu1433965613.png" tvg-logo="", Lifetime HD
+http://185.59.222.232/p2p/171879baa092ef14d5ec8f401aeaffcd.m3u8?st=53R0LfXsc87D3zskcGKzYA&e=1480885715|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", Nat Geo HD 
+http://185.152.64.234/p2p/be2fa358e4f1c9a0ee833aa15f829f81.m3u8?st=RllewWst1C5AgmPRv-vnfQ&e=1480885872|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
 ################### End New OneTV Server #####################################
 
