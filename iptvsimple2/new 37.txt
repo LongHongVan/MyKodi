@@ -3,27 +3,27 @@
 
  http://ipsatpro.com:8000/get.php?username=Kane&password=Kane&type=m3u Good
 
-http://109.236.91.38:5454/get.php?username=simeone&password=simeone&type=m3u GOOD Fast Response + No Buffers
+http://109.236.91.38:5454/get.php?username=simeone&password=simeone&type=m3u GOOD Fast Response + Less Buffers
 
-http://51.254.197.40:25461/get.php?username=georgie&password=georgie&type=m3u
+http://51.254.197.40:25461/get.php?username=georgie&password=georgie&type=m3u GOOD
 
 http://149.202.208.25:5210/get.php?username=stunner&password=aaA0ea2KyM&type=m3u
 
-http://server.internext.tv:8000/get.php?username=smith&password=smith&type=m3u
+http://server.internext.tv:8000/get.php?username=smith&password=smith&type=m3u GOOD - has 147 USA Ch
 
 http://premium-ott.com:8000/get.php?username=prague&password=prague&type=m3u NO USA
 
-http://137.74.94.161:8000/get.php?username=drew&password=drew&type=m3u
+http://137.74.94.161:8000/get.php?username=drew&password=drew&type=m3u GOOD - 137 USA Ch (Buffered)
 
-http://51.254.197.40:25461/get.php?username=mmm&password=mmm&type=m3u
+http://51.254.197.40:25461/get.php?username=mmm&password=mmm&type=m3u OK
 
 http://51.254.197.40:25461/get.php?username=alka&password=alka&type=m3u
 
 http://62.4.21.70:8000/get.php?username=kabli&password=kabli&type=m3u
 
-http://iptveurope.org:8000/get.php?username=okok&password=okok&type=m3u
+http://iptveurope.org:8000/get.php?username=okok&password=okok&type=m3u Euro Ch Only
 
-http://62.4.21.70:8000/get.php?username=mahjoub&password=mahjoub&type=m3u
+http://62.4.21.70:8000/get.php?username=mahjoub&password=mahjoub&type=m3u No USA
 
 http://149.202.77.226:7500/get.php?username=hafedh&password=hafedh&type=m3u
 
@@ -31,11 +31,11 @@ http://137.74.94.161:8000/get.php?username=jason&password=jason&type=m3u
 
 http://137.74.94.161:8000/get.php?username=pearl&password=pearl&type=m3u
 
-http://163.172.6.8:8000/get.php?username=jay&password=jay1&type=m3u
+http://163.172.6.8:8000/get.php?username=jay&password=jay1&type=m3u OK - 85 USA Ch (Links not Work)
 
-http://148.251.1.69:8000/get.php?username=2222&password=2222&type=m3u
+http://148.251.1.69:8000/get.php?username=2222&password=2222&type=m3u BAD
 
-http://50.7.141.34:8000/get.php?username=mama7&password=mama7&type=m3u
+http://50.7.141.34:8000/get.php?username=mama7&password=mama7&type=m3u BAD
 
 http://cp.dmbshare.net:8000/get.php?username=endy&password=endy&type=m3u
 
