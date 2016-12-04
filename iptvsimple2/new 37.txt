@@ -1,9 +1,158 @@
 
+12.05.2016
+
+ http://ipsatpro.com:8000/get.php?username=Kane&password=Kane&type=m3u Good
+
+http://109.236.91.38:5454/get.php?username=simeone&password=simeone&type=m3u GOOD Fast Response + No Buffers
+
+http://51.254.197.40:25461/get.php?username=georgie&password=georgie&type=m3u
+
+http://149.202.208.25:5210/get.php?username=stunner&password=aaA0ea2KyM&type=m3u
+
+http://server.internext.tv:8000/get.php?username=smith&password=smith&type=m3u
+
+http://premium-ott.com:8000/get.php?username=prague&password=prague&type=m3u NO USA
+
+http://137.74.94.161:8000/get.php?username=drew&password=drew&type=m3u
+
+http://51.254.197.40:25461/get.php?username=mmm&password=mmm&type=m3u
+
+http://51.254.197.40:25461/get.php?username=alka&password=alka&type=m3u
+
+http://62.4.21.70:8000/get.php?username=kabli&password=kabli&type=m3u
+
+http://iptveurope.org:8000/get.php?username=okok&password=okok&type=m3u
+
+http://62.4.21.70:8000/get.php?username=mahjoub&password=mahjoub&type=m3u
+
+http://149.202.77.226:7500/get.php?username=hafedh&password=hafedh&type=m3u
+
+http://137.74.94.161:8000/get.php?username=jason&password=jason&type=m3u
+
+http://137.74.94.161:8000/get.php?username=pearl&password=pearl&type=m3u
+
+http://163.172.6.8:8000/get.php?username=jay&password=jay1&type=m3u
+
+http://148.251.1.69:8000/get.php?username=2222&password=2222&type=m3u
+
+http://50.7.141.34:8000/get.php?username=mama7&password=mama7&type=m3u
+
+http://cp.dmbshare.net:8000/get.php?username=endy&password=endy&type=m3u
+
+http://cp.dmbshare.net:8000/get.php?username=nevison&password=nevison&type=m3u OK - has buffers
+
+
+12.04.2016
+
+ http://193.70.116.156:8080/get.php?username=1&password=2&type=m3u BAD
+
+http://163.172.211.201:8888/get.php?username=server1&password=server1&type=m3u BAD
+
+http://217.23.12.243:25461/get.php?username=MarioK&password=iD5vGz0M3k&type=m3u No USA
+
+http://51.255.77.55:5050/get.php?username=piggy&password=piggy&type=m3u BAD
+
+http://149.202.203.121:7022/get.php?username=1234&password=1234&type=m3u GOOD
+
+http://91.121.104.43:8000/get.php?username=123123&password=123123&type=m3u BAD
+
+http://fullblack.fullapple.me:8000/get.php?username=MANESP&password=MANESP&type=m3u OK- But Link not working
+
+http://server.internext.tv:8000/get.php?username=smith&password=smith&type=m3u Good
+
+http://server.internext.tv:8000/get.php?username=moosa&password=moosa&type=m3u BAD
+
+http://iptv.monkeycline.com:25461/get.php?username=pak&password=pak&type=m3u OK
+
+http://217.23.4.164:8000/get.php?username=110&password=110&type=m3u GOOD
+
+http://ipsatpro.com:8000/get.php?username=Gloria&password=Gloria&type=m3u BAD
+
+http://cp.dmbshare.net:8000/get.php?username=rangel&password=rangel&type=m3u Good but has Buffers
+
+http://193.70.116.156:8080/get.php?username=tomas&password=tomas&type=m3u No USA
+
+http://sutverduz.com:8080/get.php?username=test0212&password=x3aGwg6RqF&type=m3u No USA
+
+http://server.internext.tv:8000/get.php?username=imad&password=imad&type=m3u
+
+http://50.7.141.34:8000/get.php?username=mama7&password=mama7&type=m3u
+
+http://50.7.141.34:8000/get.php?username=mama8&password=mama8&type=m3u
+
+http://iptvtop.com:8888/get.php?username=server1&password=server1&type=m3u
+
+http://foxiptv.stream.tf:5050/get.php?username=piggy&password=piggy1&type=m3u BAD
+
+http://217.73.29.129:8000/playlist.m3u8
+
+
+12.03.2016
+
+ http://foxiptv.stream.tf:5050/get.php?username=gamer&password=gamer&type=m3u GOOD
+
+http://51.255.77.55:5050/get.php?username=bauer&password=bauer&type=m3u
+
+http://163.172.52.85:8080/get.php?username=james&password=OasDIvaidn&type=m3u
+
+http://ultra.super-iptv.space:13884/get.php?username=Argenzio&password=Argenzio&type=m3u BAD
+
+http://ipsatpro.info:8000/get.php?username=1b88MikjAu&password=fEm6F4FYrf&type=m3u
+
+http://sutverduz.com:8080/get.php?username=test2911&password=GxdUTtuMN9&type=m3u No USA
+
+http://50.7.141.34:8000/get.php?username=mama14&password=mama14&type=m3u
+
+http://50.7.141.34:8000/get.php?username=mama15&password=mama15&type=m3u
+
+http://50.7.141.34:8000/get.php?username=mama16&password=mama16&type=m3u
+
+http://163.172.6.8:8000/get.php?username=1b88MikjAu&password=fEm6F4FYrf&type=m3u GOOD
+
+http://103.195.102.202:25461/get.php?username=caioalmeida&password=WH6npLn668&type=m3u
+
+http://185.152.64.157:15000/get.php?username=calatafimi1&password=calatafimi1&type=m3u
+
+http://iptvthebest.ddns.net:15000/get.php?username=calatafimi1&password=calatafimi1&%20type=m3u No USA
+
+http://hdliveiptv.mazian.info:7879/get.php?username=Local&password=Local&type=m3u
+
+http://www.zeebra.tv:8000/get.php?username=mama16&password=mama16&type=m3u
+
+http://pro-iptv.ddns.net:8080/get.php?username=james&password=OasDIvaidn&type=m3u BAD
+
+http://www.zeebra.tv:8000/get.php?username=mama15&password=mama15&type=m3u GOOD
+
+http://151.80.25.97:13884/get.php?username=Argenzio&password=Argenzio&type=m3u
+
+http://61.69.94.210:9000/playlist.m3u8
+
+http://188.62.41.163:7777/playlist.m3u8
+
+http://95.107.132.132:8000/playlist.m3u8
+
+http://188.62.41.163:7777/playlist.m3u8
+
+
+
 12.01.2016
 
 ++++++++++Test++++++++++++
 
 http://iptvfree1.com:6969/live/18/www.iptvrestream.net/98.ts|User-Agent=iptvrestream.net
+
+http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/591.ts
+
+http://37.187.139.155:8000/get.php?username=lightwrath@live.com&password=WatchNow!&type=m3u
+
+SportsDevil CNBC
+http://46.234.113.2/p2p/0fa1864db527d3de89020cb06a050b35.m3u8?st=qmZdKd4py1MH8TQ1fiYstQ&e=1480549420|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36&referer=mobdro.me
+
+http://185.152.64.234/p2p/ba354149f3c117ceb69529a1542b6281.m3u8?st=kuvElSga8d5r-D-Pjlp5BA&e=1480550858|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36&referer=mobdro.me
+
+http://167.114.102.27/get.php?username=DbpJSF9hegDdsvAzPZwr4w&password=1480617303&type=m3u
+
+http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4689.ts|User-Agent=iptvrestream.net
 
 ++++++++++++++++++++++++++++
 

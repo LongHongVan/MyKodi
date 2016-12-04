@@ -4891,8 +4891,28 @@ http://185.152.64.235/p2p/b543594967ce3122d04138e344cdcff2.m3u8?st=nSykLCE9q6DEg
 #EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MUTV HD
 http://185.152.64.234/p2p/50e67d468d54cd43a2bd100b5ef8a53e.m3u8?st=s1yHdzzH1gYeChdtKlatZA&e=1480948582|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
-
-
-
 ################### End New OneTV Server #####################################
 
+
+################### New MTV TEST #####################################
+
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14210.ts
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14954.ts
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV BASE
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14243.ts
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV CLASSIC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14244.ts
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV DANCE
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14061.ts
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV HITS
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14242.ts
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV LIVE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14211.ts
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV MUSIC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14955.ts
+#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV ROCK
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14241.ts
+
+################### New MTV TEST #####################################
