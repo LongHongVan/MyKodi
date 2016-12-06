@@ -4804,6 +4804,9 @@ http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=1&portal=1&channel=50
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC HD" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
 http://185.59.222.232/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=mpceuTjlWxGhtzFp57TfAA&e=1481033282|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD [COLOR lime]4 TEST[/COLOR]
+http://localhost:8898/onetv.m3u?&pkid=0&tmp=0&portal=1&channel=baf7db0d8f1d400816fb6166b297f46.m3u8
+
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD
 http://46.234.113.2/p2p/ba354149f3c117ceb69529a1542b6281.m3u8?st=mKWIpiSkSnsdPI2d62Jvcg&e=1481033332|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
