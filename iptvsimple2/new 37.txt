@@ -1,4 +1,48 @@
 
+12.07.2016
+
+http://37.187.175.177:8000/get.php?username=hatem&password=hatem123&type=m3u BAD Link
+
+http://51.254.197.40:25461/get.php?username=scott&password=scott&type=m3u GOOD
+
+http://217.23.4.164:8000/get.php?username=sahil&password=sahil&type=m3u BAD
+
+http://51.254.197.40:25461/get.php?username=nathan&password=nathan&type=m3u
+
+http://37.187.140.128:2500/get.php?username=david&password=david&type=m3u
+
+http://51.254.197.40:25461/get.php?username=gordon&password=gordon&type=m3u
+
+http://51.254.197.40:25461/get.php?username=frank&password=frank&type=m3u
+
+http://red.redhd.club:8000/get.php?username=iptv825&password=63145&type=m3u NO uSA
+
+http://ksportiptv.com:1557/get.php?username=b3yoCZTn72&password=79ixqVewY5&type=m3u GOOD
+
+http://ksportiptv.com:1557/get.php?username=CPXBtiACzb&password=pBTbfcEn44&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=w99PUF2j0e&password=RqSsMQ3oZB&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=ZfZMWzAGze&password=09R0M6HZNZ&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=BTjkVDH2sB&password=lo3UKaXIEh&type=m3u OK - Buffered
+
+http://37.187.175.177:8000/get.php?username=appsandroid954541441151&password=appsandroid954541441151&type=m3u BAD
+
+http://51.254.197.40:25461/get.php?username=peter&password=peter&type=m3u GOOD - Fast
+
+http://51.254.197.40:25461/get.php?username=adrian&password=adrian&type=m3u
+
+http://51.254.197.40:25461/get.php?username=rab&password=rab&type=m3u
+
+http://51.254.197.40:25461/get.php?username=wilson&password=wilson&type=m3u
+
+http://62.109.21.245:8000/playlist.m3u8
+
+http://5.255.90.223:2052/playlist.m3u8
+
+
+
 12.05.2016
 
  http://ipsatpro.com:8000/get.php?username=Kane&password=Kane&type=m3u Good
@@ -144,6 +188,8 @@ http://iptvfree1.com:6969/live/18/www.iptvrestream.net/98.ts|User-Agent=iptvrest
 http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/591.ts
 
 http://37.187.139.155:8000/get.php?username=lightwrath@live.com&password=WatchNow!&type=m3u
+
+http://149.202.77.226:7500/get.php?username=lge103&password=ge103&type=m3u
 
 SportsDevil CNBC
 http://46.234.113.2/p2p/0fa1864db527d3de89020cb06a050b35.m3u8?st=qmZdKd4py1MH8TQ1fiYstQ&e=1480549420|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36&referer=mobdro.me
