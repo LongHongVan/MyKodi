@@ -4897,23 +4897,19 @@ http://127.0.0.1:19099/livestreamer/p2p/50e67d468d54cd43a2bd100b5ef8a53e.m3u8
 
 ################### New MTV TEST #####################################
 
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14210.ts
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14954.ts
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV BASE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14243.ts
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV CLASSIC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14244.ts
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV DANCE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14061.ts
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV HITS
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14242.ts
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV LIVE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14211.ts
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV MUSIC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14955.ts
-#EXTINF:-1 group-title="New MTV TEST",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MTV ROCK
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://109.236.91.38:5454/live/simeone/simeone/14241.ts
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National FHD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona FHD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles FHD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain FHD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon FHD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington FHD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area FHD
+http://xrxs.net/video/live-p12baya-4728.m3u8
 
 ################### New MTV TEST #####################################
