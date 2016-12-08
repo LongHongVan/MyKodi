@@ -1,4 +1,4 @@
-"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png",# NBC HD
+["http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png",# NBC HD
 "http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png",# ABC HD
 "http://www.thelogodb.com/images/media/logo/vruusq1434471511.png",# CBS HD
 "http://www.thelogodb.com/images/media/logo/rwptru1436892145.png",# FOX HD
@@ -29,4 +29,4 @@
 "http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png",# Fox Sports 1 HD
 "http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png",# MLB Network HD
 "http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png",# NFL Network HD
-"http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png"# HGTV HD
+"http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png"]# HGTV HD
