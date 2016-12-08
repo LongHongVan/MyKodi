@@ -11,7 +11,7 @@
 "http://www.thelogodb.com/images/media/logo/syytuy1467823090.png",# USA Network HD
 "http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png",# ESPN HD
 "http://www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium",# HBO HD
-"http://www.thelogodb.com/images/media/logo/qwxspu1433452709.png" # TCM HD
+"http://www.thelogodb.com/images/media/logo/qwxspu1433452709.png",# TCM HD
 "http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png",# Spike HD 
 "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png",# History
 "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png",# History 2
