@@ -1,32 +1,32 @@
-["http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png",# NBC HD
-"http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png",# ABC HD
-"http://www.thelogodb.com/images/media/logo/vruusq1434471511.png",# CBS HD
-"http://www.thelogodb.com/images/media/logo/rwptru1436892145.png",# FOX HD
-"http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png",# BRAVO HD
-"http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png",# CW HD
-"http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png",# A&E HD
-"http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png",# AMC HD
-"http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium",# TBS HD
-"http://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png",# TNT HD
-"http://www.thelogodb.com/images/media/logo/syytuy1467823090.png",# USA Network HD
-"http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png",# ESPN HD
-"http://www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium",# HBO HD
-"http://www.thelogodb.com/images/media/logo/qwxspu1433452709.png",# TCM HD
-"http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png",# Spike HD 
-"http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png",# History
-"http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png",# History 2
-"http://www.thelogodb.com/images/media/logo/vyrxww1480348067.png",# TLC HD
-"http://www.thelogodb.com/images/media/logo/quwyru1480459347.png",# SYFY HD
-"http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png",# Animal Planet HD
-"http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png",# Discovery Channel HD
-"http://www.thelogodb.com/images/media/logo/qwqypu1433965613.png",# Lifetime HD
-"http://www.thelogodb.com/images/media/logo/tyvqqr1433945535.png",# E! HD
-"http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png",# Nat Geo HD 
-"http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png",# Nat Geo Wild HD
-"http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png",# ESPN 2 HD
-"http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png",# NBC Golf
-"http://www.thelogodb.com/images/media/logo/vxvtup1434505598.png",# NBCSN HD
-"http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png",# Fox Sports 1 HD
-"http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png",# MLB Network HD
-"http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png",# NFL Network HD
-"http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png"]# HGTV HD
+['http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png',# NBC HD
+'http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png',# ABC HD
+'http://www.thelogodb.com/images/media/logo/vruusq1434471511.png',# CBS HD
+'http://www.thelogodb.com/images/media/logo/rwptru1436892145.png',# FOX HD
+'http://www.thelogodb.com/images/media/logo/ssywwv1433449119.png',# BRAVO HD
+'http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png',# CW HD
+'http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png',# A&E HD
+'http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png',# AMC HD
+'http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium',# TBS HD
+'http://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png',# TNT HD
+'http://www.thelogodb.com/images/media/logo/syytuy1467823090.png',# USA Network HD
+'http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png',# ESPN HD
+'http://www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium',# HBO HD
+'http://www.thelogodb.com/images/media/logo/qwxspu1433452709.png',# TCM HD
+'http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png',# Spike HD 
+'http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png',# History
+'http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png',# History 2
+'http://www.thelogodb.com/images/media/logo/vyrxww1480348067.png',# TLC HD
+'http://www.thelogodb.com/images/media/logo/quwyru1480459347.png',# SYFY HD
+'http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png',# Animal Planet HD
+'http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png',# Discovery Channel HD
+'http://www.thelogodb.com/images/media/logo/qwqypu1433965613.png',# Lifetime HD
+'http://www.thelogodb.com/images/media/logo/tyvqqr1433945535.png',# E! HD
+'http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png',# Nat Geo HD 
+'http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png',# Nat Geo Wild HD
+'http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png',# ESPN 2 HD
+'http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png',# NBC Golf
+'http://www.thelogodb.com/images/media/logo/vxvtup1434505598.png',# NBCSN HD
+'http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png',# Fox Sports 1 HD
+'http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png',# MLB Network HD
+'http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png',# NFL Network HD
+'http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png']# HGTV HD
