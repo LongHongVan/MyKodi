@@ -6,7 +6,7 @@
     "ABC NFL HD", 
     "CBS NFL [COLOR qua]FHD[/COLOR]", 
     "FOX NFL HD", 
-    "BRAVO HD", 
+    "BRAVO HD (M2TS)", 
     "CW HD", 
     "A&E HD", 
     "AMC HD", 
