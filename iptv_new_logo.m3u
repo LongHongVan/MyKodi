@@ -3491,10 +3491,12 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", MUTV HD 
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/758.ts|User-Agent=iptvreatream.net
 
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="NBC Sports Network HD" tvg-logo="", NBCSN HD
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="NBC Sports Network HD" tvg-logo="", NBCSN {COLOR lime]FHD[/COLOR]
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/98.ts|User-Agent=iptvreatream.net
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", OLYMPIC CHANNEL FHD
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", OLYMPIC CHANNEL {COLOR lime]FHD[/COLOR]
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4641.ts|User-Agent=iptvreatream.net
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", COOKING CHANNEL {COLOR lime]FHD[/COLOR]
+http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4693.ts|User-Agent=iptvrestream.net
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/129.ts|User-Agent=iptvreatream.net
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", ESPN 2 HD
@@ -3504,9 +3506,9 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/90.ts|User-Agent=iptvreatream.net
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", FOX HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4691.ts|User-Agent=iptvreatream.net
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", CBS HD
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="CBS HD" tvg-logo="", CBS East {COLOR lime]FHD[/COLOR]
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4695.ts|User-Agent=iptvreatream.net
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", NBC HD
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="NBC HD" tvg-logo="", NBC East {COLOR lime]FHD[/COLOR]
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4689.ts|User-Agent=iptvreatream.net
  	
 
