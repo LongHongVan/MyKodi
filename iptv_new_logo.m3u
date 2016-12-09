@@ -3488,7 +3488,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 
 ################### New Sports TV ####################################
 
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="MUTV HD" tvg-logo="", >>> LIVE TV [Color aqua] Updated[/COLOR] <<<
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="MUTV HD" tvg-logo="", >>> LIVE TV [COLOR aqua] Updated[/COLOR] <<<
 http://google.com
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="MUTV HD" tvg-logo="", MUTV HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/758.ts|User-Agent=iiptvrestream.net.
