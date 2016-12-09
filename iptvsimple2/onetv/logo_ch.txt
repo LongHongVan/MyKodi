@@ -1,5 +1,8 @@
 [
-    "http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png",
+	"http://www.swimmingworldmagazine.com/media/USAlogoA.jpg", 
+	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
+	"http://images.bwwstatic.com/tvnetworklogos/12683D1D-0C2A-DD63-3EA5C95F3DEDA0AB.jpg", 
+	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
     "http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png", 
     "http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", 
     "http://www.thelogodb.com/images/media/logo/rwptru1436892145.png", 
