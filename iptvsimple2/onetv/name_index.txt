@@ -1,12 +1,10 @@
 [
     "Olympic Channels [COLOR qua]FHD[/COLOR]", 
 	"NBCSN [COLOR qua]FHD[/COLOR]", 
-	"Cooking Channel [COLOR qua]FHD[/COLOR]", 
 	"NBC NFL [COLOR qua]FHD[/COLOR]", 
     "ABC NFL HD", 
     "CBS NFL [COLOR qua]FHD[/COLOR]", 
     "FOX NFL HD", 
-    "BRAVO HD (M2TS)", 
     "CW HD", 
     "A&E HD", 
     "AMC HD", 
