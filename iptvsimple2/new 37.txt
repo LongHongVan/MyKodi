@@ -1,4 +1,68 @@
 
+12.10.2016
+
++++++++++++++++++++++++++++++
+
+http://IPTVFREE1.COM:6969/get.php?username===>_www.iptvrestream.net_<==&password===>_www.iptvrestream.net_<==&type=m3u
+
+http://50.7.149.26:6969/get.php?username=App0039&password=1ye2nsjnRN&type=m3u GOOD Less Buffer - Like iptvfree1.com:6969
+
+++++++++++++++++++++++++++
+
+ http://51.254.197.40:25461/get.php?username=iptv1&password=iptv1&type=m3u GOOD
+
+http://51.254.197.40:25461/get.php?username=tony&password=tony&type=m3u
+
+http://abraiptv.no-ip.org:5475/get.php?username=MAIS&password=MAIS&type=m3u
+
+http://iptvserver.noip.me:8000/get.php?username=zorro&password=zorro&type=m3u GOOD
+
+http://tvdreams.org:50100/get.php?username=aser&password=aser&type=m3u No USA
+
+http://138.201.52.222:8000/get.php?username=brtest&password=brtest&type=m3u No USA
+
+http://central.iptv-streamer.com:8000/get.php?username=rochdi&password=rochdi&type=m3u No USA
+
+http://ipsatpro.com:8000/get.php?username=sliema&password=sliema&type=m3u
+
+http://163.172.32.148:9300/get.php?username=farid&password=farid&type=m3u
+
+http://iptv.monkeycline.com:25461/get.php?username=nicola&password=nicola&type=m3u GOOD
+
+http://evolive-tv.com:8000/get.php?username=brtest&password=brtest&type=m3u No USA
+
+http://89.163.135.168:8000/get.php?username=gogo&password=gogo&type=m3u
+
+http://clinetiptv.ddns.net:8000/get.php?username=taza&password=taza&type=m3u No Links work
+
+http://gorillaserver.zapto.org:8000/get.php?username=franco&password=franco2&type=m3u NO USA
+
+http://www.zeebra.tv:8000/get.php?username=intergraph&password=intergraph&type=m3u BAD
+
+http://51.254.197.40:25461/get.php?username=n&password=n&type=m3u GOOD
+
+http://bur879.com:8000/get.php?username=OKTAY1&password=OKTAY1&type=m3u No USA
+
+http://tech343.com:8000/get.php?username=OKTAY1&password=OKTAY1&type=m3u No USA
+
+http://50.7.149.26:6969/get.php?username=App0039&password=1ye2nsjnRN&type=m3u GOOD No Buffer - Like iptvfree1.com:6969
+
+http://89.163.135.168:8000/get.php?username=marco&password=marco&type=m3u
+
+http://89.163.135.168:8000/get.php?username=michel&password=michel&type=m3u
+
+http://89.163.135.168:8000/get.php?username=orange&password=orange&type=m3u
+
+http://ksportiptv.com:1557/get.php?username=CkuLl0HH1J&password=T9qoxsbDNw&type=m3u&output=ts
+
+http://ksportiptv.com:1557/get.php?username=dx53fpBenh&password=MNf9JPKLsA&type=m3u&output=ts
+
+http://ksportiptv.com:1557/get.php?username=R5bO9rOEfp&password=WEHthaRCAi&type=m3u&output=ts
+
+http://ksportiptv.com:1557/get.php?username=PTuspVHI8l&password=lstFy8OLEf&type=m3u&output=ts
+
+http://ksportiptv.com:1557/get.php?username=wZfgVMVWg2&password=CRR5NmgxLp&type=m3u&output=ts No Links work
+
 12.08.2016
 
  http://163.172.77.155:8000/get.php?username=iptv825&password=63145&type=m3u Little USA
