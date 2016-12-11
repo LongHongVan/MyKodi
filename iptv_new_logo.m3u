@@ -2031,6 +2031,9 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 #EXTINF:-1, tvg-name="BT Sports 3 HD" tvg-logo="media.ufc.tv/LOGOS/ufc-on-bt-sport.JPG" group-title="TOP SPORT TV", BT Sports [COLOR lime]PPV UFC[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1702.ts
 
+#EXTINF:-1, tvg-name="BT Sports 3 HD" tvg-logo="media.ufc.tv/LOGOS/ufc-on-bt-sport.JPG" group-title="TOP SPORT TV", BT Sports [COLOR lime]PPV UFC[/COLOR] SD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://premium-ott.com:8000/live/bast/bast/7329.ts
+
 #EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 
