@@ -2029,7 +2029,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
 #EXTINF:-1, tvg-id="" tvg-name="FOX HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Redzone HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://premium-ott.com:8000/live/bast/bast/7326.ts
+http://93.174.93.156:8081/live/nflredzone.m3u8?e=1481493662&st=kv47yRkEyrNO7gTj_HnE-w|Referer=http%3A%2F%2F93.174.93.156%3A8081%2Fplayer.php%3Fch%3Dnflredzone%26width%3D640%26height%3D360&User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36&X-Requested-With=ShockwaveFlash/23.0.0.162
 
 
 
