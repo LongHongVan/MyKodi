@@ -1,4 +1,40 @@
 
+12.11.2016
+
++++++++++Good Sites ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+http://premium-ott.com:8000/get.php?username=bast&password=bast&type=m3u GOOD No Buffering
+http://163.172.6.8:8000/get.php?username=774&password=774&type=m3u GOOD 79 USA CH
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+http://81.230.200.187:1967/get.php?username=Kodi&password=XBMC&type=m3u No USA
+
+http://81.230.200.187:1967/get.php?username=atn&password=atn&type=m3u
+
+http://163.172.6.8:8000/get.php?username=883&password=883&type=m3u
+
+http://163.172.6.8:8000/get.php?username=5523&password=5523&type=m3u
+
+http://149.202.67.223:8000/get.php?username=zorro&password=zorro&type=m3u UK Only No USA
+
+http://51.254.197.40:25461/get.php?username=aa&password=aa&type=m3u BAD
+
+http://51.254.197.40:25461/get.php?username=gg&password=gg&type=m3u
+
+http://51.254.197.40:25461/get.php?username=abc&password=abc&type=m3u
+
+http://163.172.6.8:8000/get.php?username=447&password=447&type=m3u
+
+http://163.172.6.8:8000/get.php?username=5566&password=5566&type=m3u
+
+http://163.172.6.8:8000/get.php?username=25252&password=25252&type=m3u
+
+http://5.39.64.85:5475/get.php?username=abdelkader&password=abdelkader&type=m3u No USA
+
+http://sutverduz.com:8080/get.php?username=cumtesttt&password=C72QbwVBbp&type=m3u UK Only No USA
+
+http://163.172.6.8:8000/get.php?username=sliema&password=sliema&type=m3u
+
 12.10.2016
 
 +++++++++++++++++++++++++++++
