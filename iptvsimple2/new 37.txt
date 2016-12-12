@@ -1,4 +1,54 @@
 
+12.13.2016
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+http://tv2iptv.com:8000/get.php?username=mouhcine&password=free1&type=m3u GOOD Fast Respond No Buffer
+
+TEST F4M
+#EXTINF:-1,USA_|_Fox_Sports_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3376.ts
+
+
+http://51.254.197.40:25461/get.php?username=ww&password=ww&type=m3u GOOD ^ has Buffering
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+http://81.230.200.187:1967/get.php?username=khaled&password=khaled&type=m3u No USA
+
+http://two-brothers.dyndns.tv:8000/get.php?username=888ab&password=888ab&type=m3u No USA
+
+http://163.172.209.135:8000/get.php?username=animalstars&password=scambioan654k4&type=m3u No USA
+
+http://81.230.200.187:1967/get.php?username=dream&password=dream&type=m3u No USA
+
+
+
+http://giant-iptv.com:5477/get.php?username=6644&password=6644&type=m3u No USA
+
+http://giant-iptv.com:5477/get.php?username=11101&password=11101&type=m3u
+
+http://149.202.94.210:1920/get.php?username=gianni229&password=alemilko2&type=m3u No USA
+
+
+
+http://IPTV.Nador-Sat.Com:9300/get.php?username=rachid&password=rachid&type=m3u No USA
+
+http://37.187.251.19:8080/get.php?username=Yn8a9zNT6x&password=rQKmf0PkFT&type=m3u BAD
+
+http://5.196.83.164:9889/get.php?username=IxPp13ZDB4&password=p8fwUAXlUt&type=m3u No USA
+
+http://sutverduz.com:8080/get.php?username=paztest&password=Bpns2ozi16&type=m3u UK Only no USA
+
+http://163.172.131.59/get.php?username=cocollo&password=kelaciduri&type=m3u
+
+http://iptv.relaxiptv.com:8000/get.php?username=TTdWT38UXq&password=8BTy6Pkx1f&type=m3u No USA
+
+http://151.80.25.97:13884/get.php?username=Susinonipoteb&password=Venezia&type=m3u No USA
+
+http://ultra.super-iptv.space:13884/get.php?username=Susinonipoteb&password=Venezia&type=m3u No USA
+
+
 12.11.2016
 
 +++++++++Good Sites ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -8,6 +58,23 @@ Found the real IP for http://premium-ott.com is http://51.255.81.138 in France
 http://51.255.81.138:8000/get.php?username=bast&password=bast&type=m3u Good 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Test redzone links
+http://51.255.81.138:8000/live/bast/bast/7326.ts (Original)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.81.138:8000/live/bast/bast/7326.ts
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://premium-ott.com:8000/live/bast/bast/7326.ts
+http://127.0.0.1:19000/livestreamer/aGxzOi8vaHR0cDovL3ByZW1pdW0tb3R0LmNvbTo4MDAwL2xpdmUvYmFzdC9iYXN0LzczMjYudHM=
+
+ESPN - Works OK
+http://127.0.0.1:19000/livestreamer/aGxzOi8vaHR0cDovL2J1bGxzaXB0di5zZTo5ODUwL2xpdmUvdGh1eXZvMTc0QGdtYWlsLmNvbS93aGUzNDY1Zy8xNDAubTN1OA==
+
+hls://http://185.152.64.235/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=cvCPDEiwhhb2QaadLpdFiQ&e=1481952048|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36&referer=mobdro.me
+
+http://127.0.0.1:19000/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM1L3AycC8zYmFmN2RiMGQ4ZjFkNDAwODE2ZmI2MTY2YjI5N2Y0Ni5tM3U4P3N0PWN2Q1BERWl3aGhiMlFhYWRMcGRGaVEmZT0xNDgxOTUyMDQ4fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 http://81.230.200.187:1967/get.php?username=Kodi&password=XBMC&type=m3u No USA
 
