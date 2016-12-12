@@ -1,9 +1,9 @@
 [
-    "Olympic Channels [COLOR qua]FHD[/COLOR]", 
-	"NBCSN [COLOR qua]FHD[/COLOR]", 
-	"NBC NFL [COLOR qua]FHD[/COLOR]", 
+    "Olympic Channels FHD (Offline)", 
+	"NBCSN FHD (Offline)", 
+	"NBC NFL HD", 
     "ABC NFL HD", 
-    "CBS NFL [COLOR qua]FHD[/COLOR]", 
+    "CBS NFL HD", 
     "FOX NFL HD", 
     "CW HD", 
     "A&E HD", 
