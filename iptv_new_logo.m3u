@@ -4927,6 +4927,31 @@ http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=QLb_tH0fQLGpd
 #EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="CBS HD" tvg-logo="", CBS HD Direct TS tv2iptv
 http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3389.ts
 
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 2 HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3375.ts
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 1 HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3376.ts
+
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", ESPN 2 HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3359.ts
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", ESPN HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3383.ts
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="ESPN HD" tvg-logo="", ESPN HD Local
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3377.ts
+
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="CBS HD" tvg-logo="", Bravo HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3391.ts
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="CBS HD" tvg-logo="", Animal Planet HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3392.ts
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="CBS HD" tvg-logo="", AMC HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3393.ts
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="CBS HD" tvg-logo="", ABC HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3395.ts
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", A&E_HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3378.ts
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", TBS HD
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3358.ts
+
 ################tv2iptv.com##########################
 
 #EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", WWE_HD
