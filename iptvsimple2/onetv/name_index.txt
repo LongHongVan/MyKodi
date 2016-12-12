@@ -1,9 +1,9 @@
 [
-    "Olympic Channels FHD (Offline)", 
-	"NBCSN FHD (Offline)", 
-	"NBC NFL HD", 
+    "Olympic Channels FHD", 
+	"NBCSN FHD", 
+	"NBC NFL FHD", 
     "ABC NFL HD", 
-    "CBS NFL HD", 
+    "CBS NFL FHD", 
     "FOX NFL HD", 
     "CW HD", 
     "A&E HD", 
