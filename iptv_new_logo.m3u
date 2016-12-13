@@ -536,7 +536,7 @@ http://torstream.se:5935/vod/thor_the_dark_world.mp4/index.m3u8
 #EXTINF:-1, tvg-logo="www.allentownpa.gov/portals/0/images/VideoOnDemand1.png" group-title="New Movies 2016", The Purge Election Year HD
 #plugin://plugin.video.ruyaiptv/?action=play_movie&title=The+Purge+Election+Year+HD&url=
 
-http://torstream.se:5935/vod/the_purge_election_year_hd.mp4/index.m3u8
+http://torstream.se:5935/vod/the_purge_election_year HD.mp4/index.m3u8
 
 #http://88888.se:8000/stalker_portal/screenshots/2/1743.jpg&plot=Runtime+105+Min:-Years+after+sparing+the+man+who+killed+his+son+former+police+sergeant+Barnes+has+become+head+of+security+for+Senator+Charlie+Roan+a+Presidential+candidate+targeted+for+death+on+Purge+night+due+to+her+vow+to+eliminate+the+Purge&extra=&page=
 #EXTINF:-1, tvg-logo="www.allentownpa.gov/portals/0/images/VideoOnDemand1.png" group-title="New Movies 2016", Me Before You
@@ -2471,7 +2471,7 @@ http://origin.onworldtv.com:1935/liveorigin/byn/index.m3u8
 #EXTINF:-1 group-title="VIETNAM TV24", [B][COLOR mediumspringgreen] >>> Vietnam TV <<<[/COLOR][/B]
 http://google.com/
 
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="rongbay2.vcmedia.vn/thumb_max/up_new/2012/05/31/0/201205182155_logo_hd1.jpg", K+1
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="rongbay2.vcmedia.vn/thumb_max/up_new/2012/05/31/0/201205182155_logo HD1.jpg", K+1
 http://5.39.70.216/live/louis/louis/1031.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV1.jpg", VTV1 HD
@@ -2611,7 +2611,7 @@ http://www.mediafire.com/download/6ir89zc04zbiurc/Phat.Loc.Dau.Nam.PROPER.Bluray
 http://google.com/
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="http://image.wikifoundry.com/image/3/bb491e76ab5ec5595b08bb15085393c7/GW312H230", ASIA 78 [COLOR yellow]Tình Yêu và Thân Phận[/COLOR]
-http://www.mediafire.com/download/blm2tdzcw99mdep/Asia78_HD1080p.mp4
+http://www.mediafire.com/download/blm2tdzcw99mdep/Asia78 HD1080p.mp4
 
 #EXTINF:-1 group-title="VIETNAM TV24", ASIA DanNguyen [COLOR yellow]NhoVeMienTrung[/COLOR]
 http://www.mediafire.com/download/92u6g1zb78w5z0b/Dan_Nguyen-Live_Show_Nho_Ve_Mien_Trung.mkv
@@ -3048,11 +3048,11 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=200
 #EXTINF:-1, tvg-id="9158" tvg-name="NASA TV" tvg-logo="1.bp.blogspot.com/-B0Ag1ukoqkQ/UvUHqYRa68I/AAAAAAAAFSU/PdFV7YatyPk/s1600/nasa%2Btv.png" group-title="NEWS TV", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=
 
-#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="ABC News" tvg-logo="hupload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC_HD_logo.png/220px-ABC_HD_logo.png", ABC News [COLOR yellow] 720p[/COLOR]
+#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="ABC News" tvg-logo="hupload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC HD_logo.png/220px-ABC HD_logo.png", ABC News [COLOR yellow] 720p[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
 
-#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="ABC News" tvg-logo="hupload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC_HD_logo.png/220px-ABC_HD_logo.png"", ABC West
+#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="ABC News" tvg-logo="hupload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC HD_logo.png/220px-ABC HD_logo.png"", ABC West
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=81
 
 #EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="NBC West" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC West
@@ -4963,98 +4963,85 @@ http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/
 http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3393.ts
 #EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="CBS HD" tvg-logo="", ABC HD
 http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3395.ts
-#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", A&E_HD
+#EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", A&E HD
 http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3378.ts
 #EXTINF:-1 group-title="TEST OtherTV DirectLink",  tvg-id="" tvg-name="" tvg-logo="", TBS HD
 http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3358.ts
 
 ################tv2iptv.com##########################
 
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", WWE_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", WWE HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3361.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TMN_4_MOVIE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3362.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TMN_3_MOVIE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3363.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TMN_2_MOVIE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3364.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TMN_1_MOVIE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3365.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TLC_HD
+
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TLC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3366.ts
 #EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Poker_Central
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3367.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", PAC_12_WD_HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3369.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", PAC-12_Network_HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3368.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", NFL_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", NFL Network HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3370.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", NDTV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3371.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", NBCSN_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", NBCSN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3372.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Nat_Geo_Wild
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Nat Geo Wild
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3373.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Max_West
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Max West
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3374.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Fox_Sports_2_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3375.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Fox_Sports_1_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Fox Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3376.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ESPN_Local
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ESPN Local
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3377.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", A&E_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", A&E HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3378.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TBS_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TBS HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3358.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ESPN_2
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ESPN 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3359.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", BYU_Sports_TV_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", BYU Sports TV HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3360.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TNT_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TNT HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3379.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", SYFY_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", SYFY HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3380.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", NAT_GEO_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", NAT GEO HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3381.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", FOX_NEWS_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", FOX NEWS HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3382.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ESPN_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3383.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", DISCCOVERY_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", DISCCOVERY HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3384.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CW_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CW HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3385.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", COMEDY_CENTRAL_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Comedy Central HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3386.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CNN_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CNN News HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3387.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CNBC_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CNBC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3388.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CBS
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CBS HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3389.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CA_|_TSN_5*
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TSN 5 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3352.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CA_|_TSN_4_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TSN 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3353.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CA_|_TSN_3*
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TSN 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3354.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CA_|_TSN_2*
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TSN 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3355.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CA_|_TSN_1*
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", TSN 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3356.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CA_|_Sportsnet_360_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Sportsnet 360 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3357.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", CARTOON_NETWORK_HD_
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Cartoon Network HD 
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3390.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", BRAVO_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Bravo HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3391.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ANIMAL_PLANET_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", Animal Planet HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3392.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", AMC_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", AMC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3393.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ABC_NEWS_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ABC News HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3394.ts
-#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ABC_HD
+#EXTINF:-1 group-title="New tv2iptv",  tvg-id="" tvg-name="" tvg-logo="", ABC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://tv2iptv.com:8000/live/mouhcine/free1/3395.ts
