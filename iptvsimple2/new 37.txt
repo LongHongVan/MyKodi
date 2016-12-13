@@ -1,16 +1,57 @@
 
+12.14.2016
+
+++++++++++++++++++ Today TOP Site ++++++++++++++++++++++++++++++++++++++++++++
+http://51.254.197.40:25461/get.php?username=griffiths&password=griffiths&type=m3u GOOD 30 USA
+http://fiberbox.tk:25461/get.php?username=alka&password=alka&type=m3u GREAT 18 USA Similar Port "iptv.monkeycline"
+http://109.236.82.18:8000/get.php?username=mouhcine&password=free1&type=m3u GREAT 44 USA similar to "tv2iptv.com:8000/"
+++++++++++++++++++++++++Old day - still good+++++++++++++++++++++++++++++++++++
+http://free-premium-iptv.ddns.net:9090/m3u8/free123?type=m3u&output=ts
+http://iptv.monkeycline.com:25461/get.php?username=jasne&password=jasne&type=m3u
+http://IPTVFREE1.COM:6969/get.php?username===>_www.iptvrestream.net_<==&password===>_www.iptvrestream.net_<==&type=m3u (Require user agent to work)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+http://globiptv.com:8000/get.php?username=031&password=VWAFcZ031u&type=m3u GOOD 10 USA
+http://globiptv.com:8000/get.php?username=oE4l2vxVOu&password=tsvtTFFUuR&type=m3u
+
+http://163.172.131.59/get.php?username=SALEMME345&password=SALEMME123&type=m3u For VOD
+http://163.172.6.8:8000/get.php?username=P8XLtBALeE&password=ukqdx62J12&type=m3u
+http://46.105.115.44:8000/get.php?username=michele_gaetano_pizza&password=e6GYrzyD5w&type=m3u For VOD
+
+http://51.254.197.40:25461/get.php?username=fiona&password=fiona&type=m3u Good - see above top site
+
+http://149.202.82.101:5000/get.php?username=PV3.fretnow&password=starseven18&type=m3u Good 10 USA - Some Buffering
+
+http://5.189.187.55:8000/get.php?username=oE4l2vxVOu&password=tsvtTFFUuR&type=m3u OK 11 USA
+
+http://217.79.184.42:5500/get.php?username=starseven18&password=skype&type=m3u OK 9 USA
+
+http://62.210.167.115:8080/get.php?username=starsevem&password=GnBvFkJoLmIsD&type=m3u GOOD 8 USA
+
+http://iptv.sat-tv.net:8000/get.php?username=7894&password=7894&type=m3u 18 UK No USA
+
+http://158.69.27.190:5477/get.php?username=11101&password=11101&type=m3u BAD
+
+
 12.13.2016
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++ Today TOP Site ++++++++++++++++++++++++++++++++++++++++++++
 
-http://tv2iptv.com:8000/get.php?username=mouhcine&password=free1&type=m3u GOOD Fast Respond No Buffer
+http://tv2iptv.com:8000/get.php?username=mouhcine&password=free1&type=m3u GOOD 44 USA Fast Respond No Buffer
 
 TEST F4M
 #EXTINF:-1,USA_|_Fox_Sports_1_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3376.ts
 
+A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/300.mpegts
 
-http://51.254.197.40:25461/get.php?username=ww&password=ww&type=m3u GOOD ^ has Buffering
+TEST F4M Direct Call Forward Port.
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://tv2iptv.com:8000/live/mouhcine/free1/3389.ts
+
+
+http://51.254.197.40:25461/get.php?username=ww&password=ww&type=m3u GOOD ^ has little Buffering it is "iptv.monkeycline"
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -1162,17 +1203,13 @@ http://iptv.monkeycline.com:25461/get.php?username=jasne&password=jasne&type=m3u
 http://37.187.162.203:6969/get.php?username=freefootballtv&password=4GWf*pfCBHWsRgqhwd0Wv5Mx&type=m3u
 
 http://IPTVFREE1.COM:6969/get.php?username=freefootballtv&password=4GWf*pfCBHWsRgqhwd0Wv5Mx&type=m3u
+http://IPTVFREE1.COM:6969/get.php?username=Livetvfuckyou&password=2BdAqhZZiM&type=m3u&output=ts
 
 http://free-premium-iptv.ddns.net:9090/streams/free123
 
 
 http://free-premium-iptv.ddns.net:9090/m3u8/free123?type=m3u&output=ts
-
-http://IPTVFREE1.COM:6969/get.php?username=Livetvfuckyou&password=2BdAqhZZiM&type=m3u&output=ts
-
-jasne/jasne
 http://iptv.monkeycline.com:25461/get.php?username=jasne&password=jasne&type=m3u
 
 
-http://live.softiptv.com:9900/get.php?username=Julian&password=Julian&type=m3u&output=ts
 
