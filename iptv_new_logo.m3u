@@ -3353,102 +3353,115 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=USA%20Network
 
 ################### UKTV HD ####################################
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", [COLOR yellow]Sky Sports Box Office[/COLOR]
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", [COLOR yellow]Sky Sports Box Office[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5086.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports F1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet Pacific HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9396.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet 360 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9397.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet One HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9398.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet Ontario HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9399.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet West HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9400.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet World HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9401.ts
+
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports F1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1684.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 5 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 5 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1688.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 4 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1690.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1693.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1695.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Sky Sports 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BBC One HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BBC One HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5691.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BBC Two HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BBC Two HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5690.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BBC Three HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BBC Three HD
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1864.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BBC Four HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BBC Four HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1871.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Animal Planet HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Animal Planet HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5664.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ITV 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ITV 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5685.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ITV 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ITV 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5686.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ITV 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ITV 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5688.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", RTE TWO
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", RTE TWO
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5709.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", RTE ONE
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", RTE ONE
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5710.ts
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BT Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1757.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BT Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1758.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BT Sports 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1702.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BT Sports ESPN HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BT Sports ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1704.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", NBA TV HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", NBA TV HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5744.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", TSN 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6110.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", TSN 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6111.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", TSN 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6112.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", TSN 4 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6113.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", TSN 5 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 5 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6114.ts
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ASTRO SPORTS HD 4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ASTRO SPORTS HD 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6216.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ASTRO SPORTS HD 3
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ASTRO SPORTS HD 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6215.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ASTRO SPORTS HD 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ASTRO SPORTS HD 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6214.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", ASTRO SPORTS HD 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ASTRO SPORTS HD 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6213.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", Bein Sports USA HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Bein Sports USA HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5734.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 15 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 15 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1723.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 11 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 11 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1727.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 10 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 10 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1728.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 9 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 9 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1715.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 8 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 8 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1716.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 6 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 6 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1718.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 4 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1720.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1721.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1722.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV HD", BEIN SPORT 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1729.ts
 
 ##### NFL Thursday Night #########################################
