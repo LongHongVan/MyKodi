@@ -5,7 +5,7 @@
     "ABC NFL HD", 
     "CBS NFL FHD", 
     "FOX NFL HD",
-    "ESPN HD Proxy",	
+    "ESPN HD Proxy Test",	
     "A&E HD", 
     "AMC HD", 
     "TBS HD", 
