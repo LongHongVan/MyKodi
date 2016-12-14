@@ -1,7 +1,7 @@
 [
     "http://IPTVFREE1.COM:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4641.ts|User-Agent=iptvrestream.net.", 
 	"http://IPTVFREE1.COM:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/98.ts|User-Agent=iptvrestream.net.",  
-	"http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4689.ts|User-Agent=iptvrestream.net.", 
+	"http://127.0.0.1:19098/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8", 
     "http://185.152.64.235/p2p/ba354149f3c117ceb69529a1542b6281.m3u8?st=tDLf5FwYZc3sO5StmRjIYA&e=1482036038|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me", 
     "http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4695.ts|User-Agent=iptvrestream.net.", 
     "http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4691.ts|User-Agent=iptvrestream.net.",  

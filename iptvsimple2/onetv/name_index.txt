@@ -1,7 +1,7 @@
 [
     "Olympic Channels FHD", 
 	"NBCSN FHD", 
-	"NBC NFL FHD", 
+	"NBC NFL HD OneTV 19098 Proxy", 
     "ABC NFL HD", 
     "CBS NFL FHD", 
     "FOX NFL HD",

@@ -1,3 +1,76 @@
+12.15.2016
+
+++++++++++++++++++ Today TOP Site ++++++++++++++++++++++++++++++++++++++++++++
+++++++++++Test F4M+++++++++++++++++
+http://ipsatpro.com:8000/get.php?username=rased&password=rased&type=m3u GOOD 79 USA No or less Buffering
+http://giant-iptv.com:5477/get.php?username=ramzy&password=ramzy&type=m3u GOOD 43 USA
+http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 USA Similar Port "iptv.monkeycline"
+
+#EXTINF:-1,USA:ESPN-1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://giant-iptv.com:5477/live/ramzy/ramzy/11830.ts
+
+++++++++++++++++++ End Today TOP Site +++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++
+
+http://fiberbox.tk:25461/get.php?username=sar&password=sar&type=m3u OK
+
+http://149.202.217.185:9000/get.php?username=salah&password=salah&type=m3u No USA
+
+http://iptvdini.zapto.org:8000/get.php?username=bedri3&password=seferi&type=m3u No USA
+
+http://185.71.66.22:8000/get.php?username=cinella&password=a270914&type=m3u OK - has Fox Sp1 & 2
+
+http://tech343.com:8000/get.php?username=KMLCTNL&password=11111111&type=m3u No USA
+
+http://51.254.197.40:25461/get.php?username=quinn&password=quinn&type=m3u
+
+http://foxiptv.stream.tf:5050/get.php?username=hammou&password=hammou&type=m3u BAD
+
+
+
+http://solofast.ddns.net:44222/get.php?username=hassan&password=hassan&type=m3u GOOD 8 USA
+
+http://gh-ah.ddns.net:8000/get.php?username=star7&password=ahmedax&type=m3u No USA
+
+http://51.254.197.40:25461/get.php?username=sar&password=sar&type=m3u
+
+http://ercole.zapto.org:8000/get.php?username=cinella&password=a270914&type=m3u OK - has Fox Sp1 & 2
+
+http://51.254.197.40:25461/get.php?username=brennan&password=brennan&type=m3u
+
+http://51.254.197.40:25461/get.php?username=laptop&password=laptop&type=m3u
+
+http://5.39.64.85:5475/get.php?username=beji&password=beji&type=m3u No USA
+
+http://fastiptv.doomdns.org:8000/get.php?username=Bbaker&password=Bbaker&type=m3u No USA
+
+http://istream.hypervm.tk:8000/get.php?username=absey&password=y0H5l8u9Js&type=m3u No USA
+
+http://pv3.fretnow.net:7040/get.php?username=iptvafrica&password=D881E9B3&type=m3u No USA
+
+http://xtream.hopto.me:9000/get.php?username=tiger&password=tiger&type=m3u OK 8 USA
+
+http://iptv.sat-tv.net:8000/get.php?username=Aliali&password=Aliali&type=m3u No USA
+
+
+
+http://51.254.197.40:25461/get.php?username=andy&password=andy&type=m3u
+
+http://51.254.197.40:25461/get.php?username=murray&password=murray&type=m3u
+
+http://51.254.197.40:25461/get.php?username=pete&password=pete&type=m3u
+
+http://51.254.197.40:25461/get.php?username=stuart&password=stuart&type=m3u
+
+http://51.254.197.40:25461/get.php?username=owen&password=owen&type=m3u
+
+http://51.254.197.40:25461/get.php?username=mega&password=mega&type=m3u
+
+http://51.254.197.40:25461/get.php?username=glenn&password=glenn&type=m3u
+
+http://crackingstar.org.farqiniptv.eu:9005/get.php?username=crackingstar.org&password=crackingstar.org&type=m3u&output=mpegts No USA
+
 
 12.14.2016
 
