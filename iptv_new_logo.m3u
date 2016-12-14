@@ -4882,6 +4882,12 @@ http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=QLb_tH0fQLGpd
 
 #EXTINF:-1   tvg-id="NBC" group-title="New Test USAIPTV Entertainment",NBC
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+#EXTINF:-1   tvg-id="USANETUS" group-title="New Test USAIPTV Entertainment",USA Network
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/428.mpegts
+#EXTINF:-1   tvg-id="Lifetime (LIFE)" group-title="New Test USAIPTV Entertainment",Lifetime USA
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/475.mpegts
+
+
 #EXTINF:-1  tvg-logo="http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/logos/s300.png"   tvg-id="A&amp;E" group-title="New Test USAIPTV Entertainment",A&E
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/300.mpegts
 #EXTINF:-1   tvg-id="ABC" group-title="New Test USAIPTV Entertainment",ABC
@@ -4918,8 +4924,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/298.mpegts
 #EXTINF:-1  tvg-logo="http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/logos/s6950.jpg"    group-title="New Test USAIPTV Entertainment",BBC AMERICA
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/6950.mpegts
-#EXTINF:-1   tvg-id="USANETUS" group-title="New Test USAIPTV Entertainment",USA Network
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/428.mpegts
+
 #EXTINF:-1   tvg-id="SyfyUS" group-title="New Test USAIPTV Entertainment",Syfy USA
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/427.mpegts
 #EXTINF:-1   tvg-id="SPIKEUS" group-title="New Test USAIPTV Entertainment",Spike US
@@ -4938,8 +4943,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/778.mpegts
 #EXTINF:-1   tvg-id="TeleCentro (TLCN)" group-title="New Test USAIPTV Entertainment",TLC USA
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/347.mpegts
-#EXTINF:-1   tvg-id="Lifetime (LIFE)" group-title="New Test USAIPTV Entertainment",Lifetime USA
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/475.mpegts
+
 #EXTINF:-1   tvg-id="HIHI US" group-title="New Test USAIPTV Entertainment",HiFi US
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/478.mpegts
 #EXTINF:-1   tvg-id="IFC (IFC)" group-title="New Test USAIPTV Entertainment",IFC US
