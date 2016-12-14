@@ -4,113 +4,113 @@
 http://google.com
 
 
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",NBC HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",NBC HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/1.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",A&E HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",A&E HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/2.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",ABC HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",ABC HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/3.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",AMC HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",AMC HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/4.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",E! HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",E! HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/5.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",LMN HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",LMN HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/8.mpegts
 
 
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",USA Network HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",USA Network HD
 http://free-premium-iptv.ddns.net:9090/load/free123/10.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",SYFY HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",SYFY HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/11.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Spike HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Spike HD
 http://free-premium-iptv.ddns.net:9090/load/free123/12.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Hallmark Channel HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Hallmark Channel HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/9.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",FX HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",FX HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/7.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",FOX HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",FOX HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/6.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",TNT HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TNT HD
 http://free-premium-iptv.ddns.net:9090/load/free123/13.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Comedy Central HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Comedy Central HD
 http://free-premium-iptv.ddns.net:9090/load/free123/14.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Lifetime HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Lifetime HD
 http://free-premium-iptv.ddns.net:9090/load/free123/15.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",CNN News HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",CNN News HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/16.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",HBO East
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO East
 #http://free-premium-iptv.ddns.net:9090/load/free123/17.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",HBO Comedy East
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO Comedy East
 http://free-premium-iptv.ddns.net:9090/load/free123/53.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",HBO Family
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO Family
 #http://free-premium-iptv.ddns.net:9090/load/free123/52.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",HBO Signature East
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO Signature East
 http://free-premium-iptv.ddns.net:9090/load/free123/51.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",HBO ZONE
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO ZONE
 #http://free-premium-iptv.ddns.net:9090/load/free123/50.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Showtime East
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Showtime East
 #http://free-premium-iptv.ddns.net:9090/load/free123/19.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Cinemas East
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Cinemas East
 #http://free-premium-iptv.ddns.net:9090/load/free123/18.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Cinemax ActionMax
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Cinemax ActionMax
 #http://free-premium-iptv.ddns.net:9090/load/free123/20.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Cinemax 5Stars
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Cinemax 5Stars
 #http://free-premium-iptv.ddns.net:9090/load/free123/21.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Starz Edge
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Starz Edge
 #http://free-premium-iptv.ddns.net:9090/load/free123/22.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Starz Encore
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Starz Encore
 #http://free-premium-iptv.ddns.net:9090/load/free123/23.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",History
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",History
 http://free-premium-iptv.ddns.net:9090/load/free123/24.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",H2
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",H2
 #http://free-premium-iptv.ddns.net:9090/load/free123/25.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Discovery Channel HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Discovery Channel HD
 http://free-premium-iptv.ddns.net:9090/load/free123/49.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",National Geographic Channel
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",National Geographic Channel
 http://free-premium-iptv.ddns.net:9090/load/free123/26.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Nat Geo Wild HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Nat Geo Wild HD
 http://free-premium-iptv.ddns.net:9090/load/free123/48.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Animal Planet HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Animal Planet HD
 http://free-premium-iptv.ddns.net:9090/load/free123/27.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Investigation Discovery
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Investigation Discovery
 http://free-premium-iptv.ddns.net:9090/load/free123/28.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",HGTV HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HGTV HD
 http://free-premium-iptv.ddns.net:9090/load/free123/29.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",ESPN HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",ESPN HD
 http://free-premium-iptv.ddns.net:9090/load/free123/30.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",ESPN 2 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",ESPN 2 HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/31.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Fox Sports 1 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Fox Sports 1 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/32.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Fox Sports 2 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Fox Sports 2 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/33.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",NBA TV HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",NBA TV HD
 http://free-premium-iptv.ddns.net:9090/load/free123/34.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",NFL Network HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",NFL Network HD
 http://free-premium-iptv.ddns.net:9090/load/free123/35.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",TSN 1 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 1 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/36.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",TSN 2 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 2 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/37.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",TSN 3 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 3 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/38.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",TSN 4 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 4 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/39.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",TSN 5 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 5 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/40.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",TBS HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TBS HD
 http://free-premium-iptv.ddns.net:9090/load/free123/42.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",NBC Sports Network HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",NBC Sports Network HD
 #http://free-premium-iptv.ddns.net:9090/load/free123/43.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Sportsnet 360 HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Sportsnet 360 HD
 http://free-premium-iptv.ddns.net:9090/load/free123/45.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Sportsnet World HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Sportsnet World HD
 http://free-premium-iptv.ddns.net:9090/load/free123/46.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Sportsnet Ontario HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Sportsnet Ontario HD
 http://free-premium-iptv.ddns.net:9090/load/free123/47.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Sportsnet One HD
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Sportsnet One HD
 http://free-premium-iptv.ddns.net:9090/load/free123/44.mpegts
-#EXTINF:-1  group-title="TEST Channels from free-premium (Offline Now)",Showtime West
+#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Showtime West
 #http://free-premium-iptv.ddns.net:9090/load/free123/54.mpegts
 
 
@@ -3466,7 +3466,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 
 ##### NFL Thursday Night #########################################
 
-#EXTINF:-1  group-title="NFL Thursday Night",NFL Network HD
+#EXTINF:-1    group-title="NFL Thursday Night",NFL Network HD
 http://free-premium-iptv.ddns.net:9090/load/free123/35.mpegts
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network HD
@@ -3481,7 +3481,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=542
 
 
-#EXTINF:-1  group-title="NFL Thursday Night",Sportsnet Ontario HD
+#EXTINF:-1    group-title="NFL Thursday Night",Sportsnet Ontario HD
 http://free-premium-iptv.ddns.net:9090/load/free123/47.mpegts
 
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ontario HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="NFL Thursday Night", Sportsnet Ontario HD
@@ -3654,857 +3654,857 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 ################### IPTV USA FOR TEST 559 CH #####################################
 
 
-#EXTINF:-1 tvg-id="NBC" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",NBC HD
+#EXTINF:-1   tvg-id="NBC" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",NBC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=140
-#EXTINF:-1 tvg-id="AETV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",A&E HD
+#EXTINF:-1   tvg-id="AETV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",A&E HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=300
-#EXTINF:-1 tvg-id="ABC" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ABC HD
+#EXTINF:-1   tvg-id="ABC" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ABC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=9
-#EXTINF:-1 tvg-id="AMCUS" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",AMC HD
+#EXTINF:-1   tvg-id="AMCUS" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",AMC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=372
-#EXTINF:-1 tvg-id="Bravo" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Bravo HD
+#EXTINF:-1   tvg-id="Bravo" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Bravo HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=369
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBC HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=964
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1516
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBC Vancover
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBC Vancover
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1547
-#EXTINF:-1 tvg-id="CIVT" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CTV HD
+#EXTINF:-1   tvg-id="CIVT" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=377
-#EXTINF:-1 tvg-id="E! (E!)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E! HD
+#EXTINF:-1   tvg-id="E! (E!)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E! HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=468
-#EXTINF:-1 tvg-id="Fox HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FOX HD
+#EXTINF:-1   tvg-id="Fox HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FOX HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=139
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Family HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Family HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=653
-#EXTINF:-1 tvg-id="FX (FX)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FX HD
+#EXTINF:-1   tvg-id="FX (FX)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FX HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=337
-#EXTINF:-1 tvg-id="FXX (FXX)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FXX HD
+#EXTINF:-1   tvg-id="FXX (FXX)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FXX HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=782
-#EXTINF:-1 tvg-id="PBSNET (PBS)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",PBS HD
+#EXTINF:-1   tvg-id="PBSNET (PBS)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",PBS HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=141
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",LMN HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",LMN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=674
-#EXTINF:-1 tvg-id="TNT HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TNT HD
+#EXTINF:-1   tvg-id="TNT HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TNT HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=328
-#EXTINF:-1 tvg-id="Hallmark (HALL)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Hallmark Channel HD
+#EXTINF:-1   tvg-id="Hallmark (HALL)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Hallmark Channel HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=298
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC America HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC America HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6950
-#EXTINF:-1 tvg-id="USA Network HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",USA Network HD
+#EXTINF:-1   tvg-id="USA Network HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",USA Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=428
-#EXTINF:-1 tvg-id="SyfyUS" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",SYFY HD
+#EXTINF:-1   tvg-id="SyfyUS" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",SYFY HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=427
-#EXTINF:-1 tvg-id="Spike HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Spike HD
+#EXTINF:-1   tvg-id="Spike HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Spike HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=338
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Slice TV HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Slice TV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=676
-#EXTINF:-1 tvg-id="TBSUS" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TBS HD
+#EXTINF:-1   tvg-id="TBSUS" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TBS HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=335
-#EXTINF:-1 tvg-id="ComedyCentralUS" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Comedy Central HD
+#EXTINF:-1   tvg-id="ComedyCentralUS" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Comedy Central HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=645
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ABC Family HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ABC Family HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1634
-#EXTINF:-1 tvg-id="CHCH" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CHCH HD
+#EXTINF:-1   tvg-id="CHCH" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CHCH HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=778
-#EXTINF:-1 tvg-id="TeleCentro (TLCN)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TLC HD
+#EXTINF:-1   tvg-id="TeleCentro (TLCN)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TLC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=347
-#EXTINF:-1 tvg-id="Lifetime (LIFE)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Lifetime HD
+#EXTINF:-1   tvg-id="Lifetime (LIFE)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Lifetime HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=475
-#EXTINF:-1 tvg-id="HiFi Music" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",HiFi HD
+#EXTINF:-1   tvg-id="HiFi Music" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",HiFi HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=478
-#EXTINF:-1 tvg-id="IFC (IFC)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",IFC HD
+#EXTINF:-1   tvg-id="IFC (IFC)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",IFC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=788
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FYI HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",FYI HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6954
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BET TV
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BET TV
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6956
-#EXTINF:-1 tvg-id="KTLA" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",KTLA HD
+#EXTINF:-1   tvg-id="KTLA" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",KTLA HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=479
-#EXTINF:-1 tvg-id="WPIX US" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",WPIX HD
+#EXTINF:-1   tvg-id="WPIX US" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",WPIX HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=480
-#EXTINF:-1 tvg-id="W Network" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",W NETWORK HD
+#EXTINF:-1   tvg-id="W Network" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",W NETWORK HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=962
-#EXTINF:-1 tvg-id="CW" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CW HD
+#EXTINF:-1   tvg-id="CW" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CW HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=138
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Documentaries",ESCAPE
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",ESCAPE
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6952
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BOUNCE
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BOUNCE
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6951
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",WILD TV
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",WILD TV
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6957
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",OWN
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",OWN
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6955
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",MTV USA
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",MTV USA
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6958
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TV Land
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TV Land
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6967
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",My9
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",My9
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1501
-#EXTINF:-1 tvg-id="City HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CITY TV HD
+#EXTINF:-1   tvg-id="City HD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CITY TV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=790
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",GLOBAL TV  EDMONTON
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",GLOBAL TV  EDMONTON
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6785
-#EXTINF:-1 tvg-id="ABC News 24" group-title="[COLOR yellow]TEST [/COLOR]News",ABC News HD
+#EXTINF:-1   tvg-id="ABC News 24" group-title="[COLOR yellow]TEST [/COLOR]News",ABC News HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=136
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]News",MSNBC
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",MSNBC
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6949
-#EXTINF:-1 tvg-id="CNNUS" group-title="[COLOR yellow]TEST [/COLOR]News",CNN HD
+#EXTINF:-1   tvg-id="CNNUS" group-title="[COLOR yellow]TEST [/COLOR]News",CNN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1505
-#EXTINF:-1 tvg-id="CNBCUS" group-title="[COLOR yellow]TEST [/COLOR]News",CNBC HD
+#EXTINF:-1   tvg-id="CNBCUS" group-title="[COLOR yellow]TEST [/COLOR]News",CNBC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1506
-#EXTINF:-1 tvg-id="Fox News Channel" group-title="[COLOR yellow]TEST [/COLOR]News",Fox News
+#EXTINF:-1   tvg-id="Fox News Channel" group-title="[COLOR yellow]TEST [/COLOR]News",Fox News
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=440
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]News",Fox Business HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",Fox Business HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6947
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]News",EuroNews English
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",EuroNews English
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1259
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]News",BNN HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",BNN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6966
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]News",WGN HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",WGN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1613
-#EXTINF:-1 tvg-id="I210.10161.schedulesdirect.org" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",C-Span 1 HD
+#EXTINF:-1   tvg-id="I210.10161.schedulesdirect.org" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",C-Span 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=596
-#EXTINF:-1 tvg-id="I211.10162.schedulesdirect.org" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",C-Span 2 HD
+#EXTINF:-1   tvg-id="I211.10162.schedulesdirect.org" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",C-Span 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=597
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",C-Span 3 HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",C-Span 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=598
-#EXTINF:-1 tvg-id="Drama" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Drama
+#EXTINF:-1   tvg-id="Drama" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Drama
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=365
-#EXTINF:-1 tvg-id="Syfy UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",SYFY HD
+#EXTINF:-1   tvg-id="Syfy UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",SYFY HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=101
-#EXTINF:-1 tvg-id="Spike" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Spike HD
+#EXTINF:-1   tvg-id="Spike" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Spike HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=482
-#EXTINF:-1 tvg-id="Home Shopping Network (HSN)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",HSN
+#EXTINF:-1   tvg-id="Home Shopping Network (HSN)" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",HSN
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=363
-#EXTINF:-1 tvg-id="FOX" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Fox UK
+#EXTINF:-1   tvg-id="FOX" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Fox UK
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=35
-#EXTINF:-1 tvg-id="EUK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E! HD
+#EXTINF:-1   tvg-id="EUK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E! HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=483
-#EXTINF:-1 tvg-id="Universal" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Universal
+#EXTINF:-1   tvg-id="Universal" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Universal
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1041
-#EXTINF:-1 tvg-id="TLC UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TLC HD
+#EXTINF:-1   tvg-id="TLC UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TLC HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=277
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E4
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",E4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=77
-#EXTINF:-1 tvg-id="alibi" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Alibi
+#EXTINF:-1   tvg-id="alibi" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Alibi
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=103
-#EXTINF:-1 tvg-id="4seven" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",4seven
+#EXTINF:-1   tvg-id="4seven" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",4seven
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=379
-#EXTINF:-1 tvg-id="5 USA" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",5 USA
+#EXTINF:-1   tvg-id="5 USA" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",5 USA
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=265
-#EXTINF:-1 tvg-id="5*" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",5*
+#EXTINF:-1   tvg-id="5*" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",5*
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=264
-#EXTINF:-1 tvg-id="3e" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",3e
+#EXTINF:-1   tvg-id="3e" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",3e
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=413
-#EXTINF:-1 tvg-id="ComedyCentral" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Comedy Central HD
+#EXTINF:-1   tvg-id="ComedyCentral" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Comedy Central HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=110
-#EXTINF:-1 tvg-id="ComedyXtra" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Comedy Central Extra UK
+#EXTINF:-1   tvg-id="ComedyXtra" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Comedy Central Extra UK
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=381
-#EXTINF:-1 tvg-id="Sky1" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Sky1
+#EXTINF:-1   tvg-id="Sky1" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Sky1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=71
-#EXTINF:-1 tvg-id="Sky2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Sky2
+#EXTINF:-1   tvg-id="Sky2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Sky2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=72
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Sky Atlantic
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Sky Atlantic
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=92
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Sky Living
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Sky Living
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=76
-#EXTINF:-1 tvg-id="London Live" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",London Live
+#EXTINF:-1   tvg-id="London Live" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",London Live
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=393
-#EXTINF:-1 tvg-id="RTÉ One" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",RTE One
+#EXTINF:-1   tvg-id="RTÉ One" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",RTE One
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=417
-#EXTINF:-1 tvg-id="RTÉ Two" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",RTE Two
+#EXTINF:-1   tvg-id="RTÉ Two" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",RTE Two
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=418
-#EXTINF:-1 tvg-id="RTE News Now" group-title="[COLOR yellow]TEST [/COLOR]News",RTE News
+#EXTINF:-1   tvg-id="RTE News Now" group-title="[COLOR yellow]TEST [/COLOR]News",RTE News
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=399
-#EXTINF:-1 tvg-id="RTÉ Jr" group-title="[COLOR yellow]TEST [/COLOR]Kids",RTE Jr
+#EXTINF:-1   tvg-id="RTÉ Jr" group-title="[COLOR yellow]TEST [/COLOR]Kids",RTE Jr
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1204
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",EDEN UK
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",EDEN UK
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1463
-#EXTINF:-1 tvg-id="QUEST" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Quest  UK
+#EXTINF:-1   tvg-id="QUEST" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Quest  UK
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1470
-#EXTINF:-1 tvg-id="Really" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Really
+#EXTINF:-1   tvg-id="Really" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Really
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1473
-#EXTINF:-1 tvg-id="Channel 4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Channel 4
+#EXTINF:-1   tvg-id="Channel 4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Channel 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=33
-#EXTINF:-1 tvg-id="Channel 5" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Channel 5
+#EXTINF:-1   tvg-id="Channel 5" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Channel 5
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=34
-#EXTINF:-1 tvg-id="Challenge" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Challenge
+#EXTINF:-1   tvg-id="Challenge" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Challenge
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=652
-#EXTINF:-1 tvg-id="Dave" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Dave
+#EXTINF:-1   tvg-id="Dave" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Dave
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=398
-#EXTINF:-1 tvg-id="GOLD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Gold
+#EXTINF:-1   tvg-id="GOLD" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Gold
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=104
-#EXTINF:-1 tvg-id="Watch" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Watch
+#EXTINF:-1   tvg-id="Watch" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Watch
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=75
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS Action
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS Action
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=333
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS Drama
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS Drama
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=332
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS Reality
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CBS Reality
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=331
-#EXTINF:-1 tvg-id="DMAX UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",DMAX UK
+#EXTINF:-1   tvg-id="DMAX UK" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",DMAX UK
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=317
-#EXTINF:-1 tvg-id="BBC1" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC One HD
+#EXTINF:-1   tvg-id="BBC1" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC One HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1
-#EXTINF:-1 tvg-id="BBC2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC Two HD
+#EXTINF:-1   tvg-id="BBC2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC Two HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=2
-#EXTINF:-1 tvg-id="BBC4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC Four HD
+#EXTINF:-1   tvg-id="BBC4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC Four HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=4
-#EXTINF:-1 tvg-id="BBC Alba" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC ALBA
+#EXTINF:-1   tvg-id="BBC Alba" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",BBC ALBA
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=533
-#EXTINF:-1 tvg-id="ITV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 1 HD
+#EXTINF:-1   tvg-id="ITV" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=29
-#EXTINF:-1 tvg-id="ITV2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 2 HD
+#EXTINF:-1   tvg-id="ITV2" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=30
-#EXTINF:-1 tvg-id="ITV3" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 3 HD
+#EXTINF:-1   tvg-id="ITV3" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=31
-#EXTINF:-1 tvg-id="ITV4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 4 HD
+#EXTINF:-1   tvg-id="ITV4" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV 4 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=32
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV Encore HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITV Encore HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=655
-#EXTINF:-1 tvg-id="ITVBe" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITVBe
+#EXTINF:-1   tvg-id="ITVBe" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",ITVBe
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=105
-#EXTINF:-1 tvg-id="Yesterday" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Yesterday
+#EXTINF:-1   tvg-id="Yesterday" group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Yesterday
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=74
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]News",CNN
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]News",CNN
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=678
-#EXTINF:-1 tvg-id="EuroNews" group-title="[COLOR yellow]TEST [/COLOR]News",Euro News
+#EXTINF:-1   tvg-id="EuroNews" group-title="[COLOR yellow]TEST [/COLOR]News",Euro News
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1139
-#EXTINF:-1 tvg-id="Bloomberg" group-title="[COLOR yellow]TEST [/COLOR]News",Bloomberg
+#EXTINF:-1   tvg-id="Bloomberg" group-title="[COLOR yellow]TEST [/COLOR]News",Bloomberg
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=392
-#EXTINF:-1 tvg-id="HBO 2 East" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO 2
+#EXTINF:-1   tvg-id="HBO 2 East" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=188
-#EXTINF:-1 tvg-id="HBO East" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO East
+#EXTINF:-1   tvg-id="HBO East" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO East
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=189
-#EXTINF:-1 tvg-id="HBO Comedy HD East (HBOCHD)" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO Comedy
+#EXTINF:-1   tvg-id="HBO Comedy HD East (HBOCHD)" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO Comedy
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=194
-#EXTINF:-1 tvg-id="HBO Family" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO Family
+#EXTINF:-1   tvg-id="HBO Family" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO Family
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=195
-#EXTINF:-1 tvg-id="HBO Signature" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO Signature
+#EXTINF:-1   tvg-id="HBO Signature" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO Signature
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=192
-#EXTINF:-1 tvg-id="HBO Zone" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO Zone
+#EXTINF:-1   tvg-id="HBO Zone" group-title="[COLOR yellow]TEST [/COLOR]Movies",HBO Zone
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=193
-#EXTINF:-1 tvg-id="Cinemax East" group-title="[COLOR yellow]TEST [/COLOR]Movies",Cinemax East
+#EXTINF:-1   tvg-id="Cinemax East" group-title="[COLOR yellow]TEST [/COLOR]Movies",Cinemax East
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=183
-#EXTINF:-1 tvg-id="Cinemax 5 StarMax" group-title="[COLOR yellow]TEST [/COLOR]Movies",Cinemax 5 StarMax
+#EXTINF:-1   tvg-id="Cinemax 5 StarMax" group-title="[COLOR yellow]TEST [/COLOR]Movies",Cinemax 5 StarMax
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=186
-#EXTINF:-1 tvg-id="ActionMAX" group-title="[COLOR yellow]TEST [/COLOR]Movies",Cinemax ActionMax
+#EXTINF:-1   tvg-id="ActionMAX" group-title="[COLOR yellow]TEST [/COLOR]Movies",Cinemax ActionMax
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=187
-#EXTINF:-1 tvg-id="Moremax" group-title="[COLOR yellow]TEST [/COLOR]Movies",Cinemax Moremax
+#EXTINF:-1   tvg-id="Moremax" group-title="[COLOR yellow]TEST [/COLOR]Movies",Cinemax Moremax
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=334
-#EXTINF:-1 tvg-id="Showtime East" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime HD
+#EXTINF:-1   tvg-id="Showtime East" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=169
-#EXTINF:-1 tvg-id="Showtime 2" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime 2
+#EXTINF:-1   tvg-id="Showtime 2" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=170
-#EXTINF:-1 tvg-id="Showtime Showcase" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime Showcase
+#EXTINF:-1   tvg-id="Showtime Showcase" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime Showcase
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=172
-#EXTINF:-1 tvg-id="Showtime West" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime West
+#EXTINF:-1   tvg-id="Showtime West" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime West
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=171
-#EXTINF:-1 tvg-id="Showtime Beyond" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime Beyond
+#EXTINF:-1   tvg-id="Showtime Beyond" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime Beyond
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=174
-#EXTINF:-1 tvg-id="Showtime Extreme" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime Extreme
+#EXTINF:-1   tvg-id="Showtime Extreme" group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime Extreme
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=173
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime Next
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",Showtime Next
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1646
-#EXTINF:-1 tvg-id="Starz East (STRZ)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz East
+#EXTINF:-1   tvg-id="Starz East (STRZ)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz East
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=182
-#EXTINF:-1 tvg-id="Starz West (STZw)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz West
+#EXTINF:-1   tvg-id="Starz West (STZw)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz West
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=181
-#EXTINF:-1 tvg-id="Starz Comedy HD (STZCHD)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Comedy
+#EXTINF:-1   tvg-id="Starz Comedy HD (STZCHD)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Comedy
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=178
-#EXTINF:-1 tvg-id="Starz Edge (STZE)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Edge
+#EXTINF:-1   tvg-id="Starz Edge (STZE)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Edge
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=180
-#EXTINF:-1 tvg-id="Starz Cinema HD (STZCIHD)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Cinema
+#EXTINF:-1   tvg-id="Starz Cinema HD (STZCIHD)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Cinema
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=179
-#EXTINF:-1 tvg-id="Starz Encore (SENC)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Encore
+#EXTINF:-1   tvg-id="Starz Encore (SENC)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Encore
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=464
-#EXTINF:-1 tvg-id="Starz in Black (STZB)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz In Black
+#EXTINF:-1   tvg-id="Starz in Black (STZB)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz In Black
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=176
-#EXTINF:-1 tvg-id="Starz Kids & Family HD (STZKHD)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Kids
+#EXTINF:-1   tvg-id="Starz Kids & Family HD (STZKHD)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Starz Kids
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=177
-#EXTINF:-1 tvg-id="Sky Action" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Action
+#EXTINF:-1   tvg-id="Sky Action" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Action
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=36
-#EXTINF:-1 tvg-id="Sky Movies Premiere" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Premiere
+#EXTINF:-1   tvg-id="Sky Movies Premiere" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Premiere
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=410
-#EXTINF:-1 tvg-id="Sky Movies Greats" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Modern Greats
+#EXTINF:-1   tvg-id="Sky Movies Greats" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Modern Greats
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=45
-#EXTINF:-1 tvg-id="Sky Comedy" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Comedy
+#EXTINF:-1   tvg-id="Sky Comedy" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Comedy
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=37
-#EXTINF:-1 tvg-id="Sky Movies Showcase" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Showcase
+#EXTINF:-1   tvg-id="Sky Movies Showcase" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Showcase
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=43
-#EXTINF:-1 tvg-id="Sky Movies Select" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Select
+#EXTINF:-1   tvg-id="Sky Movies Select" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Select
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=46
-#EXTINF:-1 tvg-id="Sky Thriller" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Thriller
+#EXTINF:-1   tvg-id="Sky Thriller" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Thriller
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=39
-#EXTINF:-1 tvg-id="Sky ScFi" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Sci-Fi
+#EXTINF:-1   tvg-id="Sky ScFi" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Sci-Fi
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=42
-#EXTINF:-1 tvg-id="Sky DramRom" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Drama
+#EXTINF:-1   tvg-id="Sky DramRom" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Drama
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=41
-#EXTINF:-1 tvg-id="Sky Family" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Family
+#EXTINF:-1   tvg-id="Sky Family" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Family
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=38
-#EXTINF:-1 tvg-id="Sky Disney" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Disney
+#EXTINF:-1   tvg-id="Sky Disney" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sky Movies Disney
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=44
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",Super Channel 1 HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",Super Channel 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1465
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",Super Channel 2 HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",Super Channel 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1466
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",Super Channel 3 HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",Super Channel 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1467
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",Super Channel 4 HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",Super Channel 4 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1468
-#EXTINF:-1 tvg-id="Turner Classic Movies (TCM)" group-title="[COLOR yellow]TEST [/COLOR]Movies",TCM HD
+#EXTINF:-1   tvg-id="Turner Classic Movies (TCM)" group-title="[COLOR yellow]TEST [/COLOR]Movies",TCM HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=786
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Discovery Family HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Discovery Family HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6848
-#EXTINF:-1 tvg-id="Starz Encore (SENC)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Encore HD
+#EXTINF:-1   tvg-id="Starz Encore (SENC)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Encore HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=779
-#EXTINF:-1 tvg-id="Starz Encore Action (SEAC)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Encore Action HD
+#EXTINF:-1   tvg-id="Starz Encore Action (SEAC)" group-title="[COLOR yellow]TEST [/COLOR]Movies",Encore Action HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=780
-#EXTINF:-1 tvg-id="Film4" group-title="[COLOR yellow]TEST [/COLOR]Movies",Film4
+#EXTINF:-1   tvg-id="Film4" group-title="[COLOR yellow]TEST [/COLOR]Movies",Film4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=267
-#EXTINF:-1 tvg-id="SPACE" group-title="[COLOR yellow]TEST [/COLOR]Movies",SPACE
+#EXTINF:-1   tvg-id="SPACE" group-title="[COLOR yellow]TEST [/COLOR]Movies",SPACE
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=481
-#EXTINF:-1 tvg-id="Sony Movies" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sony Movies  HD
+#EXTINF:-1   tvg-id="Sony Movies" group-title="[COLOR yellow]TEST [/COLOR]Movies",Sony Movies  HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=986
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",Sony Movies+1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",Sony Movies+1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=985
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",THE MOVIE CHANNEL HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",THE MOVIE CHANNEL HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6887
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",True Movies 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",True Movies 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=330
-#EXTINF:-1 tvg-id="True Movies 1" group-title="[COLOR yellow]TEST [/COLOR]Movies",True Movies 1
+#EXTINF:-1   tvg-id="True Movies 1" group-title="[COLOR yellow]TEST [/COLOR]Movies",True Movies 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=329
-#EXTINF:-1 tvg-id="DiscoveryChannelUS" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Channel HD
+#EXTINF:-1   tvg-id="DiscoveryChannelUS" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Channel HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=476
-#EXTINF:-1 tvg-id="History Channel (HIST)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",History HD
+#EXTINF:-1   tvg-id="History Channel (HIST)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",History HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=469
-#EXTINF:-1 tvg-id="H2 USA" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",History 2 HD
+#EXTINF:-1   tvg-id="H2 USA" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",History 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=375
-#EXTINF:-1 tvg-id="National Geographic TV (NGC)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
+#EXTINF:-1   tvg-id="National Geographic TV (NGC)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=473
-#EXTINF:-1 tvg-id="Nat Geo WILD (NGW)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
+#EXTINF:-1   tvg-id="Nat Geo WILD (NGW)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=474
 
-#EXTINF:-1 tvg-id="AnimalPlanetUS" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Animal Planet HD
+#EXTINF:-1   tvg-id="AnimalPlanetUS" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Animal Planet HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=373
-#EXTINF:-1 tvg-id="Nat Geo HD" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
+#EXTINF:-1   tvg-id="Nat Geo HD" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo HD
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=57
-#EXTINF:-1 tvg-id="Nat Geo Wild" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
+#EXTINF:-1   tvg-id="Nat Geo Wild" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Nat Geo Wild HD
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=58
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Velocity
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Velocity
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6993
-#EXTINF:-1 tvg-id="Investigation Discovery (ID)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",ID HD
+#EXTINF:-1   tvg-id="Investigation Discovery (ID)" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",ID HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=477
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Love Nature HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Love Nature HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=987
-#EXTINF:-1 tvg-id="HGTV" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",HGTV HD
+#EXTINF:-1   tvg-id="HGTV" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",HGTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=203
-#EXTINF:-1 tvg-id="DIY" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",DIY Network HD
+#EXTINF:-1   tvg-id="DIY" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",DIY Network HD
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=204
 
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Travel Channel HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Travel Channel HD
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6948
-#EXTINF:-1 tvg-id="Discovery" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery HD
+#EXTINF:-1   tvg-id="Discovery" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=414
-#EXTINF:-1 tvg-id="History" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",History HD
+#EXTINF:-1   tvg-id="History" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",History HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=411
-#EXTINF:-1 tvg-id="H2 UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",H2 HD
+#EXTINF:-1   tvg-id="H2 UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",H2 HD
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=320
-#EXTINF:-1 tvg-id="Animal Planet" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Animal Planet HD
+#EXTINF:-1   tvg-id="Animal Planet" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Animal Planet HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=56
-#EXTINF:-1 tvg-id="Disc.History" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery History HD
+#EXTINF:-1   tvg-id="Disc.History" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery History HD
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=53
-#EXTINF:-1 tvg-id="Discovery Shed" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Shed HD
+#EXTINF:-1   tvg-id="Discovery Shed" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Shed HD
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=380
-#EXTINF:-1 tvg-id="Disc.Science" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Science HD
+#EXTINF:-1   tvg-id="Disc.Science" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Science HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=54
-#EXTINF:-1 tvg-id="HomeHealth UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Home & Health HD
+#EXTINF:-1   tvg-id="HomeHealth UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Home & Health HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=278
-#EXTINF:-1 tvg-id="Disc.Turbo" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Turbo
+#EXTINF:-1   tvg-id="Disc.Turbo" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Discovery Turbo
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=55
 
-#EXTINF:-1 tvg-id="Crime Investigation UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Crime Investigation HD
+#EXTINF:-1   tvg-id="Crime Investigation UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Crime Investigation HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=95
-#EXTINF:-1 tvg-id="Investigation Discovery" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Investigation Discovery
+#EXTINF:-1   tvg-id="Investigation Discovery" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Investigation Discovery
 #http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=51
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Travel Channel
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Travel Channel
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1472
-#EXTINF:-1 tvg-id="Good Food" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Good Food HD
+#EXTINF:-1   tvg-id="Good Food" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Good Food HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=421
-#EXTINF:-1 tvg-id="Food Network UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Food Network HD
+#EXTINF:-1   tvg-id="Food Network UK" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Food Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=319
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Destination America
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Documentaries",Destination America
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1635
-#EXTINF:-1 tvg-id="NASA" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",NASA
+#EXTINF:-1   tvg-id="NASA" group-title="[COLOR yellow]TEST [/COLOR]Documentaries",NASA
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
 
 
-#EXTINF:-1 tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBC Sports Network HD
+#EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBC Sports Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=467
-#EXTINF:-1 tvg-id="CBS Sports Network (CBS SN)" group-title="[COLOR yellow]TEST [/COLOR]Sports",CBS Sports Network
+#EXTINF:-1   tvg-id="CBS Sports Network (CBS SN)" group-title="[COLOR yellow]TEST [/COLOR]Sports",CBS Sports Network
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=785
-#EXTINF:-1 tvg-id="ESPNUS" group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN HD
+#EXTINF:-1   tvg-id="ESPNUS" group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=371
-#EXTINF:-1 tvg-id="ESPN2US" group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN 2 HD
+#EXTINF:-1   tvg-id="ESPN2US" group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=466
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN U HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPN U HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1638
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPNews HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",ESPNews HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1611
-#EXTINF:-1 tvg-id="Fox Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports 1 HD
+#EXTINF:-1   tvg-id="Fox Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=212
-#EXTINF:-1 tvg-id="Fox Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports 2 HD
+#EXTINF:-1   tvg-id="Fox Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=228
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA TV HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA TV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1427
-#EXTINF:-1 tvg-id="MLB Network" group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Network HD
+#EXTINF:-1   tvg-id="MLB Network" group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=456
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6895
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6924
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 3
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6925
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 4
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6926
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 5
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 5
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6927
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 6
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 6
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6928
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 7
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 7
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6929
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 8
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 8
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6930
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 9
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 9
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6931
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 10
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 10
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6932
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Network HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1190
-#EXTINF:-1 tvg-id="NFL Network (NFL)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Now HD
+#EXTINF:-1   tvg-id="NFL Network (NFL)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Now HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1066
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Red Zone
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Red Zone
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6871
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6862
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6863
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 3
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6864
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 4
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6865
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 5
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 5
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6866
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 6
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 6
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6867
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 7
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 7
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6868
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 8
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 8
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6869
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 9
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 9
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6870
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 10
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 10
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6872
-#EXTINF:-1 tvg-id="NHL Network HD (NHLHD)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NHL HD
+#EXTINF:-1   tvg-id="NHL Network HD (NHLHD)" group-title="[COLOR yellow]TEST [/COLOR]Sports",NHL HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=299
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]247",UFC 24/7
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]247",UFC 24/7
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1183
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",UFC Latino
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",UFC Latino
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6898
-#EXTINF:-1 tvg-id="WWE Network HD" group-title="[COLOR yellow]TEST [/COLOR]Sports",WWE Network HD
+#EXTINF:-1   tvg-id="WWE Network HD" group-title="[COLOR yellow]TEST [/COLOR]Sports",WWE Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=79
-#EXTINF:-1 tvg-id="TSN1" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 1 HD
+#EXTINF:-1   tvg-id="TSN1" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=342
-#EXTINF:-1 tvg-id="TSN2" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 2 HD
+#EXTINF:-1   tvg-id="TSN2" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=343
-#EXTINF:-1 tvg-id="TSN3" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 3 HD
+#EXTINF:-1   tvg-id="TSN3" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=344
-#EXTINF:-1 tvg-id="TSN4" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 4 HD
+#EXTINF:-1   tvg-id="TSN4" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 4 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=345
-#EXTINF:-1 tvg-id="TSN5" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 5 HD
+#EXTINF:-1   tvg-id="TSN5" group-title="[COLOR yellow]TEST [/COLOR]Sports",TSN 5 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=346
-#EXTINF:-1 tvg-id="Sports Net One" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet One HD
+#EXTINF:-1   tvg-id="Sports Net One" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet One HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=698
-#EXTINF:-1 tvg-id="The Score HD" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet 360 HD
+#EXTINF:-1   tvg-id="The Score HD" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet 360 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=701
-#EXTINF:-1 tvg-id="Sportsnet World" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet World HD
+#EXTINF:-1   tvg-id="Sportsnet World" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet World HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=700
-#EXTINF:-1 tvg-id="Sports Net Ontario" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet Ontario HD
+#EXTINF:-1   tvg-id="Sports Net Ontario" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet Ontario HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=699
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet Pacific HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Sportsnet Pacific HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6934
-#EXTINF:-1 tvg-id="Sky Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 1 HD
+#EXTINF:-1   tvg-id="Sky Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=24
-#EXTINF:-1 tvg-id="Sky Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 2 HD
+#EXTINF:-1   tvg-id="Sky Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=25
-#EXTINF:-1 tvg-id="Sky Sports 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 3 HD
+#EXTINF:-1   tvg-id="Sky Sports 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=26
-#EXTINF:-1 tvg-id="Sky Sports 4" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 4 HD
+#EXTINF:-1   tvg-id="Sky Sports 4" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 4 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=27
-#EXTINF:-1 tvg-id="Sky Sports 5" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 5 HD
+#EXTINF:-1   tvg-id="Sky Sports 5" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports 5 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=28
-#EXTINF:-1 tvg-id="Sky Sports F1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports F1 HD
+#EXTINF:-1   tvg-id="Sky Sports F1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports F1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=64
-#EXTINF:-1 tvg-id="Sky Sports Box Office" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports Box Office
+#EXTINF:-1   tvg-id="Sky Sports Box Office" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports Box Office
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=446
-#EXTINF:-1 tvg-id="I405.759235.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports News HD
+#EXTINF:-1   tvg-id="I405.759235.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",Sky Sports News HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=63
-#EXTINF:-1 tvg-id="Boxnation" group-title="[COLOR yellow]TEST [/COLOR]Sports",Boxnation
+#EXTINF:-1   tvg-id="Boxnation" group-title="[COLOR yellow]TEST [/COLOR]Sports",Boxnation
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=47
-#EXTINF:-1 tvg-id="Premier Sports" group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier Sports
+#EXTINF:-1   tvg-id="Premier Sports" group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier Sports
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=23
-#EXTINF:-1 tvg-id="BT Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 1 HD
+#EXTINF:-1   tvg-id="BT Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1201
-#EXTINF:-1 tvg-id="BT Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 2 HD
+#EXTINF:-1   tvg-id="BT Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1755
-#EXTINF:-1 tvg-id="I414.764003.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 2 HD
+#EXTINF:-1   tvg-id="I414.764003.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=432
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 3 HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6828
-#EXTINF:-1 tvg-id="BT Sports ESPN" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports ESPN HD
+#EXTINF:-1   tvg-id="BT Sports ESPN" group-title="[COLOR yellow]TEST [/COLOR]Sports",BT Sports ESPN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=273
-#EXTINF:-1 tvg-id="Racing UK" group-title="[COLOR yellow]TEST [/COLOR]Sports",Racing HD
+#EXTINF:-1   tvg-id="Racing UK" group-title="[COLOR yellow]TEST [/COLOR]Sports",Racing HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=261
-#EXTINF:-1 tvg-id="At The Races" group-title="[COLOR yellow]TEST [/COLOR]Sports",At The Races
+#EXTINF:-1   tvg-id="At The Races" group-title="[COLOR yellow]TEST [/COLOR]Sports",At The Races
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=272
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Willow HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Willow HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6897
-#EXTINF:-1 tvg-id="NBCSN Golf" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBCSN Golf
+#EXTINF:-1   tvg-id="NBCSN Golf" group-title="[COLOR yellow]TEST [/COLOR]Sports",NBCSN Golf
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=65
-#EXTINF:-1 tvg-id="Chelsea TV" group-title="[COLOR yellow]TEST [/COLOR]Sports",Chelsea TV
+#EXTINF:-1   tvg-id="Chelsea TV" group-title="[COLOR yellow]TEST [/COLOR]Sports",Chelsea TV
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=100
-#EXTINF:-1 tvg-id="LFCTV" group-title="[COLOR yellow]TEST [/COLOR]Sports",LFCTV HD
+#EXTINF:-1   tvg-id="LFCTV" group-title="[COLOR yellow]TEST [/COLOR]Sports",LFCTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=98
-#EXTINF:-1 tvg-id="MUTV" group-title="[COLOR yellow]TEST [/COLOR]Sports",MUTV HD
+#EXTINF:-1   tvg-id="MUTV" group-title="[COLOR yellow]TEST [/COLOR]Sports",MUTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=99
-#EXTINF:-1 tvg-id="Astro SuperSport" group-title="[COLOR yellow]TEST [/COLOR]Sports",Astro SuperSport HD
+#EXTINF:-1   tvg-id="Astro SuperSport" group-title="[COLOR yellow]TEST [/COLOR]Sports",Astro SuperSport HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=484
-#EXTINF:-1 tvg-id="Astro SuperSport 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Astro SuperSport 2 HD
+#EXTINF:-1   tvg-id="Astro SuperSport 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Astro SuperSport 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=690
-#EXTINF:-1 tvg-id="Astro SuperSport 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",Astro SuperSport 3 HD
+#EXTINF:-1   tvg-id="Astro SuperSport 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",Astro SuperSport 3 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=691
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Astro SuperSport 4 HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Astro SuperSport 4 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=487
-#EXTINF:-1 tvg-id="I410.759079.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",Eurosport 1 HD
+#EXTINF:-1   tvg-id="I410.759079.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",Eurosport 1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=275
-#EXTINF:-1 tvg-id="I411.760271.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",Eurosport 2 HD
+#EXTINF:-1   tvg-id="I411.760271.microsoft.com" group-title="[COLOR yellow]TEST [/COLOR]Sports",Eurosport 2 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=60
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Fight Sport
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Fight Sport
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1082
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Poker Central
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Poker Central
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=340
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",True Sport 3
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",True Sport 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1192
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Bein Sports ES
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Bein Sports ES
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=677
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Eir Sports 1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Eir Sports 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6844
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Eir Sports 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Eir Sports 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6845
-#EXTINF:-1 tvg-id="Arena Sport 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sport 1
+#EXTINF:-1   tvg-id="Arena Sport 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sport 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=257
-#EXTINF:-1 tvg-id="Arena Sport 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sport 2
+#EXTINF:-1   tvg-id="Arena Sport 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sport 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=258
-#EXTINF:-1 tvg-id="Arena Sport 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sport 3
+#EXTINF:-1   tvg-id="Arena Sport 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sport 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=259
-#EXTINF:-1 tvg-id="Arena Sport 4" group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sport 4
+#EXTINF:-1   tvg-id="Arena Sport 4" group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sport 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=260
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sports 5
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Arena Sports 5
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1013
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports USA
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports USA
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1232
-#EXTINF:-1 tvg-id="FR beIN Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 1 FR
+#EXTINF:-1   tvg-id="FR beIN Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 1 FR
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=224
-#EXTINF:-1 tvg-id="FR beIN Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 2 FR
+#EXTINF:-1   tvg-id="FR beIN Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 2 FR
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=225
-#EXTINF:-1 tvg-id="FR beIN Sports 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 3 FR
+#EXTINF:-1   tvg-id="FR beIN Sports 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 3 FR
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=226
-#EXTINF:-1 tvg-id="BeinSports1" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 1
+#EXTINF:-1   tvg-id="BeinSports1" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=213
-#EXTINF:-1 tvg-id="BeinSports2" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 2
+#EXTINF:-1   tvg-id="BeinSports2" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=214
-#EXTINF:-1 tvg-id="BeinSports3" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 3
+#EXTINF:-1   tvg-id="BeinSports3" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=215
-#EXTINF:-1 tvg-id="BeinSports4" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 4
+#EXTINF:-1   tvg-id="BeinSports4" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=216
-#EXTINF:-1 tvg-id="BeinSports5" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 5
+#EXTINF:-1   tvg-id="BeinSports5" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports 5
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=217
-#EXTINF:-1 tvg-id="BeinSports6" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports6
+#EXTINF:-1   tvg-id="BeinSports6" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports6
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=218
-#EXTINF:-1 tvg-id="BeinSports7" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports7
+#EXTINF:-1   tvg-id="BeinSports7" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports7
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=219
-#EXTINF:-1 tvg-id="BeinSports8" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports8
+#EXTINF:-1   tvg-id="BeinSports8" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports8
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=220
-#EXTINF:-1 tvg-id="BeinSports9" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports9
+#EXTINF:-1   tvg-id="BeinSports9" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports9
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=221
-#EXTINF:-1 tvg-id="BeinSports10" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports10
+#EXTINF:-1   tvg-id="BeinSports10" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports10
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=222
-#EXTINF:-1 tvg-id="BeinSports11" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports11
+#EXTINF:-1   tvg-id="BeinSports11" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports11
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=223
-#EXTINF:-1 tvg-id="BeinSports12" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports12
+#EXTINF:-1   tvg-id="BeinSports12" group-title="[COLOR yellow]TEST [/COLOR]Sports",BeinSports12
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=559
-#EXTINF:-1 tvg-id="DE Sky Sport 1" group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport 1 DE
+#EXTINF:-1   tvg-id="DE Sky Sport 1" group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport 1 DE
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=638
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport 2 DE
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport 2 DE
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=696
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport News DE
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]German",Sky Sport News DE
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=697
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",SportKlub 1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",SportKlub 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6778
-#EXTINF:-1 tvg-id="SportKlub 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",SportKlub 2
+#EXTINF:-1   tvg-id="SportKlub 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",SportKlub 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=537
-#EXTINF:-1 tvg-id="SportKlub 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",SportKlub 3
+#EXTINF:-1   tvg-id="SportKlub 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",SportKlub 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=538
-#EXTINF:-1 tvg-id="Fox Sports NL 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports NL 1
+#EXTINF:-1   tvg-id="Fox Sports NL 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports NL 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=664
-#EXTINF:-1 tvg-id="Fox Sports NL 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports NL 2
+#EXTINF:-1   tvg-id="Fox Sports NL 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports NL 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=665
-#EXTINF:-1 tvg-id="Fox Sports NL 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports NL 3
+#EXTINF:-1   tvg-id="Fox Sports NL 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",Fox Sports NL 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=666
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=67
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=66
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 3
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=69
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 4
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=68
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 5
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Premier League 5
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=70
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 Network
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 Network
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=125
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 LA
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 LA
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=123
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 Bay Area
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 Bay Area
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=122
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 Oregon
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 Oregon
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=126
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 Mountain
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",PAC 12 Mountain
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=124
-#EXTINF:-1 tvg-id="Star Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",STAR SPORTS 1
+#EXTINF:-1   tvg-id="Star Sports 1" group-title="[COLOR yellow]TEST [/COLOR]Sports",STAR SPORTS 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=703
-#EXTINF:-1 tvg-id="Star Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",STAR SPORTS 2
+#EXTINF:-1   tvg-id="Star Sports 2" group-title="[COLOR yellow]TEST [/COLOR]Sports",STAR SPORTS 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=704
-#EXTINF:-1 tvg-id="Star Sports 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",STAR SPORTS 3
+#EXTINF:-1   tvg-id="Star Sports 3" group-title="[COLOR yellow]TEST [/COLOR]Sports",STAR SPORTS 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=705
-#EXTINF:-1 tvg-id="Star Sports 4" group-title="[COLOR yellow]TEST [/COLOR]Sports",STAR SPORTS 4
+#EXTINF:-1   tvg-id="Star Sports 4" group-title="[COLOR yellow]TEST [/COLOR]Sports",STAR SPORTS 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=706
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6836
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6837
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 3
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6838
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 4
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6839
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 5
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 5
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6840
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 6
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 6
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6841
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 7
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MIO Stadium 7
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6842
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Nile Sports
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Nile Sports
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1052
-#EXTINF:-1 tvg-id="CartoonNetworkUS" group-title="[COLOR yellow]TEST [/COLOR]Kids",Cartoon Network HD
+#EXTINF:-1   tvg-id="CartoonNetworkUS" group-title="[COLOR yellow]TEST [/COLOR]Kids",Cartoon Network HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=471
-#EXTINF:-1 tvg-id="Cartoon Network HD" group-title="[COLOR yellow]TEST [/COLOR]Kids",Cartoon Network UK
+#EXTINF:-1   tvg-id="Cartoon Network HD" group-title="[COLOR yellow]TEST [/COLOR]Kids",Cartoon Network UK
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=50
-#EXTINF:-1 tvg-id="Boomerang" group-title="[COLOR yellow]TEST [/COLOR]Kids",Boomerang HD
+#EXTINF:-1   tvg-id="Boomerang" group-title="[COLOR yellow]TEST [/COLOR]Kids",Boomerang HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1396
-#EXTINF:-1 tvg-id="Disney Chnl" group-title="[COLOR yellow]TEST [/COLOR]Kids",Disney Channel
+#EXTINF:-1   tvg-id="Disney Chnl" group-title="[COLOR yellow]TEST [/COLOR]Kids",Disney Channel
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=424
-#EXTINF:-1 tvg-id="Disney Junior UK" group-title="[COLOR yellow]TEST [/COLOR]Kids",Disney Junior HD
+#EXTINF:-1   tvg-id="Disney Junior UK" group-title="[COLOR yellow]TEST [/COLOR]Kids",Disney Junior HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=207
-#EXTINF:-1 tvg-id="Disney XD" group-title="[COLOR yellow]TEST [/COLOR]Kids",Disney XD
+#EXTINF:-1   tvg-id="Disney XD" group-title="[COLOR yellow]TEST [/COLOR]Kids",Disney XD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=422
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Kids",Nick  Too
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Kids",Nick  Too
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1224
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="[COLOR yellow]TEST [/COLOR]Kids",Nickelodeon HD
+#EXTINF:-1   tvg-id="Nickelodeon" group-title="[COLOR yellow]TEST [/COLOR]Kids",Nickelodeon HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=420
-#EXTINF:-1 tvg-id="NickelodeonUS" group-title="[COLOR yellow]TEST [/COLOR]Kids",Nick HD
+#EXTINF:-1   tvg-id="NickelodeonUS" group-title="[COLOR yellow]TEST [/COLOR]Kids",Nick HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1503
-#EXTINF:-1 tvg-id="Nicktoons" group-title="[COLOR yellow]TEST [/COLOR]Kids",Nicktoons
+#EXTINF:-1   tvg-id="Nicktoons" group-title="[COLOR yellow]TEST [/COLOR]Kids",Nicktoons
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=419
-#EXTINF:-1 tvg-id="Nick Jr UK" group-title="[COLOR yellow]TEST [/COLOR]Kids",Nick Jr HD
+#EXTINF:-1   tvg-id="Nick Jr UK" group-title="[COLOR yellow]TEST [/COLOR]Kids",Nick Jr HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=160
-#EXTINF:-1 tvg-id="CBeebies" group-title="[COLOR yellow]TEST [/COLOR]Kids",CBeebies
+#EXTINF:-1   tvg-id="CBeebies" group-title="[COLOR yellow]TEST [/COLOR]Kids",CBeebies
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=531
-#EXTINF:-1 tvg-id="CITV" group-title="[COLOR yellow]TEST [/COLOR]Kids",CITV
+#EXTINF:-1   tvg-id="CITV" group-title="[COLOR yellow]TEST [/COLOR]Kids",CITV
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=641
-#EXTINF:-1 tvg-id="CBBC" group-title="[COLOR yellow]TEST [/COLOR]Kids",CBBC
+#EXTINF:-1   tvg-id="CBBC" group-title="[COLOR yellow]TEST [/COLOR]Kids",CBBC
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=530
-#EXTINF:-1 tvg-id="BabyTV" group-title="[COLOR yellow]TEST [/COLOR]Kids",BABY TV
+#EXTINF:-1   tvg-id="BabyTV" group-title="[COLOR yellow]TEST [/COLOR]Kids",BABY TV
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=401
-#EXTINF:-1 tvg-id="MTV" group-title="[COLOR yellow]TEST [/COLOR]Music",MTV HD
+#EXTINF:-1   tvg-id="MTV" group-title="[COLOR yellow]TEST [/COLOR]Music",MTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=644
-#EXTINF:-1 tvg-id="MTV HITS" group-title="[COLOR yellow]TEST [/COLOR]Music",MTV Hits
+#EXTINF:-1   tvg-id="MTV HITS" group-title="[COLOR yellow]TEST [/COLOR]Music",MTV Hits
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=263
-#EXTINF:-1 tvg-id="MTV DANCE" group-title="[COLOR yellow]TEST [/COLOR]Music",MTV Dance
+#EXTINF:-1   tvg-id="MTV DANCE" group-title="[COLOR yellow]TEST [/COLOR]Music",MTV Dance
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=262
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Radio",Better Country Radio
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Radio",Better Country Radio
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1436
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Country Music Mix
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Country Music Mix
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1432
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Radio",Country Show Radio
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Radio",Country Show Radio
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1433
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Country Hits
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Country Hits
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1431
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Dance - Non stop Dance Tracks
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Dance - Non stop Dance Tracks
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1028
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Dance Station - non stop latest Dance tracks
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Dance Station - non stop latest Dance tracks
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1029
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Demon FM
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Demon FM
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1023
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Heavy Metal Non stop Heavy Metal
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Heavy Metal Non stop Heavy Metal
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1026
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Heart FM
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Heart FM
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=244
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Radio",Hit Radio
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Radio",Hit Radio
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1021
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Retro Country Music
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Retro Country Music
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1435
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",VH1 HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",VH1 HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=647
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Virgin Music TV
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Virgin Music TV
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=243
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",Vibe Tv
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",Vibe Tv
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1000
-#EXTINF:-1 tvg-id="Viva" group-title="[COLOR yellow]TEST [/COLOR]Music",Viva
+#EXTINF:-1   tvg-id="Viva" group-title="[COLOR yellow]TEST [/COLOR]Music",Viva
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=965
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Music",VEVO MUSIC 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Music",VEVO MUSIC 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=395
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",TELEMUNDO
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",TELEMUNDO
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6901
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",UNIVISION
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",UNIVISION
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6902
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",AXN LAT
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",AXN LAT
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1787
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",TBS LAT
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",TBS LAT
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1785
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",TNT Series LAT
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",TNT Series LAT
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1786
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",Fox LAT
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",Fox LAT
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1792
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",Canal + Accion ES
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",Canal + Accion ES
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1729
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",Canal + Extra ES
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",Canal + Extra ES
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1737
-#EXTINF:-1 tvg-id="Canal Discovery World Latinoamérica" group-title="[COLOR yellow]TEST [/COLOR]Spanish",Discovery World ES
+#EXTINF:-1   tvg-id="Canal Discovery World Latinoamérica" group-title="[COLOR yellow]TEST [/COLOR]Spanish",Discovery World ES
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=956
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",Tele Medellin
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",Tele Medellin
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1439
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",360 Deportes
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",360 Deportes
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1230
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",DXTV
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",DXTV
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1511
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Naughty America XXX
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Naughty America XXX
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6888
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Mofos XXX
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Mofos XXX
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6889
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Pink Erotic
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Pink Erotic
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1403
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Teen XXX
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Teen XXX
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6891
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Dorcel
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Dorcel
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6890
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Blue Hustler
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Blue Hustler
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1398
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Brazzers
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Brazzers
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1401
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Pink Erotic 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Pink Erotic 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1405
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Hot XXX
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Hot XXX
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1402
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Jolly HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Jolly HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1010
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Playboy 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Playboy 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1077
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Bunga Bunga  XXX
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Bunga Bunga  XXX
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1397
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Desire XXX
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Desire XXX
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1399
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Adults",Exotica XXX
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Adults",Exotica XXX
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1400
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]247",Die Hard 24/7
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]247",Die Hard 24/7
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1428
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]247",American Dad Series 12 24/7
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]247",American Dad Series 12 24/7
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=1171
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 11
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 11
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6935
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 12
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 12
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6936
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 13
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 13
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6937
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 14
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB Live 14
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6938
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB live 15
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",MLB live 15
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6939
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 11
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 11
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6941
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 12
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NFL Live 12
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6942
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6944
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBL Live
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBL Live
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6945
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6946
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",WAPA PR
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",WAPA PR
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6960
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",UNICABLE SP
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",UNICABLE SP
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6961
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",SYFY SP
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",SYFY SP
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6962
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",DW LATINOAMERICA
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",DW LATINOAMERICA
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6963
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",CANAL+D CINE ES
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",CANAL+D CINE ES
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6969
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",CANAL ESTRENOS ES
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",CANAL ESTRENOS ES
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6970
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",CANAL+COMEDIA ES
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",CANAL+COMEDIA ES
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6971
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Spanish",CANAL+SERIES XTRA ES
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Spanish",CANAL+SERIES XTRA ES
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6972
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NHL Live 1
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NHL Live 1
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6974
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Movies",Action
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Movies",Action
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=6994
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 3
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 3
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7024
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 4
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 4
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7025
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 5
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 5
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7026
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 6
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 6
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7027
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 7
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 7
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7028
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 8
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 8
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7029
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 9
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 9
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7043
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Oprah Winfrey Network
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",Oprah Winfrey Network
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7044
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",AFN Pulse
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",AFN Pulse
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7061
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",Tennis HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",Tennis HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7063
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TBN HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TBN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7064
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Kids",Sprout
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Kids",Sprout
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7065
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",AFN Sports 2
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",AFN Sports 2
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7066
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 10
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Sports",NBA Live 10
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7067
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TruTV HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",TruTV HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7068
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",HLN HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",HLN HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7069
-#EXTINF:-1  group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CREATE HD
+#EXTINF:-1    group-title="[COLOR yellow]TEST [/COLOR]Entertainment",CREATE HD
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=0&portal=1&channel=7070
 #EXTINF:-1 group-title="[COLOR yellow]TEST [/COLOR]Replay"  ,UFC 204 Bisping vs Henderson
 http://localhost:8898/iptvusatv.m3u?&pkid=0&tmp=1&portal=1&channel=217
@@ -4880,62 +4880,62 @@ http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=QLb_tH0fQLGpd
 
 ################USAIPTV Entertainment F4M ##########################
 
-#EXTINF:-1 tvg-id="NBC" group-title="New USAIPTV Entertainment and Sport",NBC HD
+#EXTINF:-1   tvg-id="NBC" group-title="New USAIPTV Entertainment and Sport",NBC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",USA Network HD
 http://localhost:8898/tsf4mst.m3u?&pkid=USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/428.mpegts
-#EXTINF:-1 tvg-id="Lifetime (LIFE)" group-title="New USAIPTV Entertainment and Sport",Lifetime HD
-http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/475.mpegts
-#EXTINF:-1 tvg-id="Lifetime (LIFE)" group-title="New USAIPTV Entertainment and Sport",AMC HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/372.mpegts
-#EXTINF:-1 tvg-id="Lifetime (LIFE)" group-title="New USAIPTV Entertainment and Sport",ABC
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/9.mpegts
+#EXTINF:-1   tvg-id="" group-title="New USAIPTV Entertainment and Sport",Lifetime HD
+http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/475.mpegts
+#EXTINF:-1   tvg-id="" group-title="New USAIPTV Entertainment and Sport",AMC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/372.mpegts
+#EXTINF:-1   tvg-id="" group-title="New USAIPTV Entertainment and Sport",ABC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/9.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/371.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/371.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",ESPN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/466.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/466.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",ESPNU HD
-http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1638.mpegts
-#EXTINF:-1 tvg-id="FOX Sports 1" group-title="New USAIPTV Entertainment and Sport",Fox Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/212.mpegts
-#EXTINF:-1 tvg-id="FOX Sports 2" group-title="New USAIPTV Entertainment and Sport",Fox Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/228.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1638.mpegts
+#EXTINF:-1   tvg-id="FOX Sports 1" group-title="Sports",Fox Sports 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=FoxSports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/212.mpegts
+#EXTINF:-1   tvg-id="FOX Sports 2" group-title="Sports",Fox Sports 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/228.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",BT Sports 1 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1201.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=btSports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1201.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",BT Sports 2 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1755.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1755.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",BT Sports 3 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/6828.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/6828.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",BT Sports ESPN HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/273.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/273.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",Sky Sports 1 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/24.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/24.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",Sky Sports 2 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/25.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/25.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",Sky Sports 3 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/26.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/26.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",Sky Sports 4 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/27.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/27.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",ky Sports 5 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/28.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/28.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",Sky Sports F1 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/64.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/64.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",Sky Sports Box Office
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/446.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/446.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",TSN 1 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/342.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/342.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",TSN 2 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/343.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/343.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",TSN 3 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/344.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/344.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",TSN 4 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/345.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/345.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",TSN 5 HD
-#EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",http://usaiptv.ddns.net:9090/load/0855ebd4f90b/346.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/346.mpegts
 
 
 
