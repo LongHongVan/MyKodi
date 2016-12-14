@@ -4897,9 +4897,9 @@ http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=ht
 http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/466.mpegts
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",ESPNU HD
 http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1638.mpegts
-#EXTINF:-1 tvg-id="FOX Sports 1" group-title="Sports",Fox Sports 1 HD
+#EXTINF:-1 tvg-id="FOX Sports 1" group-title="New USAIPTV Entertainment and Sport",Fox Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/212.mpegts
-#EXTINF:-1 tvg-id="FOX Sports 2" group-title="Sports",Fox Sports 2 HD
+#EXTINF:-1 tvg-id="FOX Sports 2" group-title="New USAIPTV Entertainment and Sport",Fox Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime20%USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/228.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="New USAIPTV Entertainment and Sport",BT Sports 1 HD
