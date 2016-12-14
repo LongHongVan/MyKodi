@@ -4840,6 +4840,9 @@ http://127.0.0.1:19099/livestreamer/4d0fadca2686a2cdd4a4a6623212449c.m3u8
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX HD
 http://127.0.0.1:19099/livestreamer/12435593255e0696ec0a09071b96f97e.m3u8
 
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX HD 19098
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvMTI0MzU1OTMyNTVlMDY5NmVjMGEwOTA3MWI5NmY5N2UubTN1OD9zdD03YkVlNGVZS1pYZ2kxdHp4d0RDZjZBJmU9MTQ4MjQwNjc3NnxVc2VyLUFnZW50PU1vemlsbGElMkY1LjAlMjAlMjhMaW51eCUzQiUyMEFuZHJvaWQlMjA1LjEuMSUzQiUyME5leHVzJTIwNSUyMEJ1aWxkJTJGTE1ZNDhCJTNCJTIwd3YlMjklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMCUyOEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvJTI5JTIwVmVyc2lvbiUyRjQuMCUyMENocm9tZSUyRjQzLjAuMjM1Ny42NSUyME1vYmlsZSUyMFNhZmFyaSUyRjUzNy4zNiZyZWZlcmVyPW1vYmRyby5tZQ==
+
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD
 http://127.0.0.1:19099/livestreamer/296e56c668bc8bd6b0044d3e4f034153.m3u8
 
