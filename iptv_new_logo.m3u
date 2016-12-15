@@ -4880,16 +4880,16 @@ http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=QLb_tH0fQLGpd
 
 ################USAIPTV Entertainment F4M ##########################
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",NBC Sports Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/467.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=NBCSN&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/467.mpegts
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",NBC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",CBS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1516.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=CBS&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1516.mpegts
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",FOX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/139.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=FOX&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/139.mpegts
 
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",CTV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/377.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=CTV&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/377.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",USA Network HD
 http://localhost:8898/tsf4mst.m3u?&pkid=USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/428.mpegts
@@ -4897,48 +4897,48 @@ http://localhost:8898/tsf4mst.m3u?&pkid=USA&tmp=1&portal=1&channel=http://usaipt
 http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/475.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",A&E HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/300.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=AE&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/300.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ABC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/9.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=ABC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/9.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",AMC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/372.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=AMC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/372.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport", Bravo HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/369.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=Bravo&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/369.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",HGTV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/203.mpegts
-#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",National Geographic US
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/473.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=HGTV&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/203.mpegts
+#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Nat Geo HD
+http://localhost:8898/tsf4mst.m3u?&pkid=NATGEO&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/473.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Animal Planet HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/373.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=Animal&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/373.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",E! HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/468.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=E&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/468.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",FX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/337.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=FX&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/337.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",FXX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/782.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=FXX&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/782.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",PBS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/141.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=PBS&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/141.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",LMN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/674.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=LMN&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/674.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",TNT HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/328.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=TNT&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/328.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Hallmark Channel HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/298.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=Halmark&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/298.mpegts
 
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/371.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=ESPN&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/371.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ESPN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/466.mpegts
-#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ESPNU HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1638.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=ESPN2&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/466.mpegts
+#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ESPN U HD
+http://localhost:8898/tsf4mst.m3u?&pkid=ESPNU&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1638.mpegts
 #EXTINF:-1   tvg-id="FOX Sports 1" group-title="USAIPTV Entertainment and Sport",Fox Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=FoxSports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/212.mpegts
 #EXTINF:-1   tvg-id="FOX Sports 2" group-title="USAIPTV Entertainment and Sport",Fox Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/228.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=FoxSports2&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/228.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",BT Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=btSports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1201.mpegts
@@ -4952,28 +4952,28 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Sky Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/24.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Sky Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/25.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySports2&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/25.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Sky Sports 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/26.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySports3&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/26.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Sky Sports 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/27.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySports4&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/27.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Sky Sports 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/28.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySports5&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/28.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Sky Sports F1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/64.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySportsF1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/64.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Sky Sports Box Office
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/446.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySportsBoxOffice&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/446.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",TSN 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/342.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",TSN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/343.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN2&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/343.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",TSN 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/344.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN3&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/344.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",TSN 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/345.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN4&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/345.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",TSN 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/346.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/346.mpegts
 
 
 
