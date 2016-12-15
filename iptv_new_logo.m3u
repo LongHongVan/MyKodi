@@ -3903,7 +3903,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=TSN3&tmp=1&portal=1&channel=http://usaip
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",TSN 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=TSN4&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/345.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",TSN 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/346.mpegts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/346.mpegts
 
 ################ End USAIPTV Entertainment F4M ##########################
 
@@ -3912,50 +3912,50 @@ http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://usaip
 
 
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",BYU HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1036.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1036.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1032.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1032.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",Fox Sports 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1031.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1031.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",Fox Sports 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1030.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1030.ts
 
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",NBC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1027.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1027.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",NFL Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1026.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1026.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",Astro Supersports 01
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1040.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1040.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",Astro Supersports 02
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1039.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1039.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",Astro Supersports 03
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1038.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1038.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",Astro Supersports 04
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1037.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1037.ts
 
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",Sportsnet 360 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1022.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1022.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",TSN 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1021.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1021.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",TSN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1020.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1020.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",TSN 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1019.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1019.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",TSN 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1018.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1018.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",TSN 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1017.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1017.ts
 
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",CBN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1035.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1035.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",CBS News HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1034.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1034.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",Discover Channel HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1033.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1033.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",NASA HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1028.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1028.ts
 #EXTINF:-1 tvg-id="" group-title="DAILY TEST [COLOR lime]USA HDTV[/COLOR] - M2TS",World Fashion HD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN5&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1012.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1012.ts
 
 
 
