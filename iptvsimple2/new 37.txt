@@ -1,3 +1,52 @@
+12.16.2016
+
+++++++++++++++++++ Today TOP Sites ++++++++++++++++++++++++++++++++++++++++++++
+http://s1.ukhdtv.com:7860/get.php?username=z0B8IUq2p5&password=yBKzKIi7hj&type=m3u 17 USA good 4 UK & MTV
+http://149.202.90.35:8080/get.php?username=gB8P7mObuH&password=xGj0IJ2TVy&type=m3u Good 40 USA & UK FHD
+
+old stuff - still works good
+http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=ts Good
+http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 USA Similar Port "iptv.monkeycline"
+
+++++++++++++++++++ Today TOP Sites ++++++++++++++++++++++++++++++++++++++++++++
+
+http://5.196.81.121:8000/get.php?username=222333&password=222333&type=m3u
+
+http://iptv.sat-tv.net:8000/get.php?username=omda&password=omda&type=m3u No USA
+
+http://cms.tvhd4k.com:19500/get.php?username=12345&password=12345&type=m3u No USA
+
+http://173.212.197.122:8000/get.php?username=star7&password=ahmedax&type=m3u No USA
+
+http://sonic.revolution.ns0.it:25461/get.php?username=LyQhAFjv4o&password=trilux&type=m3u No USA
+
+http://158.69.27.190:5477/get.php?username=abdulhakim&password=abdulhakim&type=m3u No Links work!
+
+http://137.74.94.161:8000/get.php?username=info99&password=info99&type=m3u 7 USA
+
+http://9893.akamai.live.selevision.com/get.php?username=9893&password=9893&type=m3u BAD
+
+http://tech343.com:8080/get.php?username=numan-aydin-12&password=ZyXu6UxWyP&type=m3u No USA
+
+http://esiptv.tn:7500/get.php?username=1234&password=1234&type=m3u No USA
+
+http://178.33.239.219:8000/get.php?username=test5&password=test5&type=m3u No USA
+
+http://globiptv.com:8000/get.php?username=075&password=3AykfRTeeq&type=m3u BAD
+
+http://playiptv.ddns.net:8000/get.php?username=12345&password=12345&type=m3u BAD
+
+http://s1.ukhdtv.com:7860/get.php?username=z0B8IUq2p5&password=yBKzKIi7hj&type=m3u 17 USA good 4 UK & MTV
+
+http://149.202.90.35:8080/get.php?username=gB8P7mObuH&password=xGj0IJ2TVy&type=m3u Good 40 USA & UK FHD
+
+http://188.165.211.218:8000/get.php?username=Bbaker&password=Bbaker&type=m3u No USA
+
+http://portal.onlineiptv.net:5210/get.php?username=MMTpTTcueT&password=OzjYQADhfI&type=m3u for TSN 1 & 2 Only the rest is SD
+
+http://ipc.proipciptv.com:8000/get.php?username=adel&password=adel&type=m3u No USA
+
+
 12.15.2016
 
 ++++++++++++++++++ Today TOP Site ++++++++++++++++++++++++++++++++++++++++++++
@@ -8,6 +57,15 @@ http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 
 
 #EXTINF:-1,USA:ESPN-1HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://giant-iptv.com:5477/live/ramzy/ramzy/11830.ts
+
+usaiptv (old stuff - still good)
+http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=ts Good 
+
+#EXTINF:-1   tvg-id="NBC" group-title="Entertainment",NBC (F4M Test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+
+#EXTINF:-1   tvg-id="CBS" group-title="Entertainment",CBS US (F4M Test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/964.mpegts
 
 ++++++++++++++++++ End Today TOP Site +++++++++++++++++++++++++++++++++++++++++
 

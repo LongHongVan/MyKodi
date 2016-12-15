@@ -2987,6 +2987,24 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=100
 ######### MTV Music TV ########################################
 
 
+#EXTINF:-1 group-title="Music Channels", VIVO 2 FHD
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=hhttp://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2105.ts
+
+#EXTINF:-1 group-title="Music Channels", VH1
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2156.ts
+
+#EXTINF:-1 group-title="Music Channels", MU TV
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2182.ts
+#EXTINF:-1 group-title="Music Channels", MTV Music
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2183.ts
+#EXTINF:-1 group-title="Music Channels", MTV HITS
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2184.ts
+#EXTINF:-1 group-title="Music Channels", MTV dance
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2124.ts
+#EXTINF:-1 group-title="Music Channels", MTV Classic
+http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2185.ts
+
+
 #EXTINF:-1 group-title="Music Channels", Kiss MTV[COLOR yellow] HD[/COLOR]
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live_450.stream/chunklist_w.m3u8
 
