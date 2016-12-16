@@ -3489,8 +3489,13 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 
 #EXTINF:-1 tvg-name="NBC HD" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png" group-title="NFL Thursday Night",NBC HD (USTV Local)
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=NBC
+
+#EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network (smashtv)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://smashtv.ddns.net:9090/load/0855ebd4f90b/1190.mpegts
+
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
+
 #EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="" group-title="NFL Thursday Night", [COLOR yellow]Sky Sports 1 HD[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="NFL Thursday Night", Sky Sports 1 HD
@@ -3506,14 +3511,28 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
 #EXTINF:-1, tvg-name="ESPN Latinoamerica" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="NFL Thursday Night", ESPN Latinoamerica
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=854
 
+#EXTINF:0 group-title="NFL Thursday Night",  tvg-id="" tvg-name="NBC HD" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD (onetv)
+http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
+
 
 ##### NFL Monday Night #########################################
+
+#EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png" group-title="NFL Moday Night",Sky Sports 1 HD (monkeytv)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
+
+#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png" group-title="NFL Moday Night", ESPN HD (USTV Local)
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ESPN
 
 #EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="NFL Moday Night", Sky Sports 1 HD (USAIPTV)
 http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/24.mpegts
 
-#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png" group-title="NFL Moday Night", ESPN HD (USTV Local)
-http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ESPN
+#EXTINF:-1, tvg-name="TSN 1 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="NFL Moday Night",TSN 1 HD (smashtv)
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http://smashtv.ddns.net:9090/load/0855ebd4f90b/342.mpegts
+#EXTINF:-1, tvg-name="TSN 2 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="NFL Moday Night",TSN 2 HD (smashtv)
+http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http://smashtv.ddns.net:9090/load/0855ebd4f90b/343.mpegts
+
+#EXTINF:-1 group-title="NFL Moday Night",  tvg-id="" tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD (onetv)
+http://127.0.0.1:19099/livestreamer/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 
 
 ################### End UKTV HD ####################################
