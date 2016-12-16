@@ -3832,11 +3832,11 @@ http://localhost:8898/tsf4mst.m3u?&pkid=NBCSN&tmp=1&portal=1&channel=http://usai
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",NBC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
 
-#EXTINF:-1 tvg-name="NBC HD" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] p099
-http://127.0.0.1:19099/livestreamer/hls://http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+#EXTINF:-1 tvg-name="NBC HD" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] P099
+http://127.0.0.1:19099/livestreamer/hls://http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
-#EXTINF:-1 tvg-name="NBC HD" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] p098
-http://127.0.0.1:19098/livestreamer/hls://http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+#EXTINF:-1 tvg-name="NBC HD" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] P098
+http://127.0.0.1:19098/livestreamer/hls://http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",CBS HD
 http://localhost:8898/tsf4mst.m3u?&pkid=CBS&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1516.mpegts
