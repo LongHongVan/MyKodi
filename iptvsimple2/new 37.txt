@@ -4,9 +4,21 @@
 http://s1.ukhdtv.com:7860/get.php?username=z0B8IUq2p5&password=yBKzKIi7hj&type=m3u 17 USA good 4 UK & MTV
 http://149.202.90.35:8080/get.php?username=gB8P7mObuH&password=xGj0IJ2TVy&type=m3u Good 40 USA & UK FHD
 
+TEST F4M
+#EXTINF:-1,USA_ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1032.ts
+
 old stuff - still works good
 http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=ts Good
+http://smashtv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=mpegts Good
 http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 USA Similar Port "iptv.monkeycline"
+
+TEST F4M
+#EXTINF:-1   tvg-id="NBC" group-title="Entertainment",NBC #  http://smashtv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://smashtv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+
+#EXTINF:-1   tvg-id="ESPNUS" group-title="Sports",ESPN US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://smashtv.ddns.net:9090/load/0855ebd4f90b/371.mpegts
 
 ++++++++++++++++++ Today TOP Sites ++++++++++++++++++++++++++++++++++++++++++++
 

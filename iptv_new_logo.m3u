@@ -3858,6 +3858,8 @@ http://localhost:8898/tsf4mst.m3u?&pkid=TNT&tmp=1&portal=1&channel=http://usaipt
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",Hallmark Channel HD
 http://localhost:8898/tsf4mst.m3u?&pkid=Halmark&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/298.mpegts
 
+#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",NFL Network HD
+http://localhost:8898/tsf4mst.m3u?&pkid=NFL_Network&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1190.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=ESPN&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/371.mpegts
