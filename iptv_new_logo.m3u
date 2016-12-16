@@ -3518,7 +3518,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 #EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png" group-title="NFL Moday Night", ESPN HD (USTV Local)
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ESPN
 
-#EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="NFL Moday Night", Sky Sports 1 HD (USAIPTV)
+#EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="NFL Moday Night", Sky Sports 1 HD (usaiptv)
 http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/24.mpegts
 
 #EXTINF:-1, tvg-name="TSN 1 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="NFL Moday Night",TSN 1 HD (smashtv)
