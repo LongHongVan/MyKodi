@@ -3487,8 +3487,8 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.mon
 
 ##### NFL Thursday Night #########################################
 
-#EXTINF:-1    group-title="NFL Thursday Night",NFL Network HD
-http://free-premium-iptv.ddns.net:9090/load/free123/35.mpegts
+#EXTINF:-1 tvg-name="NBC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/NBC.png" group-title="NFL Thursday Night",NBC HD (USTV Local)
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=NBC
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
