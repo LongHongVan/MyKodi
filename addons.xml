@@ -416,13 +416,21 @@
 
 
 
-<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.32" provider-name="HME">
+<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.35" provider-name="HME">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="1.0.0"/>
 		<import addon="plugin.video.youtube" version="2.9.2" optional="true"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
        	<import addon="script.module.elementtree" version="1.2.8"/>
+		<import addon="xbmc.python" version="2.14.0"/>
+        <!-- addional addon for proxy server needed   -->
+		<import addon="script.module.six" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.livestreamer" />
+		<import addon="script.module.pydevd" version="4.4.0" optional="true"/>
+        <!-- addional script for F4mProxy needed   -->		
+		<import addon="script.video.F4mProxy" version="2.7.1"/>
 
 
 		<import addon="plugin.video.f4mTester" version="2.2.3" optional="true" />
@@ -431,10 +439,11 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.service" library="server.py" start="startup" />
+	<extension point="xbmc.service" library="resources/lib/livestreamerProxy.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">IPTV Client</summary>
-		<description lang="en">IPTV Stalker built-in M3U Server for PVR Simple Client. Last updated 11.26.2016 (Encripted) - Author: HME (Home Media Entertainments).</description>
+		<description lang="en">IPTV Stalker built-in M3U Server for PVR Simple Client. Last updated 11.27.2016 (Encripted) - Author: HME (Home Media Entertainments).</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
 	</extension>
