@@ -1,6 +1,4 @@
-[
-	"http://www.swimmingworldmagazine.com/media/USAlogoA.jpg", 
-	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png",  
+[  
 	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
     "http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png", 
     "http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", 
