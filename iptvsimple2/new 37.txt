@@ -1,3 +1,63 @@
+12.17.2016
+
+++++++++++++++++++++ TODAY Top Site #####################################
+http://163.172.221.73:6969/get.php?username=More_2000_channels&password===>www.iptvrestream.net<==&type=m3u Good likes IPTVFREE1.COM:6969
+
+TEST f4M - this requires user-agent
+#EXTINF:-1,USA | NBCSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/38.ts||user-agent=iptvrestream.net2
+
+#EXTINF:-1,USA | ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/47.ts||user-agent=iptvrestream.net2
+#EXTINF:-1,USA | TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/50.ts||user-agent=iptvrestream.net2
+
+
+http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/38.ts|user-agent=iptvrestream.net2
+
+##### Old Goodies: #####
+http://IPTVFREE1.COM:6969/get.php?username===>_www.iptvrestream.net_<==&password===>_www.iptvrestream.net_<==&type=m3u (Require user agent to work)
+##### TEST F4M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://IPTVFREE1.COM:6969/live/More_2000_channels/==>www.iptvrestream.net<==/38.ts||user-agent=iptvrestream.net2
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+ http://5.196.81.121:8000/get.php?username=syria&password=syria&type=m3u UUK Only
+
+http://xxultraxx.com:8000/get.php?username=12345&password=12345&type=m3u No USA
+
+http://cms.tvhd4k.com:19500/get.php?username=mara&password=mara&type=m3u No USA
+
+http://5.196.81.121:8000/get.php?username=111333&password=111333&type=m3u
+
+http://5.196.81.121:8000/get.php?username=Dennis&password=Dennis&type=m3u
+
+
+http://149.202.221.216:19500/get.php?username=mara&password=mara&type=m3u No USA
+
+http://173.212.197.122:8000/get.php?username=star7&password=ahmedax&type=m3u&output=mpegts No USA
+
+http://biwsat.com:8080/get.php?username=sbAa8rDJPg&password=lcqyOQlwzo&type=m3u BAD
+
+http://164.132.42.123:5468/get.php?username=televizija&password=1c3gdf5r&type=m3u No USA
+
+http://37.187.155.131:8000/get.php?username=Newlife&password=Newlife&type=m3u No USA
+
+http://5.196.81.121:8000/get.php?username=yusri&password=yusri&type=m3u
+
+http://62.210.177.155:8000/get.php?username=aabcl@sapo.pt&password=SHfoSygt8b&type=m3u BAD
+
+http://iptv.sat-tv.net:8000/get.php?username=newlife&password=newlife&type=m3u No USA
+
+http://163.172.221.73:6969/get.php?username=More_2000_channels&password===>www.iptvrestream.net<==&type=m3u
+
+http://sonic.revolution.ns0.it:25461/get.php?username=LyQhAFjv4o&password=trilux&type=m3u&output=mpegts TV SHow Only
+
+http://149.202.208.25:5210/get.php?username=IbKKoQ5izl&password=ysh93EAisO&type=m3u&output=mpegts BAD
+
+
 12.16.2016
 
 ++++++++++++++++++ Today TOP Sites ++++++++++++++++++++++++++++++++++++++++++++
