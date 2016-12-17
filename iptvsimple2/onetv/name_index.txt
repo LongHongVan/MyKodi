@@ -1,4 +1,6 @@
-[
+[ 
+	"NBC NFL HD", 
+    "ABC NFL HD", 
     "CBS NFL HD", 
     "FOX NFL HD",
     "ESPN HD",	
