@@ -9,7 +9,7 @@
     "http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", 
     "http://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", 
     "http://www.thelogodb.com/images/media/logo/syytuy1467823090.png", 
-	"https://www.thelogodb.com/images/media/logo/xpttts1433426292.png" 
+	"https://www.thelogodb.com/images/media/logo/xpttts1433426292.png",  
     "http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png",	 	
     "http://www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium", 
     "http://www.thelogodb.com/images/media/logo/qwxspu1433452709.png", 
