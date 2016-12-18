@@ -4,116 +4,6 @@
 http://google.com
 
 
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",NBC HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/1.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",A&E HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/2.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",ABC HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/3.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",AMC HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/4.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",E! HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/5.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",LMN HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/8.mpegts
-
-
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",USA Network HD
-http://free-premium-iptv.ddns.net:9090/load/free123/10.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",SYFY HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/11.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Spike HD
-http://free-premium-iptv.ddns.net:9090/load/free123/12.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Hallmark Channel HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/9.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",FX HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/7.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",FOX HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/6.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TNT HD
-http://free-premium-iptv.ddns.net:9090/load/free123/13.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Comedy Central HD
-http://free-premium-iptv.ddns.net:9090/load/free123/14.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Lifetime HD
-http://free-premium-iptv.ddns.net:9090/load/free123/15.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",CNN News HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/16.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO East
-#http://free-premium-iptv.ddns.net:9090/load/free123/17.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO Comedy East
-http://free-premium-iptv.ddns.net:9090/load/free123/53.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO Family
-#http://free-premium-iptv.ddns.net:9090/load/free123/52.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO Signature East
-http://free-premium-iptv.ddns.net:9090/load/free123/51.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HBO ZONE
-#http://free-premium-iptv.ddns.net:9090/load/free123/50.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Showtime East
-#http://free-premium-iptv.ddns.net:9090/load/free123/19.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Cinemas East
-#http://free-premium-iptv.ddns.net:9090/load/free123/18.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Cinemax ActionMax
-#http://free-premium-iptv.ddns.net:9090/load/free123/20.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Cinemax 5Stars
-#http://free-premium-iptv.ddns.net:9090/load/free123/21.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Starz Edge
-#http://free-premium-iptv.ddns.net:9090/load/free123/22.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Starz Encore
-#http://free-premium-iptv.ddns.net:9090/load/free123/23.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",History
-http://free-premium-iptv.ddns.net:9090/load/free123/24.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",H2
-#http://free-premium-iptv.ddns.net:9090/load/free123/25.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Discovery Channel HD
-http://free-premium-iptv.ddns.net:9090/load/free123/49.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",National Geographic Channel
-http://free-premium-iptv.ddns.net:9090/load/free123/26.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Nat Geo Wild HD
-http://free-premium-iptv.ddns.net:9090/load/free123/48.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Animal Planet HD
-http://free-premium-iptv.ddns.net:9090/load/free123/27.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Investigation Discovery
-http://free-premium-iptv.ddns.net:9090/load/free123/28.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",HGTV HD
-http://free-premium-iptv.ddns.net:9090/load/free123/29.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",ESPN HD
-http://free-premium-iptv.ddns.net:9090/load/free123/30.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",ESPN 2 HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/31.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Fox Sports 1 HD
-http://free-premium-iptv.ddns.net:9090/load/free123/32.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Fox Sports 2 HD
-http://free-premium-iptv.ddns.net:9090/load/free123/33.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",NBA TV HD
-http://free-premium-iptv.ddns.net:9090/load/free123/34.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",NFL Network HD
-http://free-premium-iptv.ddns.net:9090/load/free123/35.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 1 HD
-http://free-premium-iptv.ddns.net:9090/load/free123/36.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 2 HD
-http://free-premium-iptv.ddns.net:9090/load/free123/37.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 3 HD
-http://free-premium-iptv.ddns.net:9090/load/free123/38.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 4 HD
-http://free-premium-iptv.ddns.net:9090/load/free123/39.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TSN 5 HD
-http://free-premium-iptv.ddns.net:9090/load/free123/40.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",TBS HD
-http://free-premium-iptv.ddns.net:9090/load/free123/42.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",NBC Sports Network HD
-#http://free-premium-iptv.ddns.net:9090/load/free123/43.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Sportsnet 360 HD
-http://free-premium-iptv.ddns.net:9090/load/free123/45.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Sportsnet World HD
-http://free-premium-iptv.ddns.net:9090/load/free123/46.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Sportsnet Ontario HD
-http://free-premium-iptv.ddns.net:9090/load/free123/47.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Sportsnet One HD
-http://free-premium-iptv.ddns.net:9090/load/free123/44.mpegts
-#EXTINF:-1    group-title="TEST Channels from free-premium (Offline Now)",Showtime West
-#http://free-premium-iptv.ddns.net:9090/load/free123/54.mpegts
-
-
 ###################### Kid TV ######################################
 #EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="orig08.deviantart.net/307e/f/2012/068/0/c/nickelodeon_logo_by_urbinator17-d4s8zzx.png", Nickelodeon HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
@@ -4013,6 +3903,8 @@ http://46.234.113.2/p2p/4d0fadca2686a2cdd4a4a6623212449c.m3u8?st=vGFFycfS2kVhmea
 http://185.152.64.236/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=DuRlLwMDi9-PtugUidsg_A&e=1482726491|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png",ESPN HD
 http://185.59.222.232/p2p/aca0a31d14c85e19f7023c9a3889f37b.m3u8?st=MbC7EM7jFeBN8dcC0ci3YQ&e=1482726624|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+
+
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png",A&E HD
 http://185.152.64.236/p2p/ce425ca32dea0f37b22717ae989bcffb.m3u8?st=GgCsbbxNU2GlJSHaX5VZRA&e=1482725688|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
