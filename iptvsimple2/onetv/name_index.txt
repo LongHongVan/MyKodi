@@ -9,6 +9,7 @@
     "TBS HD", 
     "TNT HD", 
     "USA Network HD", 
+    "CNN HD",
     "CW HD", 
     "HBO HD", 
     "TCM HD", 
