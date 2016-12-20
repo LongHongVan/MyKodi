@@ -2233,6 +2233,12 @@ http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 #EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="NBC HD" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19098
 http://127.0.0.1:19098/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="ABC HD" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD 19099
+http://127.0.0.1:19099/livestreamer/ba354149f3c117ceb69529a1542b6281.m3u8
+
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="ABC HD" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD 19098
+http://127.0.0.1:19098/livestreamer/ba354149f3c117ceb69529a1542b6281.m3u8
+
 
 ################ End Test Smashtv premium esrvice  ##########################
 
