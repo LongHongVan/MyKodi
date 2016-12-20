@@ -11,8 +11,6 @@
     "USA Network HD", 
     "CNN HD", 
     "CW HD", 
-    "HBO HD", 
-    "TCM HD", 
     "Spike HD", 
     "History", 
     "History 2", 
