@@ -1,3 +1,41 @@
+12.20.2015
+++++++++++++++++++++ TODAY Top Site #####################################
++++ NONE ++++++++++++++++++++++
+
+
+http://88.198.34.144:8000/get.php?username=0577&password=0577&type=m3u BAD
+
+http://88.198.34.144:8000/get.php?username=0578&password=0578&type=m3u
+
+http://88.198.34.144:8000/get.php?username=0579&password=0579&type=m3u
+
+
+http://137.74.94.161:8000/get.php?username=calle1&password=calle1&type=m3u 7 USA
+http://137.74.94.161:8000/get.php?username=kaiserfrenz&password=kaiserfrenz&type=m3u
+http://137.74.94.161:8000/get.php?username=obor&password=obor&type=m3u
+http://137.74.94.161:8000/get.php?username=leigh&password=leigh&type=m3u
+http://137.74.94.161:8000/get.php?username=kantor&password=kantor&type=m3u
+http://137.74.94.161:8000/get.php?username=jukka&password=jukka&type=m3u
+http://137.74.94.161:8000/get.php?username=damiao&password=damiao&type=m3u
+http://137.74.94.161:8000/get.php?username=ana&password=ana1&type=m3u
+http://137.74.94.161:8000/get.php?username=biggest&password=biggest&type=m3u
+http://137.74.94.161:8000/get.php?username=scibelli&password=scibelli&type=m3u
+http://137.74.94.161:8000/get.php?username=christoph&password=christoph&type=m3u
+
+http://iptvridha.ddns.net:8000/get.php?username=farouk&password=farouk&type=m3u BAD
+
+
+http://51.254.113.188:8000/get.php?username=ferid&password=ferid&type=m3u No USA
+http://51.254.113.188:8000/get.php?username=nasim&password=nasim&type=m3u
+
+
+http://149.202.70.230:8000/get.php?username=cakir11&password=6DzpyYyvWA&type=m3u No USA
+http://149.202.70.230:8000/get.php?username=mustafayildiz&password=ptBIH8144u&type=m3u
+http://149.202.70.230:8000/get.php?username=germanbo&password=n1PU1CNDCU&type=m3u
+
+
+
+
 12.17.2016
 
 ++++++++++++++++++++ TODAY Top Site #####################################
@@ -12,8 +50,27 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.221.
 #EXTINF:-1,USA | TNT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/50.ts||user-agent=iptvrestream.net2
 
+Test Streamer Proxy (ESPN)
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2J1bGxzaXB0di5zZTo5ODUwL2xpdmUvdGh1eXZvMTc0QGdtYWlsLmNvbS93aGUzNDY1Zy8xNDAubTN1OA== Good
+CTV
+http://127.0.0.1:19098/livestreamer/hls://http://smashtv.ddns.net:9090/load/0855ebd4f90b/377.mpegts
+
+
+NBC usaiptv
+http://127.0.0.1:19098/livestreamer/hls://http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+http://127.0.0.1:19099/livestreamer/aGxzOi8vaHR0cDovL3VzYWlwdHYuZGRucy5uZXQ6OTA5MC9sb2FkLzA4NTVlYmQ0ZjkwYi8xNDAubXBlZ3Rz
 
 http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/38.ts|user-agent=iptvrestream.net2
+
+CTV smashtv: http://smashtv.ddns.net:9090/load/0855ebd4f90b/377.mpegts
+http://127.0.0.1:55444/callbackpath=&use_proxy_for_chunks=False&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http://smashtv.ddns.net:9090/load/0855ebd4f90b/377.mpegts&swf=&auth=None&simpledownloader=False (GOOD)
+
+CTV
+http://127.0.0.1:55444/streamtype=TSDOWNLOADER&url=http://smashtv.ddns.net:9090/load/0855ebd4f90b/377.mpegts WORK!
+NBC
+http://127.0.0.1:55444/streamtype=TSDOWNLOADER&url=http://smashtv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+
+
 
 ##### Old Goodies: #####
 http://IPTVFREE1.COM:6969/get.php?username===>_www.iptvrestream.net_<==&password===>_www.iptvrestream.net_<==&type=m3u (Require user agent to work)
