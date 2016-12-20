@@ -13,8 +13,6 @@
     "http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png",	 	
     "http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png", 
     "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", 
-    "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", 
-    "http://www.thelogodb.com/images/media/logo/vyrxww1480348067.png", 
     "http://www.thelogodb.com/images/media/logo/quwyru1480459347.png", 
     "http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png", 
     "http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png", 
