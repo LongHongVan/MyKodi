@@ -658,6 +658,9 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=952
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR]HD[/COLOR]
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=950
 
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR]HD[/COLOR] Streamer 99
+http://127.0.0.1:19099/livestreamer/aGxzOi8vaHR0cDovL2J1bGxzaXB0di5zZTo5ODUwL2xpdmUvdGh1eXZvMTc0QGdtYWlsLmNvbS93aGUzNDY1Zy85NTAubTN1OA==
+
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="tvtvtv.ru/icons/logo_5122.png", Việt Mỹ TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 
