@@ -49,7 +49,7 @@
     ], 
     [
         "Spike HD", 
-        "a01d4a2d79052d6b1c2c63bf2d284202.m3u8"
+        "744a2e6d638ef5996394717e9e871717.m3u8"
     ], 
     [
         "History HD", 
