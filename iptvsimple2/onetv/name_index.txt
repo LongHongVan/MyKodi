@@ -15,6 +15,7 @@
     "History",  
     "SYFY HD", 
     "Animal Planet HD", 
+    "Bravo HD",	
     "Discovery Channel HD", 
     "Lifetime HD", 
     "E! HD", 

@@ -62,5 +62,9 @@
     [
         "Animal Planet HD", 
         "a0f8ddb8c8251a68f136648b32c0f62d.m3u8"
+    ],
+    [
+        "Bravo HD", 
+        "582b19f3ef5459a2f139ec69ee2053d0.m3u8"
     ]
 ]
