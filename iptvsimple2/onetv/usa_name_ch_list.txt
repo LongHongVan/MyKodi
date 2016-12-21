@@ -66,5 +66,9 @@
     [
         "Bravo HD", 
         "582b19f3ef5459a2f139ec69ee2053d0.m3u8"
+    ],
+    [
+        "Lifetime HD", 
+        "171879baa092ef14d5ec8f401aeaffcd.m3u8"
     ]
 ]
