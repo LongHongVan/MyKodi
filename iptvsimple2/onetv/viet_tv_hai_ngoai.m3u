@@ -1,24 +1,31 @@
+#EXTM3U tvg-shift=0
+################### Top 10 Viet News Hai Ngoai TV ###############################
 
-SET TV
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://sbtn.co/images/set-sbtn-logo2.png", SET TV
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/playlist.m3u8
-SaiGon TV
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", Saigon TV
 http://saigontvtv.saigon.ns01.us:1935/Lstv577/myStream/chunklist_w1229536511.m3u8
-VFTV
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png", VietFace TV
 http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
-VBS
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="https://lh5.ggpht.com/ogmrnURRik6lzvDiKEtW3QbKpi9R5mOS82enqqS4NdpDv3EwI3JALRCjkr_q05SVXQ=w300" tvg-logo="", VBS
 http://vbstv.saigon.ns01.us:1935/vbstv/myStream/playlist.m3u8
-SChannel
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="https://unoipbox.com/develop/webprojects/projects/uno/skins/uno/images/channel/channel_schannel.png", SChannel
 http://schannel.saigon.ns01.us:1935/schannel/myStream/playlist.m3u8
-KVLA
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="http://kvla.tv/wp-content/uploads/2016/03/3232z.png" tvg-logo="", KVLA
 http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
-VStar
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg", VStar
 http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
-Viet News
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="yt3.ggpht.com/-NTEw5Vvn_pA/AAAAAAAAAAI/AAAAAAAAAAA/l4_jd0MiVhY/s88-c-k-no/photo.jpg", Viet News
 http://saigontvtv.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
-Que Huong TV
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkFRPNwfIXZfG0Uka4UjmF_Fw9mR24WndKmy3_CE8iDGTlurWk", Que Huong TV
 rtmp://vf10.aditmedia.net/ingestx/ius_000130
-VietBay San Jose
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="www.vietbay.tv/images/file/tplyBIXp0QgBAikO/vietbay-television-logo.png", VietBay San Jose
 rtmp://vf10.aditmedia.net/ingestx/ius_000131
+
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://static.wixstatic.com/media/e28766_ecb97a356c814f5fba5ebf439201e977.png", VNATV 57.3
+http://vnatv.saigon.ns01.us:1935/vnatv/myStream/chunklist_w729302537.m3u8
+
+################### end Top 10 Viet News Hai Ngoai TV ###############################
 
 
 
