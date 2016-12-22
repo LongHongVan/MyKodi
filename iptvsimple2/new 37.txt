@@ -1,6 +1,59 @@
+12/22/2016
+
++++++++ Today Top Site +++++++++++++
+
+
+http://163.172.6.8:8000/get.php?username=5PxAP1seBA&password=v3HpfHkYVg&type=m3u Good no Buffer 79 uSA
+
+
+++++++++++++++++++++++++++++++++++
+
+http://81.230.200.187:1967/get.php?username=ahmad&password=ahmad&type=m3u No USA
+
+http://88.198.34.144:8000/get.php?username=0800&password=0800&type=m3u 15 USA
+
+http://137.74.94.161:8000/get.php?username=karl99&password=karl99&type=m3u
+
+http://137.74.94.161:8000/get.php?username=lump1&password=lump1&type=m3u 9 uSA
+
+http://merak.dyndns.tv:18500/get.php?username=Peppe.seb&password=cmltppepx.13&type=m3u No uSA
+
+http://193.70.116.156:8080/get.php?username=8b9Zc7ogpV&password=qvBmNlYxRp&type=m3u
+
+
+
+http://mygameravatar.zapto.org:43666/get.php?username=master1&password=sunner111&type=m3u
+
+http://137.74.94.161:8000/get.php?username=tomeko&password=tomeko&type=m3u 9 uSA
+
+
+http://137.74.94.161:8000/get.php?username=tomeko&password=tomeko&type=m3u 9 USA
+
+http://ns3057493.ip-137-74-94.eu:8000/get.php?username=brian1&password=brian1&type=m3u 9 USA
+
+http://ns3057493.ip-137-74-94.eu:8000/get.php?username=scibelli&password=scibelli&type=m3u
+
+http://ns3057493.ip-137-74-94.eu:8000/get.php?username=melih&password=melih&type=m3u
+
+http://ns3057493.ip-137-74-94.eu:8000/get.php?username=home&password=home&type=m3u
+
+http://ns3057493.ip-137-74-94.eu:8000/get.php?username=wendy1&password=wendy1&type=m3u
+
+
 12.20.2015
 ++++++++++++++++++++ TODAY Top Site #####################################
 +++ NONE ++++++++++++++++++++++
+
+TEST F4M NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/38.ts|user-agent=iptvrestream.net2
+
+NFL Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/37.ts|user-agent=iptvrestream.net2
+
+http://127.0.0.1:55444/streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/37.ts
+http://127.0.0.1:55333/streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/More_2000_channels/==>www.iptvrestream.net<==/37.ts
+
+|user-agent=iptvrestream.net2
 
 
 http://88.198.34.144:8000/get.php?username=0577&password=0577&type=m3u BAD

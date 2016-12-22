@@ -1,0 +1,25 @@
+
+SET TV
+http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/playlist.m3u8
+SaiGon TV
+http://saigontvtv.saigon.ns01.us:1935/Lstv577/myStream/chunklist_w1229536511.m3u8
+VFTV
+http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
+VBS
+http://vbstv.saigon.ns01.us:1935/vbstv/myStream/playlist.m3u8
+SChannel
+http://schannel.saigon.ns01.us:1935/schannel/myStream/playlist.m3u8
+KVLA
+http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
+VStar
+http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
+Viet News
+http://saigontvtv.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
+Que Huong TV
+rtmp://vf10.aditmedia.net/ingestx/ius_000130
+VietBay San Jose
+rtmp://vf10.aditmedia.net/ingestx/ius_000131
+
+
+
+
