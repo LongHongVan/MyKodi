@@ -19,7 +19,7 @@ http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3
 http://saigontvtv.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkFRPNwfIXZfG0Uka4UjmF_Fw9mR24WndKmy3_CE8iDGTlurWk", Que Huong TV
 rtmp://vf10.aditmedia.net/ingestx/ius_000130
-#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="www.vietbay.tv/images/file/tplyBIXp0QgBAikO/vietbay-television-logo.png", VietBay San Jose
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://www.vietbay.tv/images/file/tplyBIXp0QgBAikO/vietbay-television-logo.png", VietBay San Jose
 rtmp://vf10.aditmedia.net/ingestx/ius_000131
 
 #EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://static.wixstatic.com/media/e28766_ecb97a356c814f5fba5ebf439201e977.png", VNATV 57.3
