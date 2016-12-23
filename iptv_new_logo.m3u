@@ -2251,8 +2251,8 @@ http://127.0.0.1:19098/livestreamer/296e56c668bc8bd6b0044d3e4f034153.m3u8
 
 #### - Top 10 USA Channels ####################
 
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="NFL Network HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png",NFL Network HD (Test)
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http%3A%2F%2F163.172.221.73%3A6969%2Flive%2Fiptvrestream.net2%2F%3D%3D%3Ewww.iptvrestream.net%3C%3D%3D%2F37.ts%7CUser-Agent%3Dfuck1
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="NFL Network HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png",NFL Network HD (Test 2)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.221.73:6969/live/iptvrestream.net2/==>www.iptvrestream.net<==/37.ts|User-Agent=fuck1
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png",NBC HD
 http://185.152.64.235/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=i-gsnHtHQrKzI-WGZUdrmA&e=1482726461|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
