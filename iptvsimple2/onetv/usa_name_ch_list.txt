@@ -1,5 +1,9 @@
 [
     [
+        "NFL Network HD", 
+        "http://163.172.221.73:6969/live/iptvrestream.net2/==>www.iptvrestream.net<==/37.ts|User-Agent=fuck"
+    ], 
+    [
         "NBC HD", 
         "3baf7db0d8f1d400816fb6166b297f46.m3u8"
     ], 
