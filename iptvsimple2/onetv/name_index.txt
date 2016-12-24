@@ -1,5 +1,5 @@
 [ 
-	"PBN-120 (Bonus)", 
+	"PBN 120 (Bonus)", 
 	"NFL Network HD", 
 	"NBC NFL HD", 
     "ABC NFL HD", 
