@@ -1,4 +1,6 @@
 [ 
+	"Que Huong Media TV HD (Bonus)", 
+	"VietBay TV HD (Bonus)", 
 	"PBN 120 (Bonus)", 
 	"NFL Network HD", 
 	"NBC NFL HD", 

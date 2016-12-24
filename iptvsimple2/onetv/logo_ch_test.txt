@@ -1,4 +1,6 @@
 [  
+	"http://www.vietbay.tv/images/file/tplyBIXp0QgBAikO/vietbay-television-logo.png", 
+	"http://static.wixstatic.com/media/e28766_ecb97a356c814f5fba5ebf439201e977.png", 
 	"https://4.bp.blogspot.com/-M3LZqYpZdO8/V5sETQiXk2I/AAAAAAAAYrQ/_TwgmIbKYl0HO6QSkha-nUeb5qnBs7fwACLcB/s1600/PBN%2B120.jpg", 
 	"http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png",
 	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
