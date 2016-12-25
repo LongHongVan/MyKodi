@@ -259,11 +259,18 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
-#EXTINF:-1, tvg-id="" tvg-name="NBC HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NBC NFL [COLOR aqua]Sunday Night[/COLOR]
-http://185.152.64.235/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=7tariWnQUCPsuzRGcNVCKw&e=1482227319|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
-#EXTINF:-1, tvg-id="" tvg-name="NBC HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NBC NFL FHD [COLOR lime]Sunday Night[/COLOR]
-http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4689.ts|User-Agent=iptvrestream.net.1
+#EXTINF:-1, tvg-id="" tvg-name="NBC HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NBC NFL HD (Local East) [COLOR lime]Sunday Night[/COLOR]
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=NBC
+
+#EXTINF:-1 tvg-name="ABC HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/ABC.png" group-title="TOP SPORT TV", ABC NFL HD (Local East)
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
+
+#EXTINF:-1 tvg-name="CBS HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/CBS.png" group-title="TOP SPORT TV",CBS NFL HD (Local East)
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CBS
+
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="googledrive.com/host/0B3wDfMBF1O42SUxZd2MxcXlVSDA/FOX.png" group-title="TOP SPORT TV",FOX NFL HD (Local East)
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FOX
 
 
 #EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD

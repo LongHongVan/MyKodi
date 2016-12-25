@@ -1,9 +1,76 @@
+12.26.2016
+++++++++++++++++ Best Link of Day ***********************************************
+
+http://ipsatpro.com:8000/get.php?username=131207&password=131207&type=m3u 79 USA
+F4M Template: plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=
+Test:
+#EXTINF:-1,US: Espn Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ipsatpro.com:8000/live/131207/131207/1164.ts
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+http://gh-ah.ddns.net:8000/get.php?username=me&password=me&type=m3u No USA
+
+http://185.56.28.213:8000/get.php?username=kanaldestek&password=8A0xR8wxdE&type=m3u No USA
+
+http://91.215.156.13:25461/get.php?username=trkvz1234&password=GHjuiKK55Gsdfr&type=m3u No uSA
+
+
+
+http://50.7.113.2:8000/get.php?username=imerziberi&password=iudfjcowej&type=m3u No uSA
+
+http://iptv.fastcccam.tv:8080/get.php?username=testfast&password=54lkuyn865&type=m3u BAD
+
+http://801server.com/get.php?username=112233&password=112233&type=m3u No USA
+
+http://newiptvworld.no-ip.org:8300/get.php?username=makists79&password=makists54208&type=m3u 6 USA
+
+http://185.73.239.23:8000/get.php?username=vital&password=vital&type=m3u No uSA
+
+http://37.187.175.177:8000/get.php?username=sousse&password=sousse&type=m3u No Links Work!
+
+http://50.7.113.2:8000/get.php?username=imerziberi&password=iudfjcowej&type=m3u No uSA
+
+http://163.172.32.148:9300/get.php?username=farid&password=farid&type=m3u No USA
+
+http://IPTV.Nador-Sat.Com:9300/get.php?username=farid&password=farid&type=m3u No USA
+
+
+12/23/2016
+
+http://pro.satlover.com:58080/get.php?username=ekramy_abdo1900&password=ix6ltVB87F&type=m3u
+
+http://127.0.0.1:55444/streamtype=TSDOWNLOADER&url=
+
+Test F4M
+#EXTINF:-1,US: SportsNet Ontario
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pro.satlover.com:58080/live/ekramy_abdo1900/ix6ltVB87F/2064.ts
+
+#EXTINF:-1,US: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pro.satlover.com:58080/live/ekramy_abdo1900/ix6ltVB87F/1047.ts
+
+#EXTINF:-1,UK: iConcerts HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pro.satlover.com:58080/live/ekramy_abdo1900/ix6ltVB87F/1947.ts
+
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.221.73:6969/live/iptvrestream.net2/==>www.iptvrestream.net<==/37.ts|User-Agent=fuck1
+
 12/22/2016
 
 +++++++ Today Top Site +++++++++++++
 
 
 http://163.172.6.8:8000/get.php?username=5PxAP1seBA&password=v3HpfHkYVg&type=m3u Good no Buffer 79 uSA
+
+TEST Livestreamer # Template: http://127.0.0.1:19098/livestreamer/hls://
+
+#EXTINF:-1,USA | NFL Network HD
+http://163.172.221.73:6969/live/iptvrestream.net2/==>www.iptvrestream.net<==/37.ts|User-Agent=fuck
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE2My4xNzIuMjIxLjczOjY5NjkvbGl2ZS9pcHR2cmVzdHJlYW0ubmV0Mi89PT53d3cuaXB0dnJlc3RyZWFtLm5ldDw9PS8zNy50c3xVc2VyLUFnZW50PWZ1Y2s= (Does nor work)
+
+#EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkFRPNwfIXZfG0Uka4UjmF_Fw9mR24WndKmy3_CE8iDGTlurWk", Que Huong TV
+rtmp://vf10.aditmedia.net/ingestx/ius_000130
+http://127.0.0.1:19098/livestreamer/aGxzOi8vcnRtcDovL3ZmMTAuYWRpdG1lZGlhLm5ldC9pbmdlc3R4L2l1c18wMDAxMzA=
 
 
 ++++++++++++++++++++++++++++++++++
