@@ -13,7 +13,7 @@
     ], 
     [
         "NFL Network HD", 
-        "http://163.172.221.73:6969/live/iptvrestream.net2/==>www.iptvrestream.net<==/37.ts|User-Agent=fuck1"
+        "http://163.172.219.53:3135/NFLNETWORK/Sports/index.m3u8?token=MDY1ZGZiZjhmMjE3OGM3MGUxMDgyODhkYWIzMDM0MDY6MTQ4MjcxNzc0MQ==|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)"
     ], 
     [
         "NBC HD", 
