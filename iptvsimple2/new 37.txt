@@ -7,6 +7,9 @@ Test:
 #EXTINF:-1,US: Espn Sport
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ipsatpro.com:8000/live/131207/131207/1164.ts
 
+#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",NFL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1190.mpegts
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 http://gh-ah.ddns.net:8000/get.php?username=me&password=me&type=m3u No USA
