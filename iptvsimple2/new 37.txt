@@ -1,3 +1,28 @@
+12/27/2016
+
+http://orbit-iptv.com:2500/get.php?username=irfan&password=irfan&type=m3u&output=mpegts 148 USA
+
+++++++++++++++ F4M TEST +++++++++++++++++
+#EXTINF:-1,USA:E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://orbit-iptv.com:2500/live/irfan/irfan/2914.ts OK
+#EXTINF:-1,USA:HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://orbit-iptv.com:2500/live/irfan/irfan/5084.ts Not working
+
+
+http://163.172.81.33:1234/get.php?username=iptvrestream.net&password===> www.iptvrestream.net <==&type=m3u&output=mpegts
+
+#EXTINF:-1,Olympic Channel
+http://163.172.81.33:1234/live/iptvrestream.net/==> www.iptvrestream.net <==/318.ts|User-Agent=fuck3
+
+
+http://37.187.175.177:8000/get.php?username=hanger&password=hanger&type=m3u 74 USA - requires F4M to work
+
+TEST OK
+#EXTINF:-1,USA-NBCSN sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://37.187.175.177:8000/live/hanger/hanger/2116.ts
+
+
+
 12.26.2016
 ++++++++++++++++ Best Link of Day ***********************************************
 

@@ -31,10 +31,12 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.
 
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2323.ts
-#EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 2 HD2
+#EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2208.ts
-#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1 HD2
+#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="USA TV NEW", Fox Sports 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/2207.ts
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HGTV HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5084.ts
 
 ################### USA TV NEW (Entertainment & News) #############################
 
@@ -46,8 +48,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-ip
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", ABC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://foxiptv.stream.tf:5050/live/fang005/chiaro/668.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", HGTV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5084.ts
+
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", History
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://orbit-iptv.com:2500/live/Telphoneagent/Telphoneagent/5083.ts
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="USA TV NEW", Animal Planet
