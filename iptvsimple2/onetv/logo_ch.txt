@@ -2,6 +2,7 @@
 	"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkFRPNwfIXZfG0Uka4UjmF_Fw9mR24WndKmy3_CE8iDGTlurWk", 	
 	"http://www.vietbay.tv/images/file/tplyBIXp0QgBAikO/vietbay-television-logo.png", 
 	"http://intermati.com/hanna/2016/10m/13d/89.jpg", 
+	"https://s-media-cache-ak0.pinimg.com/originals/13/f1/60/13f160e74d8d1dc920205bd9cdd633e5.jpg",
 	"http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png",
 	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
     "http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png", 
