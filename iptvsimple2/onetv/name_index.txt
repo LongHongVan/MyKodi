@@ -1,7 +1,8 @@
 [ 
+	"Hoa Hau VN 2016 FHD (Bonus)", 
 	"Que Huong HD (Bonus)", 
 	"VietBay HD (Bonus)", 
-	"PBN 120 (Bonus)", 
+	"PBN 120 HD (Bonus)", 
 	"Olympic Channel FHD (Test)", 
 	"NFL Network HD (Test)", 
 	"NBC NFL HD", 
@@ -17,7 +18,7 @@
     "CNN HD", 
     "CW HD", 
     "Spike HD", 
-    "History",  
+    "History HD",  
     "SYFY HD", 
     "Animal Planet HD", 
     "Bravo HD",	
