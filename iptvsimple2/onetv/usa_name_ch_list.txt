@@ -16,8 +16,12 @@
         "http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv"
     ], 
     [
+        "Olympic Channel FHD (Test)", 
+        "http://163.172.81.33:1234/live/iptvrestream.net5/CAQ8nIN9PX/318.ts|User-Agent=fuck4"
+    ], 
+    [
         "NFL Network HD", 
-        "http://163.172.81.33:1234/live/iptvrestream.net5/CAQ8nIN9PX/154.ts|User-Agent=fuck3"
+        "http://163.172.81.33:1234/live/iptvrestream.net5/CAQ8nIN9PX/154.ts|User-Agent=fuck4"
     ], 
     [
         "NBC HD", 
