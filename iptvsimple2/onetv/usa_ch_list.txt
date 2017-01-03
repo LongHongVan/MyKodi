@@ -1,5 +1,5 @@
 [
-    "plugin://plugin.video.youtube/play/?video_id=HQy6Rzicnek", 
+    "plugin://plugin.video.youtube/play/?video_id=HQy6Rzicnek",
     "rtmp://vf10.aditmedia.net/ingestx/ius_000130", 
     "rtmp://vf10.aditmedia.net/ingestx/ius_000131", 
     "http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv", 
