@@ -1,5 +1,9 @@
 [
     [
+        "Hoa Hau VN 2016 FHD (Bonus)", 
+        "plugin://plugin.video.youtube/play/?video_id=HQy6Rzicnek"
+    ], 
+    [
         "Que Huong HD (Bonus)", 
         "rtmp://vf10.aditmedia.net/ingestx/ius_000130"
     ], 
