@@ -967,61 +967,52 @@ http://www.mediafire.com/download/z273q3kyw6ciarr/TraiTimKhongNguYen.mkv
 
 #<!--------------------------------CANADA ------------------------->
 
-
-#EXTINF:-1 group-title="CANADA" tvg-logo="youngalaskans.org/wp-content/uploads/2011/10/360North.jpg", 360 North (ALASKA)
-#http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
-  
-#EXTINF:-1 group-title="CANADA" tvg-logo="shopboxingday.ca/wp-content/uploads/2012/12/the-shopping-channel-boxing-day.png", The Shopping Channel 1080p
-#http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-b.m3u8
-
 #EXTINF:-1, tvg-id="8154" tvg-name="WeatherNation" tvg-logo="www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0002/2390/brand.gif?itok=jU1s1wrp" group-title="CANADA", WeatherNation
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=23
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3079
 
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/8.png", CTV HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=8
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=16
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/9.png", CTV NORTH
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/11.png", CHCH HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=11
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=358
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/14.png", OMNI 1 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/14.png", OMNI 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13
+
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/24.png", CP24 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=24
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/52.png", Global BC
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=11
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/15.png", Global East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=52
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/53.png", City TV HD
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/2397.png", Global MTL
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=52
+
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/14.png", City TV HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=53
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/55.png", CBC Vancouver
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/309.png", CBC Vancouver HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=55
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/57.png", CTV Vancouver
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/310.png", CTV Vancouver HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=57
 
 #EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", TSN 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=400
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
 #EXTINF:-1, tvg-id="uktvnow:234" tvg-name="TSN 2 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="CANADA", TSN 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=401
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=139
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 3 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=402
-
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4 HD" tvg-logo="www.mcquarrieweb.ca/TVGuideWebsite/images/tsn4.png" group-title="CANADA", TSN 4 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
-
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5 HD" tvg-logo="activpn.com/images/watch_outside_ca/TSN%20-%20The%20Sports%20Network.png" group-title="CANADA", TSN 5 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
-
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet One HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet One HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=405
-
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ontario HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet Ontario HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
-
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360 HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet 360 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 4 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=141
+#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 5 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=142
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet One HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sportsnet One HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ontario HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sportsnet Ontario HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=148
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sportsnet 360 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=147
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet World HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet World HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
 
 #<!--------------------------------End CANADA ------------------------->
@@ -1074,34 +1065,30 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3949
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3168
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 2
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3169
-#EXTINF:-1, tvg-id="154" tvg-name="NBC HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 3
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 3" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 3
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3170
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 4" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 4
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3171
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 5" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3172
-#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 6" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 6" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 6
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3173
-#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 77" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 77" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 7
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3174
-#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 8" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 8" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 8
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3175
-#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 9" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 9" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 9
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3176
-#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 10" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 10" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 10
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3177
-#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 11" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 11" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 11
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3178
-#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 12" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 12" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 12
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3179
 #EXTINF:-1, tvg-id="154" tvg-name="Eurosport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1086.png" group-title="TOP SPORT TV", Eurosport 1 (IT)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=703
 #EXTINF:-1, tvg-id="154" tvg-name="Eurosport 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1087.png" group-title="TOP SPORT TV", Eurosport 2 (IT)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=704
-#EXTINF:-1, tvg-id="154" tvg-name="Eurosport Extra" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1088.png" group-title="TOP SPORT TV", Eurosport Extra
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1274
-#EXTINF:-1, tvg-id="154" tvg-name="Fox Sports 1 HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/100.png" group-title="TOP SPORT TV", PPV [COLOR lime]UFC[/COLOR]
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=100
 
 
 ######### MTV Music TV ########################################
