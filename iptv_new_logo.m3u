@@ -319,7 +319,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=167
 #EXTINF:-1 group-title="TOP SPORT TV" tvg-logo="soccer.indonewyork.com/wp-content/uploads/2013/07/wpid-mutv.jpeg", MUTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=228
 #EXTINF:-1, tvg-id="155" tvg-name="NBA TV HD" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA TV HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=65
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=165
 #EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2190
 #EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 2
