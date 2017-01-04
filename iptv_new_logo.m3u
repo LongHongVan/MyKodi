@@ -251,13 +251,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 ###################### TOP SPORT TV ######################################
 
 
-#<!-------------------------------- sports HD ---------------->https://github.com/LongHongVan/MyKodi/raw/master/images/logos/
+#<!-------------------------------- sports HD ---------------->
 
 #EXTINF:-1, tvg-id="2" tvg-name="TOP SPORT TV" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="TOP SPORT TV", TOP SPORT TV
 #http://google.com
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=157
 
 
 #EXTINF:-1, tvg-id="" tvg-name="NBC HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NBC NFL HD (Local East) [COLOR lime]Sunday Night[/COLOR]
@@ -284,185 +284,80 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=145
 #EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=146
 
-# +++++++++++++++++++++++++++++ End New iptvsubs 2017 ++++++++++++++++++++++++++===
-
 #EXTINF:-1, tvg-id="" tvg-name="ABC HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/41.png" group-title="TOP SPORT TV", ABC HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=71
-
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=10
 #EXTINF:-1, tvg-id="" tvg-name="FOX HD" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=82
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9
 #EXTINF:-1, tvg-id="" tvg-name="FOX W HD" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX W HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=73
-
-
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=305
 #EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC HD" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=7
 #EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC W HD" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC W HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=303
 #EXTINF:-1, tvg-id="" tvg-name="CBS HD" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/e/e0/NFLCBS06.png" group-title="TOP SPORT TV", CBS HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=72
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=8
 #EXTINF:-1, tvg-id="" tvg-name="CBS W HD" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS W HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=84
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=304
 #EXTINF:-1, tvg-id="" tvg-name="CBS Sports Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/92.png" group-title="TOP SPORT TV", CBS Sports Network HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=158
-
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=169
 #EXTINF:-1, tvg-id="159" tvg-name="BeIN Sports USA HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BeIN Sports USA HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=392
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=171
 #EXTINF:-1, tvg-id="159" tvg-name="BeinSports en Espa" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BeinSports en Espa
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=873
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=236
 #EXTINF:-1, tvg-id="159" tvg-name="GOL TV ES HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", GOL TV ES HD (Soccer)
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=870
-
-#EXTINF:-1, tvg-id="159" tvg-name="Bundesliga Soccer" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/439.png" group-title="TOP SPORT TV", Bundesliga Soccer
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=439
-
-#EXTINF:-1, tvg-id="159" tvg-name="Arena Sports" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/442.png" group-title="TOP SPORT TV", Arena Sports 3 (Soccer)
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=442
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=424
 #EXTINF:-1, tvg-id="159" tvg-name="NBC Sports Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sports Network HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=159
-
-
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 #EXTINF:-1, tvg-name="ESPN Latinoamerica" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN Latinoamerica
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=854
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=238
 #EXTINF:-1, tvg-id="9410" tvg-name="TNT HD" tvg-logo="www.everyjoe.com/files/2009/09/tnt-logo.jpg" group-title="TOP SPORT TV", TNT HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=341
 #EXTINF:-1, tvg-id="400" tvg-name="Super Tennis Italia" tvg-logo="www.snescentral.com/0/6/9/0690/logo.gif" group-title="TOP SPORT TV", Super Tennis Italia
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=623
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=639
 #EXTINF:-1, tvg-id="400" tvg-name="Tennis Channel" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1830.png" group-title="TOP SPORT TV", Tennis Channel 
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=410
-
-#EXTINF:-1 group-title="TOP SPORT TV"  tvg-name="bein-sports" tvg-logo="f.vp9.tv/img/tv/channel/bein01.png", BEIN HD 1[COLOR aqua] 1080p[/COLOR]
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=392
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=167
 #EXTINF:-1 group-title="TOP SPORT TV" tvg-logo="soccer.indonewyork.com/wp-content/uploads/2013/07/wpid-mutv.jpeg", MUTV
-#http://167.114.41.215:8080/MuTTveE_rAf/MuTTveE_rAf/index
-
-
-#EXTINF:-1, tvg-id="141" tvg-name="ESPN U HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN U HD
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/979
-#http://167.114.41.215:8080/eSssPpNUk_rAf/eSssPpNUk_rAf/index
-
-#EXTINF:-1, tvg-id="152" tvg-name="MLB Network" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/40.png" group-title="TOP SPORT TV", MLB Network
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/192
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=228
 #EXTINF:-1, tvg-id="155" tvg-name="NBA TV HD" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA TV HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
-
-#EXTINF:-1, tvg-id="155" tvg-name="NBA Pass" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA League Pass
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1294
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=65
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 1
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2190
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 2
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2191
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 3
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2192
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 4
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2193
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2194
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 6
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2195
 #EXTINF:-1, tvg-id="153" tvg-name="NHL Network USA" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/41.png" group-title="TOP SPORT TV", NHL Network USA
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=475
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
 #EXTINF:-1, tvg-id="5" tvg-name="ABC W HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2334.png" group-title="TOP SPORT TV", ABC W HD
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/6114
-
-#EXTINF:-1, tvg-id="8100" tvg-name="ABC New York" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/90.png" group-title="TOP SPORT TV", ABC New York
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F8486
-
-#EXTINF:-1, tvg-id="7" tvg-name="NBC W HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/233.png" group-title="TOP SPORT TV", NBC W HD
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/411
-
-#EXTINF:-1, tvg-id="8" tvg-name="FOX W HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/235.png" group-title="TOP SPORT TV", FOX W HD
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/413
-
-
-#EXTINF:-1, tvg-name="" tvg-logo="www.balltrue.com/wp-content/uploads/2016/02/Astro-Supersport.png" group-title="TOP SPORT TV", ASTRO SuperSport 1
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10726.ts
-#EXTINF:-1, tvg-name="" tvg-logo="www.balltrue.com/wp-content/uploads/2016/02/Astro-Supersport.png" group-title="TOP SPORT TV", ASTRO SuperSport 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/4838.ts
-#EXTINF:-1, tvg-name="" tvg-logo="www.balltrue.com/wp-content/uploads/2016/02/Astro-Supersport.png" group-title="TOP SPORT TV", ASTRO SuperSport 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6219.ts
-#EXTINF:-1, tvg-name="" tvg-logo="www.balltrue.com/wp-content/uploads/2016/02/Astro-Supersport.png" group-title="TOP SPORT TV", ASTRO SuperSport 4
-#http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://151.80.105.182:8000/live/imran/imran/10723.ts
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=306
+#EXTINF:-1, tvg-id="8100" tvg-name="ABC HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/90.png" group-title="TOP SPORT TV", ABC East HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=542
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=204
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1271.png" group-title="TOP SPORT TV", Sky Sports 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=543
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1273.png" group-title="TOP SPORT TV", Sky Sports 3 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=544
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=206
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1275.png" group-title="TOP SPORT TV", Sky Sports 4 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=545
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=207
 #EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", Sky Sports 5 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=546
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=208
 #EXTINF:-1, tvg-name="" tvg-logo="" group-title="TOP SPORT TV", Sky Sports F1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=519
-
-
-#EXTINF:-1, tvg-id="407" tvg-name="MUTV" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/269.png" group-title="TOP SPORT TV", MUTV
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/555
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=210
 #EXTINF:-1, tvg-id="401" tvg-name="NBC Golf" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1205.png" group-title="TOP SPORT TV", NBC Golf
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/2345
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
 #EXTINF:-1, tvg-id="402" tvg-name="Setanta Sports" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/265.png" group-title="TOP SPORT TV", Setanta Sports
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=421
-
-#EXTINF:-1, tvg-id="421" tvg-name="Yes Network" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1812.png" group-title="TOP SPORT TV", Yes Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=151
-
-#EXTINF:-1, tvg-id="156" tvg-name="UFC Network" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1299.png" group-title="TOP SPORT TV", UFC Network
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/9577
-
-#EXTINF:-1 tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1299.png" group-title="TOP SPORT TV", UFC Network 720p
-#http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/75?op_id=18
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=234
 #EXTINF:-1, tvg-id="157" tvg-name="WWE Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2971.png" group-title="TOP SPORT TV", WWE Network HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=155
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=168
 #EXTINF:-1, tvg-id="404" tvg-name="Racing UK" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1285.png" group-title="TOP SPORT TV", Racing HD
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http://localhost/ch/2477
-
-#EXTINF:-1, tvg-id="408" tvg-name="MSG" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1211.png" group-title="TOP SPORT TV", MSG
-#http://localhost:8898/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2351
-
-#EXTINF:-1, tvg-name="NBC Golf" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1205.png" group-title="TOP SPORT TV", NBC Golf
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=412
-
-
-#EXTINF:-1, tvg-name="Sport 1" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", Sport 1
-http://xrxs.net/video/live-p12netw-1164.m3u8?IPTVBRASILHD
-#EXTINF:-1, tvg-name="Sport 2" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", Sport 2
-http://xrxs.net/video/live-p12moun-1164.m3u8?IPTVBRASILHD
-#EXTINF:-1, tvg-name="Sport 3" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", Sport 3
-http://xrxs.net/video/live-p12oreg-1164.m3u8?IPTVBRASILHD
-#EXTINF:-1, tvg-name="Sport 4" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", Sport 4
-http://xrxs.net/video/live-p12baya-1164.m3u8?IPTVBRASILHD
-#EXTINF:-1, tvg-name="Sport 5" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", Sport 5
-http://xrxs.net/video/live-p12losa-1164.m3u8?IPTVBRASILHD
-#EXTINF:-1, tvg-name="Sport 6" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", Sport 6
-http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
-
-
-#EXTINF:-1, tvg-name="Sport 6" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Washington HD
-#http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/397.ts|User-Agent=iptvrestream.net.1
-#EXTINF:-1, tvg-name="Sport 3" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Oregon HD
-#http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/395.ts|User-Agent=iptvrestream.net.1
-#EXTINF:-1, tvg-name="Sport 5" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Los Angeles HD
-http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1, tvg-name="Sport 4" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Bay Area HD
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1, tvg-name="Sport 7" tvg-logo="beavertickets.com/wp-content/uploads/2015/04/Pac-12_Sales_logo.png" group-title="TOP SPORT TV", PAC-12 Arizona HD
-http://xrxs.net/video/live-p12ariz-1164.m3u8?IPTVBRASILHD
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
 ###################### END TOP SPORT TV #################################
 
@@ -1136,90 +1031,77 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
 
 
 
-#<!-------------------------------- Other Sports ------------------------->
+#<!-------------------------------- Other Sports New 2017 ------------------------->
 
 
 #EXTINF:-1, tvg-id="409" tvg-name="Boxnation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", Boxnation
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=420
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=209
 #EXTINF:-1, tvg-id="416" tvg-name="BT Sports 1 HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sports 1 HD
-http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/8.ts|User-Agent=iptvrestream.net.1
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=225
 #EXTINF:-1, tvg-id="417" tvg-name="BT Sports 2 HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sports 2 HD
-http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/6.ts|User-Agent=iptvrestream.net.1
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=226
 #EXTINF:-1, tvg-id="417" tvg-name="BT Sports ESPN HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sports ESPN HD
-http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4.ts|User-Agent=iptvrestream.net.1
-
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=233
 #EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", TSN 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=400
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
 #EXTINF:-1, tvg-id="uktvnow:234" tvg-name="TSN 2 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="TOP SPORT TV", TSN 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=401
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=139
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 3 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=402
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 4 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=403
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=141
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 5 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=404
-
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=142
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet One HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet One HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=405
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ontario HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet Ontario HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=148
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet 360 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=407
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=147
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet World HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="TOP SPORT TV", Sportsnet World HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=408
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 #EXTINF:0 group-title="TOP SPORT TV", tvg-id="Poker Central HD" tvg-logo="media.cardplayer.com/assets/000/016/219/poker_central.jpg", Poker Central HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1074
-
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1074
 #EXTINF:0 group-title="TOP SPORT TV", tvg-id="Fight Network HD" tvg-logo="www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/fight-network/logo/large_logo.jpg", Fight Network HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1082
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=608
 
-#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Arena Sport 1 HD" tvg-logo="www.ktct.cz/files/images/loga/Logo%20AS1HD%20black.jpg", Arena Sport 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=440
-
-#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Super Channel 1 HD" tvg-logo="at1media.com/wp-content/uploads/2014/06/supersport.jpg", Super Channel 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=444
-
+#EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=157
+#EXTINF:-1, tvg-id="" tvg-name="NFL RED ZONE HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL RED ZONE HD - NEW
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3949
 
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 1
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=221
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3168
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 2
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=222
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3169
 #EXTINF:-1, tvg-id="154" tvg-name="NBC HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 3
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=223
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3170
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 4" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 4
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=224
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3171
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 5" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=225
-
-
-
-#EXTINF:-1, tvg-id="" tvg-name="NFL NOW" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL NOW (offline)
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=153
-
-#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1086.png" group-title="TOP SPORT TV", Eurosport 1
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1272
-
-#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1087.png" group-title="TOP SPORT TV", Eurosport 2
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1273
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3172
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 6" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3173
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 77" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3174
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 8" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3175
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 9" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3176
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 10" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3177
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 11" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3178
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 12" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3179
+#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1086.png" group-title="TOP SPORT TV", Eurosport 1 (IT)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=703
+#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1087.png" group-title="TOP SPORT TV", Eurosport 2 (IT)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=704
 #EXTINF:-1, tvg-id="154" tvg-name="Eurosport Extra" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1088.png" group-title="TOP SPORT TV", Eurosport Extra
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1274
-
 #EXTINF:-1, tvg-id="154" tvg-name="Fox Sports 1 HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/100.png" group-title="TOP SPORT TV", PPV [COLOR lime]UFC[/COLOR]
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=100
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=100
 
 
 ######### MTV Music TV ########################################
