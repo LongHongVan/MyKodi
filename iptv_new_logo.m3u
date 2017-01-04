@@ -272,15 +272,19 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CBS
 #EXTINF:-1 tvg-name="FOX HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/FOX.png" group-title="TOP SPORT TV",FOX NFL HD (Local East)
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FOX
 
-
-#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
-
-#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COLOR aqua]Livestreamer[/COLOR] P99
-http://127.0.0.1:19099/livestreamer/aGxzOi8vaHR0cDovL2J1bGxzaXB0di5zZTo5ODUwL2xpdmUvdGh1eXZvMTc0QGdtYWlsLmNvbS93aGUzNDY1Zy8xNDAubTN1OA==
-
-#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2 HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 HD
+# +++++++++++++++++++++++++++++ New iptvsubs 2017 Testing ++++++++++++++++++++++++++
+#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COPLOR lime](New)[/COLOR]
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
+#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COLOR aqua]Livestreamer[/COLOR] P99
+http://127.0.0.1:19099/livestreamer/aGxzOi8vaHR0cDovL2J1bGxzaXB0di5zZTo5ODUwL2xpdmUvdGh1eXZvMTc0QGdtYWlsLmNvbS93aGUzNDY1Zy8xNDMubTN1OA==
+#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2 HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=144
+#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=145
+#EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=146
+
+# +++++++++++++++++++++++++++++ End New iptvsubs 2017 ++++++++++++++++++++++++++===
 
 #EXTINF:-1, tvg-id="" tvg-name="ABC HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/41.png" group-title="TOP SPORT TV", ABC HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=71
@@ -292,14 +296,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=82
 #EXTINF:-1, tvg-id="" tvg-name="FOX W HD" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=73
 
-#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
-#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 SD
-http://185.152.64.236/p2p/c1ba19187bba4d273cdc877dc413564a.m3u8?st=OWc5TMWYEuBqhKDrpK6Gww&e=1482143950|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
-
-#EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
 
 #EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC HD" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=70
