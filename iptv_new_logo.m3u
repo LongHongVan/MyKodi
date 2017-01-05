@@ -2021,8 +2021,10 @@ http://127.0.0.1:19098/livestreamer/296e56c668bc8bd6b0044d3e4f034153.m3u8
 
 #### - Top 10 USA Channels ####################
 
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://connguoi.laodong.com.vn/Uploaded/DangThiChung/2016_08_29/my%20linh_BZXE.jpg",Hoa Hau VN 2016 FHD (Bonus)
-plugin://plugin.video.youtube/play/?video_id=HQy6Rzicnek
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://connguoi.laodong.com.vn/Uploaded/DangThiChung/2016_08_29/my%20linh_BZXE.jpg",Hoa Hau VN 2016 HD (Youtube Test)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/HQy6Rzicnek.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-n4v7sn7y.googlevideo.com/gcr/us/playlist_type/DVR/mm/32/mn/sn-n4v7sn7y/ms/lv/mv/m/nh/IgpwcjAyLnBhbzAzKg02Ni4yMDguMjI4LjY5/pl/17/dover/6/upn/R4zxx9Dt39U/mt/1483597691/ip/76.21.124.238/ipbits/0/expire/1483619335/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/5B767786A76FF6179D1B9FBE0F50883322CCCB61.1D3870D6F598B9386C122DCE0EB2121B73D3B720/key/dg_yt0/playlist/index.m3u8
+#plugin://plugin.video.youtube/play/?video_id=HQy6Rzicnek
+
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkFRPNwfIXZfG0Uka4UjmF_Fw9mR24WndKmy3_CE8iDGTlurWk",Que Huong HD (Bonus)
 rtmp://vf10.aditmedia.net/ingestx/ius_000130
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.vietbay.tv/images/file/tplyBIXp0QgBAikO/vietbay-television-logo.png",VietBay HD (Bonus)
