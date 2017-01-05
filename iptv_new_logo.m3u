@@ -101,23 +101,15 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=381
 
 ###################### TOP Movies ######################################
 
-#EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", >> [B][COLOR red]Adult 18+[/COLOR][/B] PPV <<
+#EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", >> [B][COLOR red]Adult 18+[/COLOR][/B] 2017 <<
 http://google.com
 
 #EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Playboy TV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=488
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=300
 #EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/1713.ts
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1127
 #EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/3476.ts
-
-#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://37.187.162.224:1557/live/drenbox16/kJdjsAImAT/1698.ts
-
-#EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Babe Station Extra
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1124
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Passion
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
@@ -130,25 +122,19 @@ http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
 
 #EXTINF:-1, tvg-id="2" tvg-name="Hustler TV USA" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Hustler TV USA
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=496
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=302
 
 #EXTINF:-1, tvg-id="2" tvg-name="Playboy Asia" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Playboy Asia
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=480
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1119
 
 #EXTINF:-1, tvg-id="2" tvg-name="Penthouse Asia" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Penthouse Asia
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=481
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1120
 
 #EXTINF:-1, tvg-id="2" tvg-name="VIVID TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", VIVID TV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=492
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=301
 
 #EXTINF:-1, tvg-id="2" tvg-name="Honey HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Honey HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=482
-
-#EXTINF:-1, tvg-id="2" tvg-name="Showtime Showcase" tvg-logo="wtcks.com/assets/images/NoCrop_136x136/c260ef93a15a444b945309b5e06abcd4.jpg" group-title="ADULT TV", Showtime Showcase
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=321
-
-
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1121
 
 
 #EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", >>[B][COLOR yellow]LIVE MOVIES[/COLOR][/B] PPV <<
