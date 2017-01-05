@@ -536,15 +536,14 @@ http://64.71.129.2:8080/hls/ius_000114.m3u8
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png", VietFace 57.2[COLOR yellow] HD[/COLOR]
 http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png", VietFace LA
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2425
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.latetfest.net/wp-content/uploads/2012/05/VNA-TV-Logo.png", VBS
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=952
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2429
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR]HD[/COLOR]
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=950
-
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR]HD[/COLOR] Streamer 99
-http://127.0.0.1:19099/livestreamer/aGxzOi8vaHR0cDovL2J1bGxzaXB0di5zZTo5ODUwL2xpdmUvdGh1eXZvMTc0QGdtYWlsLmNvbS93aGUzNDY1Zy85NTAubTN1OA==
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2433
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="tvtvtv.ru/icons/logo_5122.png", Việt Mỹ TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
@@ -562,16 +561,16 @@ http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w19893
 http://64.71.129.2:8080/hls/ius_000131.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg", VStar TV [COLOR teal]LA TV[/COLOR]
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=960
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2430
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg", Viet Pho TV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=959
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2428
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="yt3.ggpht.com/-NTEw5Vvn_pA/AAAAAAAAAAI/AAAAAAAAAAA/l4_jd0MiVhY/s88-c-k-no/photo.jpg", VietTV Show [COLOR yellow]HD[/COLOR]
 http://api.new.livestream.com/accounts/11617763/events/3711057/videos/75928742.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", Saigon TV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=958
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", KTLA
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2426
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="fs01.androidpit.info/a/22/2f/vbs-television-vietnamese-tv-222fac-w192.png", VBS TV
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
