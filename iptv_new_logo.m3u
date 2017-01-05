@@ -253,7 +253,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 
 #<!-------------------------------- sports HD ---------------->
 
-#EXTINF:-1, tvg-name="" tvg-logo="https://image.winudf.com/140/b01481562d0fef/screen-1.jpg" group-title="TOP SPORT TV", [COLOR teal]TOP SPORT TV 79 Ch 2017[/COLOR]
+#EXTINF:-1, tvg-name="" tvg-logo="https://image.winudf.com/140/b01481562d0fef/screen-1.jpg" group-title="TOP SPORT TV", [COLOR teal]TOP SPORT TV 79-CH 2017[/COLOR]
 http://google.com
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network HD
@@ -967,7 +967,7 @@ http://www.mediafire.com/download/z273q3kyw6ciarr/TraiTimKhongNguYen.mkv
 
 #<!--------------------------------CANADA ------------------------->
 
-#EXTINF:-1, tvg-name="" tvg-logo="http://www.drodd.com/images15/canada-flag2.jpg" group-title="TOP SPORT TV", [COLOR teal]News TV 22 Ch 2017[/COLOR]
+#EXTINF:-1, tvg-name="" tvg-logo="http://www.drodd.com/images15/canada-flag2.jpg" group-title="CANADA", [COLOR teal]Canada 22-CH 2017[/COLOR]
 http://google.com
 
 #EXTINF:-1, tvg-id="8154" tvg-name="WeatherNation" tvg-logo="www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0002/2390/brand.gif?itok=jU1s1wrp" group-title="CANADA", WeatherNation
@@ -1164,7 +1164,7 @@ rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.higherme
 
 ##################### NEWS TV 2017 ##################################
 
-#EXTINF:-1, tvg-name="" tvg-logo="https://lh3.ggpht.com/vuP80gsKVzgiFNsNJMNzYx3NHMxcUUnkWg0q_WxsqF-LRVd0V0SlBV0K-jUfYGwd2Q=w300" group-title="TOP SPORT TV", [COLOR teal]News TV 19 Ch 2017[/COLOR]
+#EXTINF:-1, tvg-name="" tvg-logo="https://lh3.ggpht.com/vuP80gsKVzgiFNsNJMNzYx3NHMxcUUnkWg0q_WxsqF-LRVd0V0SlBV0K-jUfYGwd2Q=w300" group-title="NEWS TV", [COLOR teal]News TV 19-CH 2017[/COLOR]
 http://google.com
 
 #EXTINF:0, tvg-id="8154" tvg-name="Weather Channel" tvg-logo="" group-title="NEWS TV", Weather USA
@@ -1206,7 +1206,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=365
 
 
 # +++++++++++++++++++++++++++ Top Cloud USA 37 Ch 2017 ++++++++++++++++++++++++++++++++++++++++++++
-#EXTINF:-1, tvg-name="" tvg-logo="https://lh3.ggpht.com/6mHMKkASwAc7cJ71ukBGaw8KKiQjo4uIsAmCBrt0BLTa24cvgQHh9d9IlFARJLrx16ZU=w300" group-title="Top Cloud USA TV", [COLOR teal]Top Cloud USA 37 Ch 2017[/COLOR]
+#EXTINF:-1, tvg-name="" tvg-logo="https://lh3.ggpht.com/6mHMKkASwAc7cJ71ukBGaw8KKiQjo4uIsAmCBrt0BLTa24cvgQHh9d9IlFARJLrx16ZU=w300" group-title="Top Cloud USA TV", [COLOR teal]Top Cloud USA 37-CH 2017[/COLOR]
 http://google.com
 
 #EXTINF:-1, tvg-name="Bravo HD" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo HD
