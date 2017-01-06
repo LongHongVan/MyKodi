@@ -353,7 +353,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 #EXTINF:-1, tvg-id="9241" tvg-name="ESKA Best Music" tvg-logo="digitaltveurope.net/wp-content/uploads/2011/09/Eska-TV1-85x85.jpg" group-title="Music Channels", ESKA Best Music HD [COLOR yellow]720p[/COLOR]
 http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-name="MTV" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Music Channels", MTV Live
+#EXTINF:-1, tvg-name="MTV MUSIC" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Music Channels", MTV MUSIC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=160
 
 
@@ -1090,7 +1090,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.uk
 
 #EXTINF:-1 group-title="Music Channels", MU TV
 http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2182.ts
-#EXTINF:-1 group-title="Music Channels", MTV Music
+#EXTINF:-1 group-title="Music Channels", MTV MUSIC
 http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2183.ts
 #EXTINF:-1 group-title="Music Channels", MTV HITS
 http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2184.ts
@@ -1196,7 +1196,7 @@ http://google.com
 
 #EXTINF:-1, tvg-name="Bravo" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=353
-#EXTINF:0 tvg-name="A and E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A&E
+#EXTINF:0 tvg-name="A and E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A and E
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=347
 #EXTINF:0 tvg-name="AMC" group-title="Top Cloud USA TV" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/5/5b/Amc.jpg/revision/latest?cb=20120503012834", AMC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=334
@@ -1206,13 +1206,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=395
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1748
 #EXTINF:0 tvg-name="Discovery Channel" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=319
-#EXTINF:0 tvg-name="History" group-title="Top Cloud USA TV" tvg-logo="2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png", History
+#EXTINF:0 tvg-name="HISTORY" group-title="Top Cloud USA TV" tvg-logo="2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png", HISTORY
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=322
-#EXTINF:0 tvg-name="Nat Geo" group-title="Top Cloud USA TV" tvg-logo="www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg", National Geographic Channel
+#EXTINF:0 tvg-name="National Geographic Channel HD" group-title="Top Cloud USA TV" tvg-logo="www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg", National Geographic Channel HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=330
 #EXTINF:0 tvg-name="Nat Geo Wild" group-title="Top Cloud USA TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png", Nat Geo Wild
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=331
-#EXTINF:0 tvg-name="Nick" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nick HD
+#EXTINF:0 tvg-name="Nickelodeon" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nickelodeon
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=394
 #EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=332
@@ -1220,7 +1220,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=332
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=326
 #EXTINF:0 tvg-name="Spike" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
-#EXTINF:0 tvg-name="Tru TV East" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV
+#EXTINF:0 tvg-name="True Entertainment" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", True Entertainment
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=340
 #EXTINF:0 tvg-name="USA Network" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
@@ -1242,7 +1242,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=8
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=304
 #EXTINF:-1, tvg-name="Travel Channel UK" tvg-logo="cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM28E.png" group-title="Top Cloud USA TV", Travel Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=349
-#EXTINF:-1, tvg-name="SYFY" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", SYFY HD
+#EXTINF:-1, tvg-name="Syfy" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", Syfy
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=339
 #EXTINF:-1, tvg-name="Food Network" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1788
@@ -1336,22 +1336,22 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Fox%20News
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/FX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FX HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FX
 
-#EXTINF:-1 tvg-name="History" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/History.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",History HD
-http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=History
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/HISTORY.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",HISTORY HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=HISTORY
 
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Lifetime.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Lifetime HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Lifetime
 
-#EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/National%20Geographic.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",National Geographic HD
+#EXTINF:-1 tvg-name="National Geographic Channel HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/National%20Geographic.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",National Geographic HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=National%20Geographic
 
-#EXTINF:-1 tvg-name="Nick" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Nickelodeon.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Nick HD
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Nickelodeon.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Nickelodeon
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Nickelodeon
 
 #EXTINF:-1 tvg-name="Spike" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/SPIKE%20TV.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Spike HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=SPIKE%20V
 
-#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Syfy.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Syfy HD
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Syfy.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Syfy
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Syfy
 
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/TBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TBS HD
@@ -1725,7 +1725,7 @@ http://127.0.0.1:19099/livestreamer/296e56c668bc8bd6b0044d3e4f034153.m3u8
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="Bravo" tvg-logo="www.thelogodb.com/images/media/logo/qwqrws1434470899.png", Bravo
 http://127.0.0.1:19099/livestreamer/582b19f3ef5459a2f139ec69ee2053d0.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A and E
 http://127.0.0.1:19099/livestreamer/ce425ca32dea0f37b22717ae989bcffb.m3u8
 
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC
@@ -1740,10 +1740,10 @@ http://127.0.0.1:19099/livestreamer/e00dd9ccbf6cba8e47ca458993f307c1.m3u8
 #EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/syytuy1467823090.png", USA Network
 http://127.0.0.1:19099/livestreamer/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", History
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", HISTORY
 http://127.0.0.1:19099/livestreamer/d722293bb9bbf20cc112924ef000a225.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/quwyru1480459347.png", SYFY HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/quwyru1480459347.png", Syfy
 http://127.0.0.1:19099/livestreamer/d8320fedb4a90fb06c9f7bff96a7e619.m3u8
 
 #EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xpttwp1433424253.png", Animal Planet
@@ -1823,7 +1823,7 @@ http://xrxs.net/video/live-p12baya-4728.m3u8
 ################### End Pac-12 #####################################
 
 #EXTINF:-1 group-title="TEST OtherTV DirectLink F4M Ports",  tvg-id="" tvg-name="Fox New York" tvg-logo="", Fox NFL (OneTV)
-http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=QLb_tH0fQLGpd7CHXOmeuA&e=1482220431|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
+http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=QLb_tH0fQLGpd7CHXOmeuA and E=1482220431|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
 
 ################USAIPTV Entertainment F4M ##########################
@@ -1855,7 +1855,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=USA&tmp=1&portal=1&channel=http://usaipt
 #EXTINF:-1   tvg-id="" group-title="USAIPTV Entertainment and Sport",Lifetime HD
 http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/475.mpegts
 
-#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",A&E HD
+#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",A and E HD
 http://localhost:8898/tsf4mst.m3u?&pkid=AE&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/300.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ABC
 http://localhost:8898/tsf4mst.m3u?&pkid=ABC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/9.mpegts
@@ -2045,7 +2045,7 @@ http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvNGQw
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM0L3AycC8xMjQzNTU5MzI1NWUwNjk2ZWMwYTA5MDcxYjk2Zjk3ZS5tM3U4P3N0PXlxdWt2R0VaRkxjYUdHZGFOd2lPRXcmZT0xNDg0MTg2MjMzfFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png",ESPN HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM1L3AycC9hY2EwYTMxZDE0Yzg1ZTE5ZjcwMjNjOWEzODg5ZjM3Yi5tM3U4P3N0PUVrUHB1d1lTdXZmXzlyT0dPeWFTQWcmZT0xNDg0MTg2MjM0fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png",A&E HD
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png",A and E HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS41OS4yMjIuMjMyL3AycC9jZTQyNWNhMzJkZWEwZjM3YjIyNzE3YWU5ODliY2ZmYi5tM3U4P3N0PTYtOTYyTHFHTWZORUFIeC1zYzJCRXcmZT0xNDg0MTg2MjM1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png",AMC HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM0L3AycC9iMDYzMTZiMjliNmM3ODhlY2Y5NTI4NzU2N2NiMmEzYS5tM3U4P3N0PXlzQlc0NWxFRGtrREItOGxfejgyVVEmZT0xNDg0MTg2MjM2fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
@@ -2061,9 +2061,9 @@ http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvZmI2
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvMjk2ZTU2YzY2OGJjOGJkNmIwMDQ0ZDNlNGYwMzQxNTMubTN1OD9zdD1FR3lkaDlNWVdFQnkwQmRsXzZpbEtBJmU9MTQ4NDE4NjI0MXxVc2VyLUFnZW50PU1vemlsbGElMkY1LjAlMjAlMjhMaW51eCUzQiUyMEFuZHJvaWQlMjA1LjEuMSUzQiUyME5leHVzJTIwNSUyMEJ1aWxkJTJGTE1ZNDhCJTNCJTIwd3YlMjklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMCUyOEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvJTI5JTIwVmVyc2lvbiUyRjQuMCUyMENocm9tZSUyRjQzLjAuMjM1Ny42NSUyME1vYmlsZSUyMFNhZmFyaSUyRjUzNy4zNiZyZWZlcmVyPW1vYmRyby5tZQ==
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png",Spike HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS41OS4yMjIuMjMyL3AycC83NDRhMmU2ZDYzOGVmNTk5NjM5NDcxN2U5ZTg3MTcxNy5tM3U4P3N0PUFfZmoza3Bnb0V5R2JVX1NXYWgydXcmZT0xNDg0MjIwNTc2fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png",History HD
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png",HISTORY HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvZDcyMjI5M2JiOWJiZjIwY2MxMTI5MjRlZjAwMGEyMjUubTN1OD9zdD04bEtlVjd4aGtOTTJOM2ZUQmdTUkhBJmU9MTQ4NDIyMDY2MXxVc2VyLUFnZW50PU1vemlsbGElMkY1LjAlMjAlMjhMaW51eCUzQiUyMEFuZHJvaWQlMjA1LjEuMSUzQiUyME5leHVzJTIwNSUyMEJ1aWxkJTJGTE1ZNDhCJTNCJTIwd3YlMjklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMCUyOEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvJTI5JTIwVmVyc2lvbiUyRjQuMCUyMENocm9tZSUyRjQzLjAuMjM1Ny42NSUyME1vYmlsZSUyMFNhZmFyaSUyRjUzNy4zNiZyZWZlcmVyPW1vYmRyby5tZQ==
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/quwyru1480459347.png",SYFY HD
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/quwyru1480459347.png",Syfy
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kODMyMGZlZGI0YTkwZmIwNmM5ZjdiZmY5NmE3ZTYxOS5tM3U4P3N0PW5WanlRQVA2M3IyZzZtM2V6UllZNWcmZT0xNDg0MjIwNzMzfFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png",Animal Planet HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS41OS4yMjIuMjMyL3AycC9hMGY4ZGRiOGM4MjUxYTY4ZjEzNjY0OGIzMmMwZjYyZC5tM3U4P3N0PUhUNkk5QVFCMzNaSUZzenZSbG9qNFEmZT0xNDg0MTg2MjQ1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
