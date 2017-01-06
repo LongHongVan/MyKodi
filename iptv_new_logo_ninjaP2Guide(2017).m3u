@@ -140,17 +140,17 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1121
 #EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", >>[B][COLOR yellow]LIVE MOVIES[/COLOR][/B] PPV <<
 http://google.com
 
-#EXTINF:-1, tvg-id="2" tvg-name="AMC" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", AMC HD
+#EXTINF:-1, tvg-id="2" tvg-name="AMC HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", AMC HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=131
 
 #EXTINF:-1, tvg-id="2" tvg-name="TCM US" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", TCM US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=132
 
 
-#EXTINF:-1, tvg-id="2" tvg-name="IFC" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", IFC HD
+#EXTINF:-1, tvg-id="2" tvg-name="IFC HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", IFC HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=133
 
-#EXTINF:-1, tvg-id="2" tvg-name="FX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FX HD
+#EXTINF:-1, tvg-id="2" tvg-name="FX HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FX HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=136
 
 
@@ -192,7 +192,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=315
 #EXTINF:-1, tvg-id="2" tvg-name="Showtime" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Showtime
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
 
-#EXTINF:-1, tvg-id="2" tvg-name="Action Movies" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Action Movies HD 
+#EXTINF:-1, tvg-id="2" tvg-name="Action Movies HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Action Movies HD 
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=320
 
 
@@ -220,7 +220,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=528
 #EXTINF:-1, tvg-id="2" tvg-name="SKY Select" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY Select
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=533
 
-#EXTINF:-1, tvg-id="2" tvg-name="Sundance" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Sundance HD
+#EXTINF:-1, tvg-id="2" tvg-name="Sundance HD" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Sundance HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
 
 #EXTINF:-1, tvg-id="2" tvg-name="Lifetime" tvg-logo="nowwatchtvlive.co/wp-content/uploads/2011/07/LMN-hd-logo.jpeg" group-title="TOP MOVIES TV", Lifetime
@@ -242,7 +242,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 #EXTINF:-1, tvg-name="" tvg-logo="https://image.winudf.com/140/b01481562d0fef/screen-1.jpg" group-title="TOP SPORT TV", [COLOR teal]TOP SPORT TV 79-CH 2017[/COLOR]
 http://google.com
 
-#EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network HD
+#EXTINF:-1, tvg-id="" tvg-name="NFL Network HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=157
 
 
@@ -259,15 +259,15 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CBS
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FOX
 
 # +++++++++++++++++++++++++++++ New iptvsubs 2017 Testing ++++++++++++++++++++++++++
-#EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COLOR lime](New)[/COLOR]
+#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COLOR lime](New)[/COLOR]
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
-#EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COLOR lime]Livestreamer[/COLOR] P99
+#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COLOR lime]Livestreamer[/COLOR] P99
 http://127.0.0.1:19099/livestreamer/aGxzOi8vaHR0cDovL29rMi5zZTo4MDAwL2xpdmUvdGh1eXZvMTc0QGdtYWlsLmNvbS93aGUzNDY1Zy8xNDMubTN1OA==
-#EXTINF:-1, tvg-id="144" tvg-name="ESPN2" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 HD
+#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2 HD" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=144
-#EXTINF:-1, tvg-name="Fox Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 HD
+#EXTINF:-1, tvg-name="Fox Sports 1 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=145
-#EXTINF:-1, tvg-name="Fox Sports 2" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 HD
+#EXTINF:-1, tvg-name="Fox Sports 2 HD" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=146
 
 #EXTINF:-1, tvg-id="" tvg-name="ABC HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/41.png" group-title="TOP SPORT TV", ABC HD
@@ -292,11 +292,11 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=171
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=236
 #EXTINF:-1, tvg-id="159" tvg-name="GOL TV ES HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", GOL TV ES HD (Soccer)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=424
-#EXTINF:-1, tvg-id="159" tvg-name="NBC Sports Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sports Network HD
+#EXTINF:-1, tvg-id="159" tvg-name="NBC Sports Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sports Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 #EXTINF:-1, tvg-name="ESPN Latinoamerica" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN Latinoamerica
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=238
-#EXTINF:-1, tvg-id="9410" tvg-name="TNT" tvg-logo="www.everyjoe.com/files/2009/09/tnt-logo.jpg" group-title="TOP SPORT TV", TNT HD
+#EXTINF:-1, tvg-id="9410" tvg-name="TNT HD" tvg-logo="www.everyjoe.com/files/2009/09/tnt-logo.jpg" group-title="TOP SPORT TV", TNT HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=341
 #EXTINF:-1, tvg-id="400" tvg-name="Super Tennis Italia" tvg-logo="www.snescentral.com/0/6/9/0690/logo.gif" group-title="TOP SPORT TV", Super Tennis Italia
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=639
@@ -304,7 +304,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=639
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=167
 #EXTINF:-1 group-title="TOP SPORT TV" tvg-logo="soccer.indonewyork.com/wp-content/uploads/2013/07/wpid-mutv.jpeg", MUTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=228
-#EXTINF:-1, tvg-id="155" tvg-name="NBA TV" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA TV HD
+#EXTINF:-1, tvg-id="155" tvg-name="NBA TV HD" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA TV HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=165
 #EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2190

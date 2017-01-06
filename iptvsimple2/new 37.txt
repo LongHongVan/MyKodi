@@ -1,3 +1,58 @@
+01/04/2017
+
++++++++ Today Top Site IPTV +++++++++++++ 
+
+http://universeiptv.com:8000/get.php?username=shaker&password=shaker123&type=m3u 41 USA
+http://137.74.93.219:8000/get.php?username=monir&password=monir&type=m3u 22 USA
+http://lucky.lts1.net:23000/get.php?username=qFJ1w5lBv1&password=3OpOVYDHC5&type=m3u 15 USA
+http://94.242.54.59:8000/get.php?username=shaker&password=shaker123&type=m3u 41 USA
+
+New (S4)
+http://163.172.81.33:1234/live/iptvrestream.net5/CAQ8nIN9PX/318.ts|User-Agent=fuck5
+
++++++++++++++++++++++++++++++++++++++++++++
+
+http://iptv.sat-tv.net:8000/get.php?username=dahia&password=dahia&type=m3u No USA
+
+http://cms.tvhd4k.com:19500/get.php?username=fred&password=fred&type=m3u No USA
+
+
+
+http://bstream.summerwaves.net:8000/get.php?username=henry&password=03042016&type=m3u No USA
+
+http://work.myvisio.me:9889/get.php?username=crazybull2&password=crazybull2&type=m3u No USA
+
+http://v-iptv.dyndns.org:8000/get.php?username=mzampori&password=RWGabMTkXT&type=m3u 7 USA
+
+http://pro213.com/get.php?username=ozcelik685&password=jux49s&type=m3u 5 USA
+
+http://151.80.97.112:9559/get.php?username=MarcoDLG65&password=Fratginogiga65&type=m3u No USA
+
+
+
+http://lucky.lts1.net:23000/get.php?username=dJsVZN2HW2&password=Q5tHtJiQlY&type=m3u
+
+http://lucky.lts1.net:23000/get.php?username=roxy&password=BWVqWQKvfS&type=m3u
+
+http://fullblack.fullapple.me:8000/get.php?username=androi@125&password=eduard@toian&type=m3u No USA
+
+http://v-iptv.dyndns.org:8000/get.php?username=VP0902DBF8RXI3&password=9VXZC30V&type=m3u 7 USA
+
+
+
+http://37.187.155.131:8000/get.php?username=dahia&password=dahia&type=m3u No USA
+
+http://79.137.39.9:8000/get.php?username=ihaH1lTVms&password=mo90mLAwwg&type=m3u&output=mpegts No uSA
+
+http://83.79.183.53:9981/playlist.m3u8
+
+http://190.206.121.103:8000/playlist.m3u8
+
+http://200.84.141.36:8000/playlist.m3u8
+
+http://83.79.183.53:9981/playlist.m3u8
+
+
 12/27/2016
 
 http://orbit-iptv.com:2500/get.php?username=irfan&password=irfan&type=m3u&output=mpegts 148 USA
@@ -5,14 +60,15 @@ http://orbit-iptv.com:2500/get.php?username=irfan&password=irfan&type=m3u&output
 ++++++++++++++ F4M TEST +++++++++++++++++
 #EXTINF:-1,USA:E! HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://orbit-iptv.com:2500/live/irfan/irfan/2914.ts OK
-#EXTINF:-1,USA:HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://orbit-iptv.com:2500/live/irfan/irfan/5084.ts Not working
+#EXTINF:-1,Music | MTV Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://orbit-iptv.com:2500/live/irfan/irfan/5629.ts
 
 
 http://163.172.81.33:1234/get.php?username=iptvrestream.net&password===> www.iptvrestream.net <==&type=m3u&output=mpegts
 
 #EXTINF:-1,Olympic Channel
 http://163.172.81.33:1234/live/iptvrestream.net/==> www.iptvrestream.net <==/318.ts|User-Agent=fuck3
+http://163.172.81.33:1234/live/iptvrestream.net5/CAQ8nIN9PX/318.ts|User-Agent=fuck4
 
 
 http://37.187.175.177:8000/get.php?username=hanger&password=hanger&type=m3u 74 USA - requires F4M to work
@@ -274,8 +330,8 @@ TEST F4M
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.202.90.35:8080/live/gB8P7mObuH/xGj0IJ2TVy/1032.ts
 
 old stuff - still works good
-http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=ts Good
-http://smashtv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=mpegts Good
+http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp&output=ts Good
+http://smashtv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp&output=mpegts Good
 http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 USA Similar Port "iptv.monkeycline"
 
 TEST F4M
