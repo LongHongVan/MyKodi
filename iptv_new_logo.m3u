@@ -106,9 +106,9 @@ http://google.com
 
 #EXTINF:-1, tvg-id="2" tvg-name="Playboy TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Playboy TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=300
-#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
+#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Pinko TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1127
-#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
+#EXTINF:-1, tvg-id="2" tvg-name="PLAYBOY" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Europe TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1124
 
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", Passion
@@ -133,7 +133,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1120
 #EXTINF:-1, tvg-id="2" tvg-name="VIVID TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", VIVID TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=301
 
-#EXTINF:-1, tvg-id="2" tvg-name="Honey HD" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Honey HD
+#EXTINF:-1, tvg-id="2" tvg-name="Honey" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Honey HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1121
 
 
@@ -270,27 +270,27 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=145
 #EXTINF:-1, tvg-name="Fox Sports 2" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=146
 
-#EXTINF:-1, tvg-id="" tvg-name="ABC" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/41.png" group-title="TOP SPORT TV", ABC HD
+#EXTINF:-1, tvg-id="" tvg-name="ABC" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/41.png" group-title="TOP SPORT TV", ABC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=10
 #EXTINF:-1, tvg-id="" tvg-name="Fox New York" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", Fox New York
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9
-#EXTINF:-1, tvg-id="" tvg-name="FOX W HD" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX W HD
+#EXTINF:-1, tvg-id="" tvg-name="FOX W" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", FOX W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=305
-#EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC HD
+#EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC New York" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=7
-#EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC W HD" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC W HD
+#EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC W" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=303
-#EXTINF:-1, tvg-id="" tvg-name="CBS New York" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/e/e0/NFLCBS06.png" group-title="TOP SPORT TV", CBS HD
+#EXTINF:-1, tvg-id="" tvg-name="CBS New York" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/e/e0/NFLCBS06.png" group-title="TOP SPORT TV", CBS New York
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=8
-#EXTINF:-1, tvg-id="" tvg-name="CBS W HD" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS W HD
+#EXTINF:-1, tvg-id="" tvg-name="CBS Miami" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS Miami HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=304
-#EXTINF:-1, tvg-id="" tvg-name="CBS Sports Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/92.png" group-title="TOP SPORT TV", CBS Sports Network HD
+#EXTINF:-1, tvg-id="" tvg-name="CBS Sports Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/92.png" group-title="TOP SPORT TV", CBS Sports Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=169
-#EXTINF:-1, tvg-id="159" tvg-name="BeIN Sports USA HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BeIN Sports USA HD
+#EXTINF:-1, tvg-id="159" tvg-name="BeIN Sports USA" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BeIN Sports USA HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=171
 #EXTINF:-1, tvg-id="159" tvg-name="BeinSports en Espa" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BeinSports en Espa
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=236
-#EXTINF:-1, tvg-id="159" tvg-name="GOL TV ES HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", GOL TV ES HD (Soccer)
+#EXTINF:-1, tvg-id="159" tvg-name="GOL TV ES" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", GOL TV ES HD (Soccer)
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=424
 #EXTINF:-1, tvg-id="159" tvg-name="NBC Sports Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sports Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
@@ -320,7 +320,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2194
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2195
 #EXTINF:-1, tvg-id="153" tvg-name="NHL Network USA" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/41.png" group-title="TOP SPORT TV", NHL Network USA
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
-#EXTINF:-1, tvg-id="5" tvg-name="ABC W HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2334.png" group-title="TOP SPORT TV", ABC W HD
+#EXTINF:-1, tvg-id="5" tvg-name="ABC W" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2334.png" group-title="TOP SPORT TV", ABC W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=306
 #EXTINF:-1, tvg-id="8100" tvg-name="ABC" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/90.png" group-title="TOP SPORT TV", ABC East HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
@@ -340,7 +340,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=210
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
 #EXTINF:-1, tvg-id="402" tvg-name="Setanta Sports" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/265.png" group-title="TOP SPORT TV", Setanta Sports
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=234
-#EXTINF:-1, tvg-id="157" tvg-name="WWE Network HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2971.png" group-title="TOP SPORT TV", WWE Network HD
+#EXTINF:-1, tvg-id="157" tvg-name="WWE Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2971.png" group-title="TOP SPORT TV", WWE Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=168
 #EXTINF:-1, tvg-id="404" tvg-name="Racing UK" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1285.png" group-title="TOP SPORT TV", Racing HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
@@ -350,17 +350,17 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
 #<!-------------------------------- Music HD ------------------------->
 
-#EXTINF:-1, tvg-id="9241" tvg-name="ESKA Best Music HD" tvg-logo="digitaltveurope.net/wp-content/uploads/2011/09/Eska-TV1-85x85.jpg" group-title="Music Channels", ESKA Best Music HD [COLOR yellow]720p[/COLOR]
+#EXTINF:-1, tvg-id="9241" tvg-name="ESKA Best Music" tvg-logo="digitaltveurope.net/wp-content/uploads/2011/09/Eska-TV1-85x85.jpg" group-title="Music Channels", ESKA Best Music HD [COLOR yellow]720p[/COLOR]
 http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-name="MTV" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Music Channels", MTV Live
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=160
 
 
-#EXTINF:-1, tvg-id="9242" tvg-name="Djing HD" tvg-logo="us.djing.com/newimages/logo.png" group-title="Music Channels", Djing HD [COLOR yellow]720p[/COLOR]
+#EXTINF:-1, tvg-id="9242" tvg-name="Djing" tvg-logo="us.djing.com/newimages/logo.png" group-title="Music Channels", Djing HD [COLOR yellow]720p[/COLOR]
 http://www.djing.com/tv/h-05.m3u8
 
-#EXTINF:-1, tvg-id="9243" tvg-name="Djing Hot HD" tvg-logo="us.djing.com/newimages/logo.png" group-title="Music Channels", Djing Animation HD [COLOR yellow]720p[/COLOR]
+#EXTINF:-1, tvg-id="9243" tvg-name="Djing Hot" tvg-logo="us.djing.com/newimages/logo.png" group-title="Music Channels", Djing Animation HD [COLOR yellow]720p[/COLOR]
 http://www.djing.com/tv/a-05.m3u8
 
 
@@ -993,13 +993,13 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=141
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=142
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet One HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sportsnet One HD
+#EXTINF:-1, tvg-id="" tvg-name="Sports Net One" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sports Net One
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ontario HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sportsnet Ontario HD
+#EXTINF:-1, tvg-id="" tvg-name="Sports Net Ontario" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sports Net Ontario
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=148
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sportsnet 360 HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sportsnet 360 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=147
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet World HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet World HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet World" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet World HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
 
@@ -1015,11 +1015,11 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
 #EXTINF:-1, tvg-id="409" tvg-name="Boxnation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", Boxnation
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=209
-#EXTINF:-1, tvg-id="416" tvg-name="BT Sports 1 HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sports 1 HD
+#EXTINF:-1, tvg-id="416" tvg-name="BT Sports 1" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sports 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=225
-#EXTINF:-1, tvg-id="417" tvg-name="BT Sports 2 HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sports 2 HD
+#EXTINF:-1, tvg-id="417" tvg-name="BT Sports 2" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sports 2 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=226
-#EXTINF:-1, tvg-id="417" tvg-name="BT Sports ESPN HD" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sports ESPN HD
+#EXTINF:-1, tvg-id="417" tvg-name="BT Sports ESPN" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sports ESPN HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=233
 #EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", TSN 1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
@@ -1031,22 +1031,22 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=141
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=142
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet One HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet One HD
+#EXTINF:-1, tvg-id="" tvg-name="Sports Net One" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sports Net One
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ontario HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet Ontario HD
+#EXTINF:-1, tvg-id="" tvg-name="Sports Net Ontario" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sports Net Ontario
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=148
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360 HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet 360 HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet 360 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=147
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet World HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="TOP SPORT TV", Sportsnet World HD
+#EXTINF:-1, tvg-id="" tvg-name="Sportsnet World" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="TOP SPORT TV", Sportsnet World HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
-#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Poker Central HD" tvg-logo="media.cardplayer.com/assets/000/016/219/poker_central.jpg", Poker Central HD
+#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Poker Central" tvg-logo="media.cardplayer.com/assets/000/016/219/poker_central.jpg", Poker Central HD
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1074
-#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Fight Network HD" tvg-logo="www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/fight-network/logo/large_logo.jpg", Fight Network HD
+#EXTINF:0 group-title="TOP SPORT TV", tvg-id="Fight Network" tvg-logo="www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/fight-network/logo/large_logo.jpg", Fight Network HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=608
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=157
-#EXTINF:-1, tvg-id="" tvg-name="NFL RED ZONE HD" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL RED ZONE HD - NEW
+#EXTINF:-1, tvg-id="" tvg-name="NFL RED ZONE" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL RED ZONE HD - NEW
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3949
 
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 1
@@ -1154,23 +1154,23 @@ http://google.com
 
 #EXTINF:0, tvg-id="8154" tvg-name="Weather Channel" tvg-logo="" group-title="NEWS TV", Weather USA
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3080
-#EXTINF:0 tvg-name="Fox News HD" group-title="NEWS TV" tvg-logo="", Fox News HD
+#EXTINF:0 tvg-name="Fox News" group-title="NEWS TV" tvg-logo="", Fox News HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=363
-#EXTINF:-1, tvg-id="9158" tvg-name="CNN News HD" tvg-logo="s-media-cache-ak0.pinimg.com/736x/e2/30/c2/e230c201a5cf729bedab24858d3cfbf1.jpg" group-title="NEWS TV", CNN News HD
+#EXTINF:-1, tvg-id="9158" tvg-name="CNN News" tvg-logo="s-media-cache-ak0.pinimg.com/736x/e2/30/c2/e230c201a5cf729bedab24858d3cfbf1.jpg" group-title="NEWS TV", CNN News HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=360
 #EXTINF:0 group-title="NEWS TV", al jazeera News
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1661
 #EXTINF:-1, tvg-id="9158" tvg-name="NASA TV" tvg-logo="1.bp.blogspot.com/-B0Ag1ukoqkQ/UvUHqYRa68I/AAAAAAAAFSU/PdFV7YatyPk/s1600/nasa%2Btv.png" group-title="NEWS TV", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=
-#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="ABC News" tvg-logo="hupload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC HD_logo.png/220px-ABC HD_logo.png", ABC News HD
+#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="ABC News" tvg-logo="hupload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC_logo.png/220px-ABC_logo.png", ABC News HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3077
-#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="ABC News" tvg-logo="hupload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC HD_logo.png/220px-ABC HD_logo.png"", ABC West
+#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="ABC News" tvg-logo="hupload.wikimedia.org/wikipedia/commons/thumb/a/aa/ABC_logo.png/220px-ABC_logo.png"", ABC West
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=306
 #EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="NBC West" tvg-logo="s-media-cache-ak0.pinimg.com/originals/3f/87/d3/3f87d31f86c70740895332aa15863e72.jpg", NBC West
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=303
 #EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="Fox West" tvg-logo="www.thewhirlingwind.com/wp-content/uploads/2012/12/fox_news.jpg", Fox West
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=305
-#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="CBS W HD" tvg-logo="insearchoflostfrogs.com/wp-content/uploads/2014/10/cbsnewslogo_greybgcolor-1.png", CBS W HD
+#EXTINF:0 group-title="NEWS TV",  tvg-id="204" tvg-name="CBS Miami" tvg-logo="insearchoflostfrogs.com/wp-content/uploads/2014/10/cbsnewslogo_greybgcolor-1.png", CBS Miami HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=304
 #EXTINF:0 group-title="NEWS TV",  tvg-id="9204" tvg-name="CBSN" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1087.png", CBSN
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
@@ -1194,77 +1194,77 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=365
 #EXTINF:-1, tvg-name="" tvg-logo="https://lh3.ggpht.com/6mHMKkASwAc7cJ71ukBGaw8KKiQjo4uIsAmCBrt0BLTa24cvgQHh9d9IlFARJLrx16ZU=w300" group-title="Top Cloud USA TV", [COLOR teal]Top Cloud USA 37-CH 2017[/COLOR]
 http://google.com
 
-#EXTINF:-1, tvg-name="Bravo" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo HD
+#EXTINF:-1, tvg-name="Bravo" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=353
-#EXTINF:0 tvg-name="A and E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A&E HD
+#EXTINF:0 tvg-name="A and E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A&E
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=347
-#EXTINF:0 tvg-name="AMC HD" group-title="Top Cloud USA TV" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/5/5b/Amc.jpg/revision/latest?cb=20120503012834", AMC HD
+#EXTINF:0 tvg-name="AMC" group-title="Top Cloud USA TV" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/5/5b/Amc.jpg/revision/latest?cb=20120503012834", AMC
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=334
-#EXTINF:0 tvg-name="Cartoon Network HD" group-title="Top Cloud USA TV" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
+#EXTINF:0 tvg-name="Cartoon Network" group-title="Top Cloud USA TV" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=395
-#EXTINF:0 tvg-name="Comedy Central HD" group-title="Top Cloud USA TV" tvg-logo="1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif", Comedy Central HD
+#EXTINF:0 tvg-name="Comedy Central" group-title="Top Cloud USA TV" tvg-logo="1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif", Comedy Central
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1748
-#EXTINF:0 tvg-name="Discovery Channel HD" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel HD
+#EXTINF:0 tvg-name="Discovery Channel" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=319
-#EXTINF:0 tvg-name="History HD" group-title="Top Cloud USA TV" tvg-logo="2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png", History HD
+#EXTINF:0 tvg-name="History" group-title="Top Cloud USA TV" tvg-logo="2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png", History
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=322
-#EXTINF:0 tvg-name="Nat Geo HD" group-title="Top Cloud USA TV" tvg-logo="www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg", National Geographic Channel HD
+#EXTINF:0 tvg-name="Nat Geo" group-title="Top Cloud USA TV" tvg-logo="www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg", National Geographic Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=330
-#EXTINF:0 tvg-name="Nat Geo Wild HD" group-title="Top Cloud USA TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png", Nat Geo Wild HD
+#EXTINF:0 tvg-name="Nat Geo Wild" group-title="Top Cloud USA TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png", Nat Geo Wild
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=331
-#EXTINF:0 tvg-name="Nick HD" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nick HD
+#EXTINF:0 tvg-name="Nick" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nick HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=394
-#EXTINF:0 tvg-name="Animal Planet HD" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet HD
+#EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=332
-#EXTINF:0 tvg-name="Lifetime HD" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime HD
+#EXTINF:0 tvg-name="Lifetime" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=326
-#EXTINF:0 tvg-name="Spike HD" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike HD
+#EXTINF:0 tvg-name="Spike" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
-#EXTINF:0 tvg-name="Tru TV East" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV East
+#EXTINF:0 tvg-name="Tru TV East" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Tru TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=340
-#EXTINF:0 tvg-name="USA Network HD" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network HD
+#EXTINF:0 tvg-name="USA Network" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
-#EXTINF:0 tvg-name="FX HD" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX HD
+#EXTINF:0 tvg-name="FX" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=314
-#EXTINF:-1, tvg-name="DIY Network USA" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/151.png" group-title="Top Cloud USA TV", DIY Network USA
+#EXTINF:-1, tvg-name="DIY Network USA" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/151.png" group-title="Top Cloud USA TV", DIY Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=329
-#EXTINF:-1, tvg-name="HGTV HD" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV HD
+#EXTINF:-1, tvg-name="HGTV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=335
-#EXTINF:-1, tvg-name="E! HD" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png" group-title="Top Cloud USA TV", E! HD
+#EXTINF:-1, tvg-name="E!" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png" group-title="Top Cloud USA TV", E!
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=338
-#EXTINF:-1, tvg-name="Showtime East HD" tvg-logo="app.uktvnow.net/images/channel_imgs/200116035931showtime.jpg" group-title="Top Cloud USA TV", Showtime East HD
+#EXTINF:-1, tvg-name="Showtime East" tvg-logo="app.uktvnow.net/images/channel_imgs/200116035931showtime.jpg" group-title="Top Cloud USA TV", Showtime East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=385
-#EXTINF:-1, tvg-name="HBO East HD" tvg-logo="i62.tinypic.com/nzk2o0.png" group-title="Top Cloud USA TV", HBO East HD
+#EXTINF:-1, tvg-name="HBO East" tvg-logo="i62.tinypic.com/nzk2o0.png" group-title="Top Cloud USA TV", HBO East
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=371
-#EXTINF:-1, tvg-name="CBS New York" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS East
+#EXTINF:-1, tvg-name="CBS New York" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS New York
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=8
-#EXTINF:-1, tvg-name="CBS W HD" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS W HD
+#EXTINF:-1, tvg-name="CBS Miami" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS Miami
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=304
-#EXTINF:-1, tvg-name="Travel Channel UK" tvg-logo="cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM28E.png" group-title="Top Cloud USA TV", Travel Channel HD
+#EXTINF:-1, tvg-name="Travel Channel UK" tvg-logo="cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM28E.png" group-title="Top Cloud USA TV", Travel Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=349
-#EXTINF:-1, tvg-name="SYFY HD" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", SYFY HD
+#EXTINF:-1, tvg-name="SYFY" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", SYFY HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=339
-#EXTINF:-1, tvg-name="Food Network HD" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network HD
+#EXTINF:-1, tvg-name="Food Network" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1788
 #EXTINF:-1, tvg-name="MTV" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Top Cloud USA TV", MTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=350
-#EXTINF:-1, tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/162.png" group-title="Top Cloud USA TV", VH1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/162.png" group-title="Top Cloud USA TV", VH1
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=354
 #EXTINF:-1, tvg-name="Investigation Discovery" tvg-logo="s33.postimg.org/ke3tu4wwv/image.png" group-title="Top Cloud USA TV", Investigation Discovery
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1763
-#EXTINF:-1, tvg-name="BET HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/124.png" group-title="Top Cloud USA TV", BET HD
+#EXTINF:-1, tvg-name="BET" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/124.png" group-title="Top Cloud USA TV", BET
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=351
-#EXTINF:-1, tvg-name="Slice HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/134.png" group-title="Top Cloud USA TV", Slice HD
+#EXTINF:-1, tvg-name="Slice" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/134.png" group-title="Top Cloud USA TV", Slice
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=343
 #EXTINF:-1, tvg-name="WE TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/128.png" group-title="Top Cloud USA TV", WE TV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=342
-#EXTINF:-1, tvg-name="PBS HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/44.png" group-title="Top Cloud USA TV", PBS HD
+#EXTINF:-1, tvg-name="PBS" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/44.png" group-title="Top Cloud USA TV", PBS
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
-#EXTINF:-1, tvg-name="W Network HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/127.png" group-title="Top Cloud USA TV", W Network HD
+#EXTINF:-1, tvg-name="W Network" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/127.png" group-title="Top Cloud USA TV", W Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=344
-#EXTINF:-1, tvg-name="Hallmark Channel HD" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", Hallmark Channel HD
+#EXTINF:-1, tvg-name="Hallmark Channel" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", Hallmark Channel
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=321
-#EXTINF:-1, tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/85.png" group-title="Top Cloud USA TV", CW11 HD
+#EXTINF:-1, tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/85.png" group-title="Top Cloud USA TV", CW11
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=359
 
 ################### End  Top Cloud USA TV #############################       
@@ -1279,22 +1279,22 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=359
 
 ### START LH TV-Box auto created - Date: 2016-11-25 17:20:21 (GMT) USTVNow m3u playlist...###
 
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/ABC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]", ABC HD
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/ABC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]", ABC
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
 
-#EXTINF:-1 tvg-name="CBS New York" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CBS HD
+#EXTINF:-1 tvg-name="CBS New York" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CBS New York
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CBS
 
-#EXTINF:-1 tvg-name="CW HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CW.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CW HD
+#EXTINF:-1 tvg-name="CW" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CW.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CW HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CW
 
 #EXTINF:-1 tvg-name="Fox New York" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/FOX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FOX HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FOX
 
-#EXTINF:-1 tvg-name="NBC" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/NBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",NBC HD
+#EXTINF:-1 tvg-name="NBC New York" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/NBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",NBC HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=NBC
 
-#EXTINF:-1 tvg-name="PBS HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/PBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",PBS HD
+#EXTINF:-1 tvg-name="PBS" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/PBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",PBS HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=PBS
 
 #EXTINF:-1 tvg-name="MY9" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/MY9.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",MY9
@@ -1303,64 +1303,64 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=My9
 #EXTINF:-1 tvg-name="A and E" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/AE.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AE HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AE
 
-#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/AMC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AMC HD
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/AMC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AMC HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AMC
 
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Animal%20Planet.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Animal Planet HD
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Animal%20Planet.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Animal Planet HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Animal%20Planet
 
 #EXTINF:-1 tvg-name="Bravo" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Bravo.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Bravo HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Bravo
 
-#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Cartoon%20Network.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Cartoon Network HD
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Cartoon%20Network.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Cartoon Network HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Cartoon%20Network
 
-#EXTINF:-1 tvg-name="CNBC HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CNBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNBC HD
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CNBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNBC HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNBC
 
-#EXTINF:-1 tvg-name="CNN News HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CNN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNN News HD
+#EXTINF:-1 tvg-name="CNN News" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CNN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNN News HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNN
 
-#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Comedy%20Central.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Comedy Central HD
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Comedy%20Central.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Comedy Central HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Comedy%20Central
 
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Discovery.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Discovery Channel HD
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Discovery.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Discovery Channel HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Discovery
 
-#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/ESPN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",ESPN HD
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/ESPN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",ESPN HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ESPN
 
-#EXTINF:-1 tvg-name="Fox News HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Fox%20News.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Fox News HD
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Fox%20News.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Fox News HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Fox%20News
 
-#EXTINF:-1 tvg-name="FX HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/FX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FX HD
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/FX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FX HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FX
 
-#EXTINF:-1 tvg-name="History HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/History.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",History HD
+#EXTINF:-1 tvg-name="History" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/History.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",History HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=History
 
-#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Lifetime.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Lifetime HD
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Lifetime.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Lifetime HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Lifetime
 
-#EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/National%20Geographic.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",National Geographic HD
+#EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/National%20Geographic.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",National Geographic HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=National%20Geographic
 
-#EXTINF:-1 tvg-name="Nick HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Nickelodeon.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Nick HD
+#EXTINF:-1 tvg-name="Nick" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Nickelodeon.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Nick HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Nickelodeon
 
-#EXTINF:-1 tvg-name="Spike HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/SPIKE%20TV.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Spike HD
+#EXTINF:-1 tvg-name="Spike" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/SPIKE%20TV.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Spike HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=SPIKE%20V
 
-#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Syfy.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Syfy HD
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Syfy.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Syfy HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Syfy
 
-#EXTINF:-1 tvg-name="TBS HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/TBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TBS HD
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/TBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TBS HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=TBS
 
-#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/TNT.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TNT HD
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/TNT.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TNT HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=TNT
 
-#EXTINF:-1 tvg-name="USA Network HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/USA%20Network.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",USA Network HD
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/USA%20Network.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",USA Network HD
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=USA%20Network
 
 ### END LH TV-Box auto created - USTVNow m3u playlist...###
@@ -1378,120 +1378,120 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=USA%20Network
 
 ################### UKTV HD ####################################
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", [COLOR yellow]Sky Sports Box Office[/COLOR]
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", [COLOR yellow]Sky Sports Box Office[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5086.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet Pacific HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sportsnet Pacific HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9396.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet 360 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sportsnet 360 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9397.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet One HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sports Net One
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9398.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet Ontario HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sports Net Ontario
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9399.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet West HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sportsnet West HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9400.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sportsnet World HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sportsnet World HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://51.254.197.40:25461/live/griffiths/griffiths/9401.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports F1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sky Sports F1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1684.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 5 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sky Sports 5 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1688.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 4 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sky Sports 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1690.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sky Sports 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1693.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sky Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1695.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Sky Sports 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Sky Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BBC One HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BBC One HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5691.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BBC Two HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BBC Two HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5690.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BBC Three HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BBC Three HD
 #http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1864.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BBC Four HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BBC Four HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1871.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Animal Planet HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Animal Planet HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5664.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ITV 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", ITV 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5685.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ITV 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", ITV 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5686.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ITV 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", ITV 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5688.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", RTE TWO
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", RTE TWO
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5709.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", RTE ONE
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", RTE ONE
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5710.ts
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BT Sports 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BT Sports 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1757.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BT Sports 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BT Sports 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1758.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BT Sports 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BT Sports 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1702.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BT Sports ESPN HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BT Sports ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1704.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", NBA TV HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", NBA TV HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5744.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", TSN 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6110.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", TSN 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6111.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 3
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", TSN 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6112.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", TSN 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6113.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", TSN 5
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", TSN 5
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6114.ts
 
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ASTRO SPORTS HD 4
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", ASTRO SPORTS HD 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6216.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ASTRO SPORTS HD 3
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", ASTRO SPORTS HD 3
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6215.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ASTRO SPORTS HD 2
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", ASTRO SPORTS HD 2
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6214.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", ASTRO SPORTS HD 1
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", ASTRO SPORTS HD 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/6213.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", Bein Sports USA HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", Bein Sports USA HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/5734.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 15 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 15 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1723.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 11 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 11 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1727.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 10 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 10 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1728.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 9 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 9 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1715.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 8 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 8 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1716.ts
 
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 6 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 6 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1718.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 4 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 4 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1720.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 3 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 3 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1721.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 2 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 2 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1722.ts
-#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN HD", BEIN SPORT 1 HD
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="UKTV CAN", BEIN SPORT 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1729.ts
 
 ##### NFL Thursday Night #########################################
 
-#EXTINF:-1 tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png" group-title="NFL Thursday Night",NBC HD (USTV Local)
+#EXTINF:-1 tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png" group-title="NFL Thursday Night",NBC HD (USTV Local)
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=NBC
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network (smashtv)
@@ -1500,29 +1500,29 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://smashtv.
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
-#EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="" group-title="NFL Thursday Night", [COLOR yellow]Sky Sports 1 HD[/COLOR]
+#EXTINF:-1, tvg-name="Sky Sports 1" tvg-logo="" group-title="NFL Thursday Night", [COLOR yellow]Sky Sports 1 HD[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="NFL Thursday Night", Sky Sports 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=542
 
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet Ontario HD" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="NFL Thursday Night", Sportsnet Ontario HD
+#EXTINF:-1, tvg-id="" tvg-name="Sports Net Ontario" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="NFL Thursday Night", Sports Net Ontario
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=406
-#EXTINF:0 group-title="NFL Thursday Night",  tvg-id="204" tvg-name="NBC W HD" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC W HD
+#EXTINF:0 group-title="NFL Thursday Night",  tvg-id="204" tvg-name="NBC W" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC W HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=80
 
-#EXTINF:0 group-title="NFL Thursday Night",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD (onetv)
+#EXTINF:0 group-title="NFL Thursday Night",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD (onetv)
 http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
 
 ##### NFL Monday Night #########################################
 
-#EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png" group-title="NFL Moday Night",Sky Sports 1 HD (monkeytv)
+#EXTINF:-1, tvg-name="Sky Sports 1" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png" group-title="NFL Moday Night",Sky Sports 1 HD (monkeytv)
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptv.monkeycline.com:25461/live/jasne/jasne/1697.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
 
-#EXTINF:-1, tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png" group-title="NFL Moday Night", ESPN HD (USTV Local)
+#EXTINF:-1, tvg-name="ESPN" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png" group-title="NFL Moday Night", ESPN HD (USTV Local)
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ESPN
 
-#EXTINF:-1, tvg-name="Sky Sports 1 HD" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="NFL Moday Night", Sky Sports 1 HD (usaiptv)
+#EXTINF:-1, tvg-name="Sky Sports 1" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="NFL Moday Night", Sky Sports 1 HD (usaiptv)
 http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/24.mpegts
 
 #EXTINF:-1, tvg-name="TSN 1" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="NFL Moday Night",TSN 1 (smashtv)
@@ -1530,10 +1530,10 @@ http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http:/
 #EXTINF:-1, tvg-name="TSN 2" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="NFL Moday Night",TSN 2 (smashtv)
 http://localhost:8898/tsf4mst.m3u?&pkid=SkySports1&tmp=1&portal=1&channel=http://smashtv.ddns.net:9090/load/0855ebd4f90b/343.mpegts
 
-#EXTINF:-1 group-title="NFL Moday Night",  tvg-id="" tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD (onetv)
+#EXTINF:-1 group-title="NFL Moday Night",  tvg-id="" tvg-name="ESPN" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD (onetv)
 http://127.0.0.1:19099/livestreamer/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 
-#EXTINF:-1 group-title="NFL Moday Night",  tvg-id="" tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD (iptvfree)
+#EXTINF:-1 group-title="NFL Moday Night",  tvg-id="" tvg-name="ESPN" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD (iptvfree)
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/129.ts|User-Agent=iptvrestream.net.1
 
 
@@ -1543,12 +1543,12 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://iptvfree
 ################### New Sports TV ####################################
 #http://IPTVFREE1.COM:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/5178.ts|User-Agent=iptvrestream.net.1
 
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="MUTV HD" tvg-logo="", >>> LIVE TV [COLOR aqua] Updated[/COLOR] <<<
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="MUTV" tvg-logo="", >>> LIVE TV [COLOR aqua] Updated[/COLOR] <<<
 http://google.com
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="MUTV HD" tvg-logo="", MUTV HD
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="MUTV" tvg-logo="", MUTV HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/758.ts|User-Agent=iptvrestream.net.1
 
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="NBC Sports Network HD" tvg-logo="", NBCSN [COLOR lime]FHD[/COLOR]
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="NBC Sports Network" tvg-logo="", NBCSN [COLOR lime]FHD[/COLOR]
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/98.ts|User-Agent=iptvrestream.net.1
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", OLYMPIC CHANNEL [COLOR lime]FHD[/COLOR]
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4641.ts|User-Agent=iptvrestream.net.1
@@ -1563,9 +1563,9 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/90.ts|User-Agent=iptvrestream.net.1
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Fox New York
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4691.ts|User-Agent=iptvrestream.net.1
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="CBS New York" tvg-logo="", CBS East [COLOR lime]FHD[/COLOR]
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="CBS New York" tvg-logo="", CBS New York [COLOR lime]FHD[/COLOR]
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4695.ts|User-Agent=iptvrestream.net.1
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="NBC" tvg-logo="", NBC East [COLOR lime]FHD[/COLOR]
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="NBC New York" tvg-logo="", NBC East [COLOR lime]FHD[/COLOR]
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/4689.ts|User-Agent=iptvrestream.net.1
  	
 
@@ -1600,7 +1600,7 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", TSN 5
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/06.ts|User-Agent=iptvrestream.net.1
 	
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportsnet Ontario HD
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sports Net Ontario
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/2451.ts|User-Agent=iptvrestream.net.1
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportsnet Pacific HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/2448.ts|User-Agent=iptvrestream.net.1
@@ -1608,7 +1608,7 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/3058.ts|User-Agent=iptvrestream.net.1
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportsnet West HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/2449.ts|User-Agent=iptvrestream.net.1
-#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportsnet One HD
+#EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sports Net One
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/2450.ts|User-Agent=iptvrestream.net.1
 #EXTINF:0 group-title="New Sports TV",  tvg-id="" tvg-name="" tvg-logo="", Sportsnet 360 HD
 http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream.net_<==/2457.ts|User-Agent=iptvrestream.net.1
@@ -1692,25 +1692,25 @@ http://iptvfree1.com:6969/live/==>_www.iptvrestream.net_<==/==>_www.iptvrestream
 
 ################### New OneTV Server #####################################
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19099
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19099
 http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19098
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19098
 http://127.0.0.1:19098/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD [COLOR lime]TEST[/COLOR] 19000
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD [COLOR lime]TEST[/COLOR] 19000
 http://127.0.0.1:19000/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvM2JhZjdkYjBkOGYxZDQwMDgxNmZiNjE2NmIyOTdmNDYubTN1OD9zdD1scGVVS2JZMEhEcWVreE5LVUV5NndnJmU9MTQ4MjQwNjIzM3xVc2VyLUFnZW50PU1vemlsbGElMkY1LjAlMjAlMjhMaW51eCUzQiUyMEFuZHJvaWQlMjA1LjEuMSUzQiUyME5leHVzJTIwNSUyMEJ1aWxkJTJGTE1ZNDhCJTNCJTIwd3YlMjklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMCUyOEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvJTI5JTIwVmVyc2lvbiUyRjQuMCUyMENocm9tZSUyRjQzLjAuMjM1Ny42NSUyME1vYmlsZSUyMFNhZmFyaSUyRjUzNy4zNiZyZWZlcmVyPW1vYmRyby5tZQ==
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD [COLOR lime]TEST[/COLOR] 19098
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD [COLOR lime]TEST[/COLOR] 19098
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvM2JhZjdkYjBkOGYxZDQwMDgxNmZiNjE2NmIyOTdmNDYubTN1OD9zdD1scGVVS2JZMEhEcWVreE5LVUV5NndnJmU9MTQ4MjQwNjIzM3xVc2VyLUFnZW50PU1vemlsbGElMkY1LjAlMjAlMjhMaW51eCUzQiUyMEFuZHJvaWQlMjA1LjEuMSUzQiUyME5leHVzJTIwNSUyMEJ1aWxkJTJGTE1ZNDhCJTNCJTIwd3YlMjklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMCUyOEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvJTI5JTIwVmVyc2lvbiUyRjQuMCUyMENocm9tZSUyRjQzLjAuMjM1Ny42NSUyME1vYmlsZSUyMFNhZmFyaSUyRjUzNy4zNiZyZWZlcmVyPW1vYmRyby5tZQ==
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC NFL SD [COLOR lime]TEST[/COLOR]
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC NFL SD [COLOR lime]TEST[/COLOR]
 http://127.0.0.1:19000/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM1L3AycC84OWI3YWJhY2JlMGNlZmJhZGY2YWQ1YzVjY2I0YWUxNS5tM3U4P3N0PTZ2Ny01dWNqM1kxTVQ5U19PR29QVXcmZT0xNDgyMjI2MzcwfFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="ABC" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="ABC" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC
 http://127.0.0.1:19099/livestreamer/ba354149f3c117ceb69529a1542b6281.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vruusq1434471511.png", CBS HD
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vruusq1434471511.png", CBS New York
 http://127.0.0.1:19099/livestreamer/4d0fadca2686a2cdd4a4a6623212449c.m3u8
 
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", Fox New York
@@ -1719,61 +1719,61 @@ http://127.0.0.1:19099/livestreamer/12435593255e0696ec0a09071b96f97e.m3u8
 #EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rwptru1436892145.png", Fox New York 19098
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvMTI0MzU1OTMyNTVlMDY5NmVjMGEwOTA3MWI5NmY5N2UubTN1OD9zdD03YkVlNGVZS1pYZ2kxdHp4d0RDZjZBJmU9MTQ4MjQwNjc3NnxVc2VyLUFnZW50PU1vemlsbGElMkY1LjAlMjAlMjhMaW51eCUzQiUyMEFuZHJvaWQlMjA1LjEuMSUzQiUyME5leHVzJTIwNSUyMEJ1aWxkJTJGTE1ZNDhCJTNCJTIwd3YlMjklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMCUyOEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvJTI5JTIwVmVyc2lvbiUyRjQuMCUyMENocm9tZSUyRjQzLjAuMjM1Ny42NSUyME1vYmlsZSUyMFNhZmFyaSUyRjUzNy4zNiZyZWZlcmVyPW1vYmRyby5tZQ==
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW
 http://127.0.0.1:19099/livestreamer/296e56c668bc8bd6b0044d3e4f034153.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="Bravo" tvg-logo="www.thelogodb.com/images/media/logo/qwqrws1434470899.png", Bravo HD
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="Bravo" tvg-logo="www.thelogodb.com/images/media/logo/qwqrws1434470899.png", Bravo
 http://127.0.0.1:19099/livestreamer/582b19f3ef5459a2f139ec69ee2053d0.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E HD
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E
 http://127.0.0.1:19099/livestreamer/ce425ca32dea0f37b22717ae989bcffb.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC HD 
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC
 http://127.0.0.1:19099/livestreamer/b06316b29b6c788ecf95287567cb2a3a.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD 
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS
 http://127.0.0.1:19099/livestreamer/d377ff63e9e229343418ba065acb643f.m3u8
 
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="TNT HD" tvg-logo="www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT HD 
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="TNT" tvg-logo="www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT
 http://127.0.0.1:19099/livestreamer/e00dd9ccbf6cba8e47ca458993f307c1.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/syytuy1467823090.png", USA Network HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/syytuy1467823090.png", USA Network
 http://127.0.0.1:19099/livestreamer/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", History HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", History
 http://127.0.0.1:19099/livestreamer/d722293bb9bbf20cc112924ef000a225.m3u8
 
 #EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/quwyru1480459347.png", SYFY HD
 http://127.0.0.1:19099/livestreamer/d8320fedb4a90fb06c9f7bff96a7e619.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xpttwp1433424253.png", Animal Planet HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/xpttwp1433424253.png", Animal Planet
 http://127.0.0.1:19099/livestreamer/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/usvxwq1433945505.png", Discovery Channel HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/usvxwq1433945505.png", Discovery Channel
 http://127.0.0.1:19099/livestreamer/075d66993151c178df1ed9840202d983.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qwqypu1433965613.png", Lifetime HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/qwqypu1433965613.png", Lifetime
 http://127.0.0.1:19099/livestreamer/171879baa092ef14d5ec8f401aeaffcd.m3u8
 
 #EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", Nat Geo HD 
 http://127.0.0.1:19099/livestreamer/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/uqrpqt1436889975.png", FX HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/uqrpqt1436889975.png", FX
 http://127.0.0.1:19099/livestreamer/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rqsyuu1433964470.png", Nick HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rqsyuu1433964470.png", Nick
 http://127.0.0.1:19099/livestreamer/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yvwrvp1476084495.png", PBS HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yvwrvp1476084495.png", PBS
 http://127.0.0.1:19099/livestreamer/fe22365235b496368609515523bfb971.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/yusqqu1444656884.png", HGTV HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/yusqqu1444656884.png", HGTV
 http://127.0.0.1:19099/livestreamer/7d9000c0967cc4919f07ecbe2736c95a.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xvyrsu1480337641.png", CNN News HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xvyrsu1480337641.png", CNN News
 http://127.0.0.1:19099/livestreamer/fb655e03035550c14fc2bcc65d40cff8.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/sqwqtt1436847658.png", Fox News HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/sqwqtt1436847658.png", Fox News
 http://127.0.0.1:19099/livestreamer/877e1fd192b3a58577e4387971c215a7.m3u8
 
 
@@ -1785,16 +1785,16 @@ http://127.0.0.1:19099/livestreamer/b255a81385c67a839c15d92b8bad092c.m3u8
 
 # Sports TV ####################################
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="ESPN" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN
 http://127.0.0.1:19099/livestreamer/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="ESPN HD" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD TEST
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="ESPN" tvg-logo="www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN
 http://localhost:8898/onetv.m3u.m3u?&pkid=0&tmp=0&portal=1&channel=aca0a31d14c85e19f7023c9a3889f37b.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/twvwtx1464553130.png", Fox Sports 1 HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/twvwtx1464553130.png", Fox Sports 1
 http://127.0.0.1:19099/livestreamer/c1ba19187bba4d273cdc877dc413564a.m3u8
 
-#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/uxxtrt1433944508.png", Fox Sports 2 HD
+#EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/uxxtrt1433944508.png", Fox Sports 2
 http://127.0.0.1:19099/livestreamer/p2p/b543594967ce3122d04138e344cdcff2.m3u8
 
 #EXTINF:-1 group-title="New OneTV Server",  tvg-id="" tvg-name="" tvg-logo="www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MUTV HD
@@ -1827,7 +1827,7 @@ http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=QLb_tH0fQLGpd
 
 
 ################USAIPTV Entertainment F4M ##########################
-#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19099
+#EXTINF:0 group-title="New OneTV Server",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19099
 #http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 #http://127.0.0.1:19098/livestreamer/hls://http://46.234.113.2/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=lpeUKbY0HDqekxNKUEy6wg&e=1482406233|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
@@ -1836,13 +1836,13 @@ http://localhost:8898/tsf4mst.m3u?&pkid=NBCSN&tmp=1&portal=1&channel=http://usai
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",NBC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
 
-#EXTINF:-1 tvg-name="NBC" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] 19099
+#EXTINF:-1 tvg-name="NBC New York" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] 19099
 http://127.0.0.1:19099/livestreamer/aGxzOi8vaHR0cDovL3VzYWlwdHYuZGRucy5uZXQ6OTA5MC9sb2FkLzA4NTVlYmQ0ZjkwYi8xNDAubXBlZ3Rz
 
-#EXTINF:-1 tvg-name="NBC" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] 19000
+#EXTINF:-1 tvg-name="NBC New York" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] 19000
 http://127.0.0.1:19000/livestreamer/aGxzOi8vaHR0cDovL3VzYWlwdHYuZGRucy5uZXQ6OTA5MC9sb2FkLzA4NTVlYmQ0ZjkwYi8xNDAubXBlZ3Rz
 
-#EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",CBS HD
+#EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",CBS New York
 http://localhost:8898/tsf4mst.m3u?&pkid=CBS&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1516.mpegts
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",FOX HD
 http://localhost:8898/tsf4mst.m3u?&pkid=FOX&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/139.mpegts
@@ -1857,7 +1857,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=Lifetime&tmp=1&portal=1&channel=http://u
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",A&E HD
 http://localhost:8898/tsf4mst.m3u?&pkid=AE&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/300.mpegts
-#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ABC HD
+#EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",ABC
 http://localhost:8898/tsf4mst.m3u?&pkid=ABC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/9.mpegts
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",AMC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=AMC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/372.mpegts
@@ -1995,24 +1995,24 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.
 
 ################ Test smashtv premium service  ##########################
 
-#EXTINF:-1 tvg-name="NBC" group-title="Test Proxy - service",NBC HD smashtv
+#EXTINF:-1 tvg-name="NBC New York" group-title="Test Proxy - service",NBC HD smashtv
 http://localhost:8898/smashtv.m3u?&pkid=NBC&tmp=0&portal=1&channel=140
 
-#EXTINF:-1 tvg-name="NBC" group-title="Test Proxy - service",NBC HD usaiptv
+#EXTINF:-1 tvg-name="NBC New York" group-title="Test Proxy - service",NBC HD usaiptv
 http://localhost:8898/usaiptv.m3u?&pkid=ESPN&tmp=0&portal=1&channel=140
 
-#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19099
+#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19099
 http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
-#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="NBC" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19098
+#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19098
 http://127.0.0.1:19098/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
-#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="ABC" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD 19099
+#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="ABC" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC 19099
 http://127.0.0.1:19099/livestreamer/ba354149f3c117ceb69529a1542b6281.m3u8
 
-#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="ABC" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC HD 19098
+#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="ABC" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC 19098
 http://127.0.0.1:19098/livestreamer/ba354149f3c117ceb69529a1542b6281.m3u8
 
-#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="CW HD" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", CW HD 19098
+#EXTINF:0 group-title="Test Proxy - service",  tvg-id="" tvg-name="CW" tvg-logo="www.thelogodb.com/images/media/logo/sqsqst1456747365.png", CW HD 19098
 http://127.0.0.1:19098/livestreamer/296e56c668bc8bd6b0044d3e4f034153.m3u8
 
 
@@ -2037,9 +2037,9 @@ http://163.172.81.33:1234/live/iptvrestream.net5/CAQ8nIN9PX/318.ts|User-Agent=fu
 http://163.172.81.33:1234/live/iptvrestream.net5/CAQ8nIN9PX/154.ts|User-Agent=fuck4
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png",NBC HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvM2JhZjdkYjBkOGYxZDQwMDgxNmZiNjE2NmIyOTdmNDYubTN1OD9zdD1vR0JBVnJpNnRlUXo2a2dEUHZUbUxnJmU9MTQ4NDE4NjIzMHxVc2VyLUFnZW50PU1vemlsbGElMkY1LjAlMjAlMjhMaW51eCUzQiUyMEFuZHJvaWQlMjA1LjEuMSUzQiUyME5leHVzJTIwNSUyMEJ1aWxkJTJGTE1ZNDhCJTNCJTIwd3YlMjklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMCUyOEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvJTI5JTIwVmVyc2lvbiUyRjQuMCUyMENocm9tZSUyRjQzLjAuMjM1Ny42NSUyME1vYmlsZSUyMFNhZmFyaSUyRjUzNy4zNiZyZWZlcmVyPW1vYmRyby5tZQ==
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png",ABC HD
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png",ABC
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS41OS4yMjIuMjMyL3AycC9iYTM1NDE0OWYzYzExN2NlYjY5NTI5YTE1NDJiNjI4MS5tM3U4P3N0PXRJN0xBNG4tVk5TVmVGRXN5U2tTOHcmZT0xNDg0MTg2MjMxfFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vruusq1434471511.png",CBS HD
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vruusq1434471511.png",CBS New York
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzQ2LjIzNC4xMTMuMi9wMnAvNGQwZmFkY2EyNjg2YTJjZGQ0YTRhNjYyMzIxMjQ0OWMubTN1OD9zdD1kQ1FNX3FJcEtQd1ozT2lvaHVtOWJ3JmU9MTQ4NDE4NjIzMnxVc2VyLUFnZW50PU1vemlsbGElMkY1LjAlMjAlMjhMaW51eCUzQiUyMEFuZHJvaWQlMjA1LjEuMSUzQiUyME5leHVzJTIwNSUyMEJ1aWxkJTJGTE1ZNDhCJTNCJTIwd3YlMjklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMCUyOEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvJTI5JTIwVmVyc2lvbiUyRjQuMCUyMENocm9tZSUyRjQzLjAuMjM1Ny42NSUyME1vYmlsZSUyMFNhZmFyaSUyRjUzNy4zNiZyZWZlcmVyPW1vYmRyby5tZQ==
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png",FOX HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM0L3AycC8xMjQzNTU5MzI1NWUwNjk2ZWMwYTA5MDcxYjk2Zjk3ZS5tM3U4P3N0PXlxdWt2R0VaRkxjYUdHZGFOd2lPRXcmZT0xNDg0MTg2MjMzfFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
