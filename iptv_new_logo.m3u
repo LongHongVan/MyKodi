@@ -2030,9 +2030,9 @@ http://127.0.0.1:19098/livestreamer/296e56c668bc8bd6b0044d3e4f034153.m3u8
 
 #### - Top 10 USA Channels ####################
 
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8LQpmbhkP3LCcGjNIXPT5V8jBy7LFE7IRnH6iLDxfObtqNEX",Cau Chuyen Dau Nam HD (Youtube Test)
-#plugin://plugin.video.youtube/play/?video_id=HQy6Rzicnek
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=CiA_jObbEo4
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8LQpmbhkP3LCcGjNIXPT5V8jBy7LFE7IRnH6iLDxfObtqNEX",Hoa Hau VN 2016 HD (Youtube) New
+#plugin://plugin.video.youtube/play/?video_id=CiA_jObbEo4
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=HQy6Rzicnek
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkFRPNwfIXZfG0Uka4UjmF_Fw9mR24WndKmy3_CE8iDGTlurWk",Que Huong HD (Bonus)
 rtmp://vf10.aditmedia.net/ingestx/ius_000130
