@@ -1845,6 +1845,9 @@ http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3VzYWlwdHYuZGRucy5uZXQ6OTA5
 #EXTINF:-1 tvg-name="NBC New York" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR blue]livestreamer[/COLOR] 19000
 http://127.0.0.1:19000/livestreamer/aGxzOi8vaHR0cDovL3VzYWlwdHYuZGRucy5uZXQ6OTA5MC9sb2FkLzA4NTVlYmQ0ZjkwYi8xNDAubXBlZ3Rz
 
+#EXTINF:-1 tvg-name="NBC New York" group-title="USAIPTV Entertainment and Sport",NBC HD [COLOR teal]tsProxy-pac12[/COLOR] 55555
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://smashtv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
+
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",CBS New York
 http://localhost:8898/tsf4mst.m3u?&pkid=CBS&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/1516.mpegts
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",FOX HD
@@ -1852,6 +1855,9 @@ http://localhost:8898/tsf4mst.m3u?&pkid=FOX&tmp=1&portal=1&channel=http://usaipt
 
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",CTV HD
 http://localhost:8898/tsf4mst.m3u?&pkid=CTV&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/377.mpegts
+
+#EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",CTV HD [COLOR teal]tsProxy-pac12[/COLOR] 55555
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://smashtv.ddns.net:9090/load/0855ebd4f90b/377.mpegts
 
 #EXTINF:-1 tvg-id="" group-title="USAIPTV Entertainment and Sport",USA Network HD
 http://localhost:8898/tsf4mst.m3u?&pkid=USA&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/428.mpegts
