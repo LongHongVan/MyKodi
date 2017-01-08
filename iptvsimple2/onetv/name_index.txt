@@ -8,7 +8,7 @@
 	"NBC NFL HD", 
     "ABC NFL HD", 
     "CBS NFL HD", 
-    "FOX NFL HD",
+    "FOX NFL/NEWS HD",
     "ESPN HD",	
     "A&E HD", 
     "AMC HD", 
