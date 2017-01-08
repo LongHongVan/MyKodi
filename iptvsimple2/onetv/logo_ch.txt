@@ -23,7 +23,6 @@
     "http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png", 	
 	"https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png", 
     "http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", 
-	"http://www.thelogodb.com/images/media/logo/qwqypu1433965613.png", 
     "http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png", 
     "http://www.thelogodb.com/images/media/logo/tyvqqr1433945535.png", 
     "http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png", 

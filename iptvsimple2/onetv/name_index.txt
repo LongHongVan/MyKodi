@@ -23,7 +23,6 @@
     "Animal Planet HD", 
     "Bravo HD",	
     "Nat Geo HD",
-    "Lifetime HD", 
     "Discovery Channel HD", 
     "E! HD",  
     "Nat Geo Wild HD", 
