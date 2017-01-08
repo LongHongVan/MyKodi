@@ -11,7 +11,7 @@
     "FOX NFL/NEWS HD",
     "ESPN HD",	
     "A&E HD", 
-    "AMC HD", 
+    "Cartoon Network HD", 
     "TBS HD", 
     "TNT HD", 
     "USA Network HD", 
