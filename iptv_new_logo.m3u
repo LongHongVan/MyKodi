@@ -2110,14 +2110,20 @@ http://vnatv.saigon.ns01.us:1935/vnatv/myStream/chunklist_w729302537.m3u8
 
 ################### end Top 10 Viet News Hai Ngoai TV ###############################
 
+
+# ++++++++++++++++++++ Top (Youtube) Vietnamese TV Show and Music +++++++++++++++++++++
+
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://darkmp3.ru/imgs/7863025-460x460/reader-s-digest-music-bolero-romantico.jpg", >> Vietnamese TV Show and Music <<
 http://google.com
 
-#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 10 01-0-17
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 10 01-7-17
 http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=pM73Br4qDo4
 
-#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 09 01-0-17
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 09 12-31-16
 http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=Kd4W4jQE_l0
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 08 12-24-16
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=iwJzTwqU2MY
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xAyfDLqnvOw/maxresdefault.jpg", Tình Ca Bolero
 http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=VZD50UcAQ1k
