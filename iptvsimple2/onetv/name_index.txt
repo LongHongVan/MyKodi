@@ -1,10 +1,5 @@
 [ 
-	"Liveshow Duyen Phan (Bonus)", 
-	"Que Huong HD (Bonus)", 
-	"VietBay HD (Bonus)", 
-	"PBN 120 HD (Bonus)", 
-	"Olympic Channel FHD (Test)", 
-	"NFL Network HD (Test)", 
+	"Liveshow Duyen Phan (Bonus)",  
 	"NBC NFL HD", 
     "ABC NFL HD", 
     "CBS NFL HD", 
