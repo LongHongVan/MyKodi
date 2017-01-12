@@ -1831,8 +1831,11 @@ http://185.152.64.235/p2p/12435593255e0696ec0a09071b96f97e.m3u8?st=QLb_tH0fQLGpd
 #http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 #http://127.0.0.1:19098/livestreamer/hls://http://46.234.113.2/p2p/3baf7db0d8f1d400816fb6166b297f46.m3u8?st=lpeUKbY0HDqekxNKUEy6wg&e=1482406233|User-Agent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20Nexus%205%20Build%2FLMY48B%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F43.0.2357.65%20Mobile%20Safari%2F537.36&referer=mobdro.me
 
-#EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",NBC Sports Network HD
-http://localhost:8898/tsf4mst.m3u?&pkid=NBCSN&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/467.mpegts
+#EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",NBC Sports Network HD (new)
+http://localhost:8898/tsf4mst.m3u?&pkid=NBCSN&tmp=1&portal=1&channel=http://137.74.93.219:8000/live/dali/dali/3525.ts
+#EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",NFL Netwrok HD (new)
+http://localhost:8898/tsf4mst.m3u?&pkid=NBCSN&tmp=1&portal=1&channel=http://137.74.93.219:8000/live/dali/dali/3533.ts
+
 #EXTINF:-1   tvg-id="NBC" group-title="USAIPTV Entertainment and Sport",NBC HD
 http://localhost:8898/tsf4mst.m3u?&pkid=NBC&tmp=1&portal=1&channel=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
 

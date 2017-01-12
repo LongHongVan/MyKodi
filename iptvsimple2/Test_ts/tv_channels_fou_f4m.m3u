@@ -1,0 +1,2863 @@
+#EXTM3U
+#EXTINF:-1,Arabic-TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1684.ts
+#EXTINF:-1,MBC1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1378.ts
+#EXTINF:-1,MBC2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1371.ts
+#EXTINF:-1,MBC4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1377.ts
+#EXTINF:-1,MBC-DRAMAHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1395.ts
+#EXTINF:-1,MBC-ACTIONHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1394.ts
+#EXTINF:-1,MBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/19.ts
+#EXTINF:-1,MBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/20.ts
+#EXTINF:-1,MBC3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/21.ts
+#EXTINF:-1,MBC4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/22.ts
+#EXTINF:-1,MBCDRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/25.ts
+#EXTINF:-1,MBCAction
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/23.ts
+#EXTINF:-1,MBCMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/26.ts
+#EXTINF:-1,MBCBollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/24.ts
+#EXTINF:-1,MBC_Masr2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/28.ts
+#EXTINF:-1,MBC_MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/27.ts
+#EXTINF:-1,Rotana music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/43.ts
+#EXTINF:-1,Rotana_Cinema_KSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/45.ts
+#EXTINF:-1,Rotana_Cinema_EGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/44.ts
+#EXTINF:-1,Rotana-Masriya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/49.ts
+#EXTINF:-1,Rotana_Clip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/47.ts
+#EXTINF:-1,Rotana_Khalijiah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/48.ts
+#EXTINF:-1,Rotana_Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/46.ts
+#EXTINF:-1,Almajd-Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2314.ts
+#EXTINF:-1,Almajd-Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2312.ts
+#EXTINF:-1,Almajd-Quran
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2313.ts
+#EXTINF:-1,Almajd-hadeeth
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2311.ts
+#EXTINF:-1,ART_Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/53.ts
+#EXTINF:-1,Aflam_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/51.ts
+#EXTINF:-1,Aflam_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/52.ts
+#EXTINF:-1,Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/54.ts
+#EXTINF:-1,Hekayat_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/75.ts
+#EXTINF:-1,Ar-HD-KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2290.ts
+#EXTINF:-1,Ar-HD-FILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2293.ts
+#EXTINF:-1,Ar-HD-CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2291.ts
+#EXTINF:-1,Ar-CINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2302.ts
+#EXTINF:-1,Ar-CINEMA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2301.ts
+#EXTINF:-1,Ar-CINEMA-ALWAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2296.ts
+#EXTINF:-1,CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/56.ts
+#EXTINF:-1,CBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/57.ts
+#EXTINF:-1,CBC-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/58.ts
+#EXTINF:-1,CBC-Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/59.ts
+#EXTINF:-1,CBC-Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/60.ts
+#EXTINF:-1,AR-TUNISNA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/35.ts
+#EXTINF:-1,NATIONAL1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/29.ts
+#EXTINF:-1,National2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/780.ts
+#EXTINF:-1,AR-hannibal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/31.ts
+#EXTINF:-1,AR-ZAYTOONA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/840.ts
+#EXTINF:-1,Ar-ZITOUNA-HEDAYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1687.ts
+#EXTINF:-1,Ar-janoubiyya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/112.ts
+#EXTINF:-1,AL_MUTAWASIT-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/36.ts
+#EXTINF:-1,AR-TNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/37.ts
+#EXTINF:-1,AR-ATTESSIA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/499.ts
+#EXTINF:-1,AR-ELHIWAR_ETTOUNSI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/34.ts
+#EXTINF:-1,AR-NESMA-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/32.ts
+#EXTINF:-1,AR-FIRST-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/38.ts
+#EXTINF:-1,AR-TELVZA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/33.ts
+#EXTINF:-1,AR-CanalALGERIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1715.ts
+#EXTINF:-1,Algeria3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1685.ts
+#EXTINF:-1,AR-heddaf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/829.ts
+#EXTINF:-1,AR-ECHOUROUK-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1601.ts
+#EXTINF:-1,AR-Echourouk-benna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/831.ts
+#EXTINF:-1,AR-Echorouk-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/203.ts
+#EXTINF:-1,AR-Coran-algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1644.ts
+#EXTINF:-1,AR-Dzair_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/202.ts
+#EXTINF:-1,AR-Samira-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/210.ts
+#EXTINF:-1,AR-BZAF_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1535.ts
+#EXTINF:-1,AR-Dzair3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1598.ts
+#EXTINF:-1,AR-DZAIR16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1602.ts
+#EXTINF:-1,AR-DZAIR-news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1596.ts
+#EXTINF:-1,AR-beur-algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1600.ts
+#EXTINF:-1,Ar-DJAZAIRIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/205.ts
+#EXTINF:-1,AR-ENNAHAR-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/164.ts
+#EXTINF:-1,AR-Ennahar-Laki
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/207.ts
+#EXTINF:-1,AR-KBC-ALGERIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1604.ts
+#EXTINF:-1,AR-Medi1_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/293.ts
+#EXTINF:-1,AR-Almaghribia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2028.ts
+#EXTINF:-1,Ar-AlHiwar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/817.ts
+#EXTINF:-1,AR-Al_Magharibia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/821.ts
+#EXTINF:-1,AlMagharibia-Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1917.ts
+#EXTINF:-1,AR-2M_Maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/197.ts
+#EXTINF:-1,AR-Arriadia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1533.ts
+#EXTINF:-1,AR-Al Rasheed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1532.ts
+#EXTINF:-1,AR-Assadissa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1645.ts
+#EXTINF:-1,AlAoula-maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1646.ts
+#EXTINF:-1,AR-Tamazight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1473.ts
+#EXTINF:-1,AlArabiya-Hadath
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/151.ts
+#EXTINF:-1,Ar-Arabiya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/150.ts
+#EXTINF:-1,Ar-Hadath
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/154.ts
+#EXTINF:-1,CNBC-ARABIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1916.ts
+#EXTINF:-1,Ar-JAZEERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/146.ts
+#EXTINF:-1,Ar-Jazeera-Documentary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/155.ts
+#EXTINF:-1,Ar-Jazeera-Mubasher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/833.ts
+#EXTINF:-1,AR-SAMA-CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/848.ts
+#EXTINF:-1,arb-TRTArabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1460.ts
+#EXTINF:-1,AR-BBC-ARABIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/824.ts
+#EXTINF:-1,AR-FRANCE24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/129.ts
+#EXTINF:-1,Ar-RT_arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2067.ts
+#EXTINF:-1,AR-NBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/826.ts
+#EXTINF:-1,Ar-Mayadeen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/816.ts
+#EXTINF:-1,AR-ANN-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/828.ts
+#EXTINF:-1,AR-DW-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/288.ts
+#EXTINF:-1,AD-NatGeo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/119.ts
+#EXTINF:-1,AD-DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/102.ts
+#EXTINF:-1,AD_ALOULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/105.ts
+#EXTINF:-1,AD-ALEMARAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/101.ts
+#EXTINF:-1,Ar-SAUDI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1530.ts
+#EXTINF:-1,AR-SAUDI_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/195.ts
+#EXTINF:-1,arb-Saudi Sunnah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/173.ts
+#EXTINF:-1,AR-Saudi-Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1527.ts
+#EXTINF:-1,Iraqia-Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1705.ts
+#EXTINF:-1,Ar-Rafiden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1702.ts
+#EXTINF:-1,AR-Kitabat-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1868.ts
+#EXTINF:-1,Ar-Naeem-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1869.ts
+#EXTINF:-1,Ar-Masar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1704.ts
+#EXTINF:-1,Ar-ASSEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1703.ts
+#EXTINF:-1,AR-Turkmeneli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1706.ts
+#EXTINF:-1,AR-Ronahi-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1870.ts
+#EXTINF:-1,AR-KURDMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1689.ts
+#EXTINF:-1,AR-KURDISTAN-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1640.ts
+#EXTINF:-1,Alrai
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1686.ts
+#EXTINF:-1,Ar-Wanasah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/111.ts
+#EXTINF:-1,AR-MADA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1688.ts
+#EXTINF:-1,arb-AGHANIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1459.ts
+#EXTINF:-1,Ar--Hurra-Iraq
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1636.ts
+#EXTINF:-1,IRQ-Al-Forat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1470.ts
+#EXTINF:-1,Alhurra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/124.ts
+#EXTINF:-1,AR-AFAK-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1501.ts
+#EXTINF:-1,Ar--SHARQIYA-NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1641.ts
+#EXTINF:-1,AR-Dijlah-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1634.ts
+#EXTINF:-1,Ar--Mawsleya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1633.ts
+#EXTINF:-1,AR-BAGHDAD-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1637.ts
+#EXTINF:-1,Ar-Sumaria-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1643.ts
+#EXTINF:-1,AR-Newroz-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1616.ts
+#EXTINF:-1,AR-Rudaw-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1632.ts
+#EXTINF:-1,AR-CIRA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1618.ts
+#EXTINF:-1,AR-KNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1631.ts
+#EXTINF:-1,Ar-Kurdi-Cihan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1630.ts
+#EXTINF:-1,Ar-TV-kurd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2066.ts
+#EXTINF:-1,AR-K24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1603.ts
+#EXTINF:-1,Ar-NRT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2969.ts
+#EXTINF:-1,AR-NRT_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2968.ts
+#EXTINF:-1,AR-SHARKIA-NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1500.ts
+#EXTINF:-1,AR-Halab Today
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1499.ts
+#EXTINF:-1,YEMEN-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1553.ts
+#EXTINF:-1,AR-Moga-Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1534.ts
+#EXTINF:-1,AR-Melody_Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/140.ts
+#EXTINF:-1,AR-Mazzika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/291.ts
+#EXTINF:-1,AR-NOOR-DUBAI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/149.ts
+#EXTINF:-1,AR-MUSIC_PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/131.ts
+#EXTINF:-1,AR-DUBAITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/128.ts
+#EXTINF:-1,AR-DUBAI-ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/126.ts
+#EXTINF:-1,AR-SAMADUBAI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/133.ts
+#EXTINF:-1,Ar-Ennahar_Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1681.ts
+#EXTINF:-1,Ar-Abu dhabi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1469.ts
+#EXTINF:-1,AJMAN-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/153.ts
+#EXTINF:-1,Ar-MANAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/853.ts
+#EXTINF:-1,Ar--SHARJAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/121.ts
+#EXTINF:-1,AL_BAIT_BAITAK_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/284.ts
+#EXTINF:-1,OTV-LEBANON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1925.ts
+#EXTINF:-1,AR-LDC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1648.ts
+#EXTINF:-1,AR-LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/139.ts
+#EXTINF:-1,AR-Cartoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/162.ts
+#EXTINF:-1,AR-FUTURE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/280.ts
+#EXTINF:-1,AR-Mickey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/286.ts
+#EXTINF:-1,AR-mtv_lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/209.ts
+#EXTINF:-1,AR-Teleliban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/819.ts
+#EXTINF:-1,AR-JADEED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/813.ts
+#EXTINF:-1,AR-Al_Aqsa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1606.ts
+#EXTINF:-1,arb-AL-Quds
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/108.ts
+#EXTINF:-1,Ar-Al_Rayyan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3569.ts
+#EXTINF:-1,Ar-Hawacom(Leb)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3568.ts
+#EXTINF:-1,AR-Syria-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/825.ts
+#EXTINF:-1,Syria_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1399.ts
+#EXTINF:-1,Syria_Sama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1403.ts
+#EXTINF:-1,Sriya Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1404.ts
+#EXTINF:-1,Syria Ikhbaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1402.ts
+#EXTINF:-1,Syria Aloula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1401.ts
+#EXTINF:-1,arb-SyriaNour
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1458.ts
+#EXTINF:-1,Ar-EDU-SYRIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2303.ts
+#EXTINF:-1,Nile_news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/295.ts
+#EXTINF:-1,Nile_Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/144.ts
+#EXTINF:-1,Nile_Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/143.ts
+#EXTINF:-1,Nile_Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/142.ts
+#EXTINF:-1,Nile_Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/294.ts
+#EXTINF:-1,Nile_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/141.ts
+#EXTINF:-1,arb-Nile sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1455.ts
+#EXTINF:-1,Ar-Hayat-Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/136.ts
+#EXTINF:-1,Alhayat-Muslsalat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/515.ts
+#EXTINF:-1,AlNahar-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/159.ts
+#EXTINF:-1,Ar-nahar-nour
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/838.ts
+#EXTINF:-1,Ar-Nahar-Al-Youm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/837.ts
+#EXTINF:-1,Ar-Nahar+2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/834.ts
+#EXTINF:-1,Ar--Nahar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/156.ts
+#EXTINF:-1,DREAM1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/287.ts
+#EXTINF:-1,Dream2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/163.ts
+#EXTINF:-1,Ar-CAIRO-ONE-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2305.ts
+#EXTINF:-1,AR-Ontv_live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1642.ts
+#EXTINF:-1,Ar-ONTV-sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/835.ts
+#EXTINF:-1,Cairo-Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/106.ts
+#EXTINF:-1,Cairo-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/109.ts
+#EXTINF:-1,Cairo-cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/107.ts
+#EXTINF:-1,Panorama-Drama2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/41.ts
+#EXTINF:-1,Panorama-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/40.ts
+#EXTINF:-1,Panorama-Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1555.ts
+#EXTINF:-1,Panorama-comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/844.ts
+#EXTINF:-1,Panorama-FOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/842.ts
+#EXTINF:-1,AR-Elbalad_Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/115.ts
+#EXTINF:-1,AR-time_cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/223.ts
+#EXTINF:-1,AR-TIME-COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/849.ts
+#EXTINF:-1,STAR-CINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/850.ts
+#EXTINF:-1,STAR-CINEMA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/851.ts
+#EXTINF:-1,LTC-MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/845.ts
+#EXTINF:-1,AR-ElBalad-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/843.ts
+#EXTINF:-1,ALMASRAWIA-AFLAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/847.ts
+#EXTINF:-1,AR-imagine_moives
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/852.ts
+#EXTINF:-1,Althanya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/199.ts
+#EXTINF:-1,AR-Mehwer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/130.ts
+#EXTINF:-1,arb-Royatv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1461.ts
+#EXTINF:-1,arb-Time Quran
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1457.ts
+#EXTINF:-1,arb-Quran TV KSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1456.ts
+#EXTINF:-1,Arb-Al_Rahma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1454.ts
+#EXTINF:-1,arb-Libya TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1453.ts
+#EXTINF:-1,AR-FUNoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/289.ts
+#EXTINF:-1,Ar-SADA-MISR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2299.ts
+#EXTINF:-1,Ar-NOUR-KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2300.ts
+#EXTINF:-1,Ar-MASR-ALHAYAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2304.ts
+#EXTINF:-1,Ar-GNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2295.ts
+#EXTINF:-1,Menhag-Alnbowa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1918.ts
+#EXTINF:-1,AR-MAGHREB24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/841.ts
+#EXTINF:-1,AR-HEYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/815.ts
+#EXTINF:-1,AR-DJURJURA_ATFAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/246.ts
+#EXTINF:-1,AR-Qatar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/132.ts
+#EXTINF:-1,ALGHAD-ALARABI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/198.ts
+#EXTINF:-1,AR-SUDAN-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/820.ts
+#EXTINF:-1,Ar-Blue_Nile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1531.ts
+#EXTINF:-1,AR-Orient News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1638.ts
+#EXTINF:-1,AR-Kuweit 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1635.ts
+#EXTINF:-1,AR-Baraem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/55.ts
+#EXTINF:-1,TAHA-atfal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2229.ts
+#EXTINF:-1,AlJazeera_Children
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/61.ts
+#EXTINF:-1,AR-Jeem-CartoonArabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/167.ts
+#EXTINF:-1,Toyor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1398.ts
+#EXTINF:-1,AR-MTA3-AlArabiyah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1605.ts
+#EXTINF:-1,Alruqia-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1621.ts
+#EXTINF:-1,AR-SAT7-ARABIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1608.ts
+#EXTINF:-1,Ar-Al Nahar Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/194.ts
+#EXTINF:-1,arb-Abu_Dhabi_Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1397.ts
+#EXTINF:-1,Ar--MASSAR-AL-OULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1914.ts
+#EXTINF:-1,AR-Iqraa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/812.ts
+#EXTINF:-1,AL_Resala
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/161.ts
+#EXTINF:-1,AR-SPACETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/134.ts
+#EXTINF:-1,AR-TOKTOK-CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/116.ts
+#EXTINF:-1,AL_MAJD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/285.ts
+#EXTINF:-1,Ar-cima
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/279.ts
+#EXTINF:-1,Ar-NADA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/839.ts
+#EXTINF:-1,AR-AYAAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/243.ts
+#EXTINF:-1,ALIMAN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/158.ts
+#EXTINF:-1,ALFATH_Quran
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/282.ts
+#EXTINF:-1,AR-Kaifa_islam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/250.ts
+#EXTINF:-1,AR-Resalat_ALIslam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/172.ts
+#EXTINF:-1,AR-Ummah_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1617.ts
+#EXTINF:-1,AR-Noursat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1622.ts
+#EXTINF:-1,AR-MODY-KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1607.ts
+#EXTINF:-1,AR-Atfal&mawaheb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1623.ts
+#EXTINF:-1,AR-SAT7-KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1612.ts
+#EXTINF:-1,AR-Layalina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1609.ts
+#EXTINF:-1,AR-PTV_Prime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1620.ts
+#EXTINF:-1,ALHAYAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/123.ts
+#EXTINF:-1,Alhayat_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/157.ts
+#EXTINF:-1,Ar-Logos TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2308.ts
+#EXTINF:-1,Ar-Alkarma TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2310.ts
+#EXTINF:-1,Ar-Aghapy TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2307.ts
+#EXTINF:-1,Ar-KTV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/814.ts
+#EXTINF:-1,Ar-SAMARRA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2306.ts
+#EXTINF:-1,AR-Numidia-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1599.ts
+#EXTINF:-1,AR-HONA-BAGHDAD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1498.ts
+#EXTINF:-1,Ar-AMJAD-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2297.ts
+#EXTINF:-1,ALhayah-ALaan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1639.ts
+#EXTINF:-1,Arb-EN TV-Algeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1471.ts
+#EXTINF:-1,Ar-Algeria4_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1682.ts
+#EXTINF:-1,AR-AR-Noon-Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/118.ts
+#EXTINF:-1,AR-AlAnwar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/110.ts
+#EXTINF:-1,AR-Alam_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1867.ts
+#EXTINF:-1,Ar-Al_Kahera_Wel_Nes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3204.ts
+#EXTINF:-1,Ar-Al_Kahera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3203.ts
+#EXTINF:-1,AR-DUBAI-SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/127.ts
+#EXTINF:-1,AD-SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/103.ts
+#EXTINF:-1,AD-Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/104.ts
+#EXTINF:-1,MBC-PRO-SP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/168.ts
+#EXTINF:-1,MBC-PRO-SP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/169.ts
+#EXTINF:-1,MBC-PRO-SP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/170.ts
+#EXTINF:-1,Am-Armenian_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3575.ts
+#EXTINF:-1,Am-AABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3573.ts
+#EXTINF:-1,Am-ARTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3572.ts
+#EXTINF:-1,Am-kentron
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3574.ts
+#EXTINF:-1,Am-AMGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3581.ts
+#EXTINF:-1,Am-ARMOUNT_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3579.ts
+#EXTINF:-1,Am-Pan_Armenian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3577.ts
+#EXTINF:-1,Am-shant_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3576.ts
+#EXTINF:-1,Am-Yerkir_Media
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3578.ts
+#EXTINF:-1,Am-H3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3580.ts
+#EXTINF:-1,Am-High_Vision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3583.ts
+#EXTINF:-1,Am-MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3582.ts
+#EXTINF:-1,Bn_sports ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/803.ts
+#EXTINF:-1,Bn_HD_Sport1_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/17.ts
+#EXTINF:-1,Fr-B_Sport1_(b)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2739.ts
+#EXTINF:-1,Bn_HD_Sport2_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/18.ts
+#EXTINF:-1,Fr-B_Sport2_(b)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2740.ts
+#EXTINF:-1,Bn_HD_Sport3_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/336.ts
+#EXTINF:-1,Fr-B_Sport3_(b)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2741.ts
+#EXTINF:-1,fr-CANAL_sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/152.ts
+#EXTINF:-1,Ar-B_SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/300.ts
+#EXTINF:-1,B_Sports_HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1.ts
+#EXTINF:-1,Ar-B_SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/307.ts
+#EXTINF:-1,B_Sports_HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2.ts
+#EXTINF:-1,Ar-B_SPORT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/308.ts
+#EXTINF:-1,B_Sports_HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3.ts
+#EXTINF:-1,Ar-B_SPORT4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/309.ts
+#EXTINF:-1,B_Sports_HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/4.ts
+#EXTINF:-1,Ar-B_SPORT5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/310.ts
+#EXTINF:-1,B_Sports_HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/5.ts
+#EXTINF:-1,Ar-B_SPORT6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/311.ts
+#EXTINF:-1,B_Sports_HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/6.ts
+#EXTINF:-1,Ar-B_SPORT7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/312.ts
+#EXTINF:-1,B_Sports_HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/7.ts
+#EXTINF:-1,Ar-B_SPORT8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/313.ts
+#EXTINF:-1,B_Sports_HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/8.ts
+#EXTINF:-1,Ar-B_SPORT9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/314.ts
+#EXTINF:-1,B_Sports_HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/9.ts
+#EXTINF:-1,Ar-B_SPORT10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/301.ts
+#EXTINF:-1,B_Sports_HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/10.ts
+#EXTINF:-1,Ar-B_SPORT11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/302.ts
+#EXTINF:-1,B_Sports_HD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/11.ts
+#EXTINF:-1,Ar-B_SPORT12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/303.ts
+#EXTINF:-1,B_Sports_HD12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/12.ts
+#EXTINF:-1,Ar-B_SPORT13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/304.ts
+#EXTINF:-1,B_Sports_HD13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/13.ts
+#EXTINF:-1,Ar-B_SPORT14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/305.ts
+#EXTINF:-1,Ar-B_SPORT17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/306.ts
+#EXTINF:-1,Ar-B_Sport16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/16.ts
+#EXTINF:-1,B_Sports HD14-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/15.ts
+#EXTINF:-1,B_Sports HD15-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/14.ts
+#EXTINF:-1,B_Sport_News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/299.ts
+#EXTINF:-1,Extra_Sports ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1276.ts
+#EXTINF:-1,US-Fox SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2638.ts
+#EXTINF:-1,US-TSN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1257.ts
+#EXTINF:-1,US-TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2642.ts
+#EXTINF:-1,US-TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2641.ts
+#EXTINF:-1,US-TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2640.ts
+#EXTINF:-1,US-TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2639.ts
+#EXTINF:-1,CTH_Astro 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1275.ts
+#EXTINF:-1,CTH_Astro 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2053.ts
+#EXTINF:-1,CTH_Astro 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2052.ts
+#EXTINF:-1,CTH_Astro 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2051.ts
+#EXTINF:-1,FR-SFR_Sports1(test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/251.ts
+#EXTINF:-1,FR-SFR_Sport2(test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2555.ts
+#EXTINF:-1,FR-SFR_Sport3(test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2738.ts
+#EXTINF:-1,FR-SFR Sport5(test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2532.ts
+#EXTINF:-1,FR-BFM SPORT(test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3144.ts
+#EXTINF:-1,Supersport_1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2120.ts
+#EXTINF:-1,SuperSport2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1244.ts
+#EXTINF:-1,SuperSport_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1264.ts
+#EXTINF:-1,Sport_Klub1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2127.ts
+#EXTINF:-1,Sport_Klub2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1260.ts
+#EXTINF:-1,Sport_Klub3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1262.ts
+#EXTINF:-1,Arena_Sport_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2125.ts
+#EXTINF:-1,Arena_Sport_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2123.ts
+#EXTINF:-1,Arena_Sport_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2122.ts
+#EXTINF:-1,Arena_Sport_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2121.ts
+#EXTINF:-1,Spt-Eurosport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1239.ts
+#EXTINF:-1,spt-Eurosport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1273.ts
+#EXTINF:-1,spt-Sport_tonight-UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1263.ts
+#EXTINF:-1,spt-Bs Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/657.ts
+#EXTINF:-1,spt-Versus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1386.ts
+#EXTINF:-1,French_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/807.ts
+#EXTINF:-1,fr-CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/64.ts
+#EXTINF:-1,Fr-Canal_plus(B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3570.ts
+#EXTINF:-1,fr-CANAL_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/65.ts
+#EXTINF:-1,fr-CANAL_DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/525.ts
+#EXTINF:-1,fr-CANAL_FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/524.ts
+#EXTINF:-1,FR-Canal-SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/761.ts
+#EXTINF:-1,FR-Canal Comedie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2188.ts
+#EXTINF:-1,FR-OCS-MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1546.ts
+#EXTINF:-1,FR-OCS-GEANT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1547.ts
+#EXTINF:-1,FR-OCS-CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1545.ts
+#EXTINF:-1,FR-OSC_CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1882.ts
+#EXTINF:-1,fr-CINE_PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/69.ts
+#EXTINF:-1,fr-Cine_Frisson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/95.ts
+#EXTINF:-1,fr-Cine_Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/94.ts
+#EXTINF:-1,fr-Cine_Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/93.ts
+#EXTINF:-1,FR-CINE_FAMIZ-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1924.ts
+#EXTINF:-1,fr-EQUIPE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/791.ts
+#EXTINF:-1,Fr-Equidia livee
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2633.ts
+#EXTINF:-1,FR-TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/91.ts
+#EXTINF:-1,FR-Teva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1549.ts
+#EXTINF:-1,FR_FOOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2195.ts
+#EXTINF:-1,FR-OLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2138.ts
+#EXTINF:-1,FR-Info_Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/792.ts
+#EXTINF:-1,FR-Eurosport-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/165.ts
+#EXTINF:-1,FR_A LA CARTE1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2189.ts
+#EXTINF:-1,FR_A LACARTE2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2190.ts
+#EXTINF:-1,FR_A LA CARTE3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2191.ts
+#EXTINF:-1,FR_A LA CARTE4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2192.ts
+#EXTINF:-1,FR_A LA CARTE5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2193.ts
+#EXTINF:-1,FR_A LA CARTE6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2194.ts
+#EXTINF:-1,Fr-A La Carte 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2627.ts
+#EXTINF:-1,Fr-A La Carte 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2628.ts
+#EXTINF:-1,Fr-A La Carte 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2629.ts
+#EXTINF:-1,Fr-A La Carte 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2630.ts
+#EXTINF:-1,Fr-canalplay-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2621.ts
+#EXTINF:-1,Fr-canalplay-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2622.ts
+#EXTINF:-1,Fr-canalplay-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2623.ts
+#EXTINF:-1,Fr-canalplay-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2624.ts
+#EXTINF:-1,Fr-canalplay-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2625.ts
+#EXTINF:-1,Fr-canalplay-6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2626.ts
+#EXTINF:-1,Fr-Canalplay-7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2611.ts
+#EXTINF:-1,Fr-Canalplay-8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2612.ts
+#EXTINF:-1,Fr-Canalplay-9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2613.ts
+#EXTINF:-1,Fr-Canalplay-10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2614.ts
+#EXTINF:-1,FR-PLANET+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/87.ts
+#EXTINF:-1,FR-Planet+CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2183.ts
+#EXTINF:-1,FR-Planet+AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2184.ts
+#EXTINF:-1,fr-NatGeoWild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2196.ts
+#EXTINF:-1,Fr-Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2197.ts
+#EXTINF:-1,FR-Natl_Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/39.ts
+#EXTINF:-1,FR-Discovery_SC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1879.ts
+#EXTINF:-1,fr-ANIMAUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1356.ts
+#EXTINF:-1,Fr-EuroNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2632.ts
+#EXTINF:-1,FR-Ushuaia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1880.ts
+#EXTINF:-1,FR-Disney_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2134.ts
+#EXTINF:-1,FR-Disneycinemagic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1550.ts
+#EXTINF:-1,FR-Canal_J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2187.ts
+#EXTINF:-1,FR-PIWI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2198.ts
+#EXTINF:-1,FR-Gong
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/637.ts
+#EXTINF:-1,Fr-GAME_ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2137.ts
+#EXTINF:-1,Fr-Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2694.ts
+#EXTINF:-1,fr-Cartoon_network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1360.ts
+#EXTINF:-1,FR-Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/97.ts
+#EXTINF:-1,FR-GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/79.ts
+#EXTINF:-1,FR-MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1998.ts
+#EXTINF:-1,FR-Tiji_Cartoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1883.ts
+#EXTINF:-1,FR-BoomeRang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1593.ts
+#EXTINF:-1,FR-Teletoon+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1548.ts
+#EXTINF:-1,FRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/78.ts
+#EXTINF:-1,FR-FRO(B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/63.ts
+#EXTINF:-1,FR-C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3215.ts
+#EXTINF:-1,Fr-CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1624.ts
+#EXTINF:-1,FR-Numero 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/80.ts
+#EXTINF:-1,FR5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/76.ts
+#EXTINF:-1,FR3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/73.ts
+#EXTINF:-1,FR4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/74.ts
+#EXTINF:-1,FR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/72.ts
+#EXTINF:-1,FR-D8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/71.ts
+#EXTINF:-1,FR-D17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/70.ts
+#EXTINF:-1,FR-TV5_MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3268.ts
+#EXTINF:-1,FR-TiVi5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/296.ts
+#EXTINF:-1,FR-TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/90.ts
+#EXTINF:-1,FR-NT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2185.ts
+#EXTINF:-1,FR-Rtl9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2156.ts
+#EXTINF:-1,FR-W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/92.ts
+#EXTINF:-1,FR-m6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/84.ts
+#EXTINF:-1,FR-ITELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/82.ts
+#EXTINF:-1,FR-I24_news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2693.ts
+#EXTINF:-1,FR-E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1551.ts
+#EXTINF:-1,FR-IL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2186.ts
+#EXTINF:-1,FR-Serie_Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1590.ts
+#EXTINF:-1,FR-13EmeRue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1544.ts
+#EXTINF:-1,FR-Antenne-Centre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1997.ts
+#EXTINF:-1,FR-TV_BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3336.ts
+#EXTINF:-1,FR-NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/86.ts
+#EXTINF:-1,Fr-Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1362.ts
+#EXTINF:-1,fr-Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1357.ts
+#EXTINF:-1,fr-Chasse-et-peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1361.ts
+#EXTINF:-1,FR-BFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/62.ts
+#EXTINF:-1,FRANCE24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/77.ts
+#EXTINF:-1,FR-partmaunt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/298.ts
+#EXTINF:-1,fr-LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/787.ts
+#EXTINF:-1,fr-HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/790.ts
+#EXTINF:-1,fr-ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/789.ts
+#EXTINF:-1,fr-6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/793.ts
+#EXTINF:-1,Fr-Voyage
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2631.ts
+#EXTINF:-1,FR-Enorme TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/476.ts
+#EXTINF:-1,FR-m6 Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1881.ts
+#EXTINF:-1,Fr-RTS_deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1628.ts
+#EXTINF:-1,Fr-RMC_DECOUVERTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1888.ts
+#EXTINF:-1,FR-CHAINE_NORMANDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/759.ts
+#EXTINF:-1,FR-Plug rtl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1904.ts
+#EXTINF:-1,BE-Rtl_Tvi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2485.ts
+#EXTINF:-1,Fr-Euro Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1878.ts
+#EXTINF:-1,BE-AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2135.ts
+#EXTINF:-1,Be-La_Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1090.ts
+#EXTINF:-1,Be-LA_TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/695.ts
+#EXTINF:-1,BE-La_UneHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1312.ts
+#EXTINF:-1,BE-club_Rtl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1313.ts
+#EXTINF:-1,Fr-Toute l'Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2689.ts
+#EXTINF:-1,Fr-TVA MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2690.ts
+#EXTINF:-1,Fr-Science & Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2691.ts
+#EXTINF:-1,Fr-Canal-17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2692.ts
+#EXTINF:-1,Fr-Cine_FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2695.ts
+#EXTINF:-1,Fr-Cine_polar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2696.ts
+#EXTINF:-1,FR-KTO-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/760.ts
+#EXTINF:-1,FR-Zouzou TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/676.ts
+#EXTINF:-1,FR-Grand_Lille_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/475.ts
+#EXTINF:-1,Fr-L_EQUIPE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/758.ts
+#EXTINF:-1,Africa_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/809.ts
+#EXTINF:-1,AF-HCTV somalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1372.ts
+#EXTINF:-1,AF-Universal_somali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1393.ts
+#EXTINF:-1,AF-Rtd_djibouti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2058.ts
+#EXTINF:-1,AF-Somali_nation TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1390.ts
+#EXTINF:-1,AF-Somali-Cable
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1676.ts
+#EXTINF:-1,AF-Somaliland_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1389.ts
+#EXTINF:-1,AF-TV4 (somali)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/651.ts
+#EXTINF:-1,AF-SBC_somali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1375.ts
+#EXTINF:-1,AF-Kalsan-TV_somail
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1374.ts
+#EXTINF:-1,AF-ESTV(somali)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2026.ts
+#EXTINF:-1,AF-ETHIOPIA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/880.ts
+#EXTINF:-1,AF-EBC3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1392.ts
+#EXTINF:-1,AF-Africa TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2054.ts
+#EXTINF:-1,AF-Africa TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2140.ts
+#EXTINF:-1,AFC-blage Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2496.ts
+#EXTINF:-1,AF-Ait International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1707.ts
+#EXTINF:-1,AF-ERITRIA-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1552.ts
+#EXTINF:-1,AF-Nollywood_Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2020.ts
+#EXTINF:-1,AFC-Igboro Moives 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2316.ts
+#EXTINF:-1,AF-Nollywood_premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2019.ts
+#EXTINF:-1,AF-A_plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1613.ts
+#EXTINF:-1,AF: Cine stream TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2502.ts
+#EXTINF:-1,AF-Africable TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1492.ts
+#EXTINF:-1,AF-VOX Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1663.ts
+#EXTINF:-1,AF-RTG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/628.ts
+#EXTINF:-1,AF-Espace guinee
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2507.ts
+#EXTINF:-1,AF-RTG FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2023.ts
+#EXTINF:-1,AF-Guinee music FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1578.ts
+#EXTINF:-1,AF-Evasion_tv(guinee
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/473.ts
+#EXTINF:-1,AF-TFM redirect_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/656.ts
+#EXTINF:-1,AF-KTN news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/756.ts
+#EXTINF:-1,AF-Novelas tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3340.ts
+#EXTINF:-1,AF-trace africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3339.ts
+#EXTINF:-1,AF-ORTB BENIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3345.ts
+#EXTINF:-1,AF-RTNC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1497.ts
+#EXTINF:-1,AF-RNTC3 congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/281.ts
+#EXTINF:-1,AF-TV_Tous_Congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2132.ts
+#EXTINF:-1,AF-Tele_congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2231.ts
+#EXTINF:-1,AF-TVT(Togo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/650.ts
+#EXTINF:-1,AF-digital_congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2298.ts
+#EXTINF:-1,AF-Neema TV congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2230.ts
+#EXTINF:-1,AF-EPV TV CONGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2062.ts
+#EXTINF:-1,AF-Amen_tv(congo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/485.ts
+#EXTINF:-1,AF-RTGA_Congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/483.ts
+#EXTINF:-1,AF-canal cvv(congo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2317.ts
+#EXTINF:-1,AF-Desco Tv congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1671.ts
+#EXTINF:-1,AF-B_ONE(Congo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/626.ts
+#EXTINF:-1,AF-GTV Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/878.ts
+#EXTINF:-1,AF-GTV prime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2143.ts
+#EXTINF:-1,AF-GTV sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/480.ts
+#EXTINF:-1,AF-kedu tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2063.ts
+#EXTINF:-1,AF-TV3_gh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1672.ts
+#EXTINF:-1,AF-Joy News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2049.ts
+#EXTINF:-1,Af-GEC ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2131.ts
+#EXTINF:-1,AF-Chosen TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2060.ts
+#EXTINF:-1,AF-Adome TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2129.ts
+#EXTINF:-1,AF-NTAi(Nigeria)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1675.ts
+#EXTINF:-1,AF-TV_CONTINENTAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/464.ts
+#EXTINF:-1,AF-TVC_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/774.ts
+#EXTINF:-1,Af-Channels TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2061.ts
+#EXTINF:-1,AF-Dunamis tv(NG)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/459.ts
+#EXTINF:-1,AF: Tiwantiwa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2508.ts
+#EXTINF:-1,AF-EMMANUEL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1584.ts
+#EXTINF:-1,AF-LoveWorld+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2025.ts
+#EXTINF:-1,AF-BEN_TV(ng)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1528.ts
+#EXTINF:-1,AF-ERBU AFFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/630.ts
+#EXTINF:-1,AF: Elshaddai_TV(Ethiopia)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2504.ts
+#EXTINF:-1,AF-Crtv(Cameroun)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1387.ts
+#EXTINF:-1,AF-Equinoxe_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3201.ts
+#EXTINF:-1,Af-Stv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2133.ts
+#EXTINF:-1,AF-CamNews24_Cameroun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3200.ts
+#EXTINF:-1,AF-Canal2_Info(cameroun)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1543.ts
+#EXTINF:-1,AF-Canal2_Cameroun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1677.ts
+#EXTINF:-1,AF-STV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3199.ts
+#EXTINF:-1,AF-Sikka TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1668.ts
+#EXTINF:-1,AF-TVM3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2128.ts
+#EXTINF:-1,AF-OMNI2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2315.ts
+#EXTINF:-1,AF-Nina_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/643.ts
+#EXTINF:-1,AF-TPAI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1614.ts
+#EXTINF:-1,AF-Oromia-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2292.ts
+#EXTINF:-1,AF-Tpa_Angola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2055.ts
+#EXTINF:-1,AF-TV_ZIMBO_angola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3208.ts
+#EXTINF:-1,AF-TPA1_Angola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3210.ts
+#EXTINF:-1,AF-Christian TV(RTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/487.ts
+#EXTINF:-1,AF-RTB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2056.ts
+#EXTINF:-1,AF-walf tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1496.ts
+#EXTINF:-1,AF-2STV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/772.ts
+#EXTINF:-1,Af-sentv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1391.ts
+#EXTINF:-1,AF-Mouride (Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/631.ts
+#EXTINF:-1,AF-OM5 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2130.ts
+#EXTINF:-1,AF-RTS1_senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/478.ts
+#EXTINF:-1,AF-RTI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1541.ts
+#EXTINF:-1,AF-RTi2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/777.ts
+#EXTINF:-1,AF-Impact_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1666.ts
+#EXTINF:-1,AF-Aci_TV (OM5_TV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1585.ts
+#EXTINF:-1,AF-ORTM(mali)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1669.ts
+#EXTINF:-1,AF- Rwanda(RTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2144.ts
+#EXTINF:-1,AFC-Smash TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2146.ts
+#EXTINF:-1,AF-Kessben TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/488.ts
+#EXTINF:-1,AF-Rave_TV(Nigeria)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1580.ts
+#EXTINF:-1,AF-TM2(Mali)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/960.ts
+#EXTINF:-1,AF-Maisha_TV(Mali)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3233.ts
+#EXTINF:-1,AF-Africa24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/757.ts
+#EXTINF:-1,AF-TFM(local)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1581.ts
+#EXTINF:-1,AF-Tele_Tchad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1709.ts
+#EXTINF:-1,AF-Afromusic_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2024.ts
+#EXTINF:-1,AF-ANN_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1582.ts
+#EXTINF:-1,AF-euro news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1572.ts
+#EXTINF:-1,AF-apple_68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/968.ts
+#EXTINF:-1,AF-Wazobia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/967.ts
+#EXTINF:-1,AF-Diaspora24_sen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/454.ts
+#EXTINF:-1,AF-MFM-TV_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/451.ts
+#EXTINF:-1,AF_TVGE_Intl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/200.ts
+#EXTINF:-1,AF-GABON_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1611.ts
+#EXTINF:-1,AF-Canal 225(Beinin)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/750.ts
+#EXTINF:-1,AF-TVmana-1(Mz)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1575.ts
+#EXTINF:-1,AF-Afrique Media TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2022.ts
+#EXTINF:-1,AF-france24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/456.ts
+#EXTINF:-1,AF-NBS_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/776.ts
+#EXTINF:-1,AF-Tele_sahel(Niger
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2493.ts
+#EXTINF:-1,AF-RWANDA _TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3202.ts
+#EXTINF:-1,AF-RTH-TV(haiti)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3415.ts
+#EXTINF:-1,AF-TELE-ANACAONA(Haiti)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3416.ts
+#EXTINF:-1,AF-TELE-BOSTON(Haiti)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3418.ts
+#EXTINF:-1,AF-TELE-LEGLIZ( Haiti)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3417.ts
+#EXTINF:-1,UK-US-CA_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/805.ts
+#EXTINF:-1,UK-Sky-Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/874.ts
+#EXTINF:-1,UK-SkySports1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2971.ts
+#EXTINF:-1,UK-Sky-Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/421.ts
+#EXTINF:-1,UK-SkySports2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2972.ts
+#EXTINF:-1,UK-Sky-Sport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/420.ts
+#EXTINF:-1,UK-SkySports3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2973.ts
+#EXTINF:-1,UK-Sky-Sport4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/419.ts
+#EXTINF:-1,UK-SkySports4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2974.ts
+#EXTINF:-1,UK-Sky-Sport5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/418.ts
+#EXTINF:-1,UK-SkySports5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2975.ts
+#EXTINF:-1,UK-sky_sport_F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2014.ts
+#EXTINF:-1,UK-Premier Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2153.ts
+#EXTINF:-1,UK-Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2016.ts
+#EXTINF:-1,UK-Box_Nation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1595.ts
+#EXTINF:-1,UK:Setanta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1504.ts
+#EXTINF:-1,UK-BTsport-europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1468.ts
+#EXTINF:-1,UK-BT_Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1308.ts
+#EXTINF:-1,UK-BT_Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1309.ts
+#EXTINF:-1,UK-BT-Espn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1594.ts
+#EXTINF:-1,UK-Liverpool_FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2209.ts
+#EXTINF:-1,UK-AtThe-Races
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/396.ts
+#EXTINF:-1,UK-Motors_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2216.ts
+#EXTINF:-1,UK-Sky_Sports-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2223.ts
+#EXTINF:-1,UK-True_M1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2203.ts
+#EXTINF:-1,UK-True_M2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2202.ts
+#EXTINF:-1,UK-MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/379.ts
+#EXTINF:-1,UK-Pick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2225.ts
+#EXTINF:-1,UK-GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2220.ts
+#EXTINF:-1,UK-Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2213.ts
+#EXTINF:-1,UK-Yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2210.ts
+#EXTINF:-1,UK-Watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2204.ts
+#EXTINF:-1,UK-BBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1302.ts
+#EXTINF:-1,UK-BBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1303.ts
+#EXTINF:-1,UK-BBC3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1920.ts
+#EXTINF:-1,UK-BBC4_CBEEBIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1921.ts
+#EXTINF:-1,UK-SKY-NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/417.ts
+#EXTINF:-1,UK_RT_24(En)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1538.ts
+#EXTINF:-1,UK_EuroNews(En)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1539.ts
+#EXTINF:-1,UK-RT_Document
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1911.ts
+#EXTINF:-1,UK-CHANNEL4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1922.ts
+#EXTINF:-1,UK-CHANNEL5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1923.ts
+#EXTINF:-1,UK-Select_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2218.ts
+#EXTINF:-1,UK-SCI-FI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2221.ts
+#EXTINF:-1,UK-Premiere_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2219.ts
+#EXTINF:-1,UK-Sky_Greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/436.ts
+#EXTINF:-1,UK-Sky-LivingIt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1610.ts
+#EXTINF:-1,UK-Crimes & Inv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1619.ts
+#EXTINF:-1,UK-Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/213.ts
+#EXTINF:-1,UK-Sky_Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/218.ts
+#EXTINF:-1,UK-Sky_Chelsea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/426.ts
+#EXTINF:-1,UK-SKY-Syfy+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/425.ts
+#EXTINF:-1,UK-RTE1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/427.ts
+#EXTINF:-1,UK-RTE2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/275.ts
+#EXTINF:-1,UK-Atlantic+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/422.ts
+#EXTINF:-1,UK-Sky_Monsters
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/219.ts
+#EXTINF:-1,UK-Sky_Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/217.ts
+#EXTINF:-1,UK-Sky_Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/216.ts
+#EXTINF:-1,UK-Drama_Rom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/215.ts
+#EXTINF:-1,UK-Sky-Mv_Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/214.ts
+#EXTINF:-1,UK-Sky_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/212.ts
+#EXTINF:-1,UK-Sky_Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/211.ts
+#EXTINF:-1,UK-COMEDY_CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2151.ts
+#EXTINF:-1,UK-Inves.&Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2093.ts
+#EXTINF:-1,UK-Sky2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/272.ts
+#EXTINF:-1,UK-sky_one
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1865.ts
+#EXTINF:-1,UK-Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2033.ts
+#EXTINF:-1,UK-E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2032.ts
+#EXTINF:-1,UK-ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2636.ts
+#EXTINF:-1,UK-Disc_History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/381.ts
+#EXTINF:-1,UK-Discovery-Sc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2211.ts
+#EXTINF:-1,UK-Discovery_Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2017.ts
+#EXTINF:-1,UK-Discovery_CH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2018.ts
+#EXTINF:-1,UK-Animal_Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2015.ts
+#EXTINF:-1,UK-Nat-Geo+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/392.ts
+#EXTINF:-1,UK-NAT-GEO-WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/393.ts
+#EXTINF:-1,UK-sky_famliy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/394.ts
+#EXTINF:-1,UK-FOX-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/389.ts
+#EXTINF:-1,UK-horror_channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/233.ts
+#EXTINF:-1,UK-H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/248.ts
+#EXTINF:-1,UK-CBS_Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2228.ts
+#EXTINF:-1,UK-CBS_Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/230.ts
+#EXTINF:-1,UK-CBS_Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/229.ts
+#EXTINF:-1,UK-TG4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2150.ts
+#EXTINF:-1,UK-Nick_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2100.ts
+#EXTINF:-1,UK-Nick Toons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2212.ts
+#EXTINF:-1,UK-Baby_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2215.ts
+#EXTINF:-1,UK-BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2031.ts
+#EXTINF:-1,UK-Disney_XD+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/384.ts
+#EXTINF:-1,UK-Disney_Junior+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/378.ts
+#EXTINF:-1,UK-Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/383.ts
+#EXTINF:-1,UK:NICKLEODON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1587.ts
+#EXTINF:-1,UK:Carton Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1589.ts
+#EXTINF:-1,UK-3E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2488.ts
+#EXTINF:-1,UK-Sky_fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2489.ts
+#EXTINF:-1,UK-Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2486.ts
+#EXTINF:-1,UK-Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2490.ts
+#EXTINF:-1,UK-Poker Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1615.ts
+#EXTINF:-1,UK-5USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2085.ts
+#EXTINF:-1,UK-ITV1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/249.ts
+#EXTINF:-1,UK-ITV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/234.ts
+#EXTINF:-1,UK-ITV3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/236.ts
+#EXTINF:-1,UK-ITV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/235.ts
+#EXTINF:-1,UK-Itv_Be
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2224.ts
+#EXTINF:-1,UK-More4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/358.ts
+#EXTINF:-1,UK-VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2222.ts
+#EXTINF:-1,UK-Peace_TV(en)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3334.ts
+#EXTINF:-1,USA-CNN_Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2806.ts
+#EXTINF:-1,US-CNN News-intl.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/191.ts
+#EXTINF:-1,USA-ABC_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1063.ts
+#EXTINF:-1,USA-BBC-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2071.ts
+#EXTINF:-1,USA-Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1304.ts
+#EXTINF:-1,USA-RT_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1910.ts
+#EXTINF:-1,USA_Al-jazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1536.ts
+#EXTINF:-1,cspan1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2734.ts
+#EXTINF:-1,cspan2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2735.ts
+#EXTINF:-1,cspan3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2736.ts
+#EXTINF:-1,US-USA Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2731.ts
+#EXTINF:-1,US-TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2729.ts
+#EXTINF:-1,US-Bravo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2732.ts
+#EXTINF:-1,USA-AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2113.ts
+#EXTINF:-1,Usa- A&E hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2637.ts
+#EXTINF:-1,US-Boston City TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2737.ts
+#EXTINF:-1,US-AMG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2733.ts
+#EXTINF:-1,USA-Family E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2094.ts
+#EXTINF:-1,USA-HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/827.ts
+#EXTINF:-1,USA-HBO1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2115.ts
+#EXTINF:-1,US-Family FE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1627.ts
+#EXTINF:-1,US-Hallmark HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2393.ts
+#EXTINF:-1,US-WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2730.ts
+#EXTINF:-1,USA--NBC_golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1261.ts
+#EXTINF:-1,USA--AFL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1240.ts
+#EXTINF:-1,USA:ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2078.ts
+#EXTINF:-1,USA-NBCSN sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2116.ts
+#EXTINF:-1,US-Sports Net
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1625.ts
+#EXTINF:-1,USA-PAC-12 WS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2101.ts
+#EXTINF:-1,USA:London live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2084.ts
+#EXTINF:-1,USA:FOOD network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2087.ts
+#EXTINF:-1,USA-NASA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2097.ts
+#EXTINF:-1,USA-QVC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2114.ts
+#EXTINF:-1,USA-London_Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2096.ts
+#EXTINF:-1,USA-Spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2099.ts
+#EXTINF:-1,USA-Florida_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2102.ts
+#EXTINF:-1,USA-California_University
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2103.ts
+#EXTINF:-1,Ca-TVA Montreal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2395.ts
+#EXTINF:-1,CA-WGN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2389.ts
+#EXTINF:-1,Ca-RDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2397.ts
+#EXTINF:-1,US-FXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2398.ts
+#EXTINF:-1,CA-TOMATO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2384.ts
+#EXTINF:-1,Ca-SN quebec Canal9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2390.ts
+#EXTINF:-1,CA-Assemble Nationale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2383.ts
+#EXTINF:-1,Ca-AN Du Quebec
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2391.ts
+#EXTINF:-1,CA-MYJAVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2385.ts
+#EXTINF:-1,Ca-Radio-Shebrooke
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2394.ts
+#EXTINF:-1,US-MTV Hit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2396.ts
+#EXTINF:-1,Germany_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/806.ts
+#EXTINF:-1,DE-Select1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3242.ts
+#EXTINF:-1,DE-Select2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3232.ts
+#EXTINF:-1,DE-Select3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3221.ts
+#EXTINF:-1,DE-Select4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3218.ts
+#EXTINF:-1,DE-NICK_JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3238.ts
+#EXTINF:-1,DE-Disney_Channel_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3235.ts
+#EXTINF:-1,DE-Disney_XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1913.ts
+#EXTINF:-1,DE-Disney_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3234.ts
+#EXTINF:-1,DE-Kika_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/922.ts
+#EXTINF:-1,DE-Disney_Cinemagic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/901.ts
+#EXTINF:-1,DE-Europe_Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3247.ts
+#EXTINF:-1,DE-Sky_Sport_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3223.ts
+#EXTINF:-1,DE-Sky_Sport1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/189.ts
+#EXTINF:-1,DE-Sky_Sport_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/190.ts
+#EXTINF:-1,DE-Sky_Bundesliga1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/183.ts
+#EXTINF:-1,DE-Sky_BL2(Matchday)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3515.ts
+#EXTINF:-1,DE-Sky_BL3(Matchday)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3516.ts
+#EXTINF:-1,DE-Sky_BL4(Matchday)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3517.ts
+#EXTINF:-1,DE-Sky_BL5(Matchday)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3518.ts
+#EXTINF:-1,DE-Sky_BL6(Matchday)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3519.ts
+#EXTINF:-1,DE-Sky_BL7(Matchday)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3520.ts
+#EXTINF:-1,DE-Sky_BL8(Matchday)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3521.ts
+#EXTINF:-1,DE-Sky_Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/184.ts
+#EXTINF:-1,DE-Sky-Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3243.ts
+#EXTINF:-1,DE-Sky_TNT_Serie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3222.ts
+#EXTINF:-1,DE-Sky_Nostalgie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3224.ts
+#EXTINF:-1,DE-Sky_Krimi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3225.ts
+#EXTINF:-1,DE-SKY_HITS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3244.ts
+#EXTINF:-1,DE-Sky_Cinema__24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3226.ts
+#EXTINF:-1,DE-arte_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3220.ts
+#EXTINF:-1,DE-Sky_Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/182.ts
+#EXTINF:-1,DE-Sky_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1156.ts
+#EXTINF:-1,DE-Sat1_Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/186.ts
+#EXTINF:-1,DE-Sky_action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/181.ts
+#EXTINF:-1,DE-Sky_13th_Street
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/179.ts
+#EXTINF:-1,DE-Sky_Sixx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1153.ts
+#EXTINF:-1,DE-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/795.ts
+#EXTINF:-1,DE-RTL2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/917.ts
+#EXTINF:-1,DE-Super_RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/906.ts
+#EXTINF:-1,DE-RTL.Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3229.ts
+#EXTINF:-1,DE-Rtl_Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3227.ts
+#EXTINF:-1,DE-Rtl_Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3228.ts
+#EXTINF:-1,DE-RTL Nitro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1487.ts
+#EXTINF:-1,DE-ProSieben
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/927.ts
+#EXTINF:-1,DE-Prosieben_Maxx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3230.ts
+#EXTINF:-1,DE-ProSieben_Fun_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3212.ts
+#EXTINF:-1,DE-N24_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/902.ts
+#EXTINF:-1,DE-AUSTRIA_24_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3249.ts
+#EXTINF:-1,DE-Tagesschau24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/905.ts
+#EXTINF:-1,DE-ZDF_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3246.ts
+#EXTINF:-1,DE-NDR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3214.ts
+#EXTINF:-1,DE-ntv_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3213.ts
+#EXTINF:-1,DE-KABEL_Eins
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3248.ts
+#EXTINF:-1,DE-HR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3216.ts
+#EXTINF:-1,DE-Fox_Serie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3241.ts
+#EXTINF:-1,DE-FOX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3217.ts
+#EXTINF:-1,DE-ANIXE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3250.ts
+#EXTINF:-1,DE-ALEX-BERLIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3251.ts
+#EXTINF:-1,DE-Europe_news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/925.ts
+#EXTINF:-1,DE-Kabel_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1166.ts
+#EXTINF:-1,DE-TNT_Film_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1477.ts
+#EXTINF:-1,DE-SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/192.ts
+#EXTINF:-1,DE-AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/557.ts
+#EXTINF:-1,DE-MGM_Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/177.ts
+#EXTINF:-1,DE-3sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/928.ts
+#EXTINF:-1,DE-SAT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/797.ts
+#EXTINF:-1,DE-VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/800.ts
+#EXTINF:-1,DE-ORF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/915.ts
+#EXTINF:-1,DE-Dmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/794.ts
+#EXTINF:-1,De-History_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1486.ts
+#EXTINF:-1,DE-NatGeo_CH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/178.ts
+#EXTINF:-1,DE-Nat_Geo_Wild_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3231.ts
+#EXTINF:-1,DE-Discovery_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/174.ts
+#EXTINF:-1,Italy_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/958.ts
+#EXTINF:-1,IT-Rai1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1068.ts
+#EXTINF:-1,IT-Rai2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1069.ts
+#EXTINF:-1,IT-Rai3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1070.ts
+#EXTINF:-1,IT-Rai4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1495.ts
+#EXTINF:-1,IT-Rai5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2529.ts
+#EXTINF:-1,IT:Rai_Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1728.ts
+#EXTINF:-1,IT:Rai_Gulp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1862.ts
+#EXTINF:-1,IT-RAI_YOYO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1950.ts
+#EXTINF:-1,IT-RAI_NEWS24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1951.ts
+#EXTINF:-1,IT-Rai Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3129.ts
+#EXTINF:-1,IT-Rai Tre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3128.ts
+#EXTINF:-1,IT-Rai Due
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3127.ts
+#EXTINF:-1,IT-Mediaset_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1494.ts
+#EXTINF:-1,IT-Mediaset_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1958.ts
+#EXTINF:-1,ITi-Mediaset Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1959.ts
+#EXTINF:-1,IT-Mediaset_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1493.ts
+#EXTINF:-1,IT-La.1.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1723.ts
+#EXTINF:-1,IT-LA_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1724.ts
+#EXTINF:-1,IT-Rete4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1996.ts
+#EXTINF:-1,IT-LA5(mediaset)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1741.ts
+#EXTINF:-1,IT-La7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1088.ts
+#EXTINF:-1,IT-TG_NORBA_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1967.ts
+#EXTINF:-1,IT-EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1952.ts
+#EXTINF:-1,IT-Sky_TG24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1078.ts
+#EXTINF:-1,IT-Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3138.ts
+#EXTINF:-1,IT:Pre_Disney_Xd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1801.ts
+#EXTINF:-1,IT-Teleticino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1963.ts
+#EXTINF:-1,IT-Pre_Disney_junor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1989.ts
+#EXTINF:-1,IT:Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1863.ts
+#EXTINF:-1,ITi-Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1756.ts
+#EXTINF:-1,IT-MAN-GA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3126.ts
+#EXTINF:-1,IT-Sky_Fox_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1980.ts
+#EXTINF:-1,IT:FOX_Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1740.ts
+#EXTINF:-1,IT-Fox_Life_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1957.ts
+#EXTINF:-1,IT-Galicia_america
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3123.ts
+#EXTINF:-1,IT-Fox Animation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1845.ts
+#EXTINF:-1,IT-Focus Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3134.ts
+#EXTINF:-1,IT-Sportitalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1956.ts
+#EXTINF:-1,IT:Rai_Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1768.ts
+#EXTINF:-1,IT:Rai_Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1769.ts
+#EXTINF:-1,IT-Sky_F1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1981.ts
+#EXTINF:-1,IT-Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3096.ts
+#EXTINF:-1,IT-SKY_SPORT1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1422.ts
+#EXTINF:-1,IT-SKY_SPORT2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1421.ts
+#EXTINF:-1,IT-Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3117.ts
+#EXTINF:-1,IT:Sky_Sport24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1770.ts
+#EXTINF:-1,IT-Sport MotorGP_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1773.ts
+#EXTINF:-1,IT-Sky_Calcio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1778.ts
+#EXTINF:-1,IT:Super_tennis_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1990.ts
+#EXTINF:-1,IT:Pre_EuroSport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1795.ts
+#EXTINF:-1,IT:Pre_EuroSport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1796.ts
+#EXTINF:-1,IT-Sky Sport plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3118.ts
+#EXTINF:-1,IT-Premium Sport SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3106.ts
+#EXTINF:-1,IT-Premium Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3108.ts
+#EXTINF:-1,IT-Premium SPORT(2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3107.ts
+#EXTINF:-1,IT-Guarda_Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3120.ts
+#EXTINF:-1,IT:Milan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1777.ts
+#EXTINF:-1,IT-Juventus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3098.ts
+#EXTINF:-1,IT-Inter Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3097.ts
+#EXTINF:-1,IT-Premium Calcio 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3099.ts
+#EXTINF:-1,IT-Premium Calcio 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3100.ts
+#EXTINF:-1,IT-Premium Calcio 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3101.ts
+#EXTINF:-1,IT-Premium Calcio 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3102.ts
+#EXTINF:-1,IT-Premium Calcio 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3103.ts
+#EXTINF:-1,IT-Premium Calcio 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3104.ts
+#EXTINF:-1,IT-Premium Calcio 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3105.ts
+#EXTINF:-1,IT-Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3109.ts
+#EXTINF:-1,IT-Sky Calcio 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3110.ts
+#EXTINF:-1,IT-Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3111.ts
+#EXTINF:-1,IT-Sky Calcio 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3112.ts
+#EXTINF:-1,IT-Sky Calcio 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3113.ts
+#EXTINF:-1,IT-Sky Calcio 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3114.ts
+#EXTINF:-1,IT-Sky Calcio 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3115.ts
+#EXTINF:-1,IT-Sky Calcio 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3116.ts
+#EXTINF:-1,IT:Sky_Uno_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1734.ts
+#EXTINF:-1,IT-SKY_Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1983.ts
+#EXTINF:-1,IT-Sky_Cine_Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1732.ts
+#EXTINF:-1,IT-sky_Cinema_Cult
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1733.ts
+#EXTINF:-1,IT-sky-Cinema-Comdy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1411.ts
+#EXTINF:-1,IT-Sky Cinema Hits hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1412.ts
+#EXTINF:-1,IT-Sky_CINEMA 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1415.ts
+#EXTINF:-1,IT-Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3095.ts
+#EXTINF:-1,IT-Sky Cine Classics2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3094.ts
+#EXTINF:-1,IT-sky_Cine_Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1730.ts
+#EXTINF:-1,IT-History_LAB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1731.ts
+#EXTINF:-1,IT-Premium Crime 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3093.ts
+#EXTINF:-1,IT-Premium Cinema 2 HD  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3092.ts
+#EXTINF:-1,IT-Premium Action HD  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3091.ts
+#EXTINF:-1,ITi-Pre-Cinema24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1993.ts
+#EXTINF:-1,ITi-Premium Cinema2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1443.ts
+#EXTINF:-1,ITi-Premium Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1451.ts
+#EXTINF:-1,IT:Pre_Crime_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1805.ts
+#EXTINF:-1,IT:Pre_Cine_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1806.ts
+#EXTINF:-1,ITi-Pre_Cinema_Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1800.ts
+#EXTINF:-1,IT:Pre_Stories
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1810.ts
+#EXTINF:-1,IT:Pre-Studio_Uni
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1440.ts
+#EXTINF:-1,IT:Premium_Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1442.ts
+#EXTINF:-1,IT-PRE_JOY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1986.ts
+#EXTINF:-1,IT-ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1419.ts
+#EXTINF:-1,IT-Dmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1961.ts
+#EXTINF:-1,IT-AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3119.ts
+#EXTINF:-1,IT-CI_Crime+Inv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2533.ts
+#EXTINF:-1,IT-AXN_Sci-Fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1988.ts
+#EXTINF:-1,IT-Top_Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1985.ts
+#EXTINF:-1,IT-History_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1774.ts
+#EXTINF:-1,IT-Discovery Travel & Living HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3132.ts
+#EXTINF:-1,IT-Discovery_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1991.ts
+#EXTINF:-1,IT:Discovery_SC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1759.ts
+#EXTINF:-1,IT-Nat_Geo_PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1982.ts
+#EXTINF:-1,IT:Nat_Geo_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1743.ts
+#EXTINF:-1,IT-Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3136.ts
+#EXTINF:-1,IT-ANIMAL_PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1955.ts
+#EXTINF:-1,IT-Pesca Canale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3137.ts
+#EXTINF:-1,IT-Pesca-e-Caccia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1987.ts
+#EXTINF:-1,IT-Guarda Canale Giallo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3124.ts
+#EXTINF:-1,IT-Gambero Rosso HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3135.ts
+#EXTINF:-1,IT-Caccia Canale SKY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3131.ts
+#EXTINF:-1,IT-4E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1984.ts
+#EXTINF:-1,IT-Realtime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2534.ts
+#EXTINF:-1,IT-Alice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1133.ts
+#EXTINF:-1,IT-CIELO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1126.ts
+#EXTINF:-1,IT-K2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3141.ts
+#EXTINF:-1,IT-Super!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3143.ts
+#EXTINF:-1,IT-Primafila1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1424.ts
+#EXTINF:-1,IT-Primafila2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1425.ts
+#EXTINF:-1,IT:Primafila3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1435.ts
+#EXTINF:-1,IT:Primafila4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1434.ts
+#EXTINF:-1,IT:Primafila5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1433.ts
+#EXTINF:-1,IT:Primafila6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1432.ts
+#EXTINF:-1,IT:Primafila7_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1431.ts
+#EXTINF:-1,IT:Primafila8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1437.ts
+#EXTINF:-1,IT:Primafila9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1430.ts
+#EXTINF:-1,IT: Primafila10_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1439.ts
+#EXTINF:-1,IT-TV2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3130.ts
+#EXTINF:-1,IT_VideoLINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3331.ts
+#EXTINF:-1,IT_Uninettuno_University
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3287.ts
+#EXTINF:-1,IT_TRENTINO_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3310.ts
+#EXTINF:-1,IT_TeleSTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3284.ts
+#EXTINF:-1,IT_Tele_MILANO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3328.ts
+#EXTINF:-1,IT_Tele_ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3315.ts
+#EXTINF:-1,IT_TC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3283.ts
+#EXTINF:-1,IT_SARONNO_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3306.ts
+#EXTINF:-1,IT_Rete_8_SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3326.ts
+#EXTINF:-1,IT_Rete_55
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3276.ts
+#EXTINF:-1,IT_Radio_VIRGIN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3320.ts
+#EXTINF:-1,IT_Radio_Monte_Carlo_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3321.ts
+#EXTINF:-1,IT_Radio_105_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3322.ts
+#EXTINF:-1,IT_OTTO_8_FM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3275.ts
+#EXTINF:-1,IT_ORLER_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3296.ts
+#EXTINF:-1,IT_E_TV_MARCHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3299.ts
+#EXTINF:-1,IT_Camera_Dei_DEPUTATI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3289.ts
+#EXTINF:-1,IT_ANTENNA_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3295.ts
+#EXTINF:-1,IT_ALTO_ADIGE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3330.ts
+#EXTINF:-1,O_SN_Series TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/804.ts
+#EXTINF:-1,BN Movies1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/269.ts
+#EXTINF:-1,BN Movies2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1942.ts
+#EXTINF:-1,BN Movies3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/265.ts
+#EXTINF:-1,OS-OFFICBOX1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1949.ts
+#EXTINF:-1,OS-OFFICBOX2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1948.ts
+#EXTINF:-1,OS-OFFICBOX3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1947.ts
+#EXTINF:-1,OS_Moives_Premier HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2284.ts
+#EXTINF:-1,OS-Mv-Premiere2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1701.ts
+#EXTINF:-1,OS_Yahala Shabab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2280.ts
+#EXTINF:-1,OS-Movies-star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1945.ts
+#EXTINF:-1,OS-Movies_kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1700.ts
+#EXTINF:-1,Os-BN_moives 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2610.ts
+#EXTINF:-1,Os-wwe network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2608.ts
+#EXTINF:-1,OS-STAR_GOULD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1946.ts
+#EXTINF:-1,OS-On_Demand_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1943.ts
+#EXTINF:-1,OS-On_Demand_Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1944.ts
+#EXTINF:-1,OS-Alyoum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/345.ts
+#EXTINF:-1,OS-YA_HALA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2240.ts
+#EXTINF:-1,Os-YAHALA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2607.ts
+#EXTINF:-1,Os-First
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2609.ts
+#EXTINF:-1,OS-Alkass Sport1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1698.ts
+#EXTINF:-1,OS-Alkass Sport2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2260.ts
+#EXTINF:-1,OS_SPORT3(test only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2270.ts
+#EXTINF:-1,OS_Alkass Sport4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/263.ts
+#EXTINF:-1,OS_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2278.ts
+#EXTINF:-1,OS_YAHALA-SHABAB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2276.ts
+#EXTINF:-1,OS_Yahala_Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2274.ts
+#EXTINF:-1,OS_MV_action+2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/346.ts
+#EXTINF:-1,OS_FIRST_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2275.ts
+#EXTINF:-1,OS_FESTIVAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/268.ts
+#EXTINF:-1,OS: Movies HD Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2250.ts
+#EXTINF:-1,OS_Cinema1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/255.ts
+#EXTINF:-1,OS_Cinema2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/256.ts
+#EXTINF:-1,OS: Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2246.ts
+#EXTINF:-1,OS: MOVIES ACTION  2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2245.ts
+#EXTINF:-1,OS_PPV_wwe-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2256.ts
+#EXTINF:-1,OS_Discovery_Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/262.ts
+#EXTINF:-1,OS_MOVIES Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/264.ts
+#EXTINF:-1,OS-Cricket(test)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1699.ts
+#EXTINF:-1,Scandinavian_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2456.ts
+#EXTINF:-1,Scn-C-More First
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2449.ts
+#EXTINF:-1,Scn-C-More Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2451.ts
+#EXTINF:-1,Scn-C-More Tennis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2453.ts
+#EXTINF:-1,Scn-C-More Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2452.ts
+#EXTINF:-1,Scn-C-More Fotboll
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2454.ts
+#EXTINF:-1,Scn-C More Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2481.ts
+#EXTINF:-1,Scn-C more Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2805.ts
+#EXTINF:-1,Scn-Viasat Film Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2417.ts
+#EXTINF:-1,Scn-Viasat Film hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2418.ts
+#EXTINF:-1,Scn-Viasat_Hockey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2448.ts
+#EXTINF:-1,Scn-Visat explore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2518.ts
+#EXTINF:-1,Scn-Viasat Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2411.ts
+#EXTINF:-1,Scn-Viasat Football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2415.ts
+#EXTINF:-1,Scn-TV2_sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2526.ts
+#EXTINF:-1,Scn-Boomerang SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2543.ts
+#EXTINF:-1,Scn-MTV_sweden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2525.ts
+#EXTINF:-1,Scn-TV3_Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2450.ts
+#EXTINF:-1,Scn-TV3_SPORT_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2416.ts
+#EXTINF:-1,SCN-EuroSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1242.ts
+#EXTINF:-1,Scn-Nick Jr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2428.ts
+#EXTINF:-1,Scn-TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2470.ts
+#EXTINF:-1,Scn-Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2469.ts
+#EXTINF:-1,Scn-RAMASJANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2474.ts
+#EXTINF:-1,Scn-Disney_channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2475.ts
+#EXTINF:-1,Scn-Disney_XD(Se)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3584.ts
+#EXTINF:-1,Scn-24Corren
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2457.ts
+#EXTINF:-1,Scn-Svt 24/B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2523.ts
+#EXTINF:-1,Scn-NRK 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2808.ts
+#EXTINF:-1,Scn-DR1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2810.ts
+#EXTINF:-1,Scn-DR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2809.ts
+#EXTINF:-1,Scn-SVT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2520.ts
+#EXTINF:-1,Scn-Svt2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2522.ts
+#EXTINF:-1,Scn-TV2 Zulu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2527.ts
+#EXTINF:-1,Scn-TV2 Zebra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2812.ts
+#EXTINF:-1,Scn-TV2 Lorry
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2813.ts
+#EXTINF:-1,Scn-TV2 charlie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2814.ts
+#EXTINF:-1,Scn-TV Norge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2816.ts
+#EXTINF:-1,Scn-TV3_DK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1241.ts
+#EXTINF:-1,SCN-TV3 Sweden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2539.ts
+#EXTINF:-1,SCN-TV4 sw
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1272.ts
+#EXTINF:-1,Scn-TV4 Komedi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2546.ts
+#EXTINF:-1,Scn-TV4 Culd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2544.ts
+#EXTINF:-1,Scn-TV4 Fakta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2545.ts
+#EXTINF:-1,SCN-TV4 Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2538.ts
+#EXTINF:-1,Scn-Kanal 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2409.ts
+#EXTINF:-1,SCN-Kanal_5(DK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3240.ts
+#EXTINF:-1,Scn-Kanal5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2549.ts
+#EXTINF:-1,Scn-6 Eren
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2811.ts
+#EXTINF:-1,SCN-TV6 Sweden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2541.ts
+#EXTINF:-1,SCN-TV7_finland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2152.ts
+#EXTINF:-1,Scn-TV8 Sweden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2550.ts
+#EXTINF:-1,Scn-Kanal9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2551.ts
+#EXTINF:-1,Scn-TV10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2446.ts
+#EXTINF:-1,Scn-TV 10 SV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2410.ts
+#EXTINF:-1,Scn-Kanal 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2688.ts
+#EXTINF:-1,Scn-TV12 Sweden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2552.ts
+#EXTINF:-1,SCN-Sjuan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2542.ts
+#EXTINF:-1,Scn-SF_Kanalen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3585.ts
+#EXTINF:-1,Scn-FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2517.ts
+#EXTINF:-1,Scn-Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2464.ts
+#EXTINF:-1,Scn-Kunskapskanalen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2476.ts
+#EXTINF:-1,Scn-discover SC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2468.ts
+#EXTINF:-1,Scn-Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2807.ts
+#EXTINF:-1,Scn-Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2478.ts
+#EXTINF:-1,Scn-NationalGeographicSe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2477.ts
+#EXTINF:-1,Nertherlands TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1526.ts
+#EXTINF:-1,NL: Fox Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1522.ts
+#EXTINF:-1,NL: Fox Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1521.ts
+#EXTINF:-1,NL: Fox Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1520.ts
+#EXTINF:-1,NL-Fox Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2514.ts
+#EXTINF:-1,NL-Fox Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2515.ts
+#EXTINF:-1,NL-Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2516.ts
+#EXTINF:-1,NL:Sport1_Votbal_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1505.ts
+#EXTINF:-1,NL-Ziggo Sport Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2513.ts
+#EXTINF:-1,NL:Film1.spotlight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1517.ts
+#EXTINF:-1,NL: Film1 comdy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1523.ts
+#EXTINF:-1,NL: Film 1 Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1524.ts
+#EXTINF:-1,NL:Film1.action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2037.ts
+#EXTINF:-1,NL:FilmSundance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1514.ts
+#EXTINF:-1,NL-Sport eXtra1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2512.ts
+#EXTINF:-1,NL: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2511.ts
+#EXTINF:-1,NL:Veronica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2036.ts
+#EXTINF:-1,NL:DISNEY-CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1525.ts
+#EXTINF:-1,NL:Nick_Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3524.ts
+#EXTINF:-1,NL:Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3522.ts
+#EXTINF:-1,NL:Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3523.ts
+#EXTINF:-1,NL:NPO1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1513.ts
+#EXTINF:-1,NL:NPO2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1512.ts
+#EXTINF:-1,NL:NPO3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1511.ts
+#EXTINF:-1,NL:SB 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1506.ts
+#EXTINF:-1,NL:RTV Drenthe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1507.ts
+#EXTINF:-1,NL:RTL7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1508.ts
+#EXTINF:-1,NL:NET5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1509.ts
+#EXTINF:-1,NL:RTL4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1510.ts
+#EXTINF:-1,NL-RTL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2510.ts
+#EXTINF:-1,NL-Discovey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1515.ts
+#EXTINF:-1,NL:WOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1518.ts
+#EXTINF:-1,NL: RTL 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1519.ts
+#EXTINF:-1,NL-BVN_europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2068.ts
+#EXTINF:-1,NL-RTV_Drenthe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1930.ts
+#EXTINF:-1,NL-L1_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1932.ts
+#EXTINF:-1,NL-Omroep_Zeeland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1931.ts
+#EXTINF:-1,TURKEY_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3401.ts
+#EXTINF:-1,TR-LIGTV_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3398.ts
+#EXTINF:-1,TR-LIGTV_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3399.ts
+#EXTINF:-1,TR-LIGTV_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3400.ts
+#EXTINF:-1,Tr-LIGTV_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3565.ts
+#EXTINF:-1,Tr-Tivibuspor_HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3526.ts
+#EXTINF:-1,Tr-Tivibuspor_HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3527.ts
+#EXTINF:-1,Tr-Tivibuspor_HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3528.ts
+#EXTINF:-1,Tr-Tivibuspor_HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3529.ts
+#EXTINF:-1,TR-NTVSPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3378.ts
+#EXTINF:-1,TR-A_SPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3394.ts
+#EXTINF:-1,TRT_SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3347.ts
+#EXTINF:-1,Tr-Eurosport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3566.ts
+#EXTINF:-1,Tr-Eurosport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3567.ts
+#EXTINF:-1,TR-KANAL_D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3382.ts
+#EXTINF:-1,TR-Star_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3368.ts
+#EXTINF:-1,TR-ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3393.ts
+#EXTINF:-1,TR-TV8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3350.ts
+#EXTINF:-1,Tr-LOCA_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3530.ts
+#EXTINF:-1,Tr-LOCA_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3531.ts
+#EXTINF:-1,Tr-LOCA_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3532.ts
+#EXTINF:-1,Tr-Salon1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3533.ts
+#EXTINF:-1,Tr-Salon2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3534.ts
+#EXTINF:-1,Tr-Salon3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3535.ts
+#EXTINF:-1,TR-MEKKE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3359.ts
+#EXTINF:-1,Tr-Cartoon_Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3549.ts
+#EXTINF:-1,Tr-Minika_Cocuk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3548.ts
+#EXTINF:-1,Tr-Minika_Go
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3547.ts
+#EXTINF:-1,Tr-Moviemax_Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3536.ts
+#EXTINF:-1,Tr-Moviemax_Festival
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3539.ts
+#EXTINF:-1,Tr-Moviemax_Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3538.ts
+#EXTINF:-1,Tr-Moviemax_Stars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3537.ts
+#EXTINF:-1,Tr-Moviesmart_Action_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3564.ts
+#EXTINF:-1,Tr-Moviesmart_Classic_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3563.ts
+#EXTINF:-1,Tr-Moviesmart_Famliy_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3562.ts
+#EXTINF:-1,Tr-Moviesmart_Fest_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3561.ts
+#EXTINF:-1,Tr-Moviesmart_Gold_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3560.ts
+#EXTINF:-1,Tr-Moviesmart_Premium_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3557.ts
+#EXTINF:-1,Tr-Moviesmart_Premium_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3556.ts
+#EXTINF:-1,Tr-Moviesmart_Turk_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3555.ts
+#EXTINF:-1,Tr-Planet_Pembe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3545.ts
+#EXTINF:-1,Tr-Planet_Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3544.ts
+#EXTINF:-1,TRT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2586.ts
+#EXTINF:-1,TRT_COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2588.ts
+#EXTINF:-1,TR-TRT_ARAP??A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3361.ts
+#EXTINF:-1,TR-CNN_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3360.ts
+#EXTINF:-1,TR-BLOOMBERG_HT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3389.ts
+#EXTINF:-1,TR-360_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3396.ts
+#EXTINF:-1,TR-Ulusal_Kanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3397.ts
+#EXTINF:-1,TR-YABAN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3374.ts
+#EXTINF:-1,TR-ULKE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3373.ts
+#EXTINF:-1,TR-UFUK_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2587.ts
+#EXTINF:-1,TR-TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3349.ts
+#EXTINF:-1,TR-tv52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3363.ts
+#EXTINF:-1,TR-TV41
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3376.ts
+#EXTINF:-1,TR-TV10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3377.ts
+#EXTINF:-1,TR-TV_2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3364.ts
+#EXTINF:-1,TR-Sun_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3365.ts
+#EXTINF:-1,TR-SHOWTuRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3367.ts
+#EXTINF:-1,TR-SHOWMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2584.ts
+#EXTINF:-1,TR-SEMERKANT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3369.ts
+#EXTINF:-1,TR-SEMERKAND_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3362.ts
+#EXTINF:-1,TR-POWER_TuRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3370.ts
+#EXTINF:-1,TR-PLANET_COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3371.ts
+#EXTINF:-1,TR-NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3372.ts
+#EXTINF:-1,TR-KRAL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3380.ts
+#EXTINF:-1,TR-KRAL_POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3381.ts
+#EXTINF:-1,TR-KAPADOKYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3385.ts
+#EXTINF:-1,TR-KANAL7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3383.ts
+#EXTINF:-1,TR-KANAL_V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3379.ts
+#EXTINF:-1,TR-TRT_turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3386.ts
+#EXTINF:-1,TR-HABER_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3387.ts
+#EXTINF:-1,TR-FOX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3375.ts
+#EXTINF:-1,TR-DREAM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3366.ts
+#EXTINF:-1,TR-DOST_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3384.ts
+#EXTINF:-1,TR-CAY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3388.ts
+#EXTINF:-1,TR-BEYAZ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3390.ts
+#EXTINF:-1,TR-BEYAZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3392.ts
+#EXTINF:-1,TR-BENGU_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3391.ts
+#EXTINF:-1,TR-A_HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3395.ts
+#EXTINF:-1,TR-AKSU_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3357.ts
+#EXTINF:-1,TR-SIVAS_SRT_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3358.ts
+#EXTINF:-1,TR-TJK_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3348.ts
+#EXTINF:-1,TRT_HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3346.ts
+#EXTINF:-1,TR-TVNET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3351.ts
+#EXTINF:-1,TR-ULKE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3352.ts
+#EXTINF:-1,TR-FLASH_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3356.ts
+#EXTINF:-1,TR-FB_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3355.ts
+#EXTINF:-1,TR-MTV_music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3354.ts
+#EXTINF:-1,TR-BJK_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3353.ts
+#EXTINF:-1,Albanian_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3511.ts
+#EXTINF:-1,AL-Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3493.ts
+#EXTINF:-1,AL-Elrodi_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3492.ts
+#EXTINF:-1,AL-EXP_Histori
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3491.ts
+#EXTINF:-1,AL-EXP_Natyra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3490.ts
+#EXTINF:-1,AL-EXP_Shkenca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3489.ts
+#EXTINF:-1,AL-Film_Aksion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3423.ts
+#EXTINF:-1,AL-Film_Drame
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3424.ts
+#EXTINF:-1,AL-Film_DY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3425.ts
+#EXTINF:-1,AL-Film_Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3426.ts
+#EXTINF:-1,AL-Film_Komedi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3427.ts
+#EXTINF:-1,AL-Film_Nje_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3428.ts
+#EXTINF:-1,AL-Film_Thriller_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3430.ts
+#EXTINF:-1,AL-Filma24_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3488.ts
+#EXTINF:-1,AL-First_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3487.ts
+#EXTINF:-1,AL-Folklorit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3486.ts
+#EXTINF:-1,AL-Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3431.ts
+#EXTINF:-1,AL-FOX_CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3458.ts
+#EXTINF:-1,AL-FOX_LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3422.ts
+#EXTINF:-1,AL-FOX_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3421.ts
+#EXTINF:-1,AL-Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3484.ts
+#EXTINF:-1,AL-Kanali_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3483.ts
+#EXTINF:-1,AL-Kino_Family_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3482.ts
+#EXTINF:-1,AL-Kino_Prank
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3481.ts
+#EXTINF:-1,AL-Kino_Premium_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3480.ts
+#EXTINF:-1,AL-Kino_Premium_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3479.ts
+#EXTINF:-1,AL-Kino_Romanc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3478.ts
+#EXTINF:-1,AL-Klan_Kosova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3434.ts
+#EXTINF:-1,AL-Klan_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3435.ts
+#EXTINF:-1,AL-KTV_Kohavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3436.ts
+#EXTINF:-1,AL-Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3477.ts
+#EXTINF:-1,AL-Malesia_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3476.ts
+#EXTINF:-1,AL-Motors_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3475.ts
+#EXTINF:-1,AL-News_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3437.ts
+#EXTINF:-1,AL-Plus_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3473.ts
+#EXTINF:-1,AL-REAL_RTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3472.ts
+#EXTINF:-1,AL-RTK_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3440.ts
+#EXTINF:-1,AL-RTK_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3457.ts
+#EXTINF:-1,AL-RTK_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3455.ts
+#EXTINF:-1,AL-RTSH_ART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3471.ts
+#EXTINF:-1,AL-RTV_21_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3432.ts
+#EXTINF:-1,AL-RTV_21HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3439.ts
+#EXTINF:-1,AL-RTV_Sharri
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3433.ts
+#EXTINF:-1,AL-RTV21_HD_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3419.ts
+#EXTINF:-1,AL-RTV21_HD_Popullore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3420.ts
+#EXTINF:-1,AL-RTV21_Maqedonia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3470.ts
+#EXTINF:-1,AL-RTV21_Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3469.ts
+#EXTINF:-1,AL-RTV21_Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3468.ts
+#EXTINF:-1,AL-ShqipTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3467.ts
+#EXTINF:-1,AL-ShqipTV_Aksion_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3466.ts
+#EXTINF:-1,AL-ShqipTV_Film_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3465.ts
+#EXTINF:-1,AL-ShqipTV_Hindi_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3464.ts
+#EXTINF:-1,AL-ShqipTV_Horror_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3463.ts
+#EXTINF:-1,AL-ShqipTV_Komedi_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3462.ts
+#EXTINF:-1,AL-ShqipTV_Mimi_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3461.ts
+#EXTINF:-1,AL-ShqipTV_Stupcat_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3460.ts
+#EXTINF:-1,AL-ShqipTV_Western_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3459.ts
+#EXTINF:-1,AL-Super_Folk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3441.ts
+#EXTINF:-1,AL-Supersonic_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3442.ts
+#EXTINF:-1,AL-TIP_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3443.ts
+#EXTINF:-1,AL-Top_Channel_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3444.ts
+#EXTINF:-1,AL-Top_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3445.ts
+#EXTINF:-1,AL-Tring_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3446.ts
+#EXTINF:-1,AL-Tring_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3447.ts
+#EXTINF:-1,AL-Tring_Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3448.ts
+#EXTINF:-1,AL-Tring_Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3449.ts
+#EXTINF:-1,AL-Tring_Shqip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3450.ts
+#EXTINF:-1,AL-Tring_Sport_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3451.ts
+#EXTINF:-1,AL-Tring_Sport_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3452.ts
+#EXTINF:-1,AL-Tring_Sport_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3453.ts
+#EXTINF:-1,AL-Tring_Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3454.ts
+#EXTINF:-1,AL-TVSH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3456.ts
+#EXTINF:-1,Spain&PT_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2165.ts
+#EXTINF:-1,Es-LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2558.ts
+#EXTINF:-1,ES-LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2599.ts
+#EXTINF:-1,ES-TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1558.ts
+#EXTINF:-1,es-Antenna 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2007.ts
+#EXTINF:-1,ES-CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2595.ts
+#EXTINF:-1,Es-C  XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2563.ts
+#EXTINF:-1,Es-C  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2567.ts
+#EXTINF:-1,Es-C  FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2570.ts
+#EXTINF:-1,Es-C  ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2571.ts
+#EXTINF:-1,Es-C  DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2572.ts
+#EXTINF:-1,Es-C  DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2574.ts
+#EXTINF:-1,ES-Canal Acction
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2606.ts
+#EXTINF:-1,Es-La Sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2576.ts
+#EXTINF:-1,Es-EuroNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2569.ts
+#EXTINF:-1,Es-Travel tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2573.ts
+#EXTINF:-1,Es-RT es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2564.ts
+#EXTINF:-1,Es-EiTB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2565.ts
+#EXTINF:-1,Es-BEIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2579.ts
+#EXTINF:-1,ES-REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2589.ts
+#EXTINF:-1,ES-Canal.Costa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2601.ts
+#EXTINF:-1,ES-Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2598.ts
+#EXTINF:-1,ES-FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2590.ts
+#EXTINF:-1,Es-Anime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2566.ts
+#EXTINF:-1,ES-Disney.Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2592.ts
+#EXTINF:-1,ES-DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2593.ts
+#EXTINF:-1,ES-DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2594.ts
+#EXTINF:-1,ES-Canal_Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2591.ts
+#EXTINF:-1,ES-AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2597.ts
+#EXTINF:-1,ES-moviestar.Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2596.ts
+#EXTINF:-1,Es-TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2556.ts
+#EXTINF:-1,Es-Nat.Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2557.ts
+#EXTINF:-1,es-Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2003.ts
+#EXTINF:-1,es-Europe News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2011.ts
+#EXTINF:-1,PT-RTP_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2173.ts
+#EXTINF:-1,PT-RTP_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2172.ts
+#EXTINF:-1,PT-TV_Globo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2169.ts
+#EXTINF:-1,PT-TVCine1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2168.ts
+#EXTINF:-1,Sport TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1245.ts
+#EXTINF:-1,Sport TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1237.ts
+#EXTINF:-1,PT-SPORT_TV_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/796.ts
+#EXTINF:-1,PT-SPORT_TV_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3205.ts
+#EXTINF:-1,PT-SPORT_TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3206.ts
+#EXTINF:-1,PT-TVCine2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2167.ts
+#EXTINF:-1,PT-TVCine3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2166.ts
+#EXTINF:-1,PT-Fox_Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2170.ts
+#EXTINF:-1,PT-SIC_Caras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2171.ts
+#EXTINF:-1,PT-Fox_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2175.ts
+#EXTINF:-1,PT-Fox_Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2176.ts
+#EXTINF:-1,PT-Fox_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2177.ts
+#EXTINF:-1,PT-Disney_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2178.ts
+#EXTINF:-1,PT-Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2179.ts
+#EXTINF:-1,PT-TVI_Ficcao
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3402.ts
+#EXTINF:-1,PT-TV_Cseries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3403.ts
+#EXTINF:-1,PT-Toros_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3404.ts
+#EXTINF:-1,PT-Sic_Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3405.ts
+#EXTINF:-1,PT-Sic_Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3406.ts
+#EXTINF:-1,PT-RTP_Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3407.ts
+#EXTINF:-1,PT-Record
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3408.ts
+#EXTINF:-1,PT-Motors_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3409.ts
+#EXTINF:-1,PT-Jim_Jim
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3410.ts
+#EXTINF:-1,PT-Discovery_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3411.ts
+#EXTINF:-1,PT-Canal_Porto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3412.ts
+#EXTINF:-1,PT-AXN_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3413.ts
+#EXTINF:-1,PT-Abola_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/3414.ts
+#EXTINF:-1,India & PK_TV ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/811.ts
+#EXTINF:-1,IN-zee_TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1355.ts
+#EXTINF:-1,IN-Zee_Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/553.ts
+#EXTINF:-1,IN-Zee_Alwan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/145.ts
+#EXTINF:-1,IN-ZEE-AFLAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/135.ts
+#EXTINF:-1,IN-B4U_PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/228.ts
+#EXTINF:-1,IN-B4U_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/227.ts
+#EXTINF:-1,IN-B4U_Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/226.ts
+#EXTINF:-1,IN-B4U_Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/138.ts
+#EXTINF:-1,IN-Star Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2048.ts
+#EXTINF:-1,IN-Star Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/554.ts
+#EXTINF:-1,In-Peppers TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1345.ts
+#EXTINF:-1,In-Nick sonic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/225.ts
+#EXTINF:-1,IN-Sun music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1030.ts
+#EXTINF:-1,IN-Star_Maza
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1026.ts
+#EXTINF:-1,IN-star_plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/660.ts
+#EXTINF:-1,IN-news X
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1035.ts
+#EXTINF:-1,IN-IBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1354.ts
+#EXTINF:-1,PK-Geo TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1352.ts
+#EXTINF:-1,PK-Peace_TV Urdu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1339.ts
+#EXTINF:-1,Pk-islam_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1349.ts
+#EXTINF:-1,Adult ///
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1024.ts
+#EXTINF:-1,AD-Hot Club12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1013.ts
+#EXTINF:-1,AD-new x4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/986.ts
+#EXTINF:-1,AD-Erotic4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1019.ts
+#EXTINF:-1,AD-Pink OTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1016.ts
+#EXTINF:-1,AD-xx24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/991.ts
+#EXTINF:-1,AD-Candy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1005.ts
+#EXTINF:-1,AD-Redlight Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1003.ts
+#EXTINF:-1,AD-new x1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1001.ts
+#EXTINF:-1,AD-M15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/996.ts
+#EXTINF:-1,AD-JasminTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/987.ts
+#EXTINF:-1,AD-PASSION_x
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1022.ts
+#EXTINF:-1,AD-Hot club 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1011.ts
+#EXTINF:-1,AD-Viki Enjoy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1006.ts
+#EXTINF:-1,AD-27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/995.ts
+#EXTINF:-1,AD-butgos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1018.ts
+#EXTINF:-1,AD-honey sx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1009.ts
+#EXTINF:-1,AD-Exotica TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1008.ts
+#EXTINF:-1,AD-Huster HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1007.ts
+#EXTINF:-1,AD-Erotic3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/990.ts
+#EXTINF:-1,AD-REDLIGHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/992.ts
+#EXTINF:-1,AD-new x2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/993.ts
+#EXTINF:-1,AD-hot_moives
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/1000.ts
+#EXTINF:-1,AD-Visit-X TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/989.ts
+#EXTINF:-1,AD-Gril4u
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/994.ts
+#EXTINF:-1,Scn-action(sex at night)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2635.ts
