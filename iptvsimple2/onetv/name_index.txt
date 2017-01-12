@@ -6,7 +6,7 @@
     "FOX NFL/NEWS HD",
     "ESPN HD",	
     "A&E HD", 
-    "Cartoon Network HD", 
+    "Comedy Central HD", 
     "TBS HD", 
     "TNT HD", 
     "USA Network HD", 
