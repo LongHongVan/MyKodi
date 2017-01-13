@@ -1,4 +1,5 @@
 [ 
+	"NBCSN HD", 
 	"Olympic Channel HD", 
 	"NFL Network HD", 
 	"NBC NFL HD", 
