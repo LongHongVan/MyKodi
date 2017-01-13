@@ -1,32 +1,91 @@
+01/13/2017
+
+++++++++++++++++ Today Top Sites +++++++++++++++++++++++++++++
+http://tv.kitboxtv.com:8000/get.php?username=Gardner&password=Gardner&type=m3u Good 60 USA
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+http://185.13.36.27:8000/get.php?username=caf2017&password=B3s8isiCYP&type=m3u BAD
+
+http://176.9.148.112:8000/get.php?username=rui&password=rui&type=m3u No USA
+
+http://93.190.143.200:15000/get.php?username=yjnerczl&password=kGun383g9M&type=m3u VOD
+
+http://149.202.73.5:3456/get.php?username=dada&password=dada&type=m3u BAD
+
+http://37.187.174.83:35997/get.php?username=italo4&password=italo6&type=m3u BAD
+
+http://149.202.77.226:7500/get.php?username=ge212&password=ge212&type=m3u No USA
+
+http://185.13.36.27:8000/get.php?username=star&password=star7arab&type=m3u BAD
+
+http://193.70.116.156:8080/get.php?username=mustafadurna&password=mustafadurna&type=m3u No USA
+
+http://gradina1.info/get.php?username=satvenussuomi&password=suomi&type=m3u No USA
+
+http://37.187.175.177:8000/get.php?username=bassem9696&password=bassem9696&type=m3u No Links Work!
+
+http://37.187.175.177:8000/get.php?username=bassem8827&password=bassem8827&type=m3u
+
+http://bb1.sendevric.com:8000/get.php?username=phlczebb&password=iptv2015&type=m3u 73 USA - No links work
+
+http://163.172.211.251:8000/get.php?username=ahmedax162839&password=star7arab&type=m3u BAD
+
+http://176.31.227.49:8000/get.php?username=bykasim&password=WqqPjqmv4h&type=m3u 12 USA
+
+http://asdp.ddns.net:8000/get.php?username=rui&password=rui&type=m3u No USA
+
+http://iptverpiu.selfip.net:81/get.php?username=ScorZaMAgic&password=kwWscdfEXe&type=m3u BAD
+
+
+
+http://149.202.77.226:7500/get.php?username=ge208&password=ge208&type=m3u UK TV 24
+
+http://149.202.77.226:7500/get.php?username=ge203&password=ge203&type=m3u
+
+http://149.202.77.226:7500/get.php?username=ge127&password=ge127&type=m3u
+
+http://149.202.77.226:7500/get.php?username=ge136&password=ge136&type=m3u
+
 01/12/2017
++++++++Today Top Site ++++++++++++++++
 
- http://137.74.55.81:15800/get.php?username=ope&password=ope&type=m3u
+TEST:
+#EXTINF:-1,US-USA Network
+http://ultime-iptv.net:8000/live/fou/fou/2731.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ultime-iptv.net:8000/live/fou/fou/2731.ts
 
-http://88.198.34.144:8000/get.php?username=ipcm87&password=m8777&type=m3u
+++++++++++++++++++++++++++++
 
-http://136.243.48.19:1985/get.php?username=Mounir&password=Mounir&type=m3u
+ http://137.74.55.81:15800/get.php?username=ope&password=ope&type=m3u No uSA
 
-http://100.36.61.41:86/get.php?username=Kajgana&password=ppkajgana&type=m3u
+http://88.198.34.144:8000/get.php?username=ipcm87&password=m8777&type=m3u 12 USA
 
-http://ultime-iptv.net:8000/get.php?username=fou&password=fou&type=m3u
+http://136.243.48.19:1985/get.php?username=Mounir&password=Mounir&type=m3u No USA
 
-http://hdliveiptv.mazian.info:7879/get.php?username=reda3&password=reda3&type=m3u
+http://100.36.61.41:86/get.php?username=Kajgana&password=ppkajgana&type=m3u BAD
 
-http://137.74.93.219:8000/get.php?username=dali&password=dali&type=m3u
+http://ultime-iptv.net:8000/get.php?username=fou&password=fou&type=m3u 48 USA No Links worked
+
+http://hdliveiptv.mazian.info:7879/get.php?username=reda3&password=reda3&type=m3u No uSA
+
+http://137.74.93.219:8000/get.php?username=dali&password=dali&type=m3u 22 USA
 
 http://62.210.92.23:8000/get.php?username=marco&password=marco&type=m3u
 
-http://topiptv.net:5890/get.php?username=fabian1&password=fabian1&type=m3u
+http://topiptv.net:5890/get.php?username=fabian1&password=fabian1&type=m3u No uSA
 
-http://149.202.217.185:9000/get.php?username=mostafa&password=mostafa&type=m3u
+http://149.202.217.185:9000/get.php?username=mostafa&password=mostafa&type=m3u No USA
 
-http://163.172.30.73:7879/get.php?username=reda13&password=reda13&type=m3u
+http://163.172.30.73:7879/get.php?username=reda13&password=reda13&type=m3u No uSA
 
 http://163.172.30.73:7879/get.php?username=reda15&password=reda15&type=m3u
 
 http://163.172.30.73:7879/get.php?username=reda16&password=reda16&type=m3u
 
-http://149.202.77.226:7500/get.php?username=58158&password=58158&type=m3u
+
+http://149.202.77.226:7500/get.php?username=58158&password=58158&type=m3u No uSA
 
 http://149.202.77.226:7500/get.php?username=52152&password=52152&type=m3u
 
@@ -34,17 +93,19 @@ http://149.202.77.226:7500/get.php?username=59159&password=59159&type=m3u
 
 http://149.202.77.226:7500/get.php?username=53153&password=53153&type=m3u
 
-http://ipdream.dyndns.org:8000/get.php?username=vecchio&password=postale&type=m3u
 
-http://csd-iptv.ro-server.org:8000/get.php?username=alagnagiuseip1&password=kgu16Z54hjjtt589&type=m3u
+http://ipdream.dyndns.org:8000/get.php?username=vecchio&password=postale&type=m3u VOD 
 
-http://149.202.95.229:8000/get.php?username=Hasan-Sabt&password=tyhgjghjuihhjkjk&type=m3u
+http://csd-iptv.ro-server.org:8000/get.php?username=alagnagiuseip1&password=kgu16Z54hjjtt589&type=m3u No USA
 
-http://electro-tunis.biz:8000/get.php?username=chaaben724&password=chaaben724&type=m3u
+http://149.202.95.229:8000/get.php?username=Hasan-Sabt&password=tyhgjghjuihhjkjk&type=m3u BAD
+
+http://electro-tunis.biz:8000/get.php?username=chaaben724&password=chaaben724&type=m3u 25 USA
 
 http://electro-tunis.biz:8000/get.php?username=chaaben758&password=chaaben758&type=m3u
 
-http://hdliveiptv.mazian.info:7879/get.php?username=reda10&password=reda10&type=m3u
+
+http://hdliveiptv.mazian.info:7879/get.php?username=reda10&password=reda10&type=m3u No uSA
 
 http://hdliveiptv.mazian.info:7879/get.php?username=reda11&password=reda11&type=m3u
 

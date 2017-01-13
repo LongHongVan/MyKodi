@@ -1,5 +1,5 @@
 [ 
-	"Liveshow Duyen Phan (Bonus)",  
+	"NFL Network HD", 
 	"NBC NFL HD", 
     "ABC NFL HD", 
     "CBS NFL HD", 
