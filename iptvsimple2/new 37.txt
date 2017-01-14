@@ -3,6 +3,10 @@
 ++++++++++++++++ Today Top Sites +++++++++++++++++++++++++++++
 http://tv.kitboxtv.com:8000/get.php?username=Gardner&password=Gardner&type=m3u Good 60 USA
 
+http://163.172.81.33:1234/get.php?username=iptvrestream.net8&password=MxA6SpYeNL&type=m3u
+
+Test: NFL Network HD
+http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/154.ts|User-Agent=old
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 

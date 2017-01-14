@@ -2126,6 +2126,21 @@ http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=qEOFgg810hM
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 06 12-10-16
 http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=iaV_M4rPLlk
 
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 05
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=BOW-LNw2b2I
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 04
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=k3ujTxCPeRw
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 03
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=nwA3KS8LvJY
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 02
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=xfmQl5jF_iI
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 01
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=vVUytf3MhUg
+
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xAyfDLqnvOw/maxresdefault.jpg", Tình Ca Bolero
 http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=VZD50UcAQ1k
 
