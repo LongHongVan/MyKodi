@@ -2111,6 +2111,10 @@ http://vnatv.saigon.ns01.us:1935/vnatv/myStream/chunklist_w729302537.m3u8
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://darkmp3.ru/imgs/7863025-460x460/reader-s-digest-music-bolero-romantico.jpg", [COLOR orange]Vietnamese TV Show and Music[/COLOR]
 http://google.com
 
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="", Youtube DASH test 1080p
+
+https://r2---sn-n4v7sn7y.googlevideo.com/videoplayback?id=25dcb73dbbad40b4&itag=137&source=youtube&requiressl=yes&nh=IgpwcjAyLnBhbzAzKg02Ni4yMDguMjI4LjY5&pl=17&mn=sn-n4v7sn7y&mm=31&initcwndbps=1382500&ms=au&mv=m&ratebypass=yes&mime=video/mp4&gir=yes&clen=60971220&lmt=1428157513066216&dur=263.463&key=dg_yt0&upn=vnRx3uxG7eo&signature=52967668DAC472331BC920E02CEAC1F6B154AC60.56FE92572214F8C42A71E9662DAECC59D1962C4D&mt=1484412653&ip=76.21.124.238&ipbits=0&expire=1484434563&sparams=ip,ipbits,expire,id,itag,source,requiressl,nh,pl,mn,mm,initcwndbps,ms,mv,ratebypass,mime,gir,clen,lmt,dur
+
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 10 01-7-17
 http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=pM73Br4qDo4
 
