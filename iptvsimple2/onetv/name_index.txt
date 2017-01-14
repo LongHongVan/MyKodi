@@ -1,4 +1,5 @@
 [ 
+	"HTV7 TV-Show (Bonus)", 
 	"NBCSN HD", 
 	"Olympic Channel HD", 
 	"NFL Network HD", 
