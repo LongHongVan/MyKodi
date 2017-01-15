@@ -1,5 +1,5 @@
 [  
-	"https://i.ytimg.com/vi/_oD5BQg6XLs/maxresdefault.jpg", 
+	"https://i.ytimg.com/vi/ilh98Os5Vok/hqdefault.jpg", 
 	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
 	"https://s-media-cache-ak0.pinimg.com/originals/13/f1/60/13f160e74d8d1dc920205bd9cdd633e5.jpg", 
 	"http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png", 

@@ -1,5 +1,5 @@
 [ 
-	"HTV7 TV-Show (Bonus)", 
+	"Liveshow Tet 2017 (Bonus)", 
 	"NBCSN HD", 
 	"Olympic Channel HD", 
 	"NFL Network HD", 
