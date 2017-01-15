@@ -2175,6 +2175,9 @@ http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=haGftCSKjmA
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 Final
 http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=sqil8ST2V2Q
 
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2015 Final
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=kfK0ScOrRL0
+
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 12
 http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=-eR9TPdBcBo
