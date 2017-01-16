@@ -1,4 +1,6 @@
 [ 
+	"Nhac Xuan 2017 1 (Bonus)", 
+	"Nhac Xuan 2017 2 (Bonus)", 
 	"Liveshow Tet 2017 (Bonus)", 
 	"NBCSN HD", 
 	"Olympic Channel HD", 
