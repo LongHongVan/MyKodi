@@ -479,7 +479,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.40" provider-name="HME">
+<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.41" provider-name="HME">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="1.0.0"/>
