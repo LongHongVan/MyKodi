@@ -1,67 +1,61 @@
 #EXTCPlayListM3U::M3U
-#EXTINF:0,Hài Kch  Hoài Linh, Chí Tài (PBN 110)
+#EXTINF:0,Hai Kich  Hoai Linh, Chi Tai (PBN 110)
 plugin://plugin.video.youtube/play/?video_id=IChYNrudCWk
-#EXTINF:0,Nhu Quynh - Nu Xuân Này Vng Anh (Bo Thu)
+#EXTINF:0,Nhu Quynh - Nu Xuan Nay Vang Anh (Bo Thu)
 plugin://plugin.video.youtube/play/?video_id=6YIPquf_dBU
-#EXTINF:0,Huong Thuy - Tâm S Ngày Xuân (Hoài An)
+#EXTINF:0,Huong Thuy - Tam Su Ngay Xuan (Hoai An)
 plugin://plugin.video.youtube/play/?video_id=Ras5I6g_uuI
-#EXTINF:0,Mai Tien Dung - Chúc Xuân Tài Lc. Paris By Night 113 - PBN 113 Mung Tuoi Me
+#EXTINF:0,Mai Tien Dung - Chuc Xuan Tai Loc. Paris By Night 113 - PBN 113 Mung Tuoi Me
 plugin://plugin.video.youtube/play/?video_id=zJ4OdbI9sI0
-#EXTINF:0,Ha Vy - Mùa Xuân Em i L Chùa (Kiu Tn Minh, th: TNT Mc Giang)
+#EXTINF:0,Ha Vy - Mua Xuan Em di Le Chua (Kiu Tn Minh, th: TNT Mc Giang)
 plugin://plugin.video.youtube/play/?video_id=azaGVSMvxhQ
-#EXTINF:0,Mai Thiên Vân - Hoa ào Nm Trc (Lê Dinh, Nguyn Hin)
+#EXTINF:0,Mai Thien Van - Hoa Dao Nam Truoc (Lê Dinh, Nguyn Hin)
 plugin://plugin.video.youtube/play/?video_id=gg910uVfb5w
-#EXTINF:0,Minh Tuyet - Mùa Xuân ã Mt (Hunh Nht Tân)
+#EXTINF:0,Minh Tuyet - Mua Xuan Da Mat (Hunh Nht Tân)
 plugin://plugin.video.youtube/play/?video_id=ISO6JFsqByU
-#EXTINF:0,Khi ng, Nha Nguyn, Bon Nguyn - Tt Này Con S V (Nguyn Hng Thun) PBN 113
+#EXTINF:0,Khai Dang, Nha Nguyen, Bon Nguyn - Tet Nay Con Se Ve (Nguyen Hng Thun) PBN 113
 plugin://plugin.video.youtube/play/?video_id=RRu07hx9KJE
-#EXTINF:0,Tóc Tiên - Cm Xúc (Châu ng Khoa)
+#EXTINF:0,Toc Tien - Cam Xuc (Châu ng Khoa)
 plugin://plugin.video.youtube/play/?video_id=VkOxnhZw9Go
-#EXTINF:0,Khi ng, Nha Nguyn, Bon Nguyn - Tt Này Con S V (Nguyn Hng Thun) PBN 113
-plugin://plugin.video.youtube/play/?video_id=RRu07hx9KJE
-#EXTINF:0,Minh Tuyet - Mùa Xuân ã Mt (Hunh Nht Tân)
-plugin://plugin.video.youtube/play/?video_id=ISO6JFsqByU
-#EXTINF:0,Ha Vy - Mùa Xuân Em i L Chùa (Kiu Tn Minh, th: TNT Mc Giang)
-plugin://plugin.video.youtube/play/?video_id=azaGVSMvxhQ
-#EXTINF:0,Minh Tuyet - Sau Ngày y. PBN 120 - Paris By Night 120 Còn Chút Gì  Nh
+#EXTINF:0,Minh Tuyet - Sau Ngay Ay PBN 120 - Paris By Night 120 Con Chut Gì De  Nho
 plugin://plugin.video.youtube/play/?video_id=a7G2aEYks34
-#EXTINF:0,Tóc Tiên - Anh K Em Nghe Paris By Night 120 Còn Chút Gì  Nh.
+#EXTINF:0,Toc Tien - Anh Ke Em Nghe Paris By Night 120 Con Chut Gì De  Nho.
 plugin://plugin.video.youtube/play/?video_id=KLmMPg3vyeg
-#EXTINF:0,Hoàng Nhung - Tình Nh  trong Paris By Night 120 Còn Chút Gì  Nh
+#EXTINF:0,Hoang Nhung - Tình Nho - Paris By Night 120 Con Chut Gì De  Nho
 plugin://plugin.video.youtube/play/?video_id=6gne9V2R6JU
-#EXTINF:0,Ngoc Anh - Dáng Em La Là (Lng Bng Quang) Paris By Night 106 La / Silk
+#EXTINF:0,Ngoc Anh - Dang Em Lua La (Luong Bang Quang) Paris By Night 106 La / Silk
 plugin://plugin.video.youtube/play/?video_id=DBWDSTjI9xY
-#EXTINF:0,Nguyen Hong Nhung - Mãi Mt Mình Paris By Night 118 50 Nm Âm Nhc c Huy
+#EXTINF:0,Nguyen Hong Nhung - Mai Mot Mình - Paris By Night 118 50 Nam Am Nhac Duc Huy
 plugin://plugin.video.youtube/play/?video_id=su4SlOE3mQA
-#EXTINF:0,an Nguyên - Trái Tim Ngc Tù trong Paris By Night 118 - 50 Nm Âm Nhc c Huy
+#EXTINF:0,Dan Nguyen - Trai Tim Nguc Tu - Paris By Night 118 50 Nam Am Nhac Duc Huy
 plugin://plugin.video.youtube/play/?video_id=uP0DHL_vlO0
-#EXTINF:0,Nu Ch Còn Mt Ngày  Sng (Hoài An) from PBN 95 "Cám n Cuc i / 25th Anniversary"
+#EXTINF:0,Neu Chi Con Mot Ngay De Song (Hoài An) from PBN 95 Cam on Cuoc Doi / 25th Anniversary
 plugin://plugin.video.youtube/play/?video_id=9zqK7Y73xSs
-#EXTINF:0,Ngoc Anh - Tháng 6 Tri Ma (Th: Nguyên Sa, Nhc: Hoàng Thanh Tâm)
+#EXTINF:0,Ngoc Anh - Thang 6 Troi Mua (Tho: Nguyen Sa, Nhac: Hoang Thanh Tam)
 plugin://plugin.video.youtube/play/?video_id=h7J6Y-iUocE
-#EXTINF:0,Ngoc Anh - Mùa Xuân Không Còn Na Paris By Night 110
+#EXTINF:0,Ngoc Anh - Mùa Xuan Khong Con Nua Paris By Night 110
 plugin://plugin.video.youtube/play/?video_id=4hHQ7ixJ9WU
-#EXTINF:0,Quang Dung - Mùa Xuân Trên nh Bình Yên Paris By Night 101
+#EXTINF:0,Quang Dung - Mua Xuan Tren dinh Binh Yen Paris By Night 101
 plugin://plugin.video.youtube/play/?video_id=FC2HeL-X5HM
-#EXTINF:0,Khánh Hà - Em ã Thy Mùa Xuân Cha?  Paris By Night 101
+#EXTINF:0,Khanh Ha - Em Da Thay Mua Xuan Chua  Paris By Night 101
 plugin://plugin.video.youtube/play/?video_id=U52rczNjyXo
 #EXTINF:0,Phai Chi Em Biet - Lam Anh (VSTAR Season 3 Finals)
 plugin://plugin.video.youtube/play/?video_id=vMcrg8hEBD0
-#EXTINF:0,Ánh Minh - Last Drop MTV Music Video - Released on Dec. 22, 2015
+#EXTINF:0,Anh Minh - Last Drop MTV Music Video - Released on Dec. 22, 2015
 plugin://plugin.video.youtube/play/?video_id=JiGT5rVuqAk
-#EXTINF:0,Ngoc Anh in Mùa Thu Cht PBN Divas
+#EXTINF:0,Ngoc Anh in Mua Thu Chet PBN Divas
 plugin://plugin.video.youtube/play/?video_id=cRA6JzlEVy4
-#EXTINF:0,Don Ho - Tuyt Ri in Paris By Night 112 ông
+#EXTINF:0,Don Ho - Tuyet Roi in Paris By Night 112 ông
 plugin://plugin.video.youtube/play/?video_id=pjsMJkPgYIs
-#EXTINF:0,Quang Dung - Tuyt Ri Mùa Hè in Paris By Night 112 ông
+#EXTINF:0,Quang Dung - Tuyet Roi Mua He in Paris By Night 112 ông
 plugin://plugin.video.youtube/play/?video_id=FKpkwbkg8yg
-#EXTINF:0,Lam Anh - Ph Mùa ông in Paris By Night 112 ông.
+#EXTINF:0,Lam Anh - Pho Mua Dong in Paris By Night 112 Dong.
 plugin://plugin.video.youtube/play/?video_id=k6BqdIRnZoU
-#EXTINF:0,Liên Khúc Ngô Thy Miên - Ngc Anh, Quang Dng in PBN 115 Asian Beauty - Nét p Á ông
+#EXTINF:0,Lien Khuc Ngo Thy Mien - Ngoc Anh, Quang Dung in PBN 115 Asian Beauty - Net dep A Dong
 plugin://plugin.video.youtube/play/?video_id=7dFRYgcsMHo
 #EXTINF:0,Lam Anh & Tran Thai Hoa - Nhung Gi Dep Nhat
 plugin://plugin.video.youtube/play/?video_id=SRnEVaAXh6Q
-#EXTINF:0,Lam Anh & Trnh Lam - Khúc Giao Mùa Paris By Night 101
+#EXTINF:0,Lam Anh & Trinh Lam - Khuc Giao Mua Paris By Night 101
 plugin://plugin.video.youtube/play/?video_id=N-OmWU7eiV0
-#EXTINF:0,Tóc Tiên & Mai Tin Dng - Ngi Tình i! M Gì Paris By Night 101
+#EXTINF:0,Toc Tien & Mai Tien Dung - Nguoi Tình Oi! Mo Gì Paris By Night 101
 plugin://plugin.video.youtube/play/?video_id=jQrkWIPdsxE
