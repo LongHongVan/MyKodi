@@ -1,31 +1,47 @@
 #EXTCPlayListM3U::M3U
+#EXTINF:0,Hài Kch  Hoài Linh, Chí Tài (PBN 110)
+plugin://plugin.video.youtube/play/?video_id=IChYNrudCWk
+#EXTINF:0,Nh Qunh - Nu Xuân Này Vng Anh (Bo Thu)
+plugin://plugin.video.youtube/play/?video_id=6YIPquf_dBU
+#EXTINF:0,Hng Thy - Tâm S Ngày Xuân (Hoài An)
+plugin://plugin.video.youtube/play/?video_id=Ras5I6g_uuI
+#EXTINF:0,Mai Tien Dung - Chúc Xuân Tài Lc. Paris By Night 113 - PBN 113 Mung Tuoi Me
+plugin://plugin.video.youtube/play/?video_id=zJ4OdbI9sI0
+#EXTINF:0,Ha Vy - Mùa Xuân Em i L Chùa (Kiu Tn Minh, th: TNT Mc Giang)
+plugin://plugin.video.youtube/play/?video_id=azaGVSMvxhQ
+#EXTINF:0,Mai Thiên Vân - Hoa ào Nm Trc (Lê Dinh, Nguyn Hin)
+plugin://plugin.video.youtube/play/?video_id=gg910uVfb5w
+#EXTINF:0,Minh Tuyet - Mùa Xuân ã Mt (Hunh Nht Tân)
+plugin://plugin.video.youtube/play/?video_id=ISO6JFsqByU
+#EXTINF:0,Khi ng, Nha Nguyn, Bon Nguyn - Tt Này Con S V (Nguyn Hng Thun) PBN 113
+plugin://plugin.video.youtube/play/?video_id=RRu07hx9KJE
 #EXTINF:0,Tóc Tiên - Cm Xúc (Châu ng Khoa)
 plugin://plugin.video.youtube/play/?video_id=VkOxnhZw9Go
 #EXTINF:0,Khi ng, Nha Nguyn, Bon Nguyn - Tt Này Con S V (Nguyn Hng Thun) PBN 113
 plugin://plugin.video.youtube/play/?video_id=RRu07hx9KJE
-#EXTINF:0,Minh Tuyt - Mùa Xuân ã Mt (Hunh Nht Tân)
+#EXTINF:0,Minh Tuyet - Mùa Xuân ã Mt (Hunh Nht Tân)
 plugin://plugin.video.youtube/play/?video_id=ISO6JFsqByU
-#EXTINF:0,H Vy - Mùa Xuân Em i L Chùa (Kiu Tn Minh, th: TNT Mc Giang)
+#EXTINF:0,Ha Vy - Mùa Xuân Em i L Chùa (Kiu Tn Minh, th: TNT Mc Giang)
 plugin://plugin.video.youtube/play/?video_id=azaGVSMvxhQ
-#EXTINF:0,Minh Tuyt - Sau Ngày y. PBN 120 - Paris By Night 120 Còn Chút Gì  Nh
+#EXTINF:0,Minh Tuyet - Sau Ngày y. PBN 120 - Paris By Night 120 Còn Chút Gì  Nh
 plugin://plugin.video.youtube/play/?video_id=a7G2aEYks34
 #EXTINF:0,Tóc Tiên - Anh K Em Nghe Paris By Night 120 Còn Chút Gì  Nh.
 plugin://plugin.video.youtube/play/?video_id=KLmMPg3vyeg
 #EXTINF:0,Hoàng Nhung - Tình Nh  trong Paris By Night 120 Còn Chút Gì  Nh
 plugin://plugin.video.youtube/play/?video_id=6gne9V2R6JU
-#EXTINF:0,Ngc Anh - Dáng Em La Là (Lng Bng Quang) Paris By Night 106 La / Silk
+#EXTINF:0,Ngoc Anh - Dáng Em La Là (Lng Bng Quang) Paris By Night 106 La / Silk
 plugin://plugin.video.youtube/play/?video_id=DBWDSTjI9xY
-#EXTINF:0,Nguyn Hng Nhung - Mãi Mt Mình Paris By Night 118 50 Nm Âm Nhc c Huy
+#EXTINF:0,Nguyen Hong Nhung - Mãi Mt Mình Paris By Night 118 50 Nm Âm Nhc c Huy
 plugin://plugin.video.youtube/play/?video_id=su4SlOE3mQA
 #EXTINF:0,an Nguyên - Trái Tim Ngc Tù trong Paris By Night 118 - 50 Nm Âm Nhc c Huy
 plugin://plugin.video.youtube/play/?video_id=uP0DHL_vlO0
 #EXTINF:0,Nu Ch Còn Mt Ngày  Sng (Hoài An) from PBN 95 "Cám n Cuc i / 25th Anniversary"
 plugin://plugin.video.youtube/play/?video_id=9zqK7Y73xSs
-#EXTINF:0,Ngc Anh - Tháng 6 Tri Ma (Th: Nguyên Sa, Nhc: Hoàng Thanh Tâm)
+#EXTINF:0,Ngoc Anh - Tháng 6 Tri Ma (Th: Nguyên Sa, Nhc: Hoàng Thanh Tâm)
 plugin://plugin.video.youtube/play/?video_id=h7J6Y-iUocE
-#EXTINF:0,Ngc Anh - Mùa Xuân Không Còn Na Paris By Night 110
+#EXTINF:0,Ngoc Anh - Mùa Xuân Không Còn Na Paris By Night 110
 plugin://plugin.video.youtube/play/?video_id=4hHQ7ixJ9WU
-#EXTINF:0,Quang Dng - Mùa Xuân Trên nh Bình Yên Paris By Night 101
+#EXTINF:0,Quang Dung - Mùa Xuân Trên nh Bình Yên Paris By Night 101
 plugin://plugin.video.youtube/play/?video_id=FC2HeL-X5HM
 #EXTINF:0,Khánh Hà - Em ã Thy Mùa Xuân Cha?  Paris By Night 101
 plugin://plugin.video.youtube/play/?video_id=U52rczNjyXo
@@ -33,11 +49,11 @@ plugin://plugin.video.youtube/play/?video_id=U52rczNjyXo
 plugin://plugin.video.youtube/play/?video_id=vMcrg8hEBD0
 #EXTINF:0,Ánh Minh - Last Drop MTV Music Video - Released on Dec. 22, 2015
 plugin://plugin.video.youtube/play/?video_id=JiGT5rVuqAk
-#EXTINF:0,Ngc Anh in Mùa Thu Cht PBN Divas
+#EXTINF:0,Ngoc Anh in Mùa Thu Cht PBN Divas
 plugin://plugin.video.youtube/play/?video_id=cRA6JzlEVy4
-#EXTINF:0,Don H - Tuyt Ri in Paris By Night 112 ông
+#EXTINF:0,Don Ho - Tuyt Ri in Paris By Night 112 ông
 plugin://plugin.video.youtube/play/?video_id=pjsMJkPgYIs
-#EXTINF:0,Quang Dng - Tuyt Ri Mùa Hè in Paris By Night 112 ông
+#EXTINF:0,Quang Dung - Tuyt Ri Mùa Hè in Paris By Night 112 ông
 plugin://plugin.video.youtube/play/?video_id=FKpkwbkg8yg
 #EXTINF:0,Lam Anh - Ph Mùa ông in Paris By Night 112 ông.
 plugin://plugin.video.youtube/play/?video_id=k6BqdIRnZoU
