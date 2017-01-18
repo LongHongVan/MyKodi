@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>channel 1</name>
+<items>
+
+<item>
+<title>test 1 on channel 1</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://test</thumbnail>
+<externallink>http://pastebin.com/raw.php?i=1xxxxxxxx&m3u</externallink>
+</item>
+
+<item>
+<title>test 2 on channel 1</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://test</thumbnail>
+<externallink>http://www.mylink.com/link2.xml</externallink>
+</item>
+
+<item>
+<title>test 3 on channel 1</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://test</thumbnail>
+<externallink>http://www.mylink.com/link3.xml</externallink>
+</item>
+
+</items>
+</channel>
+
+
+<channel>
+<name>channel 2</name>
+<items>
+
+<item>
+<title>test 1 on channel 2</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://test</thumbnail>
+</item>
+
+<item>
+<title>test 2 on channel 2</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://test</thumbnail>
+</item>
+
+</items>
+</channel>
+
+</channels>
