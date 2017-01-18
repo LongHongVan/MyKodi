@@ -1,9 +1,9 @@
 #EXTCPlayListM3U::M3U
 #EXTINF:0,Hài Kch  Hoài Linh, Chí Tài (PBN 110)
 plugin://plugin.video.youtube/play/?video_id=IChYNrudCWk
-#EXTINF:0,Nh Qunh - Nu Xuân Này Vng Anh (Bo Thu)
+#EXTINF:0,Nhu Quynh - Nu Xuân Này Vng Anh (Bo Thu)
 plugin://plugin.video.youtube/play/?video_id=6YIPquf_dBU
-#EXTINF:0,Hng Thy - Tâm S Ngày Xuân (Hoài An)
+#EXTINF:0,Huong Thuy - Tâm S Ngày Xuân (Hoài An)
 plugin://plugin.video.youtube/play/?video_id=Ras5I6g_uuI
 #EXTINF:0,Mai Tien Dung - Chúc Xuân Tài Lc. Paris By Night 113 - PBN 113 Mung Tuoi Me
 plugin://plugin.video.youtube/play/?video_id=zJ4OdbI9sI0
