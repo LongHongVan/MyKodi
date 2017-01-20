@@ -4,6 +4,7 @@
 http://google.com
 
 
+
 ################### New One-TV Server #####################################
 
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD 19099
@@ -103,5 +104,108 @@ http://127.0.0.1:19099/livestreamer/p2p/b543594967ce3122d04138e344cdcff2.m3u8
 http://127.0.0.1:19099/livestreamer/p2p/50e67d468d54cd43a2bd100b5ef8a53e.m3u8
 
 ################### End New One-TV Server #####################################
+
+# ++++++++++++++++++++ Top (Youtube) Vietnamese TV Show and Music +++++++++++++++++++++
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://darkmp3.ru/imgs/7863025-460x460/reader-s-digest-music-bolero-romantico.jpg", [COLOR orange]Vietnamese TV Show and Music[/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://media.ngoisao.vn/resize_580/news/2016/08/16/tn-10-ngoisao.vn.stamp2.jpg", To My LiveShow HD
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=BUAvOcwO3DI
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 11 01-14-17
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=_oD5BQg6XLs
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 10 01-7-17
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=pM73Br4qDo4
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 09 12-31-16
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=Kd4W4jQE_l0
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 08 12-24-16
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=iwJzTwqU2MY
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 07 12-17-16
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=qEOFgg810hM
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 06 12-10-16
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=iaV_M4rPLlk
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 05
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=BOW-LNw2b2I
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 04
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=k3ujTxCPeRw
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 03
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=nwA3KS8LvJY
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 02
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=xfmQl5jF_iI
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 01
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=vVUytf3MhUg
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xAyfDLqnvOw/maxresdefault.jpg", Tình Ca Bolero
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=VZD50UcAQ1k
+
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/G9vjzQFSRpg/maxresdefault.jpg", VTV3 THẦN TƯỢNG BOLERO 2016
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=G9vjzQFSRpg
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 1
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=znMzbbzJ0Co
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 2
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=4jsxshozKd4
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 3
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=kfK0ScOrRL0
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 4
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=b0_-jN04kz8
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 5
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=oHJ0V4YcpN8
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 6
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=3BVlnyF1u5E
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 7
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=FiHVQ5GHrHQ
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 8
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=22mJRAR7hNo
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 9
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=haGftCSKjmA
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 Final
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=sqil8ST2V2Q
+
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 12
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=-eR9TPdBcBo
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 13
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=ZR-_DTyvvYU
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 14
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=R0n0ABFqP34
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 15
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=8hIMb2_SUrg
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 16
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=8msvKQxGF24
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 17
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=xJsavUyDsmA
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 18
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=hmPl465HRm4
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 19 
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=CNC-lOFV_u8
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 20 
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=22jYfGRbC10
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 21 
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=OeUgxuwF0ek
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 22 
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=Nty9N8-xXc8
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 23 
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=FxoZRofzl2g
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 People's Choice Winner 
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=AprLkVE61sE
+
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Judge's Choice Winner 
+http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=7GNKwL5BplY
 
 
