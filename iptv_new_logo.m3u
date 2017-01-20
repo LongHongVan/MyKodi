@@ -1,5 +1,5 @@
 ﻿#EXTM3U tvg-shift=0
-# Test Updated 10.16.16 03:43 PM - by Long Hong
+# Test Updated 01.20.17 12:00 PM - by Long Hong
 #EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
 http://google.com
 
@@ -1446,6 +1446,699 @@ rtmp://vf10.aditmedia.net/ingestx/ius_000131
 #EXTINF:-1 group-title="Top 10 Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://static.wixstatic.com/media/e28766_ecb97a356c814f5fba5ebf439201e977.png", VNATV 57.3
 http://vnatv.saigon.ns01.us:1935/vnatv/myStream/chunklist_w729302537.m3u8
 
-################### end Top 10 Viet News Hai Ngoai TV ###############################66
+################### end Top 10 Viet News Hai Ngoai TV ###############################
 
 
+
+################### USA UK UHDTV ####################################################
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", A&E HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25583
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ABC HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=7383
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", AHC
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24570
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", AMC HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8904
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Animal Planet HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8905
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BBC America HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25521
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BEIN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6143
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BET HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8906
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Big Ten Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1746
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Boomerang HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8907
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Bravo HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8908
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Cartoon Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=482
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", CBS HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=484
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", CBS Sports Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8210
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Chiller
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24985
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Cinemax HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6139
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Cinemax Moremax HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=524
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Cinemax Thrillermax HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8208
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", CMT HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8909
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", CNBC HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24986
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", CNN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8910
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Comedy Central HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1683
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Cooking Channel HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=9542
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Crime & Investigation HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8378
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", CSN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8912
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", CW HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8018
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Destination America HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8913
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery Family HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1745
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24675
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery Science HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8209
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Disney HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6140
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Disney Jr. HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8191
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Disney XD HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25587
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", DIY HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6226
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", E! HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8915
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", El Rey Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6557
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", EPIX HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8347
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", EPIX2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8628
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ESPN
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1647
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ESPN Deportes HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30563
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ESPN Deportes
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30565
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ESPN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1645
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ESPN2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=5426
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ESPNU HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25584
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ESPNU
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25585
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Food Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8916
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", FOX Business Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8203
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Fox Deportes HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26300
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", FOX HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=9137
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Fox News HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8917
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Fox Sports 1 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=879
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Fox Sports 2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8918
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", FreeForm HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1744
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", FX HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=937
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", FXX HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8156
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", FYI HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8919
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", GSN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=7607
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Hallmark HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=906
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Hallmark Movies&Mysteries HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8920
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HBO HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25586
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HBO2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8629
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HBOComedy HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=9138
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HBOFamily HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8507
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HBOSignature HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8664
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HBOZone HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8665
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HGTV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8943
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", History HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6141
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ID HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8921
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", IFC HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8922
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Lifetime HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8923
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", LMN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8924
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MLB Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8925
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MSNBC HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8421
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8926
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8345
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTVLive HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8505
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nat Geo Wild HD USA
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8928
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NatGeo HD USA
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8927
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBA HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25582
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBC HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8020
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBCSN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1785
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NFL Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24998
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NHL Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6142
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nick HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=938
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nick Jr. HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8288
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nicktoons HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8420
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Outdoor Channel HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8929
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", OWN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=531
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", PAC-12 Arizona HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8096
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", PAC-12 Bay Area HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8097
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", PAC-12 Los Angeles HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8098
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", PAC-12 Mountain HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8099
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", PAC-12 National HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8095
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", PAC-12 Oregon HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8100
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", PAC-12 Washington HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8101
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", QVC HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=7199
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Revolt HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24679
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", SEC Network HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8157
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Showtime HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25581
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ShowtimeFamily Zone HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8666
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Smithsonian HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24571
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Spike HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24678
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sprout HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=7606
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Starz HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24677
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", StarzKids & Family HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8346
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sundance HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8630
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", SyFy HD USA
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8930
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TBS HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=849
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Telemundo HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8934
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Tennis HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8192
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TLC HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8931
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TNT HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8932
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Travel Channel HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8935
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TruTV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1646
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TV One HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8933
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TVLand HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=7356
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Unimas HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8936
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Universal HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8190
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Univision HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8937
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", USA HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24999
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Velocity HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8188
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", VH1 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8944
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Viceland HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8938
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", We
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8939
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", &TV UHD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32500
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", 4 Seven
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30815
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", 4Music
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", 5 USA
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30814
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", 5STAR
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30813
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", AD Sports 1 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32526
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", AD Sports 2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32527
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", AD Sports 3 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32528
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", AD Sports 4 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32529
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", AD Sports 5 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32530
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Alibi
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30812
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Aljazeera HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32519
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Animal Planet
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31618
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", At The Races
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30811
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Baby TV
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31619
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BBC 1 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30748
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BBC 2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30747
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BBC Four
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31678
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BBC News
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30810
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BBC One Lon
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31679
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BBC Two Eng
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31680
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NFL07:
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32484
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", beIN HD 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31607
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", beIN HD 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31606
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", beIN HD 3
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31605
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", beIN HD 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31604
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BEIN HD 5
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31603
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BEIN HD 6
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31623
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BeIN HD 7
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31622
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BeIN HD 8
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31621
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BEIN HD 9
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31661
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Bein Sports 10
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31660
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Bein Sports 11
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31659
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Bein Sports 12
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31658
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Boomerang
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30809
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Box Hits
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Box Nation
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30808
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31624
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport 1 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30807
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31625
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport 2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30806
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport 3 (Ex Europe)
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31626
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport 3 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30805
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport ESPN
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30804
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport Extra 5
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30666
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport Extra 6
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30667
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sport Mosaic 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30668
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sports Extra 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31662
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sports Extra 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31663
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sports Extra 3
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31664
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sports Extra 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31665
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", BT Sports Extra 5
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31666
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Cartoon Network
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30803
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Cartoonito
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30802
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Channel 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31681
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Channel 4 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30801
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Channel 5
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30800
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service= wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Chelsea TV
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30799
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", CNN UHD UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32499
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Comedy Central
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30798
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Crime & Investigation
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30797
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Dave
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30796
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30795
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery History
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30794
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery Home & Health
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31627
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery Science
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30793
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery Shed
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30792
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Discovery Turbo
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30791
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Disney Channel
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30790
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Disney Junior
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30789
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", DisneyXD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31677
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", DMAX
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31649
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", E4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30788
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Eden
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30787
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", eir Sports 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31615
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", eir Sports 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31616
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Eurosport
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31553
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Eurosport 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31554
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Film 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31617
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Flava
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31648
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Food Network
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30786
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Fox UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30785
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", FS1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30784
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", FS2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30783
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Gold
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30782
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Good Food
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30781
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", H2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30780
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HeartTV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", History
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30779
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Home
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31675
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Horse And Country
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32509
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ID
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30778
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ITV 1 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30777
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ITV 2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30776
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ITV 3
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30775
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ITV 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30774
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ITV Encore
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30773
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ITVBe
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30772
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Karrang
+http://csm-e.tm.yospace.com/csm/live/78581309.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Kiss
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", LFC TV
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30771
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", LFC TV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31566
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Lifetime
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30770
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MIO Stadium 102
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31567
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MIO Stadium 103 (Eleven Plus)
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31568
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MIO Stadium 104
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31569
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MIO Stadium 105
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31570
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MIO Stadium 106
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31571
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MIO Stadium 108
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31572
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", More4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30769
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Bike
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30768
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30767
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Base HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31588
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Base UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31593
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Classic
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31597
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Dance
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31595
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Dance HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31590
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Hits HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31587
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Hits!
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31592
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Live HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31591
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Music UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31596
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Rocks HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31589
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Rocks UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31594
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MTV Xmas
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31693
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Music
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MUTV
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30766
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", MUTV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31577
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", My5
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30836
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nat Geo Wild
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30765
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", National Geographic
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30764
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBC SPORTS 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31608
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBC SPORTS 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31609
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBC SPORTS 3
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31610
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBC SPORTS 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31611
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBC SPORTS 5
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31612
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBC SPORTS 6 (USA NET)
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31613
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nick Jr Too
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30763
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nick Jr.
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30762
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nickelodeon
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30761
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Nicktoons
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30760
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Now Thats What I Call Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Premier Sport UHD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30759
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Premier Sports HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31628
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Racing UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30758
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", RTE One
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31555
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", RTE Two
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31556
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30757
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30756
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Action
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31634
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Atlantic
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30755
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Comedy
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31633
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Cinema Family
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31631
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Cinema Greats
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31630
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Living
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30754
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Cinema Christmas
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31632
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Movies Disney
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30823
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Movies Horror
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30825
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Movies Select
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30824
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Movies Thriller
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30816
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky News
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30753
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", SKY NEWS TEST
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32958
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Premiere
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31629
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky ScFi/Horror
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31637
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Cinema Select
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31636
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sp News HQ
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31584
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31578
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 1 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30752
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31579
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30751
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 3
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31580
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 3 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30750
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31581
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 4 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30749
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 5
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31582
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports 5 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30746
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports F1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31583
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports F1 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30745
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports Mix
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30744
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Sports News
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30743
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sky Cinema Thriller
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31635
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sodapoppin
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32957
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Spike
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31653
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sportsnet 360 (EPL 3PM)
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31576
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sportsnet One (EPL 3PM)
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31575
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sportsnet Ontario (EPL 3PM)
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31574
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Sportsnet World (EPL 3PM)
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31573
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Star Gold
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31667
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Star Life Ok
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31668
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Super Sport 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32531
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Super Sport 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32532
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Super Sport 3
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32533
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Super Sport 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32534
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", SyFy HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31620
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TFC
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31654
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", The Box
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TLC
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30742
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", True Movies 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31585
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", True Movies 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31586
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Dave ja vu
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31676
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", UTV
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31614
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", VH1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31598
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", VH1 Classic
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31599
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Vintage UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31602
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", VIVA the Hits!
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=31600
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", W
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30741
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", RLCS Season 2 Grand Finals - Championship Sunday!
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32959
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Lirik
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32960
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Summit1g
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32961
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", TSM_Doublelift
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32962
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ELEAGUE TV
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32963
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HSN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32964
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", HSN2 HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32965
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Pretty Little Liars
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32966
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", Batman (1966)
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32967
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", NBA TNT: ----------
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32968
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", GMA Life
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32970
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", GMA Pinoy
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32969
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="USA UK UHDTV", ION HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32972
+
+################### End USA UK UHDTV ####################################################
