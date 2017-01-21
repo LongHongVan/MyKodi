@@ -3,7 +3,7 @@
 	"Nhac Xuan 2017 2 (Bonus)", 
 	"Liveshow Tet 2017 (Bonus)", 
 	"NBCSN HD", 
-	"Olympic Channel HD", 
+	"Olympic Channel HD (new)", 
 	"NFL Network HD", 
 	"NBC NFL HD", 
     "ABC NFL HD", 
