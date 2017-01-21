@@ -1,3 +1,9 @@
+01/20/2017
+
+http://151.80.97.110:25461/live/daniel/daniel/1551.ts|User-Agent=VLC/2.3.1 LibVLC/2.2.17&Icy-MetaData=1
+
+http://151.80.97.110:25461/get.php?username=daniel&password=daniel&type=m3u&output=mpegts
+
 01/15/2017
 
 http://163.172.81.33:1234/get.php?username=iptvrestream.net8&password=MxA6SpYeNL&type=m3u&output=mpegts

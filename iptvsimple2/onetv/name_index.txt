@@ -1,4 +1,6 @@
 [  
+	"Fox Sports 1 HD (new)", 
+	"Fox Sports 2 HD (new)", 
 	"NBCSN HD (new)", 
 	"Olympic Channel FHD (new)", 
 	"NFL Network HD (new)", 
