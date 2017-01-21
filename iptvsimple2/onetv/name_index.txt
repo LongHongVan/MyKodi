@@ -21,7 +21,7 @@
     "History HD",  
     "SYFY HD", 
     "Animal Planet HD", 
-    "Bravo HD",	
+    "Bravo/FX HD",	
     "Nat Geo HD",
     "Discovery Channel HD", 
     "E! HD",  
