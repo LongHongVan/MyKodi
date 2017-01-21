@@ -20,16 +20,7 @@
     "History HD",  
     "SYFY HD", 
     "Animal Planet HD", 
-    "Bravo/FX HD",	
+    "FX HD",	
     "Nat Geo HD",
-    "Discovery Channel HD", 
-    "E! HD",  
-    "Nat Geo Wild HD", 
-    "ESPN 2 HD", 
-    "NBC Golf", 
-    "NBCSN HD", 
-    "Fox Sports 1 HD", 
-    "MLB Network HD", 
-    "NFL Network HD", 
-    "HGTV HD"
+    "Discovery Channel HD"
 ]

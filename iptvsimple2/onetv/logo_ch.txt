@@ -20,16 +20,7 @@
     "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", 
     "http://www.thelogodb.com/images/media/logo/quwyru1480459347.png", 
     "http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png", 	
-	"https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png", 
+	"https://www.thelogodb.com/images/media/logo/uqrpqt1436889975.png", 
     "http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", 
-    "http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png", 
-    "http://www.thelogodb.com/images/media/logo/tyvqqr1433945535.png", 
-    "http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png", 
-    "http://www.thelogodb.com/images/media/logo/vpwptv1434501703.png", 
-    "http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png", 
-    "http://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
-    "http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png", 
-    "http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png", 
-    "http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png", 
-    "http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png"
+    "http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png"
 ]
