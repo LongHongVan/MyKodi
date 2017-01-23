@@ -23,79 +23,46 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
 
 ###################### French TV ######################################
 
+#EXTINF:-1,FR: MTV HITS
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/1862.ts
+#EXTINF:-1,FR: France24
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/337.ts
+#EXTINF:-1,FR: France O HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
+#EXTINF:-1,FR: France2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
+#EXTINF:-1,FR: France3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
+#EXTINF:-1,FR: France4 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
+#EXTINF:-1,FR: France5
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
+
 ###################### French TS Channels
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 24 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=96
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=33519
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/569.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/339.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/570.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/340.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/571.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/341.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/572.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/342.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France O HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://149.202.77.226:7500/live/ge103/ge103/573.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/338.ts
+
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", MTV HITS
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/1862.ts
 
 
 ###################### End French TS Channels
-
-###################### French Canada
-
-#EXTINF:-1, tvg-logo="" group-title="French TV", CBC
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12
-#EXTINF:-1, tvg-logo="" group-title="French TV", Yoopa HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=16
-#EXTINF:-1, tvg-logo="" group-title="French TV", TVA MTL HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=16
-#EXTINF:-1, tvg-logo="" group-title="French TV", RDI HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=19
-
-
-#EXTINF:-1, tvg-logo="" group-title="French TV", CTV MTL HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=26
-#EXTINF:-1, tvg-logo="" group-title="French TV", CBC MTL HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=27
-#EXTINF:-1, tvg-logo="" group-title="French TV", SRC QC HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=28
-#EXTINF:-1, tvg-logo="" group-title="French TV", TELE QUEBEC HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=29
-#EXTINF:-1, tvg-logo="" group-title="French TV", MUSIQUE PLUS HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=30
-
-
-#EXTINF:-1, tvg-logo="" group-title="French TV", CBC MTL FRENCH HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=32
-
-#EXTINF:-1, tvg-logo="" group-title="French TV", RDS2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=34
-#EXTINF:-1, tvg-logo="" group-title="French TV", TVA SPORTS 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=35
-#EXTINF:-1, tvg-logo="" group-title="French TV", TVA SPORTS 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=36
-
-
-#EXTINF:-1, tvg-logo="" group-title="French TV", TV5
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=37
-#EXTINF:-1, tvg-logo="" group-title="French TV", VRAK HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=38
-#EXTINF:-1, tvg-logo="" group-title="French TV", SERIES HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=41
-#EXTINF:-1, tvg-logo="" group-title="French TV", HISTORIA HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=42
-
-#EXTINF:-1, tvg-logo="" group-title="French TV", PRISE 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=95
-#EXTINF:-1, tvg-logo="" group-title="French TV", SUPER ECRAN 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=380
-#EXTINF:-1, tvg-logo="" group-title="French TV", SUPER ECRAN 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=381
 
 
 

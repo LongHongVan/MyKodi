@@ -1,3 +1,8 @@
+01/22/2017
+
+http://pro.satlover.com:58080/get.php?username=DubbleB&password=yP9SM8uGQC&type=m3u
+
+
 01/20/2017
 
 http://151.80.97.110:25461/live/daniel/daniel/1551.ts|User-Agent=VLC/2.3.1 LibVLC/2.2.17&Icy-MetaData=1
