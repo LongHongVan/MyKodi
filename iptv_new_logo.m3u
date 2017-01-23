@@ -22,45 +22,33 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
 
 
 ###################### French TV ######################################
+#EXTINF:-1,FR: France O  HD
 
-#EXTINF:-1,FR: MTV HITS
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/1862.ts
-#EXTINF:-1,FR: France24
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/337.ts
-#EXTINF:-1,FR: France O HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
-#EXTINF:-1,FR: France2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
-#EXTINF:-1,FR: France3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
-#EXTINF:-1,FR: France4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
-#EXTINF:-1,FR: France5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=
+#EXTINF:-1,FR: France 5 HD
+
+#EXTINF:-1,FR: France 4  HD
+
+#EXTINF:-1,FR: FRANCE 2
+
 
 ###################### French TS Channels
 
-#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 24 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=33519
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 24 FHD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=33519
+
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/339.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/70.ts%7CUser-Agent%3Ddell
 
-#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/340.ts
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/341.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/69.ts%7CUser-Agent%3Ddell
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/342.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/68.ts%7CUser-Agent%3Ddell
 
 #EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France O HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/338.ts
-
-#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", MTV HITS
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://pro.satlover.com:58080/live/DubbleB/yP9SM8uGQC/1862.ts
-
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/67.ts%7CUser-Agent%3Ddell
 
 ###################### End French TS Channels
 
