@@ -1,3 +1,10 @@
+01/23/2017
+
+http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/318.ts|User-Agent=dell
+
+http://163.172.81.33:1234/get.php?username=iptvrestream.net8&password=MxA6SpYeNL&type=m3u&output=mpegts
+
+
 01/22/2017
 
 http://pro.satlover.com:58080/get.php?username=DubbleB&password=yP9SM8uGQC&type=m3u
