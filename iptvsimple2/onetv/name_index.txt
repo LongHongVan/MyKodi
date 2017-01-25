@@ -20,7 +20,7 @@
     "History HD",  
     "SYFY HD", 
     "Animal Planet HD", 
-    "FX HD",	
+    "FX/Bravo HD",	
     "Nat Geo HD",
     "Discovery Channel HD"
 ]
