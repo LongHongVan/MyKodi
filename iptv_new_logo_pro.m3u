@@ -21,8 +21,11 @@ http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtl
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/5.jpg", VTV5 HD
 http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2NS01Lmh0bWw=
 
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/5.jpg", VTV6 HD
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/6.jpg", VTV6 HD
 http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2Ni02Lmh0bWw=
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/8.jpg", VTV8 HD
+http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2OC0zNi5odG1s
 
 
 
