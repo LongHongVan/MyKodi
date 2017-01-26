@@ -7,19 +7,22 @@ http://google.com
 
 
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/49.jpg", 5S Online
-http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-5s-online-49.html
+http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtNXMtb25saW5lLTQ5Lmh0bWw=
 
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/57.jpg", Khát Vọng Tiên Phong
-http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-khat-vong-tien-phong-57.html
+http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgta2hhdC12b25nLXRpZW4tcGhvbmct
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/1.jpg", VTV1 HD
+http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2MS0xLmh0bWw=
 
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/4.jpg", VTV4 HD
-http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
+http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2NC00Lmh0bWw=
 
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/5.jpg", VTV5 HD
-http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
+http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2NS01Lmh0bWw=
 
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/5.jpg", VTV6 HD
-http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
+http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2Ni02Lmh0bWw=
 
 
 
