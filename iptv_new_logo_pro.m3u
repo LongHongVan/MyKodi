@@ -3,8 +3,27 @@
 #EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
 http://google.com
 
+#### VTVGoVN Live Channels #####
 
 
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/49.jpg", 5S Online
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-5s-online-49.html
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/57.jpg", Khát Vọng Tiên Phong
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-khat-vong-tien-phong-57.html
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/4.jpg", VTV4 HD
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/5.jpg", VTV5 HD
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/5.jpg", VTV6 HD
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
+
+
+
+#### End VTVGoVN Live Channels #####
 
 #### - Top 10 USA Channels ##### Last updated 01/25/2017 ##########
 
