@@ -6,40 +6,56 @@ http://google.com
 #### VTVGoVN Live Channels #####
 
 
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/3.jpg?v=a36706794fb268a9e7dc7162295a261d",Hào khí ngàn năm
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/3.jpg?v=8b319598eea57d015fe1934316eb2c4d",Ánh sáng hay bóng tối
 http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/49.jpg",5S Online
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtNXMtb25saW5lLTQ5Lmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-5s-online-49.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/67.jpg",Bữa tiệc ảo thuật
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtYnVhLXRpZWMtYW8tdGh1YXQtNjcuaHRtbA==
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-bua-tiec-ao-thuat-67.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/61.jpg",Hát cùng họa mi
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtaGF0LWN1bmctaG9hLW1pLTYxLmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-hat-cung-hoa-mi-61.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/65.jpg",Họa sĩ tí hon
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtaG9hLXNpLXRpLWhvbi02NS5odG1s
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-hoa-si-ti-hon-65.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/57.jpg",Khát Vọng Tiên Phong
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgta2hhdC12b25nLXRpZW4tcGhvbmctNTcuaHRtbA==
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-khat-vong-tien-phong-57.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/50.jpg",Quà tặng cuộc sống
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtcXVhLXRhbmctY3VvYy1zb25nLTUwLmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-qua-tang-cuoc-song-50.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/59.jpg",Tết cùng VTV
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdGV0LWN1bmctdnR2LTU5Lmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-tet-cung-vtv-59.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/1.jpg",VTV1
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2MS0xLmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/2.jpg",VTV2
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2Mi0yLmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/3.jpg",VTV3
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2My0zLmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/4.jpg",VTV4
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2NC00Lmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/5.jpg",VTV5
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2NS01Lmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/6.jpg",VTV6
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2Ni02Lmh0bWw=
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/27.jpg",VTV7
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2Ny0yNy5odG1s
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/36.jpg",VTV8
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2OC0zNi5odG1s
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.html
+
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170126/39.jpg",VTV9
-http://127.0.0.1:19098/vtvgovnProxy/aHR0cDovL3Z0dmdvLnZuL3hlbS10cnVjLXR1eWVuLWtlbmgtdnR2OS0zOS5odG1s
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
 
 
 #### End VTVGoVN Live Channels #####
