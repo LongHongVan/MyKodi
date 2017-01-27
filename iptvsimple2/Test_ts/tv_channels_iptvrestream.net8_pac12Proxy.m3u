@@ -1,1241 +1,1245 @@
 #EXTM3U
-#EXTINF:-1,watch more channels ==> iptvrestream.net <== %7CUser-Agent%3Dbok
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/560.ts%7CUser-Agent%3Dbok
+#EXTINF:-1,watch more channels ==> iptvrestream.net <== %7CUser-Agent%3Ddell
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/560.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | NBCSN HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Ddell
+
+#EXTINF:-1,USA | NBCSN HD (streamer)
+http://127.0.0.1:19098/mpegts2Proxy/http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Ddell
+
 #EXTINF:-1,UKR: Futbol 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/582.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/582.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UKR: Futbol 1HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/583.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/583.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UKR: Futbol 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/584.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/584.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TH | MIO Stadium 105 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/586.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/586.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TH | MIO Stadium 104 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/587.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/587.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TH | MIO Stadium 103 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/588.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/588.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TH | MIO Stadium 102 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/589.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/589.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: Cartoon Network
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/603.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/603.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MTV Rocks
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/592.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/592.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MTV Music
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/593.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/593.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MTV Hits
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/594.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/594.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MTV Dance
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/595.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/595.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MTV Classic
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/596.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/596.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MTV Base
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/598.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/598.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MTV 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/597.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/597.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT: Sky Calcio 7
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/575.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/575.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT: Sky Calcio 6
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/576.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/576.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT: Sky Calcio 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/577.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/577.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT: Sky Calcio 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/578.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/578.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT: Sky Calcio 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/579.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/579.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT: Sky Calcio 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/580.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/580.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT: Sky Calcio 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/581.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/581.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IN | Sony Six SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/569.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/569.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IN : WILLOW CRICKET HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/570.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/570.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IN : Ten Sports HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/571.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/571.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IN : TEN ACTION
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/572.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/572.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IN : STAR SPORTS 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/565.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/565.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IN : STAR SPORTS 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/566.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/566.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IN : STAR SPORTS 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/567.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/567.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IN : STAR SPORTS 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/568.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/568.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,HINDI Cartoon Network
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/604.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/604.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK : TV3 SPORT 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/590.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/590.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK : TV3 SPORT 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/591.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/591.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: Bein Movies 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/599.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/599.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: beIN Movies 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/600.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/600.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: beIN Movies 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/601.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/601.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: beIN Movies 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/602.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/602.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR : OSN CRICKET HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/585.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/585.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR : AD Sports 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/573.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/573.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR : AD Sports 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/574.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/574.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: TRING WORLD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/605.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/605.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: TRING TRING
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/606.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/606.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: TRING SUPER
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/607.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/607.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Tring Sport News
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/608.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/608.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Tring Sport 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/609.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/609.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Tring Sport 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/610.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/610.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Tring Smile
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/611.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/611.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: TRING PLANET
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/612.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/612.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: TRING MAX
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/613.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/613.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: TRING LIFE
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/614.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/614.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: TRING KOMEDI
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/615.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/615.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Super Sport 6
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/616.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/616.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Super Sport 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/617.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/617.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Super Sport 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/618.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/618.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Super Sport 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/619.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/619.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ALB: Super Sport 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/620.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/620.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : Super Sport Kosovo 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/563.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/563.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : Super Sport Kosovo 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/564.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/564.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ads
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/561.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/561.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP VIASAT: TV2 Sport Premium 8
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/294.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/294.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP VIASAT: TV2 Sport Premium 7
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/295.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/295.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP VIASAT: TV2 Sport Premium 6
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/296.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/296.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP VIASAT: TV2 Sport Premium 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/297.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/297.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP VIASAT: TV2 Sport Premium 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/298.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/298.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP VIASAT: TV2 Sport Premium 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/299.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/299.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP VIASAT: TV2 Sport Premium 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/300.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/300.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP VIASAT: TV2 Sport Premium 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/301.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/301.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP : SKYNET SPORTS 6 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/302.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/302.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP : SKYNET SPORTS 5 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/303.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/303.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP : SKYNET SPORTS 4 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/304.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/304.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP : SKYNET SPORTS 3 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/305.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/305.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIP : SKYNET SPORTS 2 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/306.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/306.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,VIp : SKYNET SPORTS 1 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/307.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/307.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA:CA | TSN 5*
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/309.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/309.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA:CA | TSN 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/310.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/310.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA:CA | TSN 3*
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/311.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/311.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA:CA | TSN 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/312.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/312.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA:CA | TSN 1*
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/313.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/313.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA:CA | Sportsnet 360 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/314.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/314.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: TBS HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/315.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/315.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: SEC Network
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/316.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/316.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: PAG HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/317.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/317.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: Offical Olympic Channel
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/318.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/318.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: NHL Network
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/319.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/319.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: NFL Network 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/165.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/165.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: MSNBC HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/320.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/320.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: MLB Network
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/321.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/321.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: MBL HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/322.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/322.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: FREE FORM HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/323.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/323.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: Fox SPORTS 506 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/324.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/324.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: FOX 43
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/325.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/325.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: FIGHT SPORT
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/308.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/308.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: ESPN 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/326.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/326.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA: CNN HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/327.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/327.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | Fox Sports 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/328.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/328.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | Fox Sports 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/329.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/329.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | ESPN
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/330.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/330.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | Amazing Discoveries HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/331.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/331.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | A&E HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/332.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/332.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 9
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/164.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/164.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 8
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/163.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/163.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 7
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/162.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/162.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 6
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/161.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/161.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/160.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/160.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/159.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/159.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/158.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/158.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/157.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/157.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA | (SD)NFL: 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/156.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/156.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA TNT HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/333.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/333.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA SYFY HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/334.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/334.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA NICKELODEN HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/335.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/335.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA Network (US)
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/336.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/336.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA NBC Golf
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/337.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/337.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA Investigation Discovery
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/338.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/338.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA HISTORY HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/339.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/339.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA FOX NEWS HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/340.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/340.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA : NFL REDZONE SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/155.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/155.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,USA : NFL Network 1080i
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/154.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/154.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: Sky Sports Mix
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/271.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/271.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: SKY SPORTS 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/174.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/174.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: SKY SPORTS 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/175.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/175.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: SKY SPORTS 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/176.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/176.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: SKY SPORTS 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/177.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/177.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: SKY SPORTS 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/178.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/178.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: Premier Sports HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/520.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/520.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: Crime & Investigiation
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/270.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/270.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sports 2 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/179.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/179.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sports 1 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/180.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/180.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport Mosaic 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/181.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/181.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport Mosaic
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/182.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/182.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport Extra 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/183.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/183.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport Extra 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/184.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/184.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport Extra 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/185.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/185.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport Extra 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/186.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/186.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport Extra 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/187.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/187.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport 3 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/188.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/188.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BT Sport 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/269.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/269.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BBC4/CBEEBIES
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/189.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/189.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: BBC TWO HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/190.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/190.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK: At The Races
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/191.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/191.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Sports 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/254.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/254.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Sport News
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/255.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/255.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Sport 5 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/256.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/256.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Sport 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/257.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/257.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Sport 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/258.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/258.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Sport 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/259.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/259.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Movies Thriller
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/260.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/260.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Movies Showcase
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/261.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/261.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Movies Premiere
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/262.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/262.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Sky Movies Greats
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/263.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/263.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | BT Sport Europe HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/264.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/264.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | BT Sport ESPN
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/265.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/265.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | BT Sport 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/266.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/266.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | BT Sport 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/267.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/267.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK | Boxnation
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/268.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/268.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK Pick
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/521.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/521.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK CBBC
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/522.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/522.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK BBC Three HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/523.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/523.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,UK BBC ONE HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/524.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/524.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TV8.5 SPOR HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/272.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/272.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TV8 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/273.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/273.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TV5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/274.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/274.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TV2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/275.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/275.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TV NET
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/276.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/276.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TURKMAX GURME HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/277.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/277.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TRT SPOR SD/HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/278.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/278.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TIVIBUSPOR 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/279.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/279.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TIVIBUSPOR 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/280.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/280.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TIVIBUSPOR 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/281.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/281.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TIVIBU SPOR 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/282.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/282.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TGRT HABER
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/283.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/283.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,TR: TGRT BELGESEL
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/284.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/284.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Russia:ABTO 24
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/192.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/192.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Zoo Park
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/193.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/193.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Zik
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/194.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/194.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Xtream Sports
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/195.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/195.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: voronezh
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/196.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/196.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: VIASAT SPORT EAST
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/197.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/197.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: urban (kirov)
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/198.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/198.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: TV1000 PREMIUM HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/199.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/199.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: TV1000 MEGAHIT HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/200.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/200.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: TV1000 COMEDY HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/201.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/201.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: tv1000
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/202.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/202.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: TV 1000 Action
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/203.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/203.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: TV 1000 ??????? ????
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/204.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/204.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: tnt (kursk)
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/205.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/205.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: TKMECKOE time
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/206.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/206.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: the first/mtv (volgograd)
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/207.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/207.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: the antenna plus
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/208.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/208.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: telplus
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/209.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/209.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: TBA Life
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/210.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/210.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: surgut 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/211.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/211.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: stavropol
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/212.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/212.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: st.petersburg
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/213.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/213.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Sportal TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/214.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/214.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Sport Fights
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/215.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/215.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: spike tv
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/216.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/216.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Sony Turbo
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/217.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/217.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Russia League HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/218.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/218.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Russia 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/219.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/219.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: RT Documentary
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/220.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/220.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Premiera
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/221.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/221.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: planet
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/222.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/222.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Outdoor Channel
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/223.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/223.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: One.by russia hd
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/224.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/224.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: oh
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/225.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/225.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: novosibirsk
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/226.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/226.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: National Geographic
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/227.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/227.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Nat Geo Wild
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/228.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/228.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Nashe Kino
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/229.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/229.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Moya Planeta
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/230.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/230.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Match TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/231.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/231.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Match Sports
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/232.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/232.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Match Futbol 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/233.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/233.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Match Futbol 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/234.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/234.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Match Futbol 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/235.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/235.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Match Apeha HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/236.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/236.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Kino Hit
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/237.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/237.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: kherson
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/238.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/238.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: hello tv
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/239.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/239.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: HD Life
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/240.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/240.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: HAWE HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/241.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/241.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Dom Kino
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/242.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/242.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Discovery Channel
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/243.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/243.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Discovery
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/244.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/244.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: channel_6 TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/245.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/245.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: buy the home tv
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/246.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/246.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: BOXE
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/247.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/247.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Animal Planet
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/248.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/248.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Amedia 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/249.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/249.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: Amedia 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/250.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/250.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: 3 world
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/251.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/251.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RUS: 24 Doc
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/252.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/252.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RU : RT
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/253.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/253.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RO: ANTENA STARS
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/525.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/525.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RO: ANTENA 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/526.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/526.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RO: ANETENA 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/527.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/527.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RO: AGRO TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/528.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/528.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RO: ACASA TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/529.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/529.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,RO : MegaMax-HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/530.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/530.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT:SPORT TV 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/531.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/531.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT:SPORT TV 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/532.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/532.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: VH1 CLASSIC
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/533.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/533.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: VH1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/534.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/534.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TVI Reality (A Quinta)
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/535.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/535.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TVI REALITY
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/536.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/536.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TVI 24
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/537.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/537.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TVI
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/538.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/538.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TVCseries
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/539.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/539.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TVC SERIES HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/540.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/540.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TV RECORD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/541.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/541.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TV Globo Premium
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/542.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/542.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TV GLOBO
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/543.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/543.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TV CINE 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/544.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/544.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TV CINE 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/545.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/545.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TV CINE 2  HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/546.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/546.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TV CINE 1  HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/547.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/547.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TOUROS TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/548.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/548.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: TLC
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/549.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/549.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SYFY
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/550.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/550.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SPORTING TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/551.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/551.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SPORT TV 5HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/552.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/552.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SPORT TV 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/553.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/553.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SPORT TV 4HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/554.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/554.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SPORT TV 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/555.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/555.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SPORT TV 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/556.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/556.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SPORT TV 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/557.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/557.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SPORT TV 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/558.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/558.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,PT: SIC RADICAL
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/559.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/559.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: RTL 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/341.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/341.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: NPO 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/342.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/342.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: NPO 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/343.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/343.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: NPO 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/344.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/344.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: Fox Sports 6
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/345.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/345.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: Fox Sports 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/346.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/346.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: Fox Sports 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/347.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/347.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: Fox Sports 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/348.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/348.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: Fox Sports 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/349.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/349.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL: Fox Sports 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/350.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/350.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL : Ziggo Sport.Voetbal
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/351.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/351.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,NL : Ziggo Sport Select HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/352.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/352.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MLZ: Astro Sports 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/353.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/353.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MLZ: Astro Sports 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/354.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/354.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MLZ: Astro Sports 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/355.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/355.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,MLZ: Astro Sports 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/356.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/356.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Latino: Fox 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/285.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/285.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Latino: F1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/286.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/286.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Latino: ESPN 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/287.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/287.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Latino: ESPN 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/288.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/288.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Latino: ESPN
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/289.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/289.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Latino: Discovery Turbo
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/290.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/290.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Latino: Discovery TLC
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/291.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/291.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,Latino: Discovery Teather HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/292.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/292.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT | Sky Sport3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/166.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/166.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT | Sky Sport2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/167.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/167.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT | Sky Sport1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/168.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/168.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT | Sky Sport F1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/169.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/169.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT | Sky Sport 24 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/170.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/170.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT | Sky Moto GP HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/171.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/171.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT | Sky Foxcrime HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/172.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/172.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,IT | SKY F1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/173.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/173.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: France O  HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/67.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/67.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: France 5 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/68.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/68.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: France 4  HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/69.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/69.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: FRANCE 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/70.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/70.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: EUROSPORT2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/71.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/71.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: Eurosport 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/72.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/72.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: Eurosport 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/73.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/73.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: Equidia Live HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/75.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/75.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: EQUIDIA live
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/74.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/74.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: DISNEY CHANNEL
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/76.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/76.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: DISCOVERY
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/77.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/77.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: D8
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/78.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/78.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: D17
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/79.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/79.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,FR: CSTAR HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/80.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/80.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: SPORTKLUB 6 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/357.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/357.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: SPORTKLUB 5 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/358.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/358.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: SPORTKLUB 4 SD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/359.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/359.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Sport Klub 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/360.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/360.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Sport Klub 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/361.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/361.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Sport Klub 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/362.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/362.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: RTV Zenica
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/363.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/363.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: RTV BANOVINA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/364.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/364.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: RTS HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/365.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/365.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: RTS 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/366.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/366.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: RTS 2 (local)
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/367.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/367.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: RTS 1 (local)
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/368.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/368.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Prva Plus
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/369.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/369.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Prva
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/370.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/370.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Zabava
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/371.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/371.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink World
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/81.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/81.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Western
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/82.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/82.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Thriller
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/83.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/83.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Super Kids
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/84.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/84.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Soap
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/85.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/85.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Show
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/86.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/86.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Serije
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/87.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/87.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Sci-Fi&Fantasy
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/88.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/88.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Reality
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/89.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/89.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Premium
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/90.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/90.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Koncert
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/91.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/91.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Kids
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/92.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/92.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Horror
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/93.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/93.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Hits 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/94.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/94.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Folk 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/95.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/95.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,EX-YU: Pink Folk
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/96.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/96.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:VIAJAR HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/1.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/1.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:TELEDEPORTE HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/2.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/2.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:TELECINCO HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/3.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/3.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:TCM HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/4.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/4.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:NICK Jr
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/5.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/5.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/6.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/6.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:NAT GEO WILD HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/7.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/7.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:MEGA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/8.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/8.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:LA SEXTA HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/9.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/9.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:LA 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/10.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/10.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:HISTORIA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/12.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/12.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:FOX LIFE HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/13.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/13.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:FOX HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/14.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/14.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:DISNEY XD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/15.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/15.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:DISNEY JUNIOR
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/16.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/16.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:DISNE CHANNEL HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/17.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/17.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:DISCOVERY CI
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/18.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/18.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:DISCOVERY CHANNEL HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/19.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/19.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:CUATRO HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/20.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/20.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  XTRA HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/21.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/21.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  TOROS HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/22.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/22.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  SERIES XTRA HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/23.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/23.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  LIGA HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/24.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/24.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  LIGA 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/25.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/25.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  GOLF HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/26.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/26.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  FUTBOL HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/27.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/27.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  ESTRENOS HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/28.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/28.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  DEPORTES HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/29.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/29.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  DEPORTES 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/30.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/30.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  DCINE HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/31.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/31.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:Canal  COMEDIA HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/32.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/32.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:CANAL  ACTION HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/33.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/33.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:CALLE 13 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/34.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/34.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:AXN WHITE HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/35.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/35.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES:ANTENA 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/36.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/36.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: TNT
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/37.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/37.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: SYFY
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/38.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/38.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: PANDA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/39.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/39.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: ODISEA HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/40.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/40.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: NOVA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/41.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/41.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: NICKELODEON HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/42.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/42.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: NEOX
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/43.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/43.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: La Liga BAR HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/44.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/44.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: LA 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/45.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/45.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: IBERALIA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/46.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/46.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: HOLLYWOOD HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/11.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/11.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: GOL Tv
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/47.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/47.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: FDF
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/48.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/48.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: DIVINITY
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/49.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/49.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: COSMO HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/50.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/50.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: Clan Tve
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/51.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/51.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: Caza y pesca
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/52.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/52.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: Canal SERIES HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/53.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/53.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: CANAL DECASA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/54.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/54.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: CANAL COCINA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/55.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/55.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: Boing
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/56.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/56.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: Bein Sport HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/57.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/57.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: Bein Liga HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/58.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/58.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: AXN HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/59.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/59.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: AMC
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/60.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/60.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: A&E
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/61.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/61.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES: #0 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/62.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/62.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES : MOVISTAR MOTOGP
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/63.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/63.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES : movistar Futbol
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/64.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/64.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES : MOVISTAR FORMULA 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/65.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/65.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,ES : MOVISTAR F1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/66.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/66.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: TV3 Puls
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/97.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/97.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: TV3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/98.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/98.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: TV2 Zulu
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/99.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/99.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: TV2 News
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/100.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/100.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: TV2 Fri
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/101.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/101.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: Kanal TV5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/102.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/102.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: DR1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/104.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/104.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: DK4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/103.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/103.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK: 3 Plus
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/105.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/105.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK : VIASAT SPORT
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/106.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/106.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK : VIASAT SERIES
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/107.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/107.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DK : VIASAT NATURE
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/108.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/108.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: ZDF
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/402.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/402.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: VOX
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/403.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/403.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: TNT Serie
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/404.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/404.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SUPER RTL HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/405.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/405.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Universal HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/406.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/406.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky TNT Serie HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/407.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/407.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport News HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/408.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/408.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/409.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/409.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/410.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/410.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/411.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/411.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/412.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/412.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/413.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/413.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/414.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/414.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/415.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/415.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/416.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/416.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/417.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/417.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/418.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/418.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Sport 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/419.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/419.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Select 8
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/420.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/420.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Select 7
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/421.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/421.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY SELECT 6
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/422.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/422.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY SELECT 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/423.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/423.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY SELECT 4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/424.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/424.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY SELECT 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/425.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/425.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY SELECT 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/426.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/426.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY SELECT 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/427.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/427.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Hits HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/428.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/428.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Emotion HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/429.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/429.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky DMAX HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/430.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/430.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Disney HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/431.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/431.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Comedy HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/432.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/432.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Cinema HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/433.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/433.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY CINEMA  24
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/434.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/434.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Cinema  1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/435.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/435.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/436.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/436.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/437.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/437.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/438.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/438.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/439.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/439.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/440.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/440.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/441.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/441.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/442.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/442.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/443.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/443.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/444.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/444.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/445.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/445.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: SKY ATLANTIC HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/446.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/446.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sky Action HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/447.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/447.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: sat 1 emotions
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/448.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/448.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Sat 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/449.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/449.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: RTL NITRO
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/450.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/450.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: RTL
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/451.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/451.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Pro7
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/452.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/452.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Orf 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/453.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/453.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Orf 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/454.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/454.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Nickelodeon
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/455.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/455.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: National Geographic HD Germany
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/456.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/456.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: NatGeo Wild HD Germany
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/457.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/457.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: N24
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/458.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/458.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Muenchen TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/459.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/459.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: MGM HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/460.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/460.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Kika
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/461.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/461.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Kabel 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/462.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/462.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Disney XD Deutschland
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/463.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/463.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Disney Junior
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/464.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/464.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Disney Cinemagic HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/465.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/465.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Disney Channel HD Germany
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/466.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/466.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Discovery HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/467.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/467.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Deluxe Music HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/468.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/468.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Classica
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/469.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/469.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Cartoon Network Germany
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/470.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/470.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Bundesliga 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/471.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/471.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: Boomerang
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/472.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/472.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: AXN HD Germany
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/473.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/473.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: ARD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/474.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/474.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE: 13th Street
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/475.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/475.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 9 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/476.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/476.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 8 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/477.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/477.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 7 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/478.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/478.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 6 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/479.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/479.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 5 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/480.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/480.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/481.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/481.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/482.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/482.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 11 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/483.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/483.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany Sport 10 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/484.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/484.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 9 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/485.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/485.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 8 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/486.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/486.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/487.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/487.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/488.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/488.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 5 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/489.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/489.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/490.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/490.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/491.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/491.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/492.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/492.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE | Sky Germany BUNDESLIGA 10 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/493.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/493.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : TNT Glitz HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/494.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/494.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : TNT Film TCM
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/495.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/495.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : TNT Comedy
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/496.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/496.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Syfy
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/497.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/497.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Sport1  HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/498.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/498.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : sky sport austria
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/499.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/499.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Sky Nostalgie
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/500.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/500.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Sky Krimi
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/501.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/501.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Sky Atlantic HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/502.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/502.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Sky atlantic
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/503.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/503.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : RTL2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/504.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/504.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : RTL Passion
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/505.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/505.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : RTL Living
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/506.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/506.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : RTL HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/507.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/507.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : RTL Crime HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/508.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/508.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Fox HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/509.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/509.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Eurosport 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/510.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/510.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,DE : Disney Cinemagic HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/511.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/511.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: WAU HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/512.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/512.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: Viasat HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/513.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/513.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: TV Regina
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/514.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/514.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: TV Paprika
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/515.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/515.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: the QYOU
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/516.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/516.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: TELKA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/517.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/517.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: Sport 5
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/518.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/518.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: Sport 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/519.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/519.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: Mnam TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/109.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/109.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: Minimax
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/110.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/110.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: Markiza International
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/111.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/111.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: Leo TV
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/112.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/112.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: KinoSvet
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/113.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/113.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: JOJ Family HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/114.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/114.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: iConcerts
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/115.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/115.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: HBO3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/116.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/116.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: HBO2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/117.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/117.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CZ: HBO HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/118.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/118.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : global tv calgary
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/119.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/119.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : g4
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/120.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/120.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : fyi
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/121.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/121.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : fxx hd
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/122.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/122.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : fox news
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/123.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/123.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : FOX HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/124.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/124.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : fox 25 hd
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/125.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/125.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : evasion
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/126.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/126.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : e!
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/127.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/127.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : deja view
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/128.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/128.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,CA : ctv toronto
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/129.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/129.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,BR: SPORT TV 3
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/130.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/130.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,BR: SPORT TV 2
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/131.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/131.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,BR: SPORT TV 1
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/132.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/132.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,BR: REDE TV RONDONIA
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/133.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/133.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,BR: Rede Randonia
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/134.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/134.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: OSN Sports 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/372.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/372.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: OSN Sports 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/373.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/373.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: OSN Sports 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/374.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/374.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: OSN Sports 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/375.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/375.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: OSN Outdoor
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/376.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/376.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: OSN MOVIES PREMIERE HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/377.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/377.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: OSN Movies Drama
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/378.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/378.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: OSN MOVIES ACTION HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/379.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/379.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: MBC Masr
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/135.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/135.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: MBC Drama HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/136.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/136.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: MBC Action HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/137.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/137.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: MBC ACTION
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/138.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/138.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: MBC 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/139.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/139.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: MBC 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/140.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/140.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: MBC 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/141.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/141.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: MBC 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/142.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/142.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: AD Sports 6 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/380.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/380.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: AD Sports 5 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/381.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/381.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: AD Sports 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/382.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/382.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: AD Sports 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/383.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/383.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR: 2m Maroc
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/384.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/384.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 9 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/385.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/385.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 8 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/386.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/386.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 7 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/387.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/387.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 6 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/388.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/388.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 5 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/389.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/389.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/390.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/390.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 3 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/391.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/391.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 2 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/392.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/392.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | Bein Sports 17 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/393.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/393.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | Bein Sports 16 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/394.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/394.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | Bein Sports 15 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/395.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/395.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 14 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/396.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/396.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 13 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/397.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/397.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 12 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/398.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/398.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 11 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/399.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/399.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 10 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/400.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/400.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AR | beIN Sports 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/401.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/401.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : TRING SPORT 4 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/143.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/143.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : TRING SPORT 1 HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/144.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/144.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : Tring Shqip
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/145.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/145.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : Tring Planet
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/146.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/146.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : Tring Max
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/147.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/147.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : Tring Life
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/148.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/148.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : TRING KOMEDI
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/149.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/149.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : TRING HISTORI
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/150.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/150.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : TRING FANTASY
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/151.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/151.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : Tring Comedy
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/152.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/152.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,AL : Top Channel HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/153.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/153.ts%7CUser-Agent%3Ddell
 #EXTINF:-1,*VIP*: Skynet Sports HD
-http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/293.ts%7CUser-Agent%3Dbok
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/293.ts%7CUser-Agent%3Ddell
