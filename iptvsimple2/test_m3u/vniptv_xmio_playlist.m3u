@@ -1,0 +1,763 @@
+#EXTM3U
+# ++++++++++++++++++++++++++++++++
+# http://pastebin.com/raw/CALMhf0R
+# ++++++++++++++++++++++++++++++++
+
+#EXTINF:-1 tvg-id="VTV 1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTV 1
+http://localhost:9991/xmio?1001
+#EXTINF:-1 tvg-id="VTV 2" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTV 2
+http://localhost:9991/xmio?2
+#EXTINF:-1 tvg-id="VTV 3" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTV 3
+http://localhost:9991/xmio?1090
+#EXTINF:-1 tvg-id="VTV 6" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTV 6
+http://localhost:9991/xmio?1018
+#EXTINF:-1 tvg-id="TTXVN (VNEWS)" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] TTXVN (VNEWS)
+http://localhost:9991/xmio?1070
+#EXTINF:-1 tvg-id="VTC-HD 1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC-HD 1
+http://localhost:9991/xmio?17
+#EXTINF:-1 tvg-id="VTC-HD 2" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC-HD 2
+http://localhost:9991/xmio?29
+#EXTINF:-1 tvg-id="VTC-HD 3" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC-HD 3
+http://localhost:9991/xmio?16
+#EXTINF:-1 tvg-id="ITV-HD" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] ITV-HD
+http://localhost:9991/xmio?15
+#EXTINF:-1 tvg-id="VTC 3" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 3
+http://localhost:9991/xmio?42
+#EXTINF:-1 tvg-id="VTC 1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 1
+http://localhost:9991/xmio?1016
+#EXTINF:-1 tvg-id="VTC 2" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 2
+http://localhost:9991/xmio?6
+#EXTINF:-1 tvg-id="VTC 4" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 4
+http://localhost:9991/xmio?32
+#EXTINF:-1 tvg-id="VTC 5" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 5
+http://localhost:9991/xmio?37
+#EXTINF:-1 tvg-id="VTC 6" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 6
+http://localhost:9991/xmio?38
+#EXTINF:-1 tvg-id="VTC 7 (Today)" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 7 (Today)
+http://localhost:9991/xmio?39
+#EXTINF:-1 tvg-id="VTC 8 (VITV)" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 8 (VITV)
+http://localhost:9991/xmio?40
+#EXTINF:-1 tvg-id="VTC 9 (Let's Viet)" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 9 (Let's Viet)
+http://localhost:9991/xmio?11
+#EXTINF:-1 tvg-id="VTC 10" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 10
+http://localhost:9991/xmio?9
+#EXTINF:-1 tvg-id="VTC 11" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 11
+http://localhost:9991/xmio?1017
+#EXTINF:-1 tvg-id="VTC 14" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 14
+http://localhost:9991/xmio?8
+#EXTINF:-1 tvg-id="VTC 16" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTC 16
+http://localhost:9991/xmio?10
+#EXTINF:-1 tvg-id="Hà Nội 1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Hà Nội 1
+http://localhost:9991/xmio?13
+#EXTINF:-1 tvg-id="Hà Nội 2" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Hà Nội 2
+http://localhost:9991/xmio?1007
+#EXTINF:-1 tvg-id="HTV Phụ nữ" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV Phụ nữ
+http://localhost:9991/xmio?1079
+#EXTINF:-1 tvg-id="MOV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] MOV
+http://localhost:9991/xmio?236142
+#EXTINF:-1 tvg-id="HTV Thể thao" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV Thể thao
+http://localhost:9991/xmio?1011
+#EXTINF:-1 tvg-id="HTV Du lịch" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV Du lịch
+http://localhost:9991/xmio?1081
+#EXTINF:-1 tvg-id="BTV4" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] BTV4
+http://localhost:9991/xmio?236145
+#EXTINF:-1 tvg-id="HTV Ca nhạc" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV Ca nhạc
+http://localhost:9991/xmio?1080
+#EXTINF:-1 tvg-id="HTV Phim truyện" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV Phim truyện
+http://localhost:9991/xmio?1013
+#EXTINF:-1 tvg-id="HTV Gia đình" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV Gia đình
+http://localhost:9991/xmio?1012
+#EXTINF:-1 tvg-id="HTV 1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV 1
+http://localhost:9991/xmio?1000
+#EXTINF:-1 tvg-id="HTV 2" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV 2
+http://localhost:9991/xmio?1009
+#EXTINF:-1 tvg-id="HTV 4" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV 4
+http://localhost:9991/xmio?1010
+#EXTINF:-1 tvg-id="HTV 3" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV 3
+http://localhost:9991/xmio?1008
+#EXTINF:-1 tvg-id="HTV 7" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV 7
+http://localhost:9991/xmio?1039
+#EXTINF:-1 tvg-id="HTV 9" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTV 9
+http://localhost:9991/xmio?1038
+#EXTINF:-1 tvg-id="TVM" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] TVM
+http://localhost:9991/xmio?1072
+#EXTINF:-1 tvg-id="ANTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] ANTV
+http://localhost:9991/xmio?1014
+#EXTINF:-1 tvg-id="VOV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VOV
+http://localhost:9991/xmio?1043
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Animal Planet
+http://localhost:9991/xmio?34
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Cartoon Network
+http://localhost:9991/xmio?1006
+#EXTINF:-1 tvg-id="Discovery" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Discovery
+http://localhost:9991/xmio?27
+#EXTINF:-1 tvg-id="HBO" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HBO
+http://localhost:9991/xmio?28
+#EXTINF:-1 tvg-id="Fashion" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Fashion
+http://localhost:9991/xmio?35
+#EXTINF:-1 tvg-id="AXN" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] AXN
+http://localhost:9991/xmio?31
+#EXTINF:-1 tvg-id="StarWorld" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] StarWorld
+http://localhost:9991/xmio?1084
+#EXTINF:-1 tvg-id="StarMovie HD" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Star Movies HD
+http://localhost:9991/xmio?24
+#EXTINF:-1 tvg-id="Disney Junior" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Disney Junior
+http://localhost:9991/xmio?1085
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] National Geographic HD
+http://localhost:9991/xmio?25
+#EXTINF:-1 tvg-id="Diva Universal" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Diva Universal
+http://localhost:9991/xmio?236138
+#EXTINF:-1 tvg-id="HiTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HiTV
+http://localhost:9991/xmio?18570
+#EXTINF:-1 tvg-id="Chanel V" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Chanel V
+http://localhost:9991/xmio?18569
+#EXTINF:-1 tvg-id="Cinemax" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Cinemax
+http://localhost:9991/xmio?18566
+#EXTINF:-1 tvg-id="Thuần Việt" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] Thuần Việt
+http://localhost:9991/xmio?18565
+#EXTINF:-1 tvg-id="QPVN" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] QPVN
+http://localhost:9991/xmio?18563
+#EXTINF:-1 tvg-id="FBNC" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] FBNC
+http://localhost:9991/xmio?18181
+#EXTINF:-1 tvg-id="STTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] STTV
+http://localhost:9991/xmio?18564
+#EXTINF:-1 tvg-id="TTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] TTV
+http://localhost:9991/xmio?172202
+#EXTINF:-1 tvg-id="TN1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] TN1
+http://localhost:9991/xmio?172206
+#EXTINF:-1 tvg-id="VP" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VP
+http://localhost:9991/xmio?172218
+#EXTINF:-1 tvg-id="TBTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] TBTV
+http://localhost:9991/xmio?172478
+#EXTINF:-1 tvg-id="TNTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] TNTV
+http://localhost:9991/xmio?172482
+#EXTINF:-1 tvg-id="PTQ1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] PTQ1
+http://localhost:9991/xmio?172486
+#EXTINF:-1 tvg-id="VTVPHUYEN" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTVPHUYEN
+http://localhost:9991/xmio?172490
+#EXTINF:-1 tvg-id="THTG" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] THTG
+http://localhost:9991/xmio?172491
+#EXTINF:-1 tvg-id="THTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] THTV
+http://localhost:9991/xmio?172492
+#EXTINF:-1 tvg-id="YTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] YTV
+http://localhost:9991/xmio?172210
+#EXTINF:-1 tvg-id="TBK" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] TBK
+http://localhost:9991/xmio?174629
+#EXTINF:-1 tvg-id="PTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] PTV
+http://localhost:9991/xmio?172214
+#EXTINF:-1 tvg-id="LSTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] LSTV
+http://localhost:9991/xmio?174630
+#EXTINF:-1 tvg-id="BGTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] BGTV
+http://localhost:9991/xmio?174631
+#EXTINF:-1 tvg-id="HANAM" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HANAM
+http://localhost:9991/xmio?174632
+#EXTINF:-1 tvg-id="THGL" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] THGL
+http://localhost:9991/xmio?174633
+#EXTINF:-1 tvg-id="LTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] LTV
+http://localhost:9991/xmio?174634
+#EXTINF:-1 tvg-id="HY" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HY
+http://localhost:9991/xmio?174635
+#EXTINF:-1 tvg-id="NTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] NTV
+http://localhost:9991/xmio?174636
+#EXTINF:-1 tvg-id="KTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] KTV
+http://localhost:9991/xmio?174637
+#EXTINF:-1 tvg-id="HTTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HTTV
+http://localhost:9991/xmio?174638
+#EXTINF:-1 tvg-id="VTV9" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTV9
+http://localhost:9991/xmio?183646
+#EXTINF:-1 tvg-id="VTV5" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTV5
+http://localhost:9991/xmio?183648
+#EXTINF:-1 tvg-id="VTV4" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTV4
+http://localhost:9991/xmio?183647
+#EXTINF:-1 tvg-id="THVL" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] THVL
+http://localhost:9991/xmio?158414
+#EXTINF:-1 tvg-id="TV5" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] TV5
+http://localhost:9991/xmio?192577
+#EXTINF:-1 tvg-id="QTV1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] QTV1
+http://localhost:9991/xmio?59857
+#EXTINF:-1 tvg-id="QTV3" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] QTV3
+http://localhost:9991/xmio?61319
+#EXTINF:-1 tvg-id="DW" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] DW
+http://localhost:9991/xmio?192578
+#EXTINF:-1 tvg-id="ARI" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] ARI
+http://localhost:9991/xmio?192579
+#EXTINF:-1 tvg-id="BDTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] BDTV
+http://localhost:9991/xmio?69520
+#EXTINF:-1 tvg-id="DVL" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] DVL
+http://localhost:9991/xmio?192580
+#EXTINF:-1 tvg-id="NBTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] NBTV
+http://localhost:9991/xmio?69521
+#EXTINF:-1 tvg-id="AFC" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] AFC
+http://localhost:9991/xmio?192581
+#EXTINF:-1 tvg-id="THP" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] THP
+http://localhost:9991/xmio?69522
+#EXTINF:-1 tvg-id="QBTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] QBTV
+http://localhost:9991/xmio?161394
+#EXTINF:-1 tvg-id="DRT" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] DRT
+http://localhost:9991/xmio?198986
+#EXTINF:-1 tvg-id="THDT1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] THDT1
+http://localhost:9991/xmio?198987
+#EXTINF:-1 tvg-id="LA34" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] LA34
+http://localhost:9991/xmio?198988
+#EXTINF:-1 tvg-id="BRT" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] BRT
+http://localhost:9991/xmio?198989
+#EXTINF:-1 tvg-id="DNRTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] DNRTV
+http://localhost:9991/xmio?198991
+#EXTINF:-1 tvg-id="BTHTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] BTHTV
+http://localhost:9991/xmio?199142
+#EXTINF:-1 tvg-id="KTR" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] KTR
+http://localhost:9991/xmio?198990
+#EXTINF:-1 tvg-id="CRTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] CRTV
+http://localhost:9991/xmio?198992
+#EXTINF:-1 tvg-id="DBTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] DBTV
+http://localhost:9991/xmio?198993
+#EXTINF:-1 tvg-id="HGTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HGTV
+http://localhost:9991/xmio?198994
+#EXTINF:-1 tvg-id="ATV1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] ATV1
+http://localhost:9991/xmio?198995
+#EXTINF:-1 tvg-id="THTPTC" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] THTPTC
+http://localhost:9991/xmio?198996
+#EXTINF:-1 tvg-id="KG" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] KG
+http://localhost:9991/xmio?198997
+#EXTINF:-1 tvg-id="BPTV1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] BPTV1
+http://localhost:9991/xmio?198998
+#EXTINF:-1 tvg-id="DLTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] DLTV
+http://localhost:9991/xmio?198999
+#EXTINF:-1 tvg-id="BHTV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] BHTV
+http://localhost:9991/xmio?199000
+#EXTINF:-1 tvg-id="PTD" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] PTD
+http://localhost:9991/xmio?199001
+#EXTINF:-1 tvg-id="HATV" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] HATV
+http://localhost:9991/xmio?199002
+#EXTINF:-1 tvg-id="DRTA" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] DRTA
+http://localhost:9991/xmio?208712
+#EXTINF:-1 tvg-id="THVL2" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] THVL2
+http://localhost:9991/xmio?208713
+#EXTINF:-1 tvg-id="ODC" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] ODC
+http://localhost:9991/xmio?208716
+#EXTINF:-1 tvg-id="BBC" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] BBC
+http://localhost:9991/xmio?208717
+#EXTINF:-1 tvg-id="VTVDN" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTVDN
+http://localhost:9991/xmio?208718
+#EXTINF:-1 tvg-id="VTVCT" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTVCT
+http://localhost:9991/xmio?215210
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV1", [COLOR orange][B]SCTV[/B][/COLOR] SCTV1
+http://localhost:9991/sctv?C027_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV3", [COLOR orange][B]SCTV[/B][/COLOR] SCTV3
+http://localhost:9991/sctv?C029_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV4", [COLOR orange][B]SCTV[/B][/COLOR] SCTV4
+http://localhost:9991/sctv?C030_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV6", [COLOR orange][B]SCTV[/B][/COLOR] SCTV6
+http://localhost:9991/sctv?C038_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV8", [COLOR orange][B]SCTV[/B][/COLOR] SCTV8
+http://localhost:9991/sctv?C040_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV9", [COLOR orange][B]SCTV[/B][/COLOR] SCTV9
+http://localhost:9991/sctv?C041_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV10", [COLOR orange][B]SCTV[/B][/COLOR] SCTV10
+http://localhost:9991/sctv?sctv10_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV11", [COLOR orange][B]SCTV[/B][/COLOR] SCTV11
+http://localhost:9991/sctv?C066_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV12", [COLOR orange][B]SCTV[/B][/COLOR] SCTV12
+http://localhost:9991/sctv?C067_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV13", [COLOR orange][B]SCTV[/B][/COLOR] SCTV13
+http://localhost:9991/sctv?C031_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV14", [COLOR orange][B]SCTV[/B][/COLOR] SCTV14
+http://localhost:9991/sctv?C032_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV15", [COLOR orange][B]SCTV[/B][/COLOR] SCTV15
+http://localhost:9991/sctv?C042_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV16", [COLOR orange][B]SCTV[/B][/COLOR] SCTV16
+http://localhost:9991/sctv?C033_SD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV18", [COLOR orange][B]SCTV[/B][/COLOR] SCTV18
+http://localhost:9991/sctv?C008_HD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="StarMovie HD", [COLOR orange][B]SCTV[/B][/COLOR] Star Movies HD
+http://localhost:9991/sctv?C001_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Dulich HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Dulich HD
+http://localhost:9991/sctv?C007_HD_3
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Giaitri HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Giaitri HD
+http://localhost:9991/sctv?C014_HD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Hai HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Hai HD
+http://localhost:9991/sctv?C011_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Phim ChauA HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Phim ChauA HD
+http://localhost:9991/sctv?C010_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Phim Nuocngoai HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Phim Nuocngoai HD
+http://localhost:9991/sctv?C015_HD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV HD phim tong hop", [COLOR orange][B]SCTV[/B][/COLOR] SCTV HD phim tong hop
+http://localhost:9991/sctv?C013_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Phim Viet HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Phim Viet HD
+http://localhost:9991/sctv?C009_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Phunu HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Phunu HD
+http://localhost:9991/sctv?C017_HD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Sankhau HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Sankhau HD
+http://localhost:9991/sctv?C012_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Songnhac HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Songnhac HD
+http://localhost:9991/sctv?C006_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV HD the thao", [COLOR orange][B]SCTV[/B][/COLOR] SCTV HD the thao
+http://localhost:9991/sctv?C008_HD_3
+#EXTINF:-1 group-title="SCTV" tvg-id="SCTV Thieunhi HD", [COLOR orange][B]SCTV[/B][/COLOR] SCTV Thieunhi HD
+http://localhost:9991/sctv?C016_HD_2
+#EXTINF:-1 group-title="SCTV" tvg-id="HBO", [COLOR orange][B]SCTV[/B][/COLOR] HBO
+http://localhost:9991/sctv?mslive1/C004_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="Cinemax", [COLOR orange][B]SCTV[/B][/COLOR] CINEMAX
+http://localhost:9991/sctv?mslive1/C026_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="AXN", [COLOR orange][B]SCTV[/B][/COLOR] AXN
+http://localhost:9991/sctv?mslive1/C016_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="NATGEO", [COLOR orange][B]SCTV[/B][/COLOR] NATGEO
+http://localhost:9991/sctv?mslive1/C002_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="Discovery World HD", [COLOR orange][B]SCTV[/B][/COLOR] DISCOVERY WORLD
+http://localhost:9991/sctv?mslive1/C003_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="Discovery", [COLOR orange][B]SCTV[/B][/COLOR] DISCOVERY
+http://localhost:9991/sctv?mslive1/C021_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="Disney Channel", [COLOR orange][B]SCTV[/B][/COLOR] DISNEY HD
+http://localhost:9991/sctv?mslive1/C012_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="Cartoon Network", [COLOR orange][B]SCTV[/B][/COLOR] CN
+http://localhost:9991/sctv?mslive1/C013_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="Fashion", [COLOR orange][B]SCTV[/B][/COLOR] FASHIONTV
+http://localhost:9991/sctv?mslive1/C019_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="FOX Sports HD", [COLOR orange][B]SCTV[/B][/COLOR] FOX SPORT
+http://localhost:9991/sctv?mslive1/C005_HD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="FOX Sports 2 HD", [COLOR orange][B]SCTV[/B][/COLOR] FOX SPORT 2
+http://localhost:9991/sctv?mslive1/C020_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="Chanel V", [COLOR orange][B]SCTV[/B][/COLOR] CHANNEL V
+http://localhost:9991/sctv?mslive1/C018_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="BBC WORLD NEWS", [COLOR orange][B]SCTV[/B][/COLOR] BBC WORLD NEWS
+http://localhost:9991/sctv?mslive1/C022_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="CNN", [COLOR orange][B]SCTV[/B][/COLOR] CNN
+http://localhost:9991/sctv?mslive1/C023_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="CNBC", [COLOR orange][B]SCTV[/B][/COLOR] CNBC
+http://localhost:9991/sctv?mslive1/C024_SD_4
+#EXTINF:-1 group-title="SCTV" tvg-id="MEDIACORP", [COLOR orange][B]SCTV[/B][/COLOR] MEDIACORP
+http://localhost:9991/sctv?mslive1/C025_SD_4
+#EXTINF:-1 tvg-id="﻿Bà Rịa-Vũng Tàu" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] ﻿Bà Rịa-Vũng Tàu
+http://localhost:9991/htv?ba-ria-3133306E61
+#EXTINF:-1 tvg-id="BTV1" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] BTV1
+http://localhost:9991/htv?binh-duong-1-3130326E61
+#EXTINF:-1 tvg-id="Bắc Giang" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Bắc Giang
+http://localhost:9991/htv?bac-giang--bgtv-36366E61
+#EXTINF:-1 tvg-id="Bạc Liêu" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Bạc Liêu
+http://localhost:9991/htv?bac-lieu-3132316E61
+#EXTINF:-1 tvg-id="Bình Định" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Bình Định
+http://localhost:9991/htv?binh-dinh--btv-33356E61
+#EXTINF:-1 tvg-id="Bình Phước 1" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Bình Phước 1
+http://localhost:9991/htv?binh-phuoc-bptv1-33346E61
+#EXTINF:-1 tvg-id="Bong da TV HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Bong da TV HD
+http://localhost:9991/htv?bong-da-tv-hd-3133346E61
+#EXTINF:-1 tvg-id="Cà mau" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Cà mau
+http://localhost:9991/htv?ca-mau--ctv-36376E61
+#EXTINF:-1 tvg-id="Cần Thơ" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Cần Thơ
+http://localhost:9991/htv?can-tho-thtpct-3130336E61
+#EXTINF:-1 tvg-id="Channel V HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Channel V HD
+http://localhost:9991/htv?channel-v-hd-346E61
+#EXTINF:-1 tvg-id="Đà Nẵng" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Đà Nẵng
+http://localhost:9991/htv?da-nang-2-3134386E61
+#EXTINF:-1 tvg-id="Đắc Lắc" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Đắc Lắc
+http://localhost:9991/htv?dac-lac--drt-36386E61
+#EXTINF:-1 tvg-id="Đắc Nông" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Đắc Nông
+http://localhost:9991/htv?dac-nong--ptd-36396E61
+#EXTINF:-1 tvg-id="Đồng Tháp" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Đồng Tháp
+http://localhost:9991/htv?dong-thap--thdt-36306E61
+#EXTINF:-1 tvg-id="FBNC" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] FBNC
+http://localhost:9991/htv?fbnc-34306E61
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] FOX Sports 2 HD
+http://localhost:9991/htv?fox-sports-2-hd-3132346E61
+#EXTINF:-1 tvg-id="FOX Sports HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] FOX Sports HD
+http://localhost:9991/htv?fox-sports-plus-3134346E61
+#EXTINF:-1 tvg-id="HTV1" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV1
+http://localhost:9991/htv?htv1-32326E61
+#EXTINF:-1 tvg-id="HTV2 HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV2 HD
+http://localhost:9991/htv?htv2-31336E61
+#EXTINF:-1 tvg-id="HTV2" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV2
+http://localhost:9991/htv?htv2-3132326E61
+#EXTINF:-1 tvg-id="HTV3" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV3
+http://localhost:9991/htv?htv3-34396E61
+#EXTINF:-1 tvg-id="HTV4" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV4
+http://localhost:9991/htv?htv4-35306E61
+#EXTINF:-1 tvg-id="HTV7 HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV7 HD
+http://localhost:9991/htv?htv7-34336E61
+#EXTINF:-1 tvg-id="HTV9 HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV9 HD
+http://localhost:9991/htv?htv9-37356E61
+#EXTINF:-1 tvg-id="HTVC Ca Nhạc" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTVC Ca Nhạc
+http://localhost:9991/htv?htvc-ca-nhac-34376E61
+#EXTINF:-1 tvg-id="HTVC Du Lịch" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTVC Du Lịch
+http://localhost:9991/htv?htvc-du-lich-33396E61
+#EXTINF:-1 tvg-id="HTVC Gia Đình" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTVC Gia Đình
+http://localhost:9991/htv?htvc-gia-dinh-34356E61
+#EXTINF:-1 tvg-id="HTVC+" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTVC+
+http://localhost:9991/htv?htvc-plus-htvc-35316E61
+#EXTINF:-1 tvg-id="HTVC Phim HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTVC Phim HD
+http://localhost:9991/htv?htvc-phim-hd-35326E61
+#EXTINF:-1 tvg-id="HTVC Phim" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTVC Phim
+http://localhost:9991/htv?htvc-phim-3131306E61
+#EXTINF:-1 tvg-id="HTVC Phụ nữ" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTVC Phụ nữ
+http://localhost:9991/htv?htvc-phu-nu-35356E61
+#EXTINF:-1 tvg-id="HTVC Shopping" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTVC Shopping
+http://localhost:9991/htv?htvc-shopping-34366E61
+#EXTINF:-1 tvg-id="HTV Thể Thao HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV Thể Thao HD
+http://localhost:9991/htv?the-thao-tv-hd-3133336E61
+#EXTINF:-1 tvg-id="HTV Thể Thao" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] HTV Thể Thao
+http://localhost:9991/htv?htv-the-thao-34386E61
+#EXTINF:-1 tvg-id="Hà Tĩnh" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Hà Tĩnh
+http://localhost:9991/htv?ha-tinh-3134396E61
+#EXTINF:-1 tvg-id="Hải Dương" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Hải Dương
+http://localhost:9991/htv?haiduong-3133316E61
+#EXTINF:-1 tvg-id="Hậu Giang" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Hậu Giang
+http://localhost:9991/htv?hau-giang-3134376E61
+#EXTINF:-1 tvg-id="Khánh Hòa" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Khánh Hòa
+http://localhost:9991/htv?khanh-hoa-ktv-3130346E61
+#EXTINF:-1 tvg-id="Kiên Giang" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Kiên Giang
+http://localhost:9991/htv?kien-giang-3134366E61
+#EXTINF:-1 tvg-id="Lạng Sơn" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Lạng Sơn
+http://localhost:9991/htv?lang-son--lstv-38396E61
+#EXTINF:-1 tvg-id="Lào cai" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Lào cai
+http://localhost:9991/htv?lao-cai--thlc-37306E61
+#EXTINF:-1 tvg-id="Long An" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Long An
+http://localhost:9991/htv?long-an-la34-35346E61
+#EXTINF:-1 tvg-id="MTV" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] MTV
+http://localhost:9991/htv?mtv-31346E61
+#EXTINF:-1 tvg-id="Nam Định" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Nam Định
+http://localhost:9991/htv?nam-dinh-ntv-3130386E61
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] National Geographic HD
+http://localhost:9991/htv?national-geographic-3132366E61
+#EXTINF:-1 tvg-id="Ninh Bình" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Ninh Bình
+http://localhost:9991/htv?ninhbinh-3134326E61
+#EXTINF:-1 tvg-id="Quảng Nam" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Quảng Nam
+http://localhost:9991/htv?quang-nam-qrt-3130356E61
+#EXTINF:-1 tvg-id="Sóc Trăng" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Sóc Trăng
+http://localhost:9991/htv?soc-trang-stv-35386E61
+#EXTINF:-1 tvg-id="Star Movies HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Star Movies HD
+http://localhost:9991/htv?star-movie-hd-3132376E61
+#EXTINF:-1 tvg-id="StarWorld HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] StarWorld HD
+http://localhost:9991/htv?star-world-hd-3132386E61
+#EXTINF:-1 tvg-id="THVL1" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] THVL1
+http://localhost:9991/htv?thvl1-vi%CC%83nh-long-36326E61
+#EXTINF:-1 tvg-id="Thừa Thiên Huế" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Thừa Thiên Huế
+http://localhost:9991/htv?hue--trt-36346E61
+#EXTINF:-1 tvg-id="Tây Ninh" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Tây Ninh
+http://localhost:9991/htv?tayninh-3134316E61
+#EXTINF:-1 tvg-id="Thái Nguyên" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Thái Nguyên
+http://localhost:9991/htv?thainguyen-3134356E61
+#EXTINF:-1 tvg-id="The thao TV HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] The thao TV HD
+http://localhost:9991/htv?the-thao-tv-hd-3133336E61
+#EXTINF:-1 tvg-id="Thuần Việt HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Thuần Việt HD
+http://localhost:9991/htv?thuan-viet-hd-39326E61
+#EXTINF:-1 tvg-id="Thuần Việt" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Thuần Việt
+http://localhost:9991/htv?thuan-viet-3130396E61
+#EXTINF:-1 tvg-id="Trà Vinh" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Trà Vinh
+http://localhost:9991/htv?tra-vinh-36316E61
+#EXTINF:-1 tvg-id="VTC10" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTC10
+http://localhost:9991/htv?vtc10-3131386E61
+#EXTINF:-1 tvg-id="VTC3 HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTC3 HD
+http://localhost:9991/htv?vtc3-hd-3133376E61
+#EXTINF:-1 tvg-id="VTC4" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTC4
+http://localhost:9991/htv?vtc4-3131366E61
+#EXTINF:-1 tvg-id="VTC6" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTC6
+http://localhost:9991/htv?vtc6-3131376E61
+#EXTINF:-1 tvg-id="VTC7" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTC7
+http://localhost:9991/htv?vtc7--today-tv-3131316E61
+#EXTINF:-1 tvg-id="VTC9" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTC9
+http://localhost:9991/htv?vtc9-(lets-viet)-3131326E61
+#EXTINF:-1 tvg-id="VTV1" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTV1
+http://localhost:9991/htv?vtv1-32316E61
+#EXTINF:-1 tvg-id="VTV2" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTV2
+http://localhost:9991/htv?vtv2-37326E61
+#EXTINF:-1 tvg-id="VTV3 HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTV3 HD
+http://localhost:9991/htv?vtv3-hd-3133356E61
+#EXTINF:-1 tvg-id="VTV3" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTV3
+http://localhost:9991/htv?vtv3-32306E61
+#EXTINF:-1 tvg-id="VTV6 HD" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTV6 HD
+http://localhost:9991/htv?vtv6-hd-3133366E61
+#EXTINF:-1 tvg-id="VTV9" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] VTV9
+http://localhost:9991/htv?vtv9-37346E61
+#EXTINF:-1 tvg-id="Vietnamnet" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Vietnamnet
+http://localhost:9991/htv?vietnamnet-3133386E61
+#EXTINF:-1 tvg-id="Vĩnh Phúc" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Vĩnh Phúc
+http://localhost:9991/htv?vinh-phuc-vp-37316E61
+#EXTINF:-1 tvg-id="Yeah1 TV" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] Yeah1 TV
+http://localhost:9991/htv?yeah1-3133396E61
+#EXTINF:-1 tvg-id="You TV" group-title="HTV", [COLOR green][B]HTV[/B][/COLOR] You TV
+http://localhost:9991/htv?youtv-3134336E61
+#EXTINF:-1  tvg-id="VTV1 HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV1 HD
+http://localhost:9991/fpt?vtv1-hd
+#EXTINF:-1  tvg-id="VTV3" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV3
+http://localhost:9991/fpt?vtv3
+#EXTINF:-1  tvg-id="VTV6 HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV6 HD
+http://localhost:9991/fpt?vtv6-hd
+#EXTINF:-1  tvg-id="VTC7" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC7
+http://localhost:9991/fpt?vtc7
+#EXTINF:-1  tvg-id="Let's Viet" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Let's Viet
+http://localhost:9991/fpt?lets-viet
+#EXTINF:-1  tvg-id="HTV2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV2
+http://localhost:9991/fpt?htv2
+#EXTINF:-1  tvg-id="HTV7" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV7
+http://localhost:9991/fpt?htv7
+#EXTINF:-1  tvg-id="Vĩnh Long 1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Vĩnh Long 1
+http://localhost:9991/fpt?vinh-long-1
+#EXTINF:-1  tvg-id="imovie" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] imovie
+http://localhost:9991/fpt?imovie
+#EXTINF:-1  tvg-id="LoL Event" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] LoL Event
+http://localhost:9991/fpt?lol-event
+#EXTINF:-1  tvg-id="VTC3" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC3
+http://localhost:9991/fpt?vtc3
+#EXTINF:-1  tvg-id="HTVC Thể thao" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Thể thao
+http://localhost:9991/fpt?htvc-the-thao
+#EXTINF:-1  tvg-id="SportTV1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] SportTV1
+http://localhost:9991/fpt?sporttv1
+#EXTINF:-1  tvg-id="SportTV2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] SportTV2
+http://localhost:9991/fpt?sporttv2
+#EXTINF:-1  tvg-id="Golf Channel" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Golf Channel
+http://localhost:9991/fpt?golf-channel
+#EXTINF:-1  tvg-id="Tennis 1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Tennis 1
+http://localhost:9991/fpt?tennis-1
+#EXTINF:-1  tvg-id="HTVC Thuần Việt HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Thuần Việt HD
+http://localhost:9991/fpt?htvc-thuan-viet-hd
+#EXTINF:-1  tvg-id="HTV3" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV3
+http://localhost:9991/fpt?htv3
+#EXTINF:-1  tvg-id="HTVC Movie HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Movie HD
+http://localhost:9991/fpt?htvc-movie-hd
+#EXTINF:-1  tvg-id="Vĩnh Long 2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Vĩnh Long 2
+http://localhost:9991/fpt?vinh-long-2
+#EXTINF:-1  tvg-id="VTC2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC2
+http://localhost:9991/fpt?vtc2
+#EXTINF:-1  tvg-id="VTC5" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC5
+http://localhost:9991/fpt?vtc5
+#EXTINF:-1  tvg-id="VTC6" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC6
+http://localhost:9991/fpt?vtc6
+#EXTINF:-1  tvg-id="Cần Thơ" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Cần Thơ
+http://localhost:9991/fpt?can-tho
+#EXTINF:-1  tvg-id="Phim Hay" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Phim Hay
+http://localhost:9991/fpt?phim-hay
+#EXTINF:-1  tvg-id="SAM" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] SAM
+http://localhost:9991/fpt?sam
+#EXTINF:-1  tvg-id="VTV2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV2
+http://localhost:9991/fpt?vtv2
+#EXTINF:-1  tvg-id="VTV4" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV4
+http://localhost:9991/fpt?vtv4
+#EXTINF:-1  tvg-id="VTV9" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV9
+http://localhost:9991/fpt?vtv9
+#EXTINF:-1  tvg-id="HTVC+ HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC+ HD
+http://localhost:9991/fpt?htvc-hd
+#EXTINF:-1  tvg-id="HTVC Gia Đình" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Gia Đình
+http://localhost:9991/fpt?htvc-gia-dinh
+#EXTINF:-1  tvg-id="VTC HD3" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC HD3
+http://localhost:9991/fpt?vtc-hd3
+#EXTINF:-1  tvg-id="ITV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] ITV
+http://localhost:9991/fpt?itv
+#EXTINF:-1  tvg-id="Vietteen" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Vietteen
+http://localhost:9991/fpt?vietteen
+#EXTINF:-1  tvg-id="OneTV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] OneTV
+http://localhost:9991/fpt?onetv
+#EXTINF:-1  tvg-id="Channel V" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Channel V
+http://localhost:9991/fpt?channel-v
+#EXTINF:-1  tvg-id="VTC1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC1
+http://localhost:9991/fpt?vtc1
+#EXTINF:-1  tvg-id="VOVTV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VOVTV
+http://localhost:9991/fpt?vovtv
+#EXTINF:-1  tvg-id="FBNC" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] FBNC
+http://localhost:9991/fpt?fbnc
+#EXTINF:-1  tvg-id="CNN" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] CNN
+http://localhost:9991/fpt?cnn
+#EXTINF:-1  tvg-id="VietNamNet" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VietNamNet
+http://localhost:9991/fpt?vietnamnet
+#EXTINF:-1  tvg-id="ANTV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] ANTV
+http://localhost:9991/fpt?antv
+#EXTINF:-1  tvg-id="Quốc Phòng VN" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Quốc Phòng VN
+http://localhost:9991/fpt?quoc-phong-vn
+#EXTINF:-1  tvg-id="TTXVN (VNEWS)" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] TTXVN (VNEWS)
+http://localhost:9991/fpt?vnews
+#EXTINF:-1  tvg-id="VOV Giao Thông" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VOV Giao Thông
+http://localhost:9991/fpt?vov-giao-thong
+#EXTINF:-1  tvg-id="DW" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] DW
+http://localhost:9991/fpt?dw
+#EXTINF:-1  tvg-id="VTC10" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC10
+http://localhost:9991/fpt?vtc10
+#EXTINF:-1  tvg-id="VTC14" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC14
+http://localhost:9991/fpt?vtc14
+#EXTINF:-1  tvg-id="VTC16" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC16
+http://localhost:9991/fpt?vtc16
+#EXTINF:-1  tvg-id="HTV4" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV4
+http://localhost:9991/fpt?htv4
+#EXTINF:-1  tvg-id="Miền Tây" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Miền Tây
+http://localhost:9991/fpt?mien-tay
+#EXTINF:-1  tvg-id="Quoc-Hoi-HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Quoc-Hoi-HD
+http://localhost:9991/fpt?quoc-hoi-hd
+#EXTINF:-1  tvg-id="XoneFM" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] XoneFM
+http://localhost:9991/fpt?xonefm
+#EXTINF:-1  tvg-id="HTV1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV1
+http://localhost:9991/fpt?htv1
+#EXTINF:-1  tvg-id="HTV9 HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV9 HD
+http://localhost:9991/fpt?htv9-hd
+#EXTINF:-1  tvg-id="HTVC Shopping" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Shopping
+http://localhost:9991/fpt?htvc-shopping
+#EXTINF:-1  tvg-id="HTVC Phụ Nữ" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Phụ Nữ
+http://localhost:9991/fpt?htvc-phu-nu
+#EXTINF:-1  tvg-id="HTVC Du Lịch" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Du Lịch
+http://localhost:9991/fpt?htvc-du-lich
+#EXTINF:-1  tvg-id="HaNoiTV 1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HaNoiTV 1
+http://localhost:9991/fpt?hanoitv-1
+#EXTINF:-1  tvg-id="HaNoiTV 2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HaNoiTV 2
+http://localhost:9991/fpt?hanoitv-2
+#EXTINF:-1  tvg-id="Thái Bình" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Thái Bình
+http://localhost:9991/fpt?thai-binh
+#EXTINF:-1  tvg-id="Bình Dương 1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Bình Dương 1
+http://localhost:9991/fpt?binh-duong-1
+#EXTINF:-1  tvg-id="Bình Dương 2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Bình Dương 2
+http://localhost:9991/fpt?binh-duong-2
+#EXTINF:-1  tvg-id="Bình Dương 4" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Bình Dương 4
+http://localhost:9991/fpt?binh-duong-4
+#EXTINF:-1  tvg-id="VTV Đà Nẵng" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV Đà Nẵng
+http://localhost:9991/fpt?vtv-da-nang
+#EXTINF:-1  tvg-id="CVTV1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] CVTV1
+http://localhost:9991/fpt?cvtv1
+#EXTINF:-1  tvg-id="Tiền Giang" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Tiền Giang
+http://localhost:9991/fpt?tien-giang
+#EXTINF:-1  tvg-id="An Giang" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] An Giang
+http://localhost:9991/fpt?an-giang
+#EXTINF:-1  tvg-id="Đồng Nai 1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Đồng Nai 1
+http://localhost:9991/fpt?dong-nai-1
+#EXTINF:-1  tvg-id="Đồng Nai 2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Đồng Nai 2
+http://localhost:9991/fpt?dong-nai-2
+#EXTINF:-1  tvg-id="Đà Nẵng 1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Đà Nẵng 1
+http://localhost:9991/fpt?da-nang-1
+#EXTINF:-1  tvg-id="Đà Nẵng 2" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Đà Nẵng 2
+http://localhost:9991/fpt?da-nang-2
+#EXTINF:-1  tvg-id="Hải Phòng" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Hải Phòng
+http://localhost:9991/fpt?hai-phong
+#EXTINF:-1  tvg-id="Hòa Bình" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Hòa Bình
+http://localhost:9991/fpt?hoa-binh
+#EXTINF:-1  tvg-id="Tuyên Quang" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Tuyên Quang
+http://localhost:9991/fpt?tuyen-quang
+#EXTINF:-1  tvg-id="Quảng Ninh 1" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Quảng Ninh 1
+http://localhost:9991/fpt?quang-ninh-1
+#EXTINF:-1  tvg-id="Quảng Ninh 3" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Quảng Ninh 3
+http://localhost:9991/fpt?quang-ninh-3
+#EXTINF:-1  tvg-id="Nghệ An" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Nghệ An
+http://localhost:9991/fpt?nghe-an
+#EXTINF:-1  tvg-id="Bà Rịa-Vũng Tàu" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Bà Rịa-Vũng Tàu
+http://localhost:9991/fpt?ba-ria-vung-tau
+#EXTINF:-1  tvg-id="Ninh Bình" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Ninh Bình
+http://localhost:9991/fpt?ninh-binh
+#EXTINF:-1  tvg-id="Khánh Hòa" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Khánh Hòa
+http://localhost:9991/fpt?khanh-hoa
+#EXTINF:-1  tvg-id="Thanh Hóa" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Thanh Hóa
+http://localhost:9991/fpt?thanh-hoa
+#EXTINF:-1  tvg-id="NCM" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] NCM
+http://localhost:9991/fpt?ncm
+#EXTINF:-1  tvg-id="Bình Định" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Bình Định
+http://localhost:9991/fpt?binh-dinh
+#EXTINF:-1  tvg-id="HTVC Thuần Việt" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Thuần Việt
+http://localhost:9991/fpt?htvc-thuan-viet
+#EXTINF:-1  tvg-id="HTVC Movie" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Movie
+http://localhost:9991/fpt?htvc-movie
+#EXTINF:-1  tvg-id="Gia Lai" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Gia Lai
+http://localhost:9991/fpt?gia-lai
+#EXTINF:-1 tvg-id="Bong da TV HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Bong da TV HD
+http://localhost:9991/fpt?bongdatvhd
+#EXTINF:-1 tvg-id="The thao TV HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] The thao TV HD
+http://localhost:9991/fpt?thethaotvhd
+#EXTINF:-1 tvg-id="VTVcab 1 - Giai Tri TV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 1 - Giai Tri TV
+http://localhost:9991/fpt?giaitri
+#EXTINF:-1 tvg-id="VTVcab 2 - Phim Viet" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 2 - Phim Viet
+http://localhost:9991/fpt?phimviet
+#EXTINF:-1 tvg-id="VTVcab 3 - The Thao TV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 3 - The Thao TV
+http://localhost:9991/fpt?thethaotvsd
+#EXTINF:-1 tvg-id="VTVcab 4" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 4
+http://localhost:9991/fpt?kenh17
+#EXTINF:-1 tvg-id="VTVcab 5 - E Channel" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 5 - E Channel
+http://localhost:9991/fpt?echanel
+#EXTINF:-1 tvg-id="VTVcab 6 - Hay TV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 6 - Hay TV
+http://localhost:9991/fpt?haytv
+#EXTINF:-1 tvg-id="VTVcab 7 - D Drama" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 7 - D Drama
+http://localhost:9991/fpt?ddramas
+#EXTINF:-1 tvg-id="VTVcab 8 - BiBi" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 8 - BiBi
+http://localhost:9991/fpt?bibi
+#EXTINF:-1 tvg-id="VTVcab 10 - O2TV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 10 - O2TV
+http://localhost:9991/fpt?o2tv
+#EXTINF:-1 tvg-id="VTVcab 12 - Style TV HD" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 12 - Style TV HD
+http://localhost:9991/fpt?styletv
+#EXTINF:-1 tvg-id="VTVcab 15 - Invest TV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 15 - Invest TV
+http://localhost:9991/fpt?investtv
+#EXTINF:-1 tvg-id="VTVcab 16 - Bong Da TV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 16 - Bong Da TV
+http://localhost:9991/fpt?bongdatvsd
+#EXTINF:-1 tvg-id="Info TV" group-title="FPT Play", [COLOR yellow][B]FPT Play[/B][/COLOR] Info TV
+http://localhost:9991/fpt?infotv
+#EXTINF:-1 tvg-id="SKY Sports 1" group-title="Sport", SKY Sports 1 [COLOR green]P2P[/COLOR]
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F10351.acelive&mode=1
+#EXTINF:-1 tvg-id="SKY Sports 2" group-title="Sport", SKY Sports 2 [COLOR green]P2P[/COLOR]
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F12738.acelive&mode=1
+#EXTINF:-1 tvg-id="SKY Sports 3" group-title="Sport", SKY Sports 3 [COLOR green]P2P[/COLOR]
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F6909.acelive&mode=1
+#EXTINF:-1 tvg-id="SKY Sports 4" group-title="Sport", SKY Sports 4 [COLOR green]P2P[/COLOR]
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F12739.acelive&mode=1
+#EXTINF:-1 tvg-id="SKY Sports 5" group-title="Sport", SKY Sports 5 [COLOR green]P2P[/COLOR]
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F10285.acelive&mode=1
+#EXTINF:-1 group-title="Sport", BT Sport 1
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F10634.acelive&mode=1
+#EXTINF:-1 group-title="Sport", BT Sport 2
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F9220.acelive&mode=1
+#EXTINF:-1 group-title="Sport", BT Sport-ESPN
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F13090.acelive&mode=1
+#EXTINF:-1 group-title="Sport", Canal+ Sport France
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F10923.acelive&mode=1
+#EXTINF:-1 group-title="Sport", Canal+ Futbol
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F13113.acelive&mode=1
+#EXTINF:-1 group-title="Sport", Canal+ Liga
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F9387.acelive&mode=1
+#EXTINF:-1 tvg-id="NBC Sports Network HD" group-title="Sport", NBC Sports Network HD [COLOR green]P2P[/COLOR]
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F13141.acelive&mode=1
+#EXTINF:-1 group-title="Sport", NTV+ Football 1 HD Russia
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F625_reg.acelive&mode=1
+#EXTINF:-1 group-title="Sport", NTV+ Football 2 HD Russia
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F611_reg.acelive&mode=1
+#EXTINF:-1 group-title="Sport", NTV+ Football 3 HD Russia
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F646_reg.acelive&mode=1
+#EXTINF:-1 group-title="Sport", Football 1 HD Russia
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F9079.acelive&mode=1
+#EXTINF:-1 group-title="Sport", Football 2 HD Russia
+http://localhost:9996/p2p.m3u?url=http%3A%2F%2Fsuper-pomoyka.us.to%2Ftrash%2Fttv-list%2Facelive%2F9251.acelive&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 1" group-title="P2P", ArenaVision 1 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2F71637efae2cb4b507eafe2231e8e2bdd4e496162&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 2" group-title="P2P", ArenaVision 2 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2F2f6f4aa003352a769cf744f6fa0e4d051f057d2d&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 3" group-title="P2P", ArenaVision 3 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2Fa61d91a7640949433730faa741a295039795e1ac&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 4" group-title="P2P", ArenaVision 4 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2F5b8ca8786ea8ffcfdb8d55a1d47a5954a63d993f&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 5" group-title="P2P", ArenaVision 5 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2F1e5512f36bff55dcf48556c86cbd8bb79d576963&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 6" group-title="P2P", ArenaVision 6 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2Fa649e982c6b91bc783b3779ffd03ad6a3be7c696&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 7" group-title="P2P", ArenaVision 7 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2Fdfa9587a7ee1e082974dc0a26d195f7bb8f984bb&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 8" group-title="P2P", ArenaVision 8 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2Fda6c4c06c9778bbfd847a7f01bd8373767cf9975&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 9" group-title="P2P", ArenaVision 9 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2F09530b15d23cfd6fb5ce51dcc99d2c875bd8306c&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 10" group-title="P2P", ArenaVision 10 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2Fe90df55477a2239a37ed9c2d8e8afa56365d96d2&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 11" group-title="P2P", ArenaVision 11 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2F19eb079bc2d473a66ef84ded5a70ef7d5cb0eaba&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 12" group-title="P2P", ArenaVision 12 [COLOR green]Acestream[/COLOR]
+http://localhost:9996/p2p.m3u?url=acestream%3A%2F%2Fcb59e24a34198f107defad6b31ab57e83c547783&mode=1
+#EXTINF:-1 tvg-id="ArenaVision 13" group-title="P2P", ArenaVision 13 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258920&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 14" group-title="P2P", ArenaVision 14 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258921&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 15" group-title="P2P", ArenaVision 15 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258922&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 16" group-title="P2P", ArenaVision 16 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258923&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 17" group-title="P2P", ArenaVision 17 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258924&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 18" group-title="P2P", ArenaVision 18 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258925&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 19" group-title="P2P", ArenaVision 19 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258926&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 20" group-title="P2P", ArenaVision 20 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258927&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 21" group-title="P2P", ArenaVision 21 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258928&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 22" group-title="P2P", ArenaVision 22 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258929&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 23" group-title="P2P", ArenaVision 23 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258930&mode=2
+#EXTINF:-1 tvg-id="ArenaVision 24" group-title="P2P", ArenaVision 24 [COLOR orange]Sopcast[/COLOR]
+http://localhost:9996/p2p.m3u?url=sop%3A%2F%2Fbroker.sopcast.com%3A3912%2F258931&mode=2
