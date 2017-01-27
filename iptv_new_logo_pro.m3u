@@ -65,8 +65,23 @@ http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBCSN HD (streamer)
 http://127.0.0.1:19098/mpegts2Proxy/http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Ddell
 
+
+
+
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", Fox Sports 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/329.ts%7CUser-Agent%3Ddell
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", Fox Sports 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/328.ts%7CUser-Agent%3Ddell
+
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBCSN HD (TF4 Proxy)
 http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Ddell
+
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", Offical Olympic Channel FHD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/318.ts%7CUser-Agent%3Ddell
+
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NFL Network HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/154.ts%7CUser-Agent%3Ddell
+
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png",NBC HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM1L3AycC8zYmFmN2RiMGQ4ZjFkNDAwODE2ZmI2MTY2YjI5N2Y0Ni5tM3U4P3N0PW0xWUtEaE1Mc2E3Ym5tU3d6YWlTR1EmZT0xNDg2MTAxNjM4fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
