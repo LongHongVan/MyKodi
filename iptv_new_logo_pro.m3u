@@ -3,6 +3,162 @@
 #EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
 http://google.com
 
+
+### "HTV VNIPTVTEST" ######
+
+#EXTINF:-1 tvg-id="BTV1" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] BTV1
+http://localhost:9991/htv?binh-duong-1-3130326E61
+#EXTINF:-1 tvg-id="Bắc Giang" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Bắc Giang
+http://localhost:9991/htv?bac-giang--bgtv-36366E61
+#EXTINF:-1 tvg-id="Bạc Liêu" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Bạc Liêu
+http://localhost:9991/htv?bac-lieu-3132316E61
+#EXTINF:-1 tvg-id="Bình Định" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Bình Định
+http://localhost:9991/htv?binh-dinh--btv-33356E61
+#EXTINF:-1 tvg-id="Bình Phước 1" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Bình Phước 1
+http://localhost:9991/htv?binh-phuoc-bptv1-33346E61
+#EXTINF:-1 tvg-id="Bong da TV HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Bong da TV HD
+http://localhost:9991/htv?bong-da-tv-hd-3133346E61
+#EXTINF:-1 tvg-id="Cà mau" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Cà mau
+http://localhost:9991/htv?ca-mau--ctv-36376E61
+#EXTINF:-1 tvg-id="Cần Thơ" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Cần Thơ
+http://localhost:9991/htv?can-tho-thtpct-3130336E61
+#EXTINF:-1 tvg-id="Channel V HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Channel V HD
+http://localhost:9991/htv?channel-v-hd-346E61
+#EXTINF:-1 tvg-id="Đà Nẵng" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Đà Nẵng
+http://localhost:9991/htv?da-nang-2-3134386E61
+#EXTINF:-1 tvg-id="Đắc Lắc" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Đắc Lắc
+http://localhost:9991/htv?dac-lac--drt-36386E61
+#EXTINF:-1 tvg-id="Đắc Nông" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Đắc Nông
+http://localhost:9991/htv?dac-nong--ptd-36396E61
+#EXTINF:-1 tvg-id="Đồng Tháp" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Đồng Tháp
+http://localhost:9991/htv?dong-thap--thdt-36306E61
+#EXTINF:-1 tvg-id="FBNC" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] FBNC
+http://localhost:9991/htv?fbnc-34306E61
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] FOX Sports 2 HD
+http://localhost:9991/htv?fox-sports-2-hd-3132346E61
+#EXTINF:-1 tvg-id="FOX Sports HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] FOX Sports HD
+http://localhost:9991/htv?fox-sports-plus-3134346E61
+#EXTINF:-1 tvg-id="HTV1" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV1
+http://localhost:9991/htv?htv1-32326E61
+#EXTINF:-1 tvg-id="HTV2 HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV2 HD
+http://localhost:9991/htv?htv2-31336E61
+#EXTINF:-1 tvg-id="HTV2" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV2
+http://localhost:9991/htv?htv2-3132326E61
+#EXTINF:-1 tvg-id="HTV3" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV3
+http://localhost:9991/htv?htv3-34396E61
+#EXTINF:-1 tvg-id="HTV4" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV4
+http://localhost:9991/htv?htv4-35306E61
+#EXTINF:-1 tvg-id="HTV7 HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV7 HD
+http://localhost:9991/htv?htv7-34336E61
+#EXTINF:-1 tvg-id="HTV9 HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV9 HD
+http://localhost:9991/htv?htv9-37356E61
+#EXTINF:-1 tvg-id="HTVC Ca Nhạc" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTVC Ca Nhạc
+http://localhost:9991/htv?htvc-ca-nhac-34376E61
+#EXTINF:-1 tvg-id="HTVC Du Lịch" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTVC Du Lịch
+http://localhost:9991/htv?htvc-du-lich-33396E61
+#EXTINF:-1 tvg-id="HTVC Gia Đình" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTVC Gia Đình
+http://localhost:9991/htv?htvc-gia-dinh-34356E61
+#EXTINF:-1 tvg-id="HTVC+" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTVC+
+http://localhost:9991/htv?htvc-plus-htvc-35316E61
+#EXTINF:-1 tvg-id="HTVC Phim HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTVC Phim HD
+http://localhost:9991/htv?htvc-phim-hd-35326E61
+#EXTINF:-1 tvg-id="HTVC Phim" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTVC Phim
+http://localhost:9991/htv?htvc-phim-3131306E61
+#EXTINF:-1 tvg-id="HTVC Phụ nữ" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTVC Phụ nữ
+http://localhost:9991/htv?htvc-phu-nu-35356E61
+#EXTINF:-1 tvg-id="HTVC Shopping" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTVC Shopping
+http://localhost:9991/htv?htvc-shopping-34366E61
+#EXTINF:-1 tvg-id="HTV Thể Thao HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV Thể Thao HD
+http://localhost:9991/htv?the-thao-tv-hd-3133336E61
+#EXTINF:-1 tvg-id="HTV Thể Thao" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] HTV Thể Thao
+http://localhost:9991/htv?htv-the-thao-34386E61
+#EXTINF:-1 tvg-id="Hà Tĩnh" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Hà Tĩnh
+http://localhost:9991/htv?ha-tinh-3134396E61
+#EXTINF:-1 tvg-id="Hải Dương" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Hải Dương
+http://localhost:9991/htv?haiduong-3133316E61
+#EXTINF:-1 tvg-id="Hậu Giang" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Hậu Giang
+http://localhost:9991/htv?hau-giang-3134376E61
+#EXTINF:-1 tvg-id="Khánh Hòa" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Khánh Hòa
+http://localhost:9991/htv?khanh-hoa-ktv-3130346E61
+#EXTINF:-1 tvg-id="Kiên Giang" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Kiên Giang
+http://localhost:9991/htv?kien-giang-3134366E61
+#EXTINF:-1 tvg-id="Lạng Sơn" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Lạng Sơn
+http://localhost:9991/htv?lang-son--lstv-38396E61
+#EXTINF:-1 tvg-id="Lào cai" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Lào cai
+http://localhost:9991/htv?lao-cai--thlc-37306E61
+#EXTINF:-1 tvg-id="Long An" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Long An
+http://localhost:9991/htv?long-an-la34-35346E61
+#EXTINF:-1 tvg-id="MTV" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] MTV
+http://localhost:9991/htv?mtv-31346E61
+#EXTINF:-1 tvg-id="Nam Định" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Nam Định
+http://localhost:9991/htv?nam-dinh-ntv-3130386E61
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] National Geographic HD
+http://localhost:9991/htv?national-geographic-3132366E61
+#EXTINF:-1 tvg-id="Ninh Bình" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Ninh Bình
+http://localhost:9991/htv?ninhbinh-3134326E61
+#EXTINF:-1 tvg-id="Quảng Nam" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Quảng Nam
+http://localhost:9991/htv?quang-nam-qrt-3130356E61
+#EXTINF:-1 tvg-id="Sóc Trăng" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Sóc Trăng
+http://localhost:9991/htv?soc-trang-stv-35386E61
+#EXTINF:-1 tvg-id="Star Movies HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Star Movies HD
+http://localhost:9991/htv?star-movie-hd-3132376E61
+#EXTINF:-1 tvg-id="StarWorld HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] StarWorld HD
+http://localhost:9991/htv?star-world-hd-3132386E61
+#EXTINF:-1 tvg-id="THVL1" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] THVL1
+http://localhost:9991/htv?thvl1-vi%CC%83nh-long-36326E61
+#EXTINF:-1 tvg-id="Thừa Thiên Huế" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Thừa Thiên Huế
+http://localhost:9991/htv?hue--trt-36346E61
+#EXTINF:-1 tvg-id="Tây Ninh" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Tây Ninh
+http://localhost:9991/htv?tayninh-3134316E61
+#EXTINF:-1 tvg-id="Thái Nguyên" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Thái Nguyên
+http://localhost:9991/htv?thainguyen-3134356E61
+#EXTINF:-1 tvg-id="The thao TV HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] The thao TV HD
+http://localhost:9991/htv?the-thao-tv-hd-3133336E61
+#EXTINF:-1 tvg-id="Thuần Việt HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Thuần Việt HD
+http://localhost:9991/htv?thuan-viet-hd-39326E61
+#EXTINF:-1 tvg-id="Thuần Việt" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Thuần Việt
+http://localhost:9991/htv?thuan-viet-3130396E61
+#EXTINF:-1 tvg-id="Trà Vinh" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Trà Vinh
+http://localhost:9991/htv?tra-vinh-36316E61
+#EXTINF:-1 tvg-id="VTC10" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTC10
+http://localhost:9991/htv?vtc10-3131386E61
+#EXTINF:-1 tvg-id="VTC3 HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTC3 HD
+http://localhost:9991/htv?vtc3-hd-3133376E61
+#EXTINF:-1 tvg-id="VTC4" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTC4
+http://localhost:9991/htv?vtc4-3131366E61
+#EXTINF:-1 tvg-id="VTC6" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTC6
+http://localhost:9991/htv?vtc6-3131376E61
+#EXTINF:-1 tvg-id="VTC7" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTC7
+http://localhost:9991/htv?vtc7--today-tv-3131316E61
+#EXTINF:-1 tvg-id="VTC9" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTC9
+http://localhost:9991/htv?vtc9-(lets-viet)-3131326E61
+#EXTINF:-1 tvg-id="VTV1" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTV1
+http://localhost:9991/htv?vtv1-32316E61
+#EXTINF:-1 tvg-id="VTV2" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTV2
+http://localhost:9991/htv?vtv2-37326E61
+#EXTINF:-1 tvg-id="VTV3 HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTV3 HD
+http://localhost:9991/htv?vtv3-hd-3133356E61
+#EXTINF:-1 tvg-id="VTV3" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTV3
+http://localhost:9991/htv?vtv3-32306E61
+#EXTINF:-1 tvg-id="VTV6 HD" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTV6 HD
+http://localhost:9991/htv?vtv6-hd-3133366E61
+#EXTINF:-1 tvg-id="VTV9" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] VTV9
+http://localhost:9991/htv?vtv9-37346E61
+#EXTINF:-1 tvg-id="Vietnamnet" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Vietnamnet
+http://localhost:9991/htv?vietnamnet-3133386E61
+#EXTINF:-1 tvg-id="Vĩnh Phúc" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Vĩnh Phúc
+http://localhost:9991/htv?vinh-phuc-vp-37316E61
+#EXTINF:-1 tvg-id="Yeah1 TV" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] Yeah1 TV
+http://localhost:9991/htv?yeah1-3133396E61
+#EXTINF:-1 tvg-id="You TV" group-title="HTV VNIPTVTEST", [COLOR green][B]HTV[/B][/COLOR] You TV
+http://localhost:9991/htv?youtv-3134336E61
+
+
+### HTV VNIPTVTEST #########################################
+
+
+
+
 #### VTVGoVN Live Channels #####
 
 
