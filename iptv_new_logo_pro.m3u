@@ -165,8 +165,8 @@ http://localhost:9991/htv?youtv-3134336E61
 #EXTINF:-1  tvg-id="VTV1 HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV1 HD
 http://localhost:9991/fpt?vtv1-hd
 
-#EXTINF:-1  tvg-id="VTV1 HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV1 HD (Test Proxy vniptv)
-https://livecdn.fptplay.net/livek/vtv1hd_hls.smil/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE0ODU1NzA3ODQsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjYxYmZkOTgxOTk0NjhmZDFmOGJjODdiNDE4M2E1M2I3IiwgInZhbGlkX21pbnV0ZXMiOiAxNDg1NjU3MTg0LCAicm1pcCI6ICI3Ni4yMS4xMjQuMjM4In0=%7CUser-Agent%3DMozilla%2F5.0%20AppleWebKit%2F537.36
+#EXTINF:-1  tvg-id="VTV1 HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV1 HD (Test Proxy vniptv) 2
+https://livecdn.fptplay.net/livek/vtv1hd_hls.smil/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE0ODU1NzAwMDMsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjBlMzY0ZTdjODJjNmFiMjljMDQxYTBhZGVmN2EzNGJiIiwgInZhbGlkX21pbnV0ZXMiOiAxNDg1NjU2NDAzLCAicm1pcCI6ICI3Ni4yMS4xMjQuMjM4In0=|User-Agent=Mozilla/5.0 AppleWebKit/537.36
 
 #EXTINF:-1  tvg-id="VTV3" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV3
 http://localhost:9991/fpt?vtv3
