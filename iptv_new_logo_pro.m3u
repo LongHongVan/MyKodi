@@ -10,7 +10,7 @@ http://google.com
 
 #EXTINF:-1 group-title="VTV TVNet Live",  tvg-id="" tvg-name="" tvg-logo="", VTV1 HD
 http://127.0.0.1:19098/vntvnetproxy/vtv1
-#EXTINF:-1 group-title="VTV TVNetT Live",  tvg-id="" tvg-name="" tvg-logo="", VTV2 HD
+#EXTINF:-1 group-title="VTV TVNet Live",  tvg-id="" tvg-name="" tvg-logo="", VTV2 HD
 http://127.0.0.1:19098/vntvnetproxy/vtv2
 #EXTINF:-1 group-title="VTV TVNet Live",  tvg-id="" tvg-name="" tvg-logo="", VTV3 HD
 http://127.0.0.1:19098/vntvnetproxy/vtv3
