@@ -154,7 +154,218 @@ http://localhost:9991/htv?yeah1-3133396E61
 http://localhost:9991/htv?youtv-3134336E61
 
 
-### HTV VNIPTVTEST #########################################
+### End HTV VNIPTVTEST #########################################
+
+
+
+
+
+### FPT Play #########################################
+
+#EXTINF:-1  tvg-id="VTV1 HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV1 HD
+http://localhost:9991/fpt?vtv1-hd
+#EXTINF:-1  tvg-id="VTV3" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV3
+http://localhost:9991/fpt?vtv3
+#EXTINF:-1  tvg-id="VTV6 HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV6 HD
+http://localhost:9991/fpt?vtv6-hd
+#EXTINF:-1  tvg-id="VTC7" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC7
+http://localhost:9991/fpt?vtc7
+#EXTINF:-1  tvg-id="Let's Viet" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Let's Viet
+http://localhost:9991/fpt?lets-viet
+#EXTINF:-1  tvg-id="HTV2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV2
+http://localhost:9991/fpt?htv2
+#EXTINF:-1  tvg-id="HTV7" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV7
+http://localhost:9991/fpt?htv7
+#EXTINF:-1  tvg-id="Vĩnh Long 1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Vĩnh Long 1
+http://localhost:9991/fpt?vinh-long-1
+#EXTINF:-1  tvg-id="imovie" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] imovie
+http://localhost:9991/fpt?imovie
+#EXTINF:-1  tvg-id="LoL Event" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] LoL Event
+http://localhost:9991/fpt?lol-event
+#EXTINF:-1  tvg-id="VTC3" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC3
+http://localhost:9991/fpt?vtc3
+#EXTINF:-1  tvg-id="HTVC Thể thao" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Thể thao
+http://localhost:9991/fpt?htvc-the-thao
+#EXTINF:-1  tvg-id="SportTV1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] SportTV1
+http://localhost:9991/fpt?sporttv1
+#EXTINF:-1  tvg-id="SportTV2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] SportTV2
+http://localhost:9991/fpt?sporttv2
+#EXTINF:-1  tvg-id="Golf Channel" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Golf Channel
+http://localhost:9991/fpt?golf-channel
+#EXTINF:-1  tvg-id="Tennis 1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Tennis 1
+http://localhost:9991/fpt?tennis-1
+#EXTINF:-1  tvg-id="HTVC Thuần Việt HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Thuần Việt HD
+http://localhost:9991/fpt?htvc-thuan-viet-hd
+#EXTINF:-1  tvg-id="HTV3" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV3
+http://localhost:9991/fpt?htv3
+#EXTINF:-1  tvg-id="HTVC Movie HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Movie HD
+http://localhost:9991/fpt?htvc-movie-hd
+#EXTINF:-1  tvg-id="Vĩnh Long 2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Vĩnh Long 2
+http://localhost:9991/fpt?vinh-long-2
+#EXTINF:-1  tvg-id="VTC2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC2
+http://localhost:9991/fpt?vtc2
+#EXTINF:-1  tvg-id="VTC5" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC5
+http://localhost:9991/fpt?vtc5
+#EXTINF:-1  tvg-id="VTC6" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC6
+http://localhost:9991/fpt?vtc6
+#EXTINF:-1  tvg-id="Cần Thơ" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Cần Thơ
+http://localhost:9991/fpt?can-tho
+#EXTINF:-1  tvg-id="Phim Hay" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Phim Hay
+http://localhost:9991/fpt?phim-hay
+#EXTINF:-1  tvg-id="SAM" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] SAM
+http://localhost:9991/fpt?sam
+#EXTINF:-1  tvg-id="VTV2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV2
+http://localhost:9991/fpt?vtv2
+#EXTINF:-1  tvg-id="VTV4" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV4
+http://localhost:9991/fpt?vtv4
+#EXTINF:-1  tvg-id="VTV9" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV9
+http://localhost:9991/fpt?vtv9
+#EXTINF:-1  tvg-id="HTVC+ HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC+ HD
+http://localhost:9991/fpt?htvc-hd
+#EXTINF:-1  tvg-id="HTVC Gia Đình" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Gia Đình
+http://localhost:9991/fpt?htvc-gia-dinh
+#EXTINF:-1  tvg-id="VTC HD3" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC HD3
+http://localhost:9991/fpt?vtc-hd3
+#EXTINF:-1  tvg-id="ITV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] ITV
+http://localhost:9991/fpt?itv
+#EXTINF:-1  tvg-id="Vietteen" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Vietteen
+http://localhost:9991/fpt?vietteen
+#EXTINF:-1  tvg-id="OneTV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] OneTV
+http://localhost:9991/fpt?onetv
+#EXTINF:-1  tvg-id="Channel V" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Channel V
+http://localhost:9991/fpt?channel-v
+#EXTINF:-1  tvg-id="VTC1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC1
+http://localhost:9991/fpt?vtc1
+#EXTINF:-1  tvg-id="VOVTV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VOVTV
+http://localhost:9991/fpt?vovtv
+#EXTINF:-1  tvg-id="FBNC" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] FBNC
+http://localhost:9991/fpt?fbnc
+#EXTINF:-1  tvg-id="CNN" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] CNN
+http://localhost:9991/fpt?cnn
+#EXTINF:-1  tvg-id="VietNamNet" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VietNamNet
+http://localhost:9991/fpt?vietnamnet
+#EXTINF:-1  tvg-id="ANTV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] ANTV
+http://localhost:9991/fpt?antv
+#EXTINF:-1  tvg-id="Quốc Phòng VN" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Quốc Phòng VN
+http://localhost:9991/fpt?quoc-phong-vn
+#EXTINF:-1  tvg-id="TTXVN (VNEWS)" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] TTXVN (VNEWS)
+http://localhost:9991/fpt?vnews
+#EXTINF:-1  tvg-id="VOV Giao Thông" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VOV Giao Thông
+http://localhost:9991/fpt?vov-giao-thong
+#EXTINF:-1  tvg-id="DW" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] DW
+http://localhost:9991/fpt?dw
+#EXTINF:-1  tvg-id="VTC10" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC10
+http://localhost:9991/fpt?vtc10
+#EXTINF:-1  tvg-id="VTC14" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC14
+http://localhost:9991/fpt?vtc14
+#EXTINF:-1  tvg-id="VTC16" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTC16
+http://localhost:9991/fpt?vtc16
+#EXTINF:-1  tvg-id="HTV4" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV4
+http://localhost:9991/fpt?htv4
+#EXTINF:-1  tvg-id="Miền Tây" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Miền Tây
+http://localhost:9991/fpt?mien-tay
+#EXTINF:-1  tvg-id="Quoc-Hoi-HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Quoc-Hoi-HD
+http://localhost:9991/fpt?quoc-hoi-hd
+#EXTINF:-1  tvg-id="XoneFM" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] XoneFM
+http://localhost:9991/fpt?xonefm
+#EXTINF:-1  tvg-id="HTV1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV1
+http://localhost:9991/fpt?htv1
+#EXTINF:-1  tvg-id="HTV9 HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTV9 HD
+http://localhost:9991/fpt?htv9-hd
+#EXTINF:-1  tvg-id="HTVC Shopping" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Shopping
+http://localhost:9991/fpt?htvc-shopping
+#EXTINF:-1  tvg-id="HTVC Phụ Nữ" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Phụ Nữ
+http://localhost:9991/fpt?htvc-phu-nu
+#EXTINF:-1  tvg-id="HTVC Du Lịch" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Du Lịch
+http://localhost:9991/fpt?htvc-du-lich
+#EXTINF:-1  tvg-id="HaNoiTV 1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HaNoiTV 1
+http://localhost:9991/fpt?hanoitv-1
+#EXTINF:-1  tvg-id="HaNoiTV 2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HaNoiTV 2
+http://localhost:9991/fpt?hanoitv-2
+#EXTINF:-1  tvg-id="Thái Bình" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Thái Bình
+http://localhost:9991/fpt?thai-binh
+#EXTINF:-1  tvg-id="Bình Dương 1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Bình Dương 1
+http://localhost:9991/fpt?binh-duong-1
+#EXTINF:-1  tvg-id="Bình Dương 2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Bình Dương 2
+http://localhost:9991/fpt?binh-duong-2
+#EXTINF:-1  tvg-id="Bình Dương 4" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Bình Dương 4
+http://localhost:9991/fpt?binh-duong-4
+#EXTINF:-1  tvg-id="VTV Đà Nẵng" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTV Đà Nẵng
+http://localhost:9991/fpt?vtv-da-nang
+#EXTINF:-1  tvg-id="CVTV1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] CVTV1
+http://localhost:9991/fpt?cvtv1
+#EXTINF:-1  tvg-id="Tiền Giang" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Tiền Giang
+http://localhost:9991/fpt?tien-giang
+#EXTINF:-1  tvg-id="An Giang" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] An Giang
+http://localhost:9991/fpt?an-giang
+#EXTINF:-1  tvg-id="Đồng Nai 1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Đồng Nai 1
+http://localhost:9991/fpt?dong-nai-1
+#EXTINF:-1  tvg-id="Đồng Nai 2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Đồng Nai 2
+http://localhost:9991/fpt?dong-nai-2
+#EXTINF:-1  tvg-id="Đà Nẵng 1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Đà Nẵng 1
+http://localhost:9991/fpt?da-nang-1
+#EXTINF:-1  tvg-id="Đà Nẵng 2" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Đà Nẵng 2
+http://localhost:9991/fpt?da-nang-2
+#EXTINF:-1  tvg-id="Hải Phòng" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Hải Phòng
+http://localhost:9991/fpt?hai-phong
+#EXTINF:-1  tvg-id="Hòa Bình" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Hòa Bình
+http://localhost:9991/fpt?hoa-binh
+#EXTINF:-1  tvg-id="Tuyên Quang" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Tuyên Quang
+http://localhost:9991/fpt?tuyen-quang
+#EXTINF:-1  tvg-id="Quảng Ninh 1" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Quảng Ninh 1
+http://localhost:9991/fpt?quang-ninh-1
+#EXTINF:-1  tvg-id="Quảng Ninh 3" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Quảng Ninh 3
+http://localhost:9991/fpt?quang-ninh-3
+#EXTINF:-1  tvg-id="Nghệ An" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Nghệ An
+http://localhost:9991/fpt?nghe-an
+#EXTINF:-1  tvg-id="Bà Rịa-Vũng Tàu" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Bà Rịa-Vũng Tàu
+http://localhost:9991/fpt?ba-ria-vung-tau
+#EXTINF:-1  tvg-id="Ninh Bình" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Ninh Bình
+http://localhost:9991/fpt?ninh-binh
+#EXTINF:-1  tvg-id="Khánh Hòa" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Khánh Hòa
+http://localhost:9991/fpt?khanh-hoa
+#EXTINF:-1  tvg-id="Thanh Hóa" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Thanh Hóa
+http://localhost:9991/fpt?thanh-hoa
+#EXTINF:-1  tvg-id="NCM" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] NCM
+http://localhost:9991/fpt?ncm
+#EXTINF:-1  tvg-id="Bình Định" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Bình Định
+http://localhost:9991/fpt?binh-dinh
+#EXTINF:-1  tvg-id="HTVC Thuần Việt" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Thuần Việt
+http://localhost:9991/fpt?htvc-thuan-viet
+#EXTINF:-1  tvg-id="HTVC Movie" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] HTVC Movie
+http://localhost:9991/fpt?htvc-movie
+#EXTINF:-1  tvg-id="Gia Lai" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Gia Lai
+http://localhost:9991/fpt?gia-lai
+#EXTINF:-1 tvg-id="Bong da TV HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Bong da TV HD
+http://localhost:9991/fpt?bongdatvhd
+#EXTINF:-1 tvg-id="The thao TV HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] The thao TV HD
+http://localhost:9991/fpt?thethaotvhd
+#EXTINF:-1 tvg-id="VTVcab 1 - Giai Tri TV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 1 - Giai Tri TV
+http://localhost:9991/fpt?giaitri
+#EXTINF:-1 tvg-id="VTVcab 2 - Phim Viet" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 2 - Phim Viet
+http://localhost:9991/fpt?phimviet
+#EXTINF:-1 tvg-id="VTVcab 3 - The Thao TV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 3 - The Thao TV
+http://localhost:9991/fpt?thethaotvsd
+#EXTINF:-1 tvg-id="VTVcab 4" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 4
+http://localhost:9991/fpt?kenh17
+#EXTINF:-1 tvg-id="VTVcab 5 - E Channel" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 5 - E Channel
+http://localhost:9991/fpt?echanel
+#EXTINF:-1 tvg-id="VTVcab 6 - Hay TV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 6 - Hay TV
+http://localhost:9991/fpt?haytv
+#EXTINF:-1 tvg-id="VTVcab 7 - D Drama" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 7 - D Drama
+http://localhost:9991/fpt?ddramas
+#EXTINF:-1 tvg-id="VTVcab 8 - BiBi" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 8 - BiBi
+http://localhost:9991/fpt?bibi
+#EXTINF:-1 tvg-id="VTVcab 10 - O2TV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 10 - O2TV
+http://localhost:9991/fpt?o2tv
+#EXTINF:-1 tvg-id="VTVcab 12 - Style TV HD" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 12 - Style TV HD
+http://localhost:9991/fpt?styletv
+#EXTINF:-1 tvg-id="VTVcab 15 - Invest TV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 15 - Invest TV
+http://localhost:9991/fpt?investtv
+#EXTINF:-1 tvg-id="VTVcab 16 - Bong Da TV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] VTVcab 16 - Bong Da TV
+http://localhost:9991/fpt?bongdatvsd
+#EXTINF:-1 tvg-id="Info TV" group-title="FPT Play (vniptv)", [COLOR yellow][B]FPT Play[/B][/COLOR] Info TV
+http://localhost:9991/fpt?infotv
 
 
 
