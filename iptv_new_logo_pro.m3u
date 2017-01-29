@@ -5,48 +5,49 @@ http://google.com
 
 ### Top VTV VTC Live ###########################
 
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc7Dlink.png",vtc7Dlink
-http://127.0.0.1:19098/vntvnetproxy/vtc7Dlink
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc1Dlink.png",vtc1Dlink
-http://127.0.0.1:19098/vntvnetproxy/vtc1Dlink
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtv3.png",vtv3
-http://127.0.0.1:19098/vntvnetproxy/vtv3
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc4Dlink.png",vtc4Dlink
-http://127.0.0.1:19098/vntvnetproxy/vtc4Dlink
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc16.png",vtc16
-http://127.0.0.1:19098/vntvnetproxy/vtc16
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc5Dlink.png",vtc5Dlink
-http://127.0.0.1:19098/vntvnetproxy/vtc5Dlink
 #EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtv1.png",vtv1
 http://127.0.0.1:19098/vntvnetproxy/vtv1
 #EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtv2.png",vtv2
 http://127.0.0.1:19098/vntvnetproxy/vtv2
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/htv9.png",htv9
-http://127.0.0.1:19098/vntvnetproxy/htv9
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtv3.png",vtv3
+http://127.0.0.1:19098/vntvnetproxy/vtv3
 #EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtv4.png",vtv4
 http://127.0.0.1:19098/vntvnetproxy/vtv4
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc3Dlink.png",vtc3Dlink
-http://127.0.0.1:19098/vntvnetproxy/vtc3Dlink
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/hn1.png",hn1
-http://127.0.0.1:19098/vntvnetproxy/hn1
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc10.png",vtc10
-http://127.0.0.1:19098/vntvnetproxy/vtc10
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc10Dlink.png",vtc10Dlink
-http://127.0.0.1:19098/vntvnetproxy/vtc10Dlink
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc1.png",vtc1
-http://127.0.0.1:19098/vntvnetproxy/vtc1
 #EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/ttxvn.png",ttxvn
 http://127.0.0.1:19098/vntvnetproxy/ttxvn
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/htv9.png",htv9
+http://127.0.0.1:19098/vntvnetproxy/htv9
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc1.png",vtc1
+http://127.0.0.1:19098/vntvnetproxy/vtc1
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc10.png",vtc10
+http://127.0.0.1:19098/vntvnetproxy/vtc10
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc16.png",vtc16
+http://127.0.0.1:19098/vntvnetproxy/vtc16
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/hn1.png",hn1
+http://127.0.0.1:19098/vntvnetproxy/hn1
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc1Dlink.png",vtc1Dlink
+http://127.0.0.1:19098/vntvnetproxy/vtc1Dlink
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc2Dlink.png",vtc2Dlink
+http://127.0.0.1:19098/vntvnetproxy/vtc2Dlink
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc3Dlink.png",vtc3Dlink
+http://127.0.0.1:19098/vntvnetproxy/vtc3Dlink
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc4Dlink.png",vtc4Dlink
+http://127.0.0.1:19098/vntvnetproxy/vtc4Dlink
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc5Dlink.png",vtc5Dlink
+http://127.0.0.1:19098/vntvnetproxy/vtc5Dlink
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc6Dlink.png",vtc6Dlink
+http://127.0.0.1:19098/vntvnetproxy/vtc6Dlink
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc7Dlink.png",vtc7Dlink
+http://127.0.0.1:19098/vntvnetproxy/vtc7Dlink
 #EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc8Dlink.png",vtc8Dlink
 http://127.0.0.1:19098/vntvnetproxy/vtc8Dlink
 #EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc9Dlink.png",vtc9Dlink
 http://127.0.0.1:19098/vntvnetproxy/vtc9Dlink
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc2Dlink.png",vtc2Dlink
-http://127.0.0.1:19098/vntvnetproxy/vtc2Dlink
-#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc6Dlink.png",vtc6Dlink
-http://127.0.0.1:19098/vntvnetproxy/vtc6Dlink
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc10Dlink.png",vtc10Dlink
+http://127.0.0.1:19098/vntvnetproxy/vtc10Dlink
 #EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.Pac-12/resources/logos/vtc11Dlink.png",vtc11Dlink
 http://127.0.0.1:19098/vntvnetproxy/vtc11Dlink
+
 
 ### End Top VTV VTC Live ###########################
 
