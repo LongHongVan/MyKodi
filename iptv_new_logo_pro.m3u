@@ -520,6 +520,9 @@ http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/328.ts|User-Agent=de
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN HD (F4M Proxy)
 http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Ddell
 
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN HD 2 (F4M Proxy)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Ddell
+
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN HD
 http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts|User-Agent=dell
 
