@@ -1,6 +1,8 @@
 #EXTM3U
 # ++++++++++++++++++++++++++++++++
 # http://pastebin.com/raw/CALMhf0R
+# Example code: "http://125.212.227.230:7001/live/index?action=get_stream&channel_id=%s&device_Type=stb" % chid
+# http://125.212.227.230:7001/live/index?action=get_stream&channel_id=1001&device_Type=stb
 # ++++++++++++++++++++++++++++++++
 
 #EXTINF:-1 tvg-id="VTV 1" group-title="Xmio", [COLOR blue][B]Xmio[/B][/COLOR] VTV 1
