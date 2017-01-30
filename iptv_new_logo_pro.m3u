@@ -511,25 +511,20 @@ http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.
 
 #### - Top 10 USA Channels ##### Last updated 01/25/2017 ##########
 
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBCSN HD (streamer)
-http://127.0.0.1:19098/mpegts2Proxy/http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Ddell
-
-
-
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vyvwrr1433380362.png", Fox Sports 1 HD
-http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/329.ts%7CUser-Agent%3Ddell
+http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/329.ts|User-Agent=dell
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yptqtt1433332816.png.png", Fox Sports 2 HD
-http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/328.ts%7CUser-Agent%3Ddell
+http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/328.ts|User-Agent=dell
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN HD (TF4 Proxy)
-http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts%7CUser-Agent%3Ddell
+http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts|User-Agent=dell
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/13/f1/60/13f160e74d8d1dc920205bd9cdd633e5.jpg", Offical Olympic Channel FHD
-http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/318.ts%7CUser-Agent%3Ddell
+http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/318.ts|User-Agent=dell
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png", NFL Network HD
-http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/154.ts%7CUser-Agent%3Ddell
+http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/154.ts|User-Agent=dell
 
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png",NBC HD
