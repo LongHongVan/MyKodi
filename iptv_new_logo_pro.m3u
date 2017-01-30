@@ -8,363 +8,363 @@ http://google.com
 
 
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-MUtv
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5802.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5802.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Baby-TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6261.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6261.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-BBC-1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6258.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6258.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-BBC-2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6259.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6259.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-BBC-World-News
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6260.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6260.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Boomerang
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6262.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6262.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-BT-Sport-1-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6238.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6238.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-BT-Sport-2-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6239.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6239.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-BT-Sport-Europe
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6240.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6240.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Animal-Planet
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6252.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6252.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Cartoonito
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6263.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6263.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-CBS-Action
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6236.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6236.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Comedy-Central
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6232.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6232.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Crime-and-Investigation
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6233.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6233.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Discovery-Channel
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6253.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6253.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Discovery-History
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6254.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6254.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Discovery-Investigation
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6255.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6255.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Discovery-Science
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6256.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6256.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Discovery-Turbo
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6257.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6257.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Disney-Channel
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6264.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6264.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Disney-Junior
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6266.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6266.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Disney-ovies
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6267.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6267.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Disney-XD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6265.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6265.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Eurosport-1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6241.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6241.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Eurosport-2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6242.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6242.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-FOX
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6234.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6234.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-FOX-Crime
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6235.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6235.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Manchester-United-FC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6250.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6250.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Motors-TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6251.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6251.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Movies-4-Men
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6237.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6237.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-MTV-Hits
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6271.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6271.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-MTV-Music
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6270.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6270.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Nickelodeon
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6268.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6268.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Nicktoons
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6269.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6269.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Atlantic
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6231.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6231.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Action
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6222.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6222.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Comedy
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6223.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6223.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Drama
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6224.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6224.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Family
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6225.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6225.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Premiere
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6226.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6226.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Scifi---Horror
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6227.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6227.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Select
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6228.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6228.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Showcase
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6229.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6229.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Movies-Thriller
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6230.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6230.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Sports-1-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6243.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6243.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Sports-2-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6244.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6244.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Sports-3-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6245.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6245.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Sports-4-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6246.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6246.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Sports-5-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6247.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6247.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Sports-F1-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6248.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6248.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-Sports-News
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6249.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/6249.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Premiere_Sport
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5803.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5803.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Setanta-Sport _Irland1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5804.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5804.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Movies_Sci-Fi_Horror
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5806.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5806.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Movies-Modern
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5805.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5805.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-B4U-Movies
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5807.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5807.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky-One
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5808.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5808.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-ITV1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5801.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5801.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-Sky_Greats
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/51.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/51.ts
 
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-WWE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3531.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3531.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-TSN1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3526.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3526.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-TSN2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3527.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3527.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-TSN3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3528.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3528.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-TSN4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3529.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3529.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-TSN5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3530.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3530.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-Sport1US
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3535.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3535.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-BeinUSA
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3519.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3519.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-AMC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3518.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3518.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-ABNNews
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3517.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3517.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-CNN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/2895.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/2895.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-PokerCentral
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3537.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3537.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-PAG
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3534.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3534.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-NFL
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3533.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3533.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-NDTV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3532.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3532.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-NBCSN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3525.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3525.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-NBATV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3524.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3524.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-H2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3538.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3538.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-Golf
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3539.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3539.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-FoxSports1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3523.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3523.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", UK-ESPN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3522.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3522.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-CNBC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3521.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3521.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-CBSN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3536.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3536.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", USA-Bloomberg
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3520.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3520.ts
 
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Accion
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3468.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3468.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Comedia
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3469.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3469.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-AXN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3450.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3450.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Calle_13
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3465.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3465.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Deportes
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3472.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3472.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CartoonNetwork
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5743.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5743.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-24_Horas
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5980.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5980.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-A_E
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5948.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5948.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Antenna3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5949.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5949.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Bein_Spain
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5950.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5950.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Cocina
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5952.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5952.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_DCine
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5953.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5953.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Decasa
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5954.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5954.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Deportes2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5955.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5955.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Futbol
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5956.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5956.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Golf
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5957.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5957.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Liga
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5958.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5958.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canalplus_Odisea
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5959.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5959.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Series-Xtra
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5960.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5960.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus_Xtra
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5961.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5961.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Anime_TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5740.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5740.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-TOROS_TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3509.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3509.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-RealMadrid_Channel
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3505.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3505.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-MoviStar_MotoGP
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3499.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3499.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-MoviStar_F1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3498.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3498.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Teledeporte
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5730.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5730.ts
 #EXTINF:-1,SP-Sport_CDO-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5735.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5735.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_Sevilla
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5721.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5721.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_Liga
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5756.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5756.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_Golf
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5759.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5759.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_Futbol
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5758.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5758.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Bein_Sport_HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5732.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5732.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Barca_TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3464.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3464.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-National_Geographic
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3501.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3501.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Historia
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3493.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3493.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-National_Geographic-Wild
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5741.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5741.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Discovry_Chaneel
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5742.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5742.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5747.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5747.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5762.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5762.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5748.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5748.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5749.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5749.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5750.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5750.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_6
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5751.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5751.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_7
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5754.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5754.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_8
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5753.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5753.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_9
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5752.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5752.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Taquilla_10
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5755.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5755.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-AXN_White
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3451.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3451.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Andalucia
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3448.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3448.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-LaSexta
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3496.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3496.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-La2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3495.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3495.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-La1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3494.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3494.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CanalPlus1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5951.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5951.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Comedy_Central
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5962.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5962.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Cuatro
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5963.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5963.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Discovery
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5964.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5964.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Disney_Channel
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5965.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5965.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Disney_Junior
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5966.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5966.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Disney_XD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5967.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5967.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-FOX_Life
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5968.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5968.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Hollywood
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5969.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5969.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Nat-Geo_Wild
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5970.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5970.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Neox
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5971.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5971.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Nickelodeon
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5972.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5972.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Nonstop_People
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5973.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5973.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Nova
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5974.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5974.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-SOL_Musica
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5981.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5981.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-SyFy
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5975.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5975.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Telecinco
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5976.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5976.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Telesur
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5982.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5982.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-TNT
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5977.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5977.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-TOROS-TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5978.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5978.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-TV-3_Catalunya
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5979.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5979.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Galicia
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3492.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3492.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-FOX
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3490.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3490.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Estrenos
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3489.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3489.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Dcine_Espanol
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3484.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3484.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Cosmo
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3482.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/3482.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Teleticino
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5744.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5744.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Hollywood_
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5726.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5726.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-FDF
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5731.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5731.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-CBN_en-espaol
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5727.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5727.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_Musica
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5722.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5722.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_41-Mar-del
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5745.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5745.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal2_HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5724.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5724.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_13
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5729.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5729.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_Series
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5718.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5718.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5760.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5760.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal _Costa
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5719.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5719.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Canal_Cocina
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5720.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5720.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-blica_Dominicana
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5723.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5723.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Azteca_Noticias
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5739.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5739.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-Axn_Whitte-HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5746.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5746.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-360_TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5733.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5733.ts
 #EXTINF:-1 group-title="F4MTS USA-UK-SPAN Channels",  tvg-id="" tvg-name="" tvg-logo="", ES-3/24_Cat
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5734.ts
+http://localhost:8855/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://mysserver.xyz:8000/live/first/first/5734.ts
 
 ### - TS USA UK SPAN FM4 +++++++++++++++++++++++++
 
@@ -684,102 +684,102 @@ http://127.0.0.1:19098/livestreamer/p2p/50e67d468d54cd43a2bd100b5ef8a53e.m3u8
 http://google.com
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://media.ngoisao.vn/resize_580/news/2016/08/16/tn-10-ngoisao.vn.stamp2.jpg", To My LiveShow HD
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=BUAvOcwO3DI
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=BUAvOcwO3DI
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 11 01-14-17
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=_oD5BQg6XLs
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=_oD5BQg6XLs
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 10 01-7-17
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=pM73Br4qDo4
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=pM73Br4qDo4
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 09 12-31-16
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=Kd4W4jQE_l0
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=Kd4W4jQE_l0
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 08 12-24-16
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=iwJzTwqU2MY
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=iwJzTwqU2MY
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 07 12-17-16
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=qEOFgg810hM
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=qEOFgg810hM
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 06 12-10-16
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=iaV_M4rPLlk
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=iaV_M4rPLlk
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 05
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=BOW-LNw2b2I
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=BOW-LNw2b2I
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 04
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=k3ujTxCPeRw
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=k3ujTxCPeRw
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 03
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=nwA3KS8LvJY
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=nwA3KS8LvJY
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 02
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=xfmQl5jF_iI
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=xfmQl5jF_iI
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/eoP0LCE.jpg", HTV7 Giọng ai Tập 01
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=vVUytf3MhUg
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=vVUytf3MhUg
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xAyfDLqnvOw/maxresdefault.jpg", Tình Ca Bolero
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=VZD50UcAQ1k
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=VZD50UcAQ1k
 
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/G9vjzQFSRpg/maxresdefault.jpg", VTV3 THẦN TƯỢNG BOLERO 2016
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=G9vjzQFSRpg
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=G9vjzQFSRpg
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 1
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=znMzbbzJ0Co
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=znMzbbzJ0Co
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 2
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=4jsxshozKd4
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=4jsxshozKd4
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 3
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=kfK0ScOrRL0
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=kfK0ScOrRL0
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 4
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=b0_-jN04kz8
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=b0_-jN04kz8
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 5
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=oHJ0V4YcpN8
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=oHJ0V4YcpN8
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 6
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=3BVlnyF1u5E
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=3BVlnyF1u5E
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 7
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=FiHVQ5GHrHQ
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=FiHVQ5GHrHQ
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 8
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=22mJRAR7hNo
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=22mJRAR7hNo
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 CK 9
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=haGftCSKjmA
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=haGftCSKjmA
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://www.wn.com.vn/product_images/s/649/solo_cung_bolero_tap_11_(1)__22526_std.png", Solo cùng Bolero 2016 Final
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=sqil8ST2V2Q
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=sqil8ST2V2Q
 
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 12
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=-eR9TPdBcBo
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=-eR9TPdBcBo
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 13
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=ZR-_DTyvvYU
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=ZR-_DTyvvYU
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 14
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=R0n0ABFqP34
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=R0n0ABFqP34
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 15
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=8hIMb2_SUrg
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=8hIMb2_SUrg
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 16
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=8msvKQxGF24
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=8msvKQxGF24
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 17
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=xJsavUyDsmA
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=xJsavUyDsmA
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 18
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=hmPl465HRm4
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=hmPl465HRm4
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 19 
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=CNC-lOFV_u8
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=CNC-lOFV_u8
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 20 
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=22jYfGRbC10
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=22jYfGRbC10
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 21 
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=OeUgxuwF0ek
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=OeUgxuwF0ek
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 22 
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=Nty9N8-xXc8
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=Nty9N8-xXc8
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Episode 23 
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=FxoZRofzl2g
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=FxoZRofzl2g
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 People's Choice Winner 
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=AprLkVE61sE
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=AprLkVE61sE
 
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/HguJ5RUam4U/maxresdefault.jpg",VSTAR 2016 Judge's Choice Winner 
-http://localhost:8898/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=7GNKwL5BplY
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=7GNKwL5BplY
 
 #EXTINF:-1 group-title="FPT Play TV",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgTO7R6NDqBVLX5umqSDnX5FWbPzG7aIiz4kU8kxqerBtbIAzx",VTV1 HD
 https://livecdn.fptplay.net/livek/vtv1hd_hls.smil/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE0ODUxMTA1MDgsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjUwY2FjNzNhZGNkNmFlZjZiNDdmNWViMjk2ZGQ3ODZhIiwgInZhbGlkX21pbnV0ZXMiOiAxNDg1MTk2OTA4LCAicm1pcCI6ICI3Ni4yMS4xMjQuMjM4In0=||User-Agent=Mozilla/5.0 AppleWebKit/537.36
