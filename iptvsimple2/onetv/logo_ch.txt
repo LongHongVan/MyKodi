@@ -21,7 +21,7 @@
     "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", 
     "http://www.thelogodb.com/images/media/logo/quwyru1480459347.png", 
     "http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png", 	
-	"https://www.thelogodb.com/images/media/logo/uqrpqt1436889975.png", 
+	"https://www.thelogodb.com/images/media/logo/ssywwv1433449119.png", 
     "http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", 
     "http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png"
 ]
