@@ -455,7 +455,7 @@ http://127.0.0.1:19098/vntvnetproxy/hn1
 #### VTVGoVN Live Channels #####
 
 
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170131/3.jpg?v=d96bce5f89e90c8d30eed2bb1a561bf5",Phim truyệnKênh VTV
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170131/3.jpg?v=3b3cc5f5f7425b74f76c1463d1f2b3c9",Vui sống mỗi ngày
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen
 
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170131/49.jpg",5S Online
@@ -505,6 +505,28 @@ http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.
 
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170131/39.jpg",VTV9
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
+
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtv1.png",vtv1
+http://127.0.0.1:19096/vntvnetproxy/vtv1
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtv2.png",vtv2
+http://127.0.0.1:19096/vntvnetproxy/vtv2
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtv3.png",vtv3
+http://127.0.0.1:19096/vntvnetproxy/vtv3
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtv4.png",vtv4
+http://127.0.0.1:19096/vntvnetproxy/vtv4
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\ttxvn.png",ttxvn
+http://127.0.0.1:19096/vntvnetproxy/ttxvn
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\htv9.png",htv9
+http://127.0.0.1:19096/vntvnetproxy/htv9
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtc1.png",vtc1
+http://127.0.0.1:19096/vntvnetproxy/vtc1
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtc10.png",vtc10
+http://127.0.0.1:19096/vntvnetproxy/vtc10
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtc16.png",vtc16
+http://127.0.0.1:19096/vntvnetproxy/vtc16
+#EXTINF:-1 group-title="Top VTV VTC Live",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\hn1.png",hn1
+http://127.0.0.1:19096/vntvnetproxy/hn1
+
 
 
 #### End VTVGoVN Live Channels #####
