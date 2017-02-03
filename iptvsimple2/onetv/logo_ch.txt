@@ -24,5 +24,5 @@
 	"https://www.thelogodb.com/images/media/logo/ssywwv1433449119.png", 
     "http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", 
     "http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png", 
-	"https://www.thelogodb.com/images/media/logo/qqswxw1434503052.png"
+	"https://www.thelogodb.com/images/media/logo/yusqqu1444656884.png"
 ]
