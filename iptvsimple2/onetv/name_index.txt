@@ -16,12 +16,13 @@
     "TNT HD", 
     "USA Network HD", 
     "CNN HD", 
-    "CW HD", 
+    "PBS HD", 
     "Spike HD", 
-    "History HD",  
+    "FX HD",  
     "SYFY HD", 
     "Animal Planet HD", 
-    "FX/Bravo HD",	
+    "Bravo HD",	
     "Nat Geo HD",
-    "Discovery Channel HD"
+    "Discovery Channel HD", 
+	"HGTV HD"
 ]
