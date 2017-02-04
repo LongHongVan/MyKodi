@@ -6,74 +6,60 @@ http://google.com
 
 #### VTVGoVN Live 4 Kodi 17 +++++++++++++++++++++++++++++++++++++
 
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/59.jpg?v=69e6aee5500438ead8a40a3b1c0083e7",Chào 2016 - Kênh Tết cùng VTV - VTV mọi nơi - mọi lúc - miễn phí
+#EXTM3U
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/59.jpg?v=49532f5d72699b0f4d6299c95385bbfe",Chào 2016 - Kênh Tết cùng VTV - VTV mọi nơi - mọi lúc - miễn phí
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/49.jpg",5S Online
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/49.jpg",5S Online
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-5s-online-49.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/67.jpg",Bữa tiệc ảo thuật
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/67.jpg",Bữa tiệc ảo thuật
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-bua-tiec-ao-thuat-67.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/61.jpg",Hát cùng họa mi
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/61.jpg",Hát cùng họa mi
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-hat-cung-hoa-mi-61.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/65.jpg",Họa sĩ tí hon
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/65.jpg",Họa sĩ tí hon
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-hoa-si-ti-hon-65.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/50.jpg",Quà tặng cuộc sống
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/50.jpg",Quà tặng cuộc sống
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-qua-tang-cuoc-song-50.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/59.jpg",Tết cùng VTV
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/59.jpg",Tết cùng VTV
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-tet-cung-vtv-59.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/1.jpg",VTV1
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/1.jpg",VTV1
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/2.jpg",VTV2
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/2.jpg",VTV2
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/3.jpg",VTV3
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/3.jpg",VTV3
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/4.jpg",VTV4
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/4.jpg",VTV4
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/5.jpg",VTV5
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/5.jpg",VTV5
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/6.jpg",VTV6
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/6.jpg",VTV6
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/27.jpg",VTV7
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/27.jpg",VTV7
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/36.jpg",VTV8
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/36.jpg",VTV8
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/39.jpg",VTV9
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://image.vtvdigital.vn/images/20170204/39.jpg",VTV9
 http://127.0.0.1:19096/vtvgovnProxy/http://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
-
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtv1.png",VTV1 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\vtv1_vn.jpg",VTV1 HD
 http://127.0.0.1:19096/vntvnetproxy/vtv1
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtv2.png",VTV2 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\vtv2_vn.jpg",VTV2 HD
 http://127.0.0.1:19096/vntvnetproxy/vtv2
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtv3.png",VTV3 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\vtv3_vn.jpg",VTV3 HD
 http://127.0.0.1:19096/vntvnetproxy/vtv3
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtv4.png",VTV4 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\vtv4_vn.jpg",VTV4 HD
 http://127.0.0.1:19096/vntvnetproxy/vtv4
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\ttxvn.png",TTXVN HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\ttx_vn.jpg",TTXVN HD
 http://127.0.0.1:19096/vntvnetproxy/ttxvn
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\htv9.png",HTV9 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\htv_9.jpg",HTV9 HD
 http://127.0.0.1:19096/vntvnetproxy/htv9
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtc1.png",VTC1 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\vtc_1.jpg",VTC1 HD
 http://127.0.0.1:19096/vntvnetproxy/vtc1
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtc10.png",VTC10 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\vtc_10.jpg",VTC10 HD
 http://127.0.0.1:19096/vntvnetproxy/vtc10
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\vtc16.png",VTC16 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\vtc_16_vn.jpg",VTC16 HD
 http://127.0.0.1:19096/vntvnetproxy/vtc16
-#EXTINF:-1 group-title="VTVGoVN Live 4 Kodi 17",  tvg-id="" tvg-name="" tvg-logo="C:\Users\long\AppData\Roaming\Kodi\addons\plugin.video.vtvgolive\resources\logos\hn1.png",HN1 HD
+#EXTINF:-1 group-title="VTVGoVN Live (Kodi 17) or later",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo\hanoi_tv1.jpg",HN1 HD
 http://127.0.0.1:19096/vntvnetproxy/hn1
+
 
 #### VTVGoVN Live 4 Kodi 17 +++++++++++++++++++++++++++++++++++++
 
