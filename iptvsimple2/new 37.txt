@@ -1,3 +1,8 @@
+02/03/2017
+		
+http://37.187.170.210:8000/get.php?username=elnussbi@icloud.com&password=wiqIrMXJl6&type=m3u	
+http://live.softiptv.com:9900/get.php?username=525&password=525&type=m3u
+
 01/30/2017
 
    
@@ -555,7 +560,7 @@ http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://giant-iptv.com:5477/live/ramzy/ramzy/11830.ts
 
 usaiptv (old stuff - still good)
-http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=ts Good 
+http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&output=ts Good 
 
 #EXTINF:-1   tvg-id="NBC" group-title="Entertainment",NBC (F4M Test)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://usaiptv.ddns.net:9090/load/0855ebd4f90b/140.mpegts
@@ -1201,7 +1206,7 @@ http://149.202.77.226:7500/get.php?username=ge110&password=ge110&type=m3u
 http://IPTVFREE1.COM:6969/get.php?username===>_www.iptvrestream.net_<==&password===>_www.iptvrestream.net_<==&type=m3u&output=ts  (Good zem S4)
 http://IPTVFREE1.COM:6969/get.php?username=6&password=www.iptvrestream.net&type=m3u GOOD for 1 day?
 
-http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp;output=ts Good 
+http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&output=ts Good 
 
 
 +++++++
