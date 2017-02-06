@@ -521,7 +521,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.47" provider-name="HME">
+<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.48" provider-name="HME">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="1.0.0"/>
@@ -548,7 +548,7 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">IPTV Client</summary>
-		<description lang="en">IPTV Stalker built-in M3U Server for PVR Simple Client. Last updated 01.20.2017 (Encripted) - Author: HME (Home Media Entertainments).</description>
+		<description lang="en">IPTV Stalker built-in M3U Server for PVR Simple Client. Last updated 02.05.2017 (Encripted) - Author: HME (Home Media Entertainments).</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
 	</extension>
