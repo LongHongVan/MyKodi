@@ -1528,9 +1528,9 @@
 
 <addon
   id="plugin.video.xomgiaitri"
-  version="1.2"
+  version="1.4"
   name="*[COLOR lime]XomGiaiTri.com[/COLOR]"
-  provider-name="V137">
+  provider-name="V24">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -1539,7 +1539,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>xomgiaitri.com</summary>
-    <description>Watch free xomgiaitri.com (Vietnamese) Videos - upadted 02.23.16 (LH)</description>
+    <description>Watch free xomgiaitri.com (Vietnamese) Videos - upadted 02.09.17 (LH)</description>
     <platform>all</platform>
   </extension>
 </addon>
