@@ -775,7 +775,7 @@
 	</extension>
 </addon>
 
-	<addon id="plugin.video.v137.phimlt"  version="2.5" name="PhimLT.com" provider-name="V137">
+	<addon id="plugin.video.v137.phimlt"  version="2.6" name="PhimLT.com" provider-name="V137">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0" />
 			<import addon="script.module.requests" version="2.6.0"/>
@@ -787,7 +787,7 @@
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary>PhimLT.com</summary>
-			<description>PhimLT.com (Vietnamese)</description>
+			<description>PhimLT.com (Vietnamese) last updated 02/11/2017 - LH@hme</description>
 			<platform>all</platform>
 		</extension>
 	</addon>
