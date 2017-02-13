@@ -180,7 +180,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.hme.xomgiaitri" version="1.5" name="*[COLOR teal]XomGiaiTri[/COLOR]" provider-name="HME">
+<addon id="plugin.video.hme.xomgiaitri" version="1.6" name="*[COLOR teal]XomGiaiTri[/COLOR]" provider-name="HME">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
@@ -189,7 +189,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>XomGiaiTri</summary>
-		<description>Watch free xomgiaitri.com (Vietnamese) Videos - updates 09.08.16 (LH)</description>
+		<description>Watch free xomgiaitri.com (Vietnamese) Videos - Last updates 02.12.17 (LH@hme)</description>
 		<platform>all</platform>
 	</extension>
 </addon>
