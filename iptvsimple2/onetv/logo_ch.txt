@@ -1,6 +1,4 @@
-[  
-	"https://i.ytimg.com/vi/fN0TUCOBEEo/hqdefault.jpg", 
-	"http://2.pik.vn/20164d70064a-c084-4419-b68d-68c6017a7db8.jpg", 
+[   
 	"https://www.thelogodb.com/images/media/logo/vyvwrr1433380362.png", 
 	"https://www.thelogodb.com/images/media/logo/yptqtt1433332816.png", 
 	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
