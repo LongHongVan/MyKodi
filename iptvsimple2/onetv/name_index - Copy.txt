@@ -1,7 +1,12 @@
 [   
 	"HTV 7 FHD Bonus", 
 	"HTV 9 FHD Bonus",  
-	"HTV Du Lich FHD Bonus",  
+	"HTV Du Lich FHD Bonus", 
+	"Fox Sports 1 HD", 
+	"Fox Sports 2 HD", 
+	"NBCSN HD", 
+	"Olympic Channel FHD", 
+	"NFL Network HD", 
 	"NBC NFL HD", 
     "ABC NFL HD", 
     "CBS NFL HD", 
