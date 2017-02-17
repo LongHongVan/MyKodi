@@ -1,6 +1,98 @@
+02/16/2017
+
+++++++ Today Top sites +++++++++++++++++++++++++++++++++++++++++++++++++
+http://137.74.93.219:8000/get.php?username=canada&password=canada&type=m3u 29 USA
+
+http://23.237.0.58:8000/get.php?username=1&password=1&type=m3u Many Local Channels
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+
+http://193.70.45.204:8000/get.php?username=oussama&password=oussama&type=m3u 5 USA
+
+http://51.15.2.85:8000/get.php?username=SP&password=iOCx0VhXvS&type=m3u BAD
+
+http://149.202.68.220:8000/get.php?username=bekoiptv&password=uUvjKpKMam&type=m3u BAD
+
+http://51.15.140.89/get.php?username=umS2EyJBxI&password=enzodiodato&type=m3u BAD
+
+http://185.2.83.24:8000/get.php?username=angelina&password=angelina&type=m3u BAD
+
+http://37.187.171.207:8000/get.php?username=xavi&password=xavi&type=m3u BAD
+
+http://151.80.97.110:25461/get.php?username=mehdi&password=mehdi&type=m3u BAD
+
+http://185.2.83.24:8000/get.php?username=jansen&password=jansen&type=m3u No USA
+
+http://193.70.45.204:8000/get.php?username=LG&password=LG&type=m3u 5 USA
+
+http://23.237.0.58:8000/get.php?username=2&password=2&type=m3u US Entertainment TNT and Fox
+
+http://23.237.0.58:8000/get.php?username=3&password=3&type=m3u US Entertainment TNT and Fox
+
+http://137.74.93.219:8000/get.php?username=canada&password=canada&type=m3u 29 USA
+
+http://62.112.9.156:36000/get.php?username=supermario&password=supermario&type=m3u NO USA
+
+http://193.70.116.156:8080/get.php?username=gBoYdgz6m9&password=Z3AXMriEvc&type=m3u BAD
+
+http://starsiptv.net:5969/get.php?username=D024F2CBdb&password=D024F2CBdb&type=m3u BAD
+
+http://163.172.42.177:25461/get.php?username=13&password=13&type=m3u BAD
+
+http://163.172.42.177:25461/get.php?username=19&password=19&type=m3u BAD
+
+http://163.172.42.177:25461/get.php?username=16&password=16&type=m3u BAD
+
+http://163.172.42.177:25461/get.php?username=15&password=15&type=m3u 15 UK TV
+
+http://163.172.32.148:9300/get.php?username=atikmeriem&password=SKYPE_CN_X40&type=m3u No USA
+
+http://188.165.210.130:8000/get.php?username=vardar&password=vardar&type=m3u No USA
+
+http://www.iptvgafsa.tn:8000/get.php?username=nizar&password=nizar&type=m3u 5 USA
+
+http://www.iptvgafsa.tn:8000/get.php?username=oussama&password=oussama&type=m3u 5 USA
+
+http://iptvlatinototal.ml:8000/get.php?username=Sind&password=Sind&type=m3u NO USA
+
+http://51.15.2.85:8000/get.php?username=B&password=YwoKGL9MKs&type=m3u BAD
+
+http://149.202.91.205:8000/get.php?username=joffrey&password=joffrey&type=m3u 9 USA
+
+http://51.15.2.85:8000/get.php?username=M&password=7DSXHkEBvh&type=m3u BAD
+
+http://149.202.91.205:8000/get.php?username=nadir&password=nadir&type=m3u NO USA
+
+http://81.128.149.190:9981/playlist Login pass required
+
+http://95.52.203.89:81/playlist.m3u8 BAD
+
+
+02/14/17
+
+ducnt123 14/2/2017
+http://textuploader.com/5euky/raw
+
+s4Zem: 
+http://163.172.81.33:1234/get.php?username=iptvrestream.net8&password=MxA6SpYeNL&type=m3u&output=ts
+
+
 02/11/2017
 
-http://149.202.92.133:8000/get.php?username=brett&password=brett&type=m3u
+http://149.202.92.133:8000/get.php?username=brett&password=brett&type=m3u&output=hls
+
+http://149.202.92.133:8000/get.php?username=brett&password=brett&type=m3u&output=mpegts
+
+http://149.202.92.133:8000/live/brett/brett/2443.ts
+
+Example:
+http://149.202.92.133:8000/live/brett/brett/2443.ts
+
+http://37.187.135.50:8000/get.php?username=6grandiptv419&password=03332325&type=m3u&output=hls
+http://163.172.60.151:8000/get.php?username=ines&password=ines&type=m3u&output=hls
+
 
 
 02/03/2017

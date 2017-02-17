@@ -1,0 +1,1181 @@
+#EXTM3U
+#EXTINF:-1,Sky Sports News
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1698.ts
+#EXTINF:-1,Sky Sports F1 UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1696.ts
+#EXTINF:-1,Sky Sports Box Office UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1695.ts
+#EXTINF:-1,SkySpBoxOff (PPV Events Only)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2328.ts
+#EXTINF:-1,Sky Sports 5 UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1693.ts
+#EXTINF:-1,Sky Sports 4 UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1691.ts
+#EXTINF:-1,Sky Sports 3 UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1689.ts
+#EXTINF:-1,Sky Sports 2 UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1687.ts
+#EXTINF:-1,Sky Sports 1 UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1685.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/724.ts
+#EXTINF:-1,Sky Sports Mix
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2326.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/725.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/726.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/727.ts
+#EXTINF:-1,Sky Sports 4 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/728.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/729.ts
+#EXTINF:-1,BT Sport 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/733.ts
+#EXTINF:-1,BT Sport 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/732.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/731.ts
+#EXTINF:-1,Premier Sports
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1494.ts
+#EXTINF:-1,Premier HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2313.ts
+#EXTINF:-1,Premier Sports HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2314.ts
+#EXTINF:-1,ESPN
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1748.ts
+#EXTINF:-1,Racing UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1892.ts
+#EXTINF:-1,Racing UK HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2316.ts
+#EXTINF:-1,At The Races
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1891.ts
+#EXTINF:-1,BoxNation
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1842.ts
+#EXTINF:-1,Liverpool FC
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/720.ts
+#EXTINF:-1,MUTV HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2301.ts
+#EXTINF:-1,MUTV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/719.ts
+#EXTINF:-1,Chelsea TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/723.ts
+#EXTINF:-1,BT Sports Extra
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1914.ts
+#EXTINF:-1,BT Sports ESPN
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1993.ts
+#EXTINF:-1,BT Sports 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1980.ts
+#EXTINF:-1,BT Sports 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1981.ts
+#EXTINF:-1,BT Sports 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1992.ts
+#EXTINF:-1,EuroSports 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/722.ts
+#EXTINF:-1,EuroSports 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/721.ts
+#EXTINF:-1,Eir Sport 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2183.ts
+#EXTINF:-1,Eir Sport 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2182.ts
+#EXTINF:-1,eir Sport 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2255.ts
+#EXTINF:-1,Motors TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2015.ts
+#EXTINF:-1,TCM
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2334.ts
+#EXTINF:-1,TCM 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2335.ts
+#EXTINF:-1,Sky Movies Showcase
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1684.ts
+#EXTINF:-1,Sky Movies Sci-Fi & Horror UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1682.ts
+#EXTINF:-1,Sky Movies Sci-Fi & Horror HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1683.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1681.ts
+#EXTINF:-1,Sky Movies Greats HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1680.ts
+#EXTINF:-1,Sky Movies Greats
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1679.ts
+#EXTINF:-1,Sky Movies Family UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1677.ts
+#EXTINF:-1,Sky Movies Family HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1678.ts
+#EXTINF:-1,Sky Movies Drama & Romance HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1676.ts
+#EXTINF:-1,Sky Movies Disney UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1674.ts
+#EXTINF:-1,Sky Movies Disney HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1675.ts
+#EXTINF:-1,Sky Movies Crime & Thriller HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1673.ts
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1672.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1671.ts
+#EXTINF:-1,Sky Movies Action & Adventure HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1670.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1669.ts
+#EXTINF:-1,Sky Movies Select
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2010.ts
+#EXTINF:-1,Sky Atlantic
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2011.ts
+#EXTINF:-1,Showcase
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2325.ts
+#EXTINF:-1,Sky1 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2327.ts
+#EXTINF:-1,Film4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1766.ts
+#EXTINF:-1,Film4 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2257.ts
+#EXTINF:-1,Movies 4 Men
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1765.ts
+#EXTINF:-1,mov4men 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2293.ts
+#EXTINF:-1,Movies 24
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2294.ts
+#EXTINF:-1,True Movies1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1760.ts
+#EXTINF:-1,horror channel
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2267.ts
+#EXTINF:-1,horror ch 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2266.ts
+#EXTINF:-1,Eden
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2253.ts
+#EXTINF:-1,Eden 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2254.ts
+#EXTINF:-1,Universal Plus 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2003.ts
+#EXTINF:-1,Universal
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2004.ts
+#EXTINF:-1,CBS Reality
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1913.ts
+#EXTINF:-1,CBS Drama
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1912.ts
+#EXTINF:-1,BBC One NI HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2211.ts
+#EXTINF:-1,CBS Action
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1911.ts
+#EXTINF:-1,BBC 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1513.ts
+#EXTINF:-1,BBC One
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/755.ts
+#EXTINF:-1,BBC Two
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/756.ts
+#EXTINF:-1,BBC Two HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1478.ts
+#EXTINF:-1,BBC  World News
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/757.ts
+#EXTINF:-1,BBC Entertainment
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2034.ts
+#EXTINF:-1,BBC 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2035.ts
+#EXTINF:-1,BBC Four
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/758.ts
+#EXTINF:-1,Channel 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/763.ts
+#EXTINF:-1,Channel 4 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2225.ts
+#EXTINF:-1,Channel 4 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2226.ts
+#EXTINF:-1,Channel 5   24
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2227.ts
+#EXTINF:-1,Channel 5 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2228.ts
+#EXTINF:-1,Channel 5 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2229.ts
+#EXTINF:-1,Channel 5 UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/764.ts
+#EXTINF:-1,Five
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2025.ts
+#EXTINF:-1,ITV HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2275.ts
+#EXTINF:-1,ITV 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/759.ts
+#EXTINF:-1,ITV2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2277.ts
+#EXTINF:-1,ITV 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/760.ts
+#EXTINF:-1,ITV2 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2276.ts
+#EXTINF:-1,ITV 3 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2272.ts
+#EXTINF:-1,ITV 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/761.ts
+#EXTINF:-1,ITV 3  1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2271.ts
+#EXTINF:-1,ITV4 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2279.ts
+#EXTINF:-1,ITV 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/762.ts
+#EXTINF:-1,ITV4 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2278.ts
+#EXTINF:-1,ITV Encore  1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2273.ts
+#EXTINF:-1,ITV Encore HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2274.ts
+#EXTINF:-1,ITVBe 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2280.ts
+#EXTINF:-1,5 USA 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2203.ts
+#EXTINF:-1,5STAR 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2204.ts
+#EXTINF:-1,5 Star
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/770.ts
+#EXTINF:-1,RTE One
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1495.ts
+#EXTINF:-1,RTE Two
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1498.ts
+#EXTINF:-1,RT1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1484.ts
+#EXTINF:-1,RT2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1485.ts
+#EXTINF:-1,UTV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2343.ts
+#EXTINF:-1,UTV HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2344.ts
+#EXTINF:-1,UTV Ireland
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2345.ts
+#EXTINF:-1,TV3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1904.ts
+#EXTINF:-1,TG4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1905.ts
+#EXTINF:-1,Dave
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1497.ts
+#EXTINF:-1,More4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/778.ts
+#EXTINF:-1,Syfy UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1764.ts
+#EXTINF:-1,ITV Be
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2018.ts
+#EXTINF:-1,E4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1816.ts
+#EXTINF:-1,ITV Encore
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2017.ts
+#EXTINF:-1,Sky One
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1823.ts
+#EXTINF:-1,Sky Two
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/765.ts
+#EXTINF:-1,Sky Living
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1771.ts
+#EXTINF:-1,Sky Alibi
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/768.ts
+#EXTINF:-1,Sky Art 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1772.ts
+#EXTINF:-1,Sky 5 USA
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/769.ts
+#EXTINF:-1,Pick TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1821.ts
+#EXTINF:-1,W 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2348.ts
+#EXTINF:-1,Comedy Central Xtra
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2029.ts
+#EXTINF:-1,ComedyCent 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2241.ts
+#EXTINF:-1,ComedyXtra 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2242.ts
+#EXTINF:-1,Disney Chnl
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2249.ts
+#EXTINF:-1,Disney Chnl 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2250.ts
+#EXTINF:-1,Comedy Central
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1817.ts
+#EXTINF:-1,Cbeebies
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2031.ts
+#EXTINF:-1,Cartoonito
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2032.ts
+#EXTINF:-1,Cartoon Network HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1953.ts
+#EXTINF:-1,Cartoon Network
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1825.ts
+#EXTINF:-1,Boomerang
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1826.ts
+#EXTINF:-1,Nick Jr 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2304.ts
+#EXTINF:-1,Nick Jr Too
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2305.ts
+#EXTINF:-1,Nick Jnr Peppa
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2303.ts
+#EXTINF:-1,Nick Junior
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2013.ts
+#EXTINF:-1,Nickelodeon 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2306.ts
+#EXTINF:-1,Nickelodeon
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1828.ts
+#EXTINF:-1,Baby TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1829.ts
+#EXTINF:-1,POP
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2311.ts
+#EXTINF:-1,POP 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2312.ts
+#EXTINF:-1,Kix
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2283.ts
+#EXTINF:-1,Kix 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2284.ts
+#EXTINF:-1,Nick Toons
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1827.ts
+#EXTINF:-1,Tiny Pop
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1763.ts
+#EXTINF:-1,Tiny Pop 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2337.ts
+#EXTINF:-1,Disney XD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/737.ts
+#EXTINF:-1,Disney XD 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2251.ts
+#EXTINF:-1,Disney Junior
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/738.ts
+#EXTINF:-1,Boomerang 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2217.ts
+#EXTINF:-1,Disney Channel
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/405.ts
+#EXTINF:-1,Nat Geo 1hr
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2302.ts
+#EXTINF:-1,National Geographic
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1483.ts
+#EXTINF:-1,Nat Geo Wild
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1482.ts
+#EXTINF:-1,History
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1481.ts
+#EXTINF:-1,Discovery Science
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/771.ts
+#EXTINF:-1,Discovery Channel
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/780.ts
+#EXTINF:-1,Discovery Investigation
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/740.ts
+#EXTINF:-1,Discovery
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/741.ts
+#EXTINF:-1,Discovery 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2248.ts
+#EXTINF:-1,Discovery History
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2028.ts
+#EXTINF:-1,Discovery Shed
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2027.ts
+#EXTINF:-1,Discovery Turbo
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1818.ts
+#EXTINF:-1,Disc.Sci 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2247.ts
+#EXTINF:-1,Animal Planet
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/781.ts
+#EXTINF:-1,History Channel
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2020.ts
+#EXTINF:-1,True Crime
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2341.ts
+#EXTINF:-1,tru TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2350.ts
+#EXTINF:-1,tru TV 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2351.ts
+#EXTINF:-1,True Crime 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2342.ts
+#EXTINF:-1,Crime & Investigiation
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/742.ts
+#EXTINF:-1,MTV 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2295.ts
+#EXTINF:-1,MTV 90s
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2296.ts
+#EXTINF:-1,MTV CLASSIC
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2297.ts
+#EXTINF:-1,MTV Music
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2298.ts
+#EXTINF:-1,MTV Music 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2299.ts
+#EXTINF:-1,MTV ROCKS
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2300.ts
+#EXTINF:-1,MTV Dance
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/734.ts
+#EXTINF:-1,MTV Base
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/735.ts
+#EXTINF:-1,MTV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/736.ts
+#EXTINF:-1,MTV Hits
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2014.ts
+#EXTINF:-1,VH1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/774.ts
+#EXTINF:-1,Geo ENT
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/507.ts
+#EXTINF:-1,VIVA
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2347.ts
+#EXTINF:-1,The Box
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2336.ts
+#EXTINF:-1,The Vault
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2008.ts
+#EXTINF:-1,Flava
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2024.ts
+#EXTINF:-1,Channel AKA
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2230.ts
+#EXTINF:-1,Channel i
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2231.ts
+#EXTINF:-1,Chart Show TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2232.ts
+#EXTINF:-1,Chartshw Dnce
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2233.ts
+#EXTINF:-1,ShowBiz TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2324.ts
+#EXTINF:-1,Smash Hits!
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2329.ts
+#EXTINF:-1,Scuzz
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2323.ts
+#EXTINF:-1,Vintage TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2346.ts
+#EXTINF:-1,KISS
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2282.ts
+#EXTINF:-1,Box Hits
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2218.ts
+#EXTINF:-1,Magic
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2291.ts
+#EXTINF:-1,Flow TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2258.ts
+#EXTINF:-1,NOW Music
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2308.ts
+#EXTINF:-1,Kerrang!
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2281.ts
+#EXTINF:-1,VEVO 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/786.ts
+#EXTINF:-1,Starz TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2330.ts
+#EXTINF:-1,4Music
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2201.ts
+#EXTINF:-1,TLC 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2338.ts
+#EXTINF:-1,TLC 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2339.ts
+#EXTINF:-1,CBSN HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1945.ts
+#EXTINF:-1,CBS Reality 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2222.ts
+#EXTINF:-1,E4 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2252.ts
+#EXTINF:-1,4seven
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2202.ts
+#EXTINF:-1,alibi 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2205.ts
+#EXTINF:-1,BEN
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2213.ts
+#EXTINF:-1,BET:BlackEntTv
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2214.ts
+#EXTINF:-1,Bike
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2215.ts
+#EXTINF:-1,Blaze
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2216.ts
+#EXTINF:-1,Bloomberg
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2033.ts
+#EXTINF:-1,Box Upfront
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2219.ts
+#EXTINF:-1,C4 l
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2221.ts
+#EXTINF:-1,Challenge
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2223.ts
+#EXTINF:-1,Challenge 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2224.ts
+#EXTINF:-1,CITV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2237.ts
+#EXTINF:-1,Dave ja vu
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2245.ts
+#EXTINF:-1,Forces TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2259.ts
+#EXTINF:-1,More4 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2292.ts
+#EXTINF:-1,Lifetime 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2285.ts
+#EXTINF:-1,Irish TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2270.ts
+#EXTINF:-1,RT. News Now
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2320.ts
+#EXTINF:-1,RT HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2319.ts
+#EXTINF:-1,Notts TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2307.ts
+#EXTINF:-1,QUEST 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2315.ts
+#EXTINF:-1,Really
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2012.ts
+#EXTINF:-1,S4C HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2322.ts
+#EXTINF:-1,Urdu 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/509.ts
+#EXTINF:-1,STV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2331.ts
+#EXTINF:-1,STV HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2332.ts
+#EXTINF:-1,Syfy 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2333.ts
+#EXTINF:-1,SYFY HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1969.ts
+#EXTINF:-1,Spike
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2009.ts
+#EXTINF:-1,True Entertainment
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2006.ts
+#EXTINF:-1,Drama
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1770.ts
+#EXTINF:-1,True Drama
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1762.ts
+#EXTINF:-1,Gold
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1773.ts
+#EXTINF:-1,GOLD 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2261.ts
+#EXTINF:-1,Watch
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1767.ts
+#EXTINF:-1,ID 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2269.ts
+#EXTINF:-1,ID
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1769.ts
+#EXTINF:-1,Quest
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1774.ts
+#EXTINF:-1,TLC UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1822.ts
+#EXTINF:-1,3e
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1824.ts
+#EXTINF:-1,Yesterday
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/773.ts
+#EXTINF:-1,Lifetime
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2016.ts
+#EXTINF:-1,YESTERDAY 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2349.ts
+#EXTINF:-1,FOX
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1758.ts
+#EXTINF:-1,Travel Channel
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2007.ts
+#EXTINF:-1,Home and Health
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2019.ts
+#EXTINF:-1,Good Food 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2262.ts
+#EXTINF:-1,History 1 hour
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2263.ts
+#EXTINF:-1,Home & Leisure
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2264.ts
+#EXTINF:-1,Home 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2265.ts
+#EXTINF:-1,Horse & Country
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2268.ts
+#EXTINF:-1,BBC News
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2210.ts
+#EXTINF:-1,Sky News Arabia
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2072.ts
+#EXTINF:-1,Sky News
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1759.ts
+#EXTINF:-1,London Live
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2286.ts
+#EXTINF:-1,BBC RB 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2212.ts
+#EXTINF:-1,Made In Cardiff
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2288.ts
+#EXTINF:-1,Made In Leeds
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2289.ts
+#EXTINF:-1,Made In Tn&Wr
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2290.ts
+#EXTINF:-1,Made In Bristol
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2287.ts
+#EXTINF:-1,Good Food
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2021.ts
+#EXTINF:-1,Travel Ch 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2340.ts
+#EXTINF:-1,E! UK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1819.ts
+#EXTINF:-1,Bangla TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2209.ts
+#EXTINF:-1,OSN First
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2105.ts
+#EXTINF:-1,OSN First Comedy
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2104.ts
+#EXTINF:-1,OSN MBC Drama
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2103.ts
+#EXTINF:-1,OSN MBC Plus Drama
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2102.ts
+#EXTINF:-1,OSN Movies Action
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2101.ts
+#EXTINF:-1,OSN Movies Comedy
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2100.ts
+#EXTINF:-1,OSN Movies Drama
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2099.ts
+#EXTINF:-1,OSN Movies Festival
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2098.ts
+#EXTINF:-1,OSN Movies Kids
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2097.ts
+#EXTINF:-1,OSN Movies Premiere
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2096.ts
+#EXTINF:-1,OSN Movies Premiere 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2095.ts
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2418.ts
+#EXTINF:-1,Sky Cinema Action HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2419.ts
+#EXTINF:-1,Sky Cinema Christmas
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2420.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2421.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2422.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2423.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2424.ts
+#EXTINF:-1,Sky Cinema Disney
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2425.ts
+#EXTINF:-1,Sky Cinema Disney HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2426.ts
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2427.ts
+#EXTINF:-1,Sky Cinema Drama & Romance HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2428.ts
+#EXTINF:-1,Sky Cinema Family
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2429.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2430.ts
+#EXTINF:-1,Sky Cinema Greats
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2431.ts
+#EXTINF:-1,Sky Cinema Greats HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2432.ts
+#EXTINF:-1,Sky Cinema Hits
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2433.ts
+#EXTINF:-1,Sky Cinema Premier HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2436.ts
+#EXTINF:-1,Sky Cinema Premiere
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2435.ts
+#EXTINF:-1,Sky Cinema Premiere  1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2434.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2440.ts
+#EXTINF:-1,Sky Cinema Select
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2437.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2438.ts
+#EXTINF:-1,Sky Cinema Showcase HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2441.ts
+#EXTINF:-1,Sky Cinema Star Wars
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2439.ts
+#EXTINF:-1,Sport TV 1 PT
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2190.ts
+#EXTINF:-1,Sport Klub 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2187.ts
+#EXTINF:-1,Sport Klub 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2188.ts
+#EXTINF:-1,Sport Klub 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2189.ts
+#EXTINF:-1,Real Madrid
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2040.ts
+#EXTINF:-1,OSN Sport 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2176.ts
+#EXTINF:-1,OSN Sport 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2177.ts
+#EXTINF:-1,OSN Sport 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2178.ts
+#EXTINF:-1,OSN sports 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2387.ts
+#EXTINF:-1,OSN Alkass Sport 5
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2113.ts
+#EXTINF:-1,OSN Alkass Sport 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2114.ts
+#EXTINF:-1,OSN Alkass Sport 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2115.ts
+#EXTINF:-1,OSN Alkass Sport 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2116.ts
+#EXTINF:-1,OSN Alkass Sport 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2117.ts
+#EXTINF:-1,Ginx eSports TV (UK)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2180.ts
+#EXTINF:-1,GEO Super
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2181.ts
+#EXTINF:-1,Extreme Sports 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2193.ts
+#EXTINF:-1,Extreme Sports
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2194.ts
+#EXTINF:-1,Digi Sport 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2184.ts
+#EXTINF:-1,Digi Sport 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2185.ts
+#EXTINF:-1,Digi Sport 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2186.ts
+#EXTINF:-1,BT Sport Extra 6
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2195.ts
+#EXTINF:-1,BT Sport Extra 5
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2196.ts
+#EXTINF:-1,BT Sport Extra 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2197.ts
+#EXTINF:-1,BT Sport Extra 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2198.ts
+#EXTINF:-1,BT Sport Extra 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2199.ts
+#EXTINF:-1,BT Sport Extra 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2200.ts
+#EXTINF:-1,VIASAT Sports
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2038.ts
+#EXTINF:-1,VIASAT Football
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2039.ts
+#EXTINF:-1,Fox Sport 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1738.ts
+#EXTINF:-1,Fox Sport 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1737.ts
+#EXTINF:-1,LIG TV3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2043.ts
+#EXTINF:-1,LIG TV2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2044.ts
+#EXTINF:-1,LIG TV1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2045.ts
+#EXTINF:-1,AD Sports 2 (Arabic)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2036.ts
+#EXTINF:-1,AD Sports 1 (Arabic)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2037.ts
+#EXTINF:-1,US SPORTSNET ONTARIO
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1974.ts
+#EXTINF:-1,TSN 5
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1746.ts
+#EXTINF:-1,TSN 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1745.ts
+#EXTINF:-1,TSN 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1744.ts
+#EXTINF:-1,TSN 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1743.ts
+#EXTINF:-1,TSN 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1742.ts
+#EXTINF:-1,NFL
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2041.ts
+#EXTINF:-1,NBC HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1946.ts
+#EXTINF:-1,NBA TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2042.ts
+#EXTINF:-1,NBA
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1751.ts
+#EXTINF:-1,LIG TV4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2046.ts
+#EXTINF:-1,BEIN Sports 1 HD France
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1222.ts
+#EXTINF:-1,BEIN Sports 2 HD France
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1223.ts
+#EXTINF:-1,BEIN Sports 3 HD France
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1224.ts
+#EXTINF:-1,BEIN SPORTS 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2061.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2060.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2059.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2058.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2057.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2056.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2055.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2054.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2053.ts
+#EXTINF:-1,BEIN SPORTS 10
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2052.ts
+#EXTINF:-1,BEIN SPORTS 11
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2051.ts
+#EXTINF:-1,BEIN SPORTS 12
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2050.ts
+#EXTINF:-1,WWE HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1903.ts
+#EXTINF:-1,Astro Sports 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1893.ts
+#EXTINF:-1,Astro Sport 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1741.ts
+#EXTINF:-1,Astro Sport 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1740.ts
+#EXTINF:-1,Astro Sport 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1739.ts
+#EXTINF:-1,Super Sport 4 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1897.ts
+#EXTINF:-1,Super Sport 3 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1896.ts
+#EXTINF:-1,Super Sport 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1895.ts
+#EXTINF:-1,Super Sport 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1894.ts
+#EXTINF:-1,Willow Cricket HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/485.ts
+#EXTINF:-1,Mio Sports
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1879.ts
+#EXTINF:-1,mio Stadium 106
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1886.ts
+#EXTINF:-1,mio Stadium 105
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1885.ts
+#EXTINF:-1,mio Stadium 104
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1884.ts
+#EXTINF:-1,mio Stadium 103
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1883.ts
+#EXTINF:-1,mio Stadium 102
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1882.ts
+#EXTINF:-1,mio Stadium 101
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1881.ts
+#EXTINF:-1,BEIN Sports 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1177.ts
+#EXTINF:-1,BEIN Sports 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1178.ts
+#EXTINF:-1,BEIN Sports 3 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1179.ts
+#EXTINF:-1,BEIN Sports 4 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1180.ts
+#EXTINF:-1,BEIN Sports 5 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1181.ts
+#EXTINF:-1,BEIN Sports 6 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1182.ts
+#EXTINF:-1,BEIN Sports 7 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1183.ts
+#EXTINF:-1,BEIN Sports 8 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1184.ts
+#EXTINF:-1,BEIN Sports 9 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1185.ts
+#EXTINF:-1,BEIN Sports 10 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1186.ts
+#EXTINF:-1,Bein Sport USA
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1736.ts
+#EXTINF:-1,Arena Sport 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/789.ts
+#EXTINF:-1,Arena Sport 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/790.ts
+#EXTINF:-1,Arena Sport 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/791.ts
+#EXTINF:-1,Arena Sport 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/792.ts
+#EXTINF:-1,Ten Sport
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/489.ts
+#EXTINF:-1,Sony ESPN
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/490.ts
+#EXTINF:-1,STAR Cricket
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1878.ts
+#EXTINF:-1,Star Sports 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/493.ts
+#EXTINF:-1,Star Sports 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/486.ts
+#EXTINF:-1,Star Sports 3 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/492.ts
+#EXTINF:-1,Star Sports 4 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/491.ts
+#EXTINF:-1,Arena Sport 1 Serbia
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1192.ts
+#EXTINF:-1,Arena Sport 2 Serbia
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1193.ts
+#EXTINF:-1,Arena Sport 3 Serbia
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1194.ts
+#EXTINF:-1,Arena Sport 4 Serbia
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1195.ts
+#EXTINF:-1,Arena Sport 5 Serbia
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/1845.ts
+#EXTINF:-1,Fox Sports 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/415.ts
+#EXTINF:-1,Fox Sports 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/416.ts
+#EXTINF:-1,Fox Sports 3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/417.ts
+#EXTINF:-1,Fox Sports 4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/418.ts
+#EXTINF:-1,Fox Sports 5
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/419.ts
+#EXTINF:-1,Fox Sports 6
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/420.ts
+#EXTINF:-1,C Golf
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2352.ts
+#EXTINF:-1,C MORE FOTBALL
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2353.ts
+#EXTINF:-1,C MORE LIVE HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2354.ts
+#EXTINF:-1,C MORE SPORT HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2355.ts
+#EXTINF:-1,Canal  Golf
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2356.ts
+#EXTINF:-1,Diema Sport 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2357.ts
+#EXTINF:-1,Diema Sport 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2358.ts
+#EXTINF:-1,Fox Sport 1 Malaysia
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2359.ts
+#EXTINF:-1,Fox Sport 2 Malaysia
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2360.ts
+#EXTINF:-1,FOX SPORTS 1 Thailand
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2361.ts
+#EXTINF:-1,FOX SPORTS 2 Thailand
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2362.ts
+#EXTINF:-1,GOLF HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2363.ts
+#EXTINF:-1,NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2364.ts
+#EXTINF:-1,NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2365.ts
+#EXTINF:-1,NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2366.ts
+#EXTINF:-1,NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2367.ts
+#EXTINF:-1,NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2368.ts
+#EXTINF:-1,NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2369.ts
+#EXTINF:-1,NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2370.ts
+#EXTINF:-1,NHL NETWORK
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2371.ts
+#EXTINF:-1,SPFL: Celtic FC TV (matchtime)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2372.ts
+#EXTINF:-1,SPFL: Rangers FC TV (matchtime)
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2373.ts
+#EXTINF:-1,SPORTSNET-360HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2374.ts
+#EXTINF:-1,SPORTSNET-ONE HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2375.ts
+#EXTINF:-1,SPORTSNET-ONTARIOHD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2376.ts
+#EXTINF:-1,SPORTSNET-PACIFIC HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2377.ts
+#EXTINF:-1,SPORTSNET-WEST HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2378.ts
+#EXTINF:-1,Ten Golf
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2379.ts
+#EXTINF:-1,US Versus NBA HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2381.ts
+#EXTINF:-1,UFC Fight Pass HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2380.ts
+#EXTINF:-1,Viasat Sport Norway
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2382.ts
+#EXTINF:-1,Ziggo Sport eXtra 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2383.ts
+#EXTINF:-1,Ziggo Sport eXtra 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2384.ts
+#EXTINF:-1,Ziggo Sport Golf
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2385.ts
+#EXTINF:-1,Ziggo Sport Voetbal
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2386.ts
+#EXTINF:-1,USA:NBC XTRA 1 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2399.ts
+#EXTINF:-1,USA:NBC XTRA 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2401.ts
+#EXTINF:-1,USA:NBC XTRA 3 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2403.ts
+#EXTINF:-1,USA:NBC XTRA 4 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2405.ts
+#EXTINF:-1,USA:NBC XTRA 5 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2407.ts
+#EXTINF:-1,USA:NBCSN HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2408.ts
+#EXTINF:-1,VIP: MIO Stadium 102 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2552.ts
+#EXTINF:-1,VIP: MIO Stadium 103 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2553.ts
+#EXTINF:-1,VIP: MIO Stadium 104 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2554.ts
+#EXTINF:-1,VIP: MIO Stadium 105 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2555.ts
+#EXTINF:-1,VIP: MIO Stadium 106 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2556.ts
+#EXTINF:-1,VIP: MIO Stadium 107 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2557.ts
+#EXTINF:-1,VIP: MIO Stadium 108 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2558.ts
+#EXTINF:-1,USA: A&E
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2442.ts
+#EXTINF:-1,USA: A&E HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2443.ts
+#EXTINF:-1,USA: A&E TV HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2444.ts
+#EXTINF:-1,USA: ABC Family
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2445.ts
+#EXTINF:-1,USA: ABC HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2446.ts
+#EXTINF:-1,USA: AETV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2447.ts
+#EXTINF:-1,USA: AFN Movie
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2448.ts
+#EXTINF:-1,USA: AFN News
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2449.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2450.ts
+#EXTINF:-1,USA: AFN Prime Pacific
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2451.ts
+#EXTINF:-1,USA: AFN Pulse
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2452.ts
+#EXTINF:-1,USA: AFN Spectrum
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2453.ts
+#EXTINF:-1,USA: AFN Sports 1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2454.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2455.ts
+#EXTINF:-1,USA: AMC HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2456.ts
+#EXTINF:-1,USA: Animal Planet HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2457.ts
+#EXTINF:-1,USA: Bounce TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2458.ts
+#EXTINF:-1,USA: Bravo
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2459.ts
+#EXTINF:-1,USA: Bravo HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2460.ts
+#EXTINF:-1,USA: BTN Sport HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2461.ts
+#EXTINF:-1,USA: ByuTV HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2462.ts
+#EXTINF:-1,USA: Cartoon Network
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2463.ts
+#EXTINF:-1,USA: CBS HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2464.ts
+#EXTINF:-1,USA: CBS Sports
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2465.ts
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2466.ts
+#EXTINF:-1,USA: Cinemax East
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2467.ts
+#EXTINF:-1,USA: CNBC
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2468.ts
+#EXTINF:-1,USA: CNN HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2469.ts
+#EXTINF:-1,USA: Comedy Central HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2470.ts
+#EXTINF:-1,USA: CW HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2471.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2472.ts
+#EXTINF:-1,USA: Discovery Family HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2473.ts
+#EXTINF:-1,USA: Discovery HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2474.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2475.ts
+#EXTINF:-1,USA: Discovery Velocity
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2476.ts
+#EXTINF:-1,USA: Disney Channel
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2477.ts
+#EXTINF:-1,USA: DIY Network HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2478.ts
+#EXTINF:-1,USA: ESPN
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2479.ts
+#EXTINF:-1,USA: ESPN 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2480.ts
+#EXTINF:-1,USA: ESPN HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2481.ts
+#EXTINF:-1,USA: ESPN HD 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2482.ts
+#EXTINF:-1,USA: Fight Network
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2483.ts
+#EXTINF:-1,USA: Fight Sport US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2484.ts
+#EXTINF:-1,USA: Fine Living Network
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2485.ts
+#EXTINF:-1,USA: Food Network HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2486.ts
+#EXTINF:-1,USA: FOXX HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2487.ts
+#EXTINF:-1,USA: FreeRom HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2488.ts
+#EXTINF:-1,USA: FX HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2489.ts
+#EXTINF:-1,USA: FXX
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2490.ts
+#EXTINF:-1,USA: H2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2491.ts
+#EXTINF:-1,USA: Hallmark
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2492.ts
+#EXTINF:-1,USA: HBO
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2493.ts
+#EXTINF:-1,USA: HBO 2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2494.ts
+#EXTINF:-1,USA: HBO Comedy
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2495.ts
+#EXTINF:-1,USA: HBO East
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2496.ts
+#EXTINF:-1,USA: HBO Family HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2497.ts
+#EXTINF:-1,USA: HBO HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2498.ts
+#EXTINF:-1,USA: HBO Signature
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2499.ts
+#EXTINF:-1,USA: HBO Signature HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2500.ts
+#EXTINF:-1,USA: HBO Zone HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2501.ts
+#EXTINF:-1,USA: HGTV HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2502.ts
+#EXTINF:-1,USA: HIFI
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2503.ts
+#EXTINF:-1,USA: History
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2504.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2505.ts
+#EXTINF:-1,USA: Life Time
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2506.ts
+#EXTINF:-1,USA: MLB Network
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2507.ts
+#EXTINF:-1,USA: MSNBC HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2508.ts
+#EXTINF:-1,USA: MTV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2509.ts
+#EXTINF:-1,USA: Nat Geo HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2510.ts
+#EXTINF:-1,USA: National Geographic
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2511.ts
+#EXTINF:-1,USA: NBA TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2512.ts
+#EXTINF:-1,USA: NBC Golf
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2513.ts
+#EXTINF:-1,USA: NBC Sport
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2514.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2515.ts
+#EXTINF:-1,USA: NFL Network HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2516.ts
+#EXTINF:-1,USA: NFL Now HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2517.ts
+#EXTINF:-1,USA: NHL Network
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2518.ts
+#EXTINF:-1,USA: Nick
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2519.ts
+#EXTINF:-1,USA: Nickelodeon HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2520.ts
+#EXTINF:-1,USA: OWN HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2521.ts
+#EXTINF:-1,USA: PBS America
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2522.ts
+#EXTINF:-1,USA: PIX 11
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2523.ts
+#EXTINF:-1,USA: Poker Central
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2524.ts
+#EXTINF:-1,USA: Showtime
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2525.ts
+#EXTINF:-1,USA: Showtime 2 HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2526.ts
+#EXTINF:-1,USA: Showtime Extreme
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2527.ts
+#EXTINF:-1,USA: Showtime Showcase
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2528.ts
+#EXTINF:-1,USA: Showtime West
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2529.ts
+#EXTINF:-1,USA: Spike HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2530.ts
+#EXTINF:-1,USA: Starz Cinema
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2531.ts
+#EXTINF:-1,USA: Starz Comedy
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2532.ts
+#EXTINF:-1,USA: Starz East
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2533.ts
+#EXTINF:-1,USA: Starz Edge HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2534.ts
+#EXTINF:-1,USA: Starz Encore
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2535.ts
+#EXTINF:-1,USA: SYFY HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2536.ts
+#EXTINF:-1,USA: TBS HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2537.ts
+#EXTINF:-1,USA: The Weather Channel
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2538.ts
+#EXTINF:-1,USA: TLC HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2539.ts
+#EXTINF:-1,USA: TNT
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2540.ts
+#EXTINF:-1,USA: Tru TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2541.ts
+#EXTINF:-1,USA: USA BET
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2542.ts
+#EXTINF:-1,USA: USA Network HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2543.ts
+#EXTINF:-1,USA: UTV IE
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2544.ts
+#EXTINF:-1,USA: VH1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2545.ts
+#EXTINF:-1,USA: Viceland
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2546.ts
+#EXTINF:-1,USA: WE TV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2547.ts
+#EXTINF:-1,USA: WWE HD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://149.202.92.133:8000/live/brett/brett/2548.ts

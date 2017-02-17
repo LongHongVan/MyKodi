@@ -1,4 +1,7 @@
 [   
+	"http://www.tv-logo.com/pt-data/uploads/images/logo/htv_7.jpg", 
+	"http://www.tv-logo.com/pt-data/uploads/images/logo/htv_9.jpg", 
+	"http://www.tv-logo.com/pt-data/uploads/images/logo/htvc_ca_nhac.jpg", 
 	"https://www.thelogodb.com/images/media/logo/vyvwrr1433380362.png", 
 	"https://www.thelogodb.com/images/media/logo/yptqtt1433332816.png", 
 	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 

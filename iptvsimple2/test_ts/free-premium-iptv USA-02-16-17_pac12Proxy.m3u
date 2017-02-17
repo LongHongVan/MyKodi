@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1,NBC
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.mpegts
+#EXTINF:-1,A&E
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/2.mpegts
+#EXTINF:-1,ABC
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts
+#EXTINF:-1,AMC
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts
+#EXTINF:-1,E!
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
+#EXTINF:-1,LMN
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/8.mpegts
+#EXTINF:-1,USA Network
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/10.mpegts
+#EXTINF:-1,SyFY US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/11.mpegts
+#EXTINF:-1,Spike US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/12.mpegts
+#EXTINF:-1,HallMark
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/9.mpegts
+#EXTINF:-1,FX
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/7.mpegts
+#EXTINF:-1,FOX
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts
+#EXTINF:-1,TNT
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts
+#EXTINF:-1,Comedy Central US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/14.mpegts
+#EXTINF:-1,Lifetime US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/15.mpegts
+#EXTINF:-1,CNN US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/16.mpegts
+#EXTINF:-1,HBO EAST
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/17.mpegts
+#EXTINF:-1,HBO Comedy
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
+#EXTINF:-1,HBO Family
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
+#EXTINF:-1,HBO Signature
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
+#EXTINF:-1,HBO ZONE
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
+#EXTINF:-1,Showtime
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts
+#EXTINF:-1,Cinemas EAST
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/18.mpegts
+#EXTINF:-1,Cinemax ActionMax
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/20.mpegts
+#EXTINF:-1,Cinemax 5Stars
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/21.mpegts
+#EXTINF:-1,Starz Edge
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts
+#EXTINF:-1,Starz Encore
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/23.mpegts
+#EXTINF:-1,History US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts
+#EXTINF:-1,H2 US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts
+#EXTINF:-1,Discovery Channel US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
+#EXTINF:-1,National Geographic US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts
+#EXTINF:-1,NatGeo Wild US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts
+#EXTINF:-1,Animal Planet US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts
+#EXTINF:-1,Investigation Discovery  US
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts
+#EXTINF:-1,HGTV
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts
+#EXTINF:-1,ESPN
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/30.mpegts
+#EXTINF:-1,ESPN2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/31.mpegts
+#EXTINF:-1,Fox Sports1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/32.mpegts
+#EXTINF:-1,Fox Sports2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts
+#EXTINF:-1,NBA
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts
+#EXTINF:-1,NFL Network
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/35.mpegts
+#EXTINF:-1,TSN1
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts
+#EXTINF:-1,TSN2
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/37.mpegts
+#EXTINF:-1,TSN3
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/38.mpegts
+#EXTINF:-1,TSN4
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts
+#EXTINF:-1,TSN5
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts
+#EXTINF:-1,TBS
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts
+#EXTINF:-1,NBC SN
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts
+#EXTINF:-1,Sportnet 360
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
+#EXTINF:-1,SPORTSNET WORLD
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts
+#EXTINF:-1,Sportsnet Ontario
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/47.mpegts
+#EXTINF:-1,Sportsnet ONE
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/44.mpegts
+#EXTINF:-1,Showtime West
+http://127.0.0.1:55555/streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts
