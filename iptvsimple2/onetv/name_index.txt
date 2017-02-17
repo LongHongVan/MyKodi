@@ -1,7 +1,7 @@
 [   
 	"HTV 7 FHD Bonus", 
 	"HTV 9 FHD Bonus",  
-	"HTV Ca Nhac FHD Bonus", 
+	"HTV Du Lich FHD Bonus", 
 	"Fox Sports 1 HD", 
 	"Fox Sports 2 HD", 
 	"NBCSN HD", 

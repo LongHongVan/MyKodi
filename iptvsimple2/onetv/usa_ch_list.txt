@@ -1,7 +1,7 @@
 [
 	"http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv7.1080p.stream/playlist.m3u8", 
 	"http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv9.1080p.stream/playlist.m3u8",  
-	"http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvccanhac.1080p.stream/playlist.m3u8", 
+	"http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcdulich.1080p.stream/playlist.m3u8", 
 	"http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/329.ts|User-Agent=fucks", 
 	"http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/328.ts|User-Agent=fucks", 
 	"http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/562.ts|User-Agent=fucks", 
