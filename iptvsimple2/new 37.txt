@@ -1,9 +1,59 @@
+02/17/2017
+
+
+ http://158.69.127.12:25461/get.php?username=0101&password=0101&type=m3u
+
+http://149.202.92.133:8000/get.php?username=11&password=11&type=m3u
+
+http://iptv.proff.co:15003/get.php?username=marra&password=marra1&type=m3u
+
+http://biwsat.com:8080/get.php?username=fY0uBnCYze&password=BnuwEr1Ts3&type=m3u
+
+http://136.243.48.19:1985/get.php?username=1020304050&password=1020304050&type=m3u
+
+http://151.80.100.30:8088/get.php?username=2376970808&password=6443916&type=m3u
+
+http://151.80.96.205:8000/get.php?username=padream&password=padreamf5sd&type=m3u
+
+http://149.202.198.186:50100/get.php?username=syrie&password=syrie&type=m3u
+
+http://158.69.52.43:8000/get.php?username=torres1&password=torres1&type=m3u
+
+http://137.74.95.10:8000/get.php?username=iptv2017&password=test64646846565465416&type=m3u
+
+http://149.202.208.25:5210/get.php?username=uUPKzeUIGk&password=rQ0Eg5DUkr&type=m3u
+
+http://193.70.45.204:8000/get.php?username=master-stuner&password=rbmD9Fuozu&type=m3u
+
+http://two-brothers.dyndns.tv:8000/get.php?username=iptv2017&password=test64646846565465416&type=m3u
+
+http://s1.finoip.com:20000/get.php?username=mark&password=mark&type=m3u
+
+http://pro213.com:80/get.php?username=beppe&password=beppe2&type=m3u
+
+http://193.70.116.156:8080/get.php?username=fY0uBnCYze&password=BnuwEr1Ts3&type=m3u
+
+http://37.46.192.238:10000/playlist.m3u8
+
+http://41.231.7.153:8000/playlist.m3u8
+
+
+
 02/16/2017
 
 ++++++ Today Top sites +++++++++++++++++++++++++++++++++++++++++++++++++
-http://137.74.93.219:8000/get.php?username=canada&password=canada&type=m3u 29 USA
 
-http://23.237.0.58:8000/get.php?username=1&password=1&type=m3u Many Local Channels
+http://149.202.92.133:8000/get.php?username=Alan1&password=Alan1&type=m3u
+
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.m3u8
+
+http://free-premium-iptv.ddns.net:9090/streams/free123
+
+http://free-premium-iptv.ddns.net:9090/m3u8/free123?type=m3u&output=ts
+
+http://free-premium-iptv.ddns.net:9090/m3u8/wk2bl7jh3cdk?type=m3u
+
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk?type=m3u
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
