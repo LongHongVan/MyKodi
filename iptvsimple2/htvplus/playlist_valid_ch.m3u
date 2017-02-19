@@ -79,6 +79,10 @@ http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcoop.360p.str
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvc_the_thao.360p.stream/playlist.m3u8
 #EXTINF:-1, Thuần Việt
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/thuan_viet.360p.stream/playlist.m3u8
+
+#EXTINF:-1, Thuần Việt HD (new)
+http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/thuan_viet.720p.stream/playlist.m3u8
+
 #EXTINF:-1, HTVC Phim
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvc_phim.360p.stream/playlist.m3u8
 #EXTINF:-1, HTVC Phim HD

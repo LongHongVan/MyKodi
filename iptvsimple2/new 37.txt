@@ -1,41 +1,42 @@
 02/17/2017
 
++++++++++++++ Top Site +++++++++++++++++++++
+http://149.202.198.186:50100/get.php?username=syrie&password=syrie&type=m3u 17 USA
 
- http://158.69.127.12:25461/get.php?username=0101&password=0101&type=m3u
+http://158.69.52.43:8000/get.php?username=torres1&password=torres1&type=m3u 10 USA
+http://151.80.100.30:8088/get.php?username=2376970808&password=6443916&type=m3u 11 USA
 
-http://149.202.92.133:8000/get.php?username=11&password=11&type=m3u
+http://s1.finoip.com:20000/get.php?username=mark&password=mark&type=m3u 180 uK + NBCSN
 
-http://iptv.proff.co:15003/get.php?username=marra&password=marra1&type=m3u
+http://158.69.127.12:25461/get.php?username=0101&password=0101&type=m3u 4 USA
 
-http://biwsat.com:8080/get.php?username=fY0uBnCYze&password=BnuwEr1Ts3&type=m3u
++++++++++++++++++++++++++++++++++++++++++++++++
 
-http://136.243.48.19:1985/get.php?username=1020304050&password=1020304050&type=m3u
 
-http://151.80.100.30:8088/get.php?username=2376970808&password=6443916&type=m3u
 
-http://151.80.96.205:8000/get.php?username=padream&password=padreamf5sd&type=m3u
+http://149.202.92.133:8000/get.php?username=11&password=11&type=m3u No USA
 
-http://149.202.198.186:50100/get.php?username=syrie&password=syrie&type=m3u
+http://iptv.proff.co:15003/get.php?username=marra&password=marra1&type=m3u No USA
 
-http://158.69.52.43:8000/get.php?username=torres1&password=torres1&type=m3u
+http://biwsat.com:8080/get.php?username=fY0uBnCYze&password=BnuwEr1Ts3&type=m3u No USA
 
-http://137.74.95.10:8000/get.php?username=iptv2017&password=test64646846565465416&type=m3u
+http://136.243.48.19:1985/get.php?username=1020304050&password=1020304050&type=m3u No USA
 
-http://149.202.208.25:5210/get.php?username=uUPKzeUIGk&password=rQ0Eg5DUkr&type=m3u
 
-http://193.70.45.204:8000/get.php?username=master-stuner&password=rbmD9Fuozu&type=m3u
+http://151.80.96.205:8000/get.php?username=padream&password=padreamf5sd&type=m3u No USA
 
-http://two-brothers.dyndns.tv:8000/get.php?username=iptv2017&password=test64646846565465416&type=m3u
+http://137.74.95.10:8000/get.php?username=iptv2017&password=test64646846565465416&type=m3u BAD
 
-http://s1.finoip.com:20000/get.php?username=mark&password=mark&type=m3u
+http://149.202.208.25:5210/get.php?username=uUPKzeUIGk&password=rQ0Eg5DUkr&type=m3u BAD
 
-http://pro213.com:80/get.php?username=beppe&password=beppe2&type=m3u
+http://193.70.45.204:8000/get.php?username=master-stuner&password=rbmD9Fuozu&type=m3u No USA
 
-http://193.70.116.156:8080/get.php?username=fY0uBnCYze&password=BnuwEr1Ts3&type=m3u
+http://two-brothers.dyndns.tv:8000/get.php?username=iptv2017&password=test64646846565465416&type=m3u No uSA
 
-http://37.46.192.238:10000/playlist.m3u8
+http://pro213.com:80/get.php?username=beppe&password=beppe2&type=m3u BAD
 
-http://41.231.7.153:8000/playlist.m3u8
+http://193.70.116.156:8080/get.php?username=fY0uBnCYze&password=BnuwEr1Ts3&type=m3u BAD
+
 
 
 
