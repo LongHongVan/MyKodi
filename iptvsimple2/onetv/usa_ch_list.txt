@@ -1,4 +1,5 @@
 [
+	"http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/thuan_viet.720p.stream/playlist.m3u8", 
 	"http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv7.1080p.stream/playlist.m3u8", 
 	"http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv9.1080p.stream/playlist.m3u8",  
 	"http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcdulich.1080p.stream/playlist.m3u8",  
