@@ -49,7 +49,7 @@ http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
 http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/chunklist_b1200000.m3u8
 #EXTINF:0 tvg-logo="https://s13.postimg.org/xfqtu80tz/vtc14.png", VTC14
 http://118.70.203.130:8081/livedemo/vtc14hd-p1/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s13.postimg.org/xfqtu80tz/vtc14.png", VTC14 HD
+#EXTINF:0 tvg-logo="https://s13.postimg.org/xfqtu80tz/vtc14.png", VTC14 HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/vtc14.1080p.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png", SCTV5-SCJ
 http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
@@ -69,9 +69,9 @@ http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv1.360p.stream
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv2.720p.stream/playlist.m3u8
 #EXTINF:-1, HTV4
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv4.360p.stream/playlist.m3u8
-#EXTINF:-1, HTV7 HD
+#EXTINF:-1, HTV7 HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv7.1080p.stream/playlist.m3u8
-#EXTINF:-1, HTV9 HD
+#EXTINF:-1, HTV9 HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv9.1080p.stream/playlist.m3u8
 #EXTINF:-1, HTV Coop
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcoop.360p.stream/playlist.m3u8
@@ -87,19 +87,19 @@ http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/thuan_viet.720p.
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvc_phim.360p.stream/playlist.m3u8
 #EXTINF:-1, HTVC Phim HD
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvc_movies.720p.stream/playlist.m3u8
-#EXTINF:-1, HTVC Du Lịch HD
+#EXTINF:-1, HTVC Du Lịch HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcdulich.1080p.stream/playlist.m3u8
-#EXTINF:-1, HTVC Phụ Nữ HD
+#EXTINF:-1, HTVC Phụ Nữ HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcphunu.1080p.stream/playlist.m3u8
-#EXTINF:-1, HTVC Gia Đình HD
+#EXTINF:-1, HTVC Gia Đình HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcgiadinh.1080p.stream/playlist.m3u8
-#EXTINF:-1, Channel B HD
+#EXTINF:-1, Channel B HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcplus.1080p.stream/playlist.m3u8
-#EXTINF:-1, HTVC Ca Nhạc HD
+#EXTINF:-1, HTVC Ca Nhạc HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvccanhac.1080p.stream/playlist.m3u8
 #EXTINF:-1, FBNC HD
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/fbnc.720p.stream/playlist.m3u8
-#EXTINF:-1, iTV HD
+#EXTINF:-1, iTV HD(1080)
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/itvhd.1080p.stream/playlist.m3u8
 #EXTINF:-1, Star Movies HD
 http://livetv1.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/starmovies.720p.stream/playlist.m3u8
