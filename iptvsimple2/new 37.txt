@@ -1,5 +1,14 @@
 02/24/2017
 
+http://37.187.139.155:8000/live/lightwrath@live.com/WatchNow!/477.ts
+
+http://37.187.139.155:8000/get.php?username=lightwrath@live.com&password=WatchNow!&type=m3u
+
+http://link.softiptv.com:2500/get.php?username=5oRyabpknT&password=Tq3D6EwrUF&type=m3u BAD
+
+
+02/24/2017
+
 http://flawless-iptv.net:4545/live/Andrew123/Andrew123/2611.ts
 
 http://flawless-iptv.net:4545/get.php?username=Andrew123&password=Andrew123&type=m3u
