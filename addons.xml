@@ -552,6 +552,7 @@
 		<license>GNU General Public License, v2</license>
 		<language></language>
 	</extension>
+</addon>
 
 <addon
   id="plugin.video.kodi4vn.launcher"
