@@ -1,0 +1,312 @@
+#EXTM3U bit.ly/hieuhientv
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Tin Tức", [COLOR red][B]Asia 75[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/shows/Asia/Asia.75.Nhung.Giong.Ca.Huyen.Thoai.2014.1080p/media_w2068982058.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/c/cf/20130331170504!VTV_Logo.png",VTV 1
+http://123.30.191.202/hls/vtv1.m3u8
+#EXTINF:-1,VTV1 HD
+http://118.107.68.10:1935/live/_definst_/VTV1HD_1280x720_07122016/playlist.m3u8
+#EXTINF:-1,VTV2
+http://118.107.68.10:1935/live/_definst_/VTV2_720x576_2016/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/c/cf/20130331170504!VTV_Logo.png",VTV 2
+http://123.30.191.202/hls/vtv2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/c/cf/20130331170504!VTV_Logo.png",VTV 3
+http://123.30.191.202/hls/vtv3.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/c/cf/20130331170504!VTV_Logo.png",VTV 4
+http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/c/cf/20130331170504!VTV_Logo.png",VTV 6
+http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/c/cf/20130331170504!VTV_Logo.png",VTV 8
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
+
+
+
+
+#EXTINF:-1,VTC1 HD
+http://118.107.68.10:1935/live/_definst_/smil:VTC1HD_2016_05122016.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 1 
+http://118.107.68.10:1935/live/_definst_/smil:VTC1HD_2016_05122016.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 2
+
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 3
+http://123.30.185.126/hls/vtc3.m3u8
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 3HD
+http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1,VTC3 HD
+http://118.107.68.10:1935/live/_definst_/smil:vtc3hd251116.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 4
+
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 5
+
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 6
+http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 7
+
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 8
+
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 9
+
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 10
+
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 11
+
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 12
+
+#EXTINF:-1 tvg-logo="http://tivi.thongtin24h.net/wp-content/uploads/2015/09/XemPhimOn_itv-vtc1.png",iTV-VTC 13
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://xspace.talaweb.com/laptruyenhinhcap/home/share/angelvnc/1305278229_996-23088108-lap-dat-truyen-hinh-do-net-cao-vtc-hd.jpg",VTC 14 HD
+
+#EXTINF:-1 tvg-logo="https://s21.postimg.org/9wp59n2ev/vtcplay.jpg",VTC Play
+
+#EXTINF:-1 tvg-logo="http://baochinhphu.vn/Uploaded/hoangtrongdien/2013_08_01/avatar.aspx.jpg",TTXVN
+
+
+
+
+#EXTINF:-1,NetViet
+http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_live.smil/playlist.m3u8
+#EXTINF:-1,Ha Giang
+http://118.107.76.15:1983/live/HG_live.smil/playlist.m3u8
+#EXTINF:-1,Bac Kan
+http://118.107.76.15:1983/live/BK_live.smil/playlist.m3u8
+#EXTINF:-1,Cao Bang
+http://118.107.76.15:1983/live/CB_live.smil/playlist.m3u8
+#EXTINF:-1,Lam Dong
+http://118.107.76.15:1983/live/smil:LD_live.smil/playlist.m3u8
+#EXTINF:-1,Phu Tho
+http://118.107.76.15:1983/live/smil:PT_live.smil/playlist.m3u8
+#EXTINF:-1,Quang Tri
+http://118.107.76.15:1983/live/smil:QT_live.smil/playlist.m3u8
+#EXTINF:-1,Son La
+http://118.107.76.15:1983/live/smil:SL_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bvad.info/wp-content/uploads/2016/04/bang-gia-quang-cao-truyen-hinh-tra-vinh.png",TRA VINH
+http://123.30.191.202/hls/travinh.m3u8
+#EXTINF:-1 tvg-logo="http://tv.vietbao.vn/images/tv2015/channels/290-truyen-hinh-tien-giang-thtg.jpg",TIEN GIANG
+http://123.30.191.202/hls/tiengiang.m3u8
+#EXTINF:-1 tvg-logo="http://quangcaotruyenthong.com/files/assets/logo_vitv_1_1.jpg",VITV
+http://14.160.54.166:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://www.danang.gov.vn/images/danang/image/Nam%202012/Hinh%20anh%20-%20logo%20Giao%20dien/_LogoDanang_200.jpg",DA NANG 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.danang.gov.vn/images/danang/image/Nam%202012/Hinh%20anh%20-%20logo%20Giao%20dien/_LogoDanang_200.jpg",DA NANG 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://quangminhad.vn/sites/default/files/dichvu/truyen-hinh/binh_phuoc.png",BINH PHUOC 1
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:-1 tvg-logo="http://quangminhad.vn/sites/default/files/dichvu/truyen-hinh/binh_phuoc.png",BINH PHUOC 2
+http://118.69.197.145/hls/bptv2.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/editor/images/1423638450_logoantv.png",ANTV
+http://123.30.191.202/hls/antv.m3u8
+#EXTINF:-1 tvg-logo="http://hanoitv.vn/files/2013/10/19/cuoc-thi-sang-tac-logo-va-bo-nhan-dien-thuong-hieu-dai-pt-th-ha-noi-1.jpg",HA NOI 1
+http://123.30.191.202/hls/hanoi1.m3u8
+#EXTINF:-1 tvg-logo="http://hanoitv.vn/files/2013/10/19/cuoc-thi-sang-tac-logo-va-bo-nhan-dien-thuong-hieu-dai-pt-th-ha-noi-1.jpg",HA NOI 2
+http://123.30.191.202/hls/hanoi2.m3u8
+#EXTINF:-1 tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/star-movies-tv-channel-logo-design-free.png",smar movie HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/697348597474582528/1VR49PNa_200x200.png",BEIN MOVIE 1HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/697348597474582528/1VR49PNa_200x200.png",BEIN MOVIE 2HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/697348597474582528/1VR49PNa_200x200.png",BEIN MOVIE 4HD
+#EXTINF:-1 tvg-logo="http://www.flatlandgames.com/amw/imgs/amw_logo.png",MOVIE ACTION 1HD
+#EXTINF:-1 tvg-logo="http://www.flatlandgames.com/amw/imgs/amw_logo.png",MOVIE ACTION 1HD
+#EXTINF:-1 tvg-logo="http://giadinh.vcmedia.vn/Images/Uploaded/Share/2009/03/20090307114233195/doi%20logo%20phim.jpg",phim phu de 1
+http://live.csmtalk.vcdn.vn/hls/ac084121c1197ea5f9b9068780826d8a/15876e438e3/meowdoraemon/index.m3u8
+#EXTINF:-1 tvg-logo="http://giadinh.vcmedia.vn/Images/Uploaded/Share/2009/03/20090307114233195/doi%20logo%20phim.jpg",phim phu de 2
+http://live.csmtalk.vcdn.vn/hls/b86d6c452c630cd972fbf6711e52ffb7/15870bde7a5/thegioionline/index.m3u8
+#EXTINF:-1 tvg-logo="http://giadinh.vcmedia.vn/Images/Uploaded/Share/2009/03/20090307114233195/doi%20logo%20phim.jpg",phim phu de 4
+http://live.csmtalk.vcdn.vn/hls/1185cb26b4f51ee1b52d72eb8a1e96dc/15876e650b7/hdchannel/index.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010.png",cartoon network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b700000.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2010.png",cartoon network 2
+http://a1.adintrend.com:443/live/ch31/i/ch31i.m3u8
+#EXTINF:-1 tvg-logo="http://stc.nctcorp.nixcdn.com/images/logo_nct.jpg",NCT+
+http://123.30.134.108:1935/live/nctlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png",9music
+rtmp://203.162.121.230:1935/live//9_music
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png",music
+http://203.162.121.230:1935/live//9_music/index.m3u8
+#EXTINF:-1 tvg-logo="http://lifetv.vn/upload/channel/Logo_2_Channell.png",2Channel vietnam
+http://203.162.121.230:1935/live//2channel/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.yupclick.com/images/Channels/lifetv.jpg",lifetv
+http://203.162.121.230:1935/live/live_lifetv/index.m3u8
+#EXTINF:-1 tvg-logo="http://4menshop.com/dataupload/news/183/123.jpg",4MEN
+http://203.162.121.230:1935/live//4Men/index.m3u8
+#EXTINF:-1 tvg-logo="http://vieclam.tv/images/logo/wvv.jpg",DI SAN VIET
+http://203.162.121.230:1935/live//disanviet/index.m3u8
+#EXTINF:-1 tvg-logo="http://ttmediavietnam.com/public/images/1469161501-Thiet-ke-web-sang-tao-truyen-thong-Adpages.png",truyen thong viet
+http://203.162.121.230:1935/live//ttv/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RgULSk8GjpA/VihLdGPtrMI/AAAAAAAAAiE/LUj-yKYmFWE/logo%2Bkeeng%2Byoutube.png",KEENG TV
+http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk",VIET SONG TV
+http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk",VIET MY TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk",CONG GIAO
+http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk",VNA TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk",VIETBAY TV
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk",KVLA
+http://63.143.59.125:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sky1cast.com/images/tv_icons/jasmin.jpg",JAMIN TV 
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:LONDON LIVE 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:BBC AMERICA 
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:ABC NEWS 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
+#EXTINF:-1 group-title="US" tvg-logo="",USA:CNN 
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/95uolyzjd/bloomberg.png",USA:Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 group-title="US" tvg-logo="",USA:TRU TV 
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:DYSCOVERY 
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:ANIMAL PLANET HD 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:NICK TOONS 
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:TNT 
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="",USA:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 2 
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 3 
+http://a1.adintrend.com:443/live/ch3/i/ch3i.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 5
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 7 s1
+http://je8.bugaboo.tv/liveedgech7_partner/480p/playlist.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 7 s2
+http://111.223.36.2/teleplus_ch7.m3u8?bandwidth=556
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 8 s1
+http://202.142.207.150:1935/live/liveinfinity3/playlist.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 8 s2
+http://stream.rs.co.th/ch8-low/index.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 13
+http://stream.13livetv.com:1935/live/13livetv/chunklist_w1245002243.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:NBT
+http://202.43.34.234:1935/11/s1/chunklist.m3u8?wowzasessionid=1576797501
+#EXTINF:-1 group-title="THAILAND",Thai:MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:GANG CARTOON
+http://111.223.36.6/tp_gang_cartoon.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CAT CHANNEL
+http://61.19.18.237/live/m1.sdp/chunklist_w1633942408.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:CARTOON CLUB
+http://111.223.36.3/tp_cartoon_club.m3u8
+#EXTINF:-1 group-title="THAILAND",Thai:NEW TV 18
+http://111.223.36.6/tp_dailynews_tv.m3u8?bandwidth=306
+
+#EXTINF:-1 group-title="KOREA",Korea:BBS
+http://edge1.everyon.tv:1935/etv1/phd553/chunklist_w1460618078.m3u8
+#EXTINF:-1 group-title="KOREA",Korea:CBS
+http://123.108.164.71/etv2sb/phd27/chunklist_w1165666480.m3u8
+#EXTINF:-1 group-title="KOREA",Korea:KIDS TV
+http://123.108.164.71/etv2/phd1043/playlist.m3u8
+#EXTINF:-1 group-title="KOREA",Korea:ANIMATION
+http://123.108.164.71/etv2sb/pld13/lihattv.m3u8
+#EXTINF:-1 group-title="KOREA",Korea:KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+#EXTINF:-1 group-title="KOREA",Korea:LIHAT TV
+http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
+
+#EXTINF:-1 group-title="CHINA",China:CCTV1 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV2 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-2/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV3 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-3/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV4 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-4/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV6 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-6/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV7 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-7/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV8 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-8/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV9 s1 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-news/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV9 s2  
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-9/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV10 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-10/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV11 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-11/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV12 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-12/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV13 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV14 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m3u8
+#EXTINF:-1 group-title="CHINA",China:CCTV15 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",KOSMOS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",BTV DOC
+http://218.92.209.33/livehls1-cnc.wasu.cn/bjjs/z.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRTBELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CHINA HISTORY CHANNEL
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
+#EXTINF:-1  group-title="QUOC TE TH" tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png", NHK WORLD
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/edj0suuct/abcnews.jpg",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1

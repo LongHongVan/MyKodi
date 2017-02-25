@@ -1,3 +1,20 @@
+02/24/2017
+
+http://flawless-iptv.net:4545/live/Andrew123/Andrew123/2611.ts
+
+http://flawless-iptv.net:4545/get.php?username=Andrew123&password=Andrew123&type=m3u
+
+http://176.31.231.205:8000/get.php?username=subaru&password=subaru
+
+02/19/2017
+
++++++++++++++ Top Site +++++++++++++++++++++
+http://free-premium-iptv.ddns.net:9090/streams/wk2bl7jh3cdk
+
+http://bit.ly/hieuhientv
+
+
+
 02/17/2017
 
 +++++++++++++ Top Site +++++++++++++++++++++
@@ -49,6 +66,8 @@ http://149.202.92.133:8000/get.php?username=Alan1&password=Alan1&type=m3u
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.m3u8
 
 http://free-premium-iptv.ddns.net:9090/streams/free123
+
+http://free-premium-iptv.ddns.net:9090/streams/wk2bl7jh3cdk
 
 http://free-premium-iptv.ddns.net:9090/m3u8/free123?type=m3u&output=ts
 
