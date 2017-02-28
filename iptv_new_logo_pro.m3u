@@ -937,3 +937,137 @@ http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=7GNKwL5BplY
 https://livecdn.fptplay.net/livek/vtv1hd_hls.smil/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE0ODUxMTA1MDgsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjUwY2FjNzNhZGNkNmFlZjZiNDdmNWViMjk2ZGQ3ODZhIiwgInZhbGlkX21pbnV0ZXMiOiAxNDg1MTk2OTA4LCAicm1pcCI6ICI3Ni4yMS4xMjQuMjM4In0=||User-Agent=Mozilla/5.0 AppleWebKit/537.36
 
 
+# Super USA Live M3U ++++++++++++++++++++++++++
+#EXTINF:-1 group-title="Super USA Stream", AMC HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQU1DX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", ANIMAL PLANET HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQU5JTUFMX1BMQU5FVF9IRC9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", BRAVO HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQlJBVk9fSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", AL JAZEERA
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQUxfSkFaRUVSQS9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", CBS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ0JTX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", COMEDY CENTRAL HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ09NRURZX0NFTlRSQUxfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", ABC NEWS
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQUJDX05FV1MvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", CW HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ1dfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", DISCOVERY CHANNEL HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRElTQ09WRVJZX0NIQU5ORUxfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", DISCOVERY-SCIENCE-HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRElTQ09WRVJZLVNDSUVOQ0UtSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", E!
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRSEvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", FIX TV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRklYX1RWX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", FOOD NETWORK
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRk9PRF9ORVRXT1JLL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", BLOOMBERG
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQkxPT01CRVJHL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", FOX HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRk9YX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", FOXX HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRk9YWF9IRC9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", CBN NEWS
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ0JOX05FV1MvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", FX
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRlgvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", HISTORY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfSElTVE9SWV9IRC9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", HSN
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfSFNOL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", CBS NEWS
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ0JTX05FV1MvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", INVESTIGATION DISCOVERY
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfSU5WRVNUSUdBVElPTl9ESVNDT1ZFUlkvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", MUSIC RMC1
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTVVTSUNfUk1DMS9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", NASA HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkFTQV9IRC9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", CNBC
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ05CQy9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", NAT-GEO-HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkFULUdFTy1IRC9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", NATIONAL GEOGRAPHIC
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkFUSU9OQUxfR0VPR1JBUEhJQy9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", SYFY
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfU1lGWS9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", CNN HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ05OX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", TRAVEL CHANNEL HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVFJBVkVMX0NIQU5ORUxfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", UNIVERSITY OF CALIFORNIA TV
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVU5JVkVSU0lUWV9PRl9DQUxJRk9STklBX1RWL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", BEIN SPORT USA
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQkVJTl9TUE9SVF9VU0EvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", BEIN USA
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQkVJTl9VU0EvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", CINEMAX 5 STARMAX
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ0lORU1BWF81X1NUQVJNQVgvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", FOX SPORT 1
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRk9YX1NQT1JUXzEvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", FOX SPORT 2
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRk9YX1NQT1JUXzIvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", FOX SPORTS 2 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRk9YX1NQT1JUU18yX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", HALLMARK CHANNEL HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfSEFMTE1BUktfQ0hBTk5FTF9IRC9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", FOX SPORTS 1 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfRk9YX1NQT1JUU18xX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", NBA TV
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkJBX1RWL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", NBC GOLF
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkJDX0dPTEYvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", HBO ZONE HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfSEJPX1pPTkVfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", NBC SPORT
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkJDX1NQT1JUL2luZGV4Lm0zdTg=
+#EXTINF:-1,  telugu Maa TV US 
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4xOS45NS4xMTU6ODg4OC90ZWx1Z3VfTWFhX1RWX1VTXy9pbmRleC5tM3U4
+#EXTINF:-1,  telugu Zee Telugu US 
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4xOS45NS4xMTU6ODg4OC90ZWx1Z3VfWmVlX1RlbHVndV9VU18vaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", ABC HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQUJDX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", SHOWTIME 2 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfU0hPV1RJTUVfMl9IRC9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", SHOWTIME EXTREME
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfU0hPV1RJTUVfRVhUUkVNRS9pbmRleC5tM3U4
+#EXTINF:-1 group-title="Super USA Stream", SPORT NET 1 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfU1BPUlRfTkVUXzFfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", TSN 1 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVFNOXzFfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", TSN 2 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVFNOXzJfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", SHOWTIME SHOWCASE
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfU0hPV1RJTUVfU0hPV0NBU0UvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", SPIKE HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfU1BJS0VfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", STARZ CINEMA HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfU1RBUlpfQ0lORU1BX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", WGN HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfV0dOX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", WWE NETWORK HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfV1dFX05FVFdPUktfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", TBS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVEJTX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", TNT
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVE5UL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", TENNIS CHANNEL HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVEVOTklTX0NIQU5ORUxfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", CBS SPORTS NETWORK HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ0JTX1NQT1JUU19ORVRXT1JLX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", WILLOW CRICKET HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfV0lMTE9XX0NSSUNLRVRfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", NBC HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkJDX0hEL2luZGV4Lm0zdTg=
+#EXTINF:-1 group-title="Super USA Stream", USA NETWORK HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVVNBX05FVFdPUktfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", TSN 3 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVFNOXzNfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", TSN 4 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVFNOXzRfSEQvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Super USA Stream", TSN 5 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVFNOXzVfSEQvaW5kZXgubTN1OA==
+
