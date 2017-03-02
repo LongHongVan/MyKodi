@@ -1,6 +1,6 @@
 [     
 	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
-    "http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png", 
+    "https://www.thelogodb.com/images/media/logo/qspwpv1453168359.png", 
     "http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", 
     "http://www.thelogodb.com/images/media/logo/rwptru1436892145.png",
     "http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png",		

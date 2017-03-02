@@ -12,7 +12,7 @@
     "CNN HD", 
     "PBS HD", 
     "Spike HD", 
-    "FXX HD",  
+    "FX HD",  
     "SYFY HD", 
     "Animal Planet HD", 
     "Bravo HD",	
