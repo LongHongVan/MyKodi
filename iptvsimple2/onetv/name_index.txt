@@ -1,10 +1,6 @@
 [   
-	"Thuan Viet HD Bonus", 
-	"HTV 7 FHD Bonus", 
-	"HTV 9 FHD Bonus",  
-	"HTV Du Lich FHD Bonus",  
 	"NBC NFL HD", 
-    "ABC NFL HD", 
+    "CW HD", 
     "CBS NFL HD", 
     "FOX NFL/NEWS HD",
     "ESPN HD",	

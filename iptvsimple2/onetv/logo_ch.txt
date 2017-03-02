@@ -1,8 +1,4 @@
-[   
-	"http://xemtvhd.net/images/icon-channel/htvc-thuanviet-hd.png", 
-	"http://www.tv-logo.com/pt-data/uploads/images/logo/htv_7.jpg", 
-	"http://www.tv-logo.com/pt-data/uploads/images/logo/htv_9.jpg", 
-	"https://i.ytimg.com/vi/NJH2FE8gFaw/hqdefault.jpg",  
+[     
 	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
     "http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png", 
     "http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", 
