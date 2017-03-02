@@ -825,6 +825,9 @@ http://127.0.0.1:19098/livestreamer/d18cd4075a6813b7a2defb7c5d2a54d9.m3u8
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="", CLUBLAND TV HD
 http://127.0.0.1:19098/livestreamer/fe87875db342914b6983c5b202624537.m3u8
 
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="", NBA TV
+http://127.0.0.1:19098/livestreamer/ac36a3696ec781ba88e1469447723040.m3u8
+
 
 ################### End New One-TV Server #####################################
 
