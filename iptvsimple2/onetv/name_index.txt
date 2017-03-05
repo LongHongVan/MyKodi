@@ -1,4 +1,5 @@
 [   
+	"NBC Sports Network HD", 
 	"NBC NFL HD", 
     "CW HD", 
     "CBS NFL HD", 
