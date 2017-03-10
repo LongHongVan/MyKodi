@@ -1,0 +1,2734 @@
+
+
+#EXTM3U
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s28.postimg.org/s1pz7thdp/ht2.jpg",[COLOR ff808000][B]Chúc các Bạn xem TV vui vẽ - keeping you updated around the clock (*!*)[/B][/COLOR] 
+http://f.vp9.tv/music/tru_tinh/Anh_la_ai-Hop_Ca/mvhd.HV.mp4
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/uelya7dfv/VNCH.png",[COLOR cyan][B]*** Live TV Hải Ngoại ***[/B][/COLOR]       
+http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s28.postimg.org/63vy1i8tp/BYN_Logo.png",[COLOR cyan][B]BYN TV[/B][/COLOR] 
+http://origin.onworldtv.com:1935/liveorigin/byn/chunklist.m3u8
+
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/dkmv2jpdf/vietbay_television_logo.png",[COLOR cyan][B] Việt Bay- San Jose[/B][/COLOR]
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/dkmv2jpdf/vietbay_television_logo.png",[COLOR cyan][B] Nam TV Channel- San Jose[/B][/COLOR]
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+
+
+
+#EXTINF:-1,tvg-name="" tvg-logo="https://s27.postimg.org/z3xib62cz/v_logo.png",[COLOR cyan][B] Viên Thao TV[/B][/COLOR]
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",[COLOR cyan][B] SBTN -SET channel 2072 -2 (m3u8)[/B][/COLOR]
+http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",[COLOR cyan][B] SBTN -SET channel 2072 -2 (m3u8)[/B][/COLOR]
+http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
+
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s29.postimg.org/7qe7wd13r/image.png",[COLOR cyan][B] Việtface Dallas 55.5 [/B][/COLOR]
+http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s30.postimg.org/9jankmvsx/VF_PNG.png",[COLOR cyan][B] * Việtface Cali. 57.2 *[/B][/COLOR]
+http://saigontv.saigon.ns01.us:1935/vf572caliisai/myStream/chunklist_w1497994736.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png",[COLOR cyan][B] * Việt Mỹ TV *[/B][/COLOR]
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png",[COLOR cyan][B]  Việt Mỹ 2 TV [/B][/COLOR]
+http://68.235.37.11:1935/vietmagazine/vietmagazine/chunklist_w818469389.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/s0fe2u0t7/image.png",[COLOR cyan][B] Việt Sóng TV 47.7  Atlanta  2[/B][/COLOR]
+rtmp://uni5rtmp.tulix.tv/playout2multi10/ playpath=playout2multi10.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/playout2multi10/index.php
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/66gbpam3v/vietbay_shopping_mall_logo.png",[COLOR cyan][B]* Việt Bay TV 1.4 KAXT *[/B][/COLOR]
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/6o0q5ftw3/channel_schannel_4.png",[COLOR cyan][B]* SChannel 54.4 *[/B][/COLOR]
+http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w810007827.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png",[COLOR cyan][B] Việt-SET TV [/B][/COLOR]
+http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
+
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png",[COLOR cyan][B] SET TV [/B][/COLOR]
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-3/settv574-3.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/ze5fqmvrp/Vietpho.png",[COLOR cyan][B] Việt Phố [/B] [/COLOR]
+rtmp://63.143.59.125/live playpath=myStream swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png",[COLOR cyan][B]* Việt News TV – Nam California *[/B][/COLOR]
+http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png",[COLOR cyan][B]* Việt News TV S-2[/B][/COLOR]
+http://saigontvtv.saigon.ns01.us:1935/VietNews/myStream/chunklist_w172511522.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png",[COLOR cyan][B]* Việt News TV S-1[/B][/COLOR]
+http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",[COLOR cyan][B][B] IBC TV 57.8 2 (f) [/B][/COLOR]
+rtmp://liveplay3.malimarcdn.com:1935/ibcnews playpath=ibcnews.sdp swfUrl=http://ibcnews.tv/content/scripts/media/strobe/StrobeMediaPlayback.swf pageUrl=http://nguoiviet.tv/ibc-tv/
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s28.postimg.org/nll6ubj9p/quehuong.png",[COLOR cyan][B]* Quê Hương Media *[/B][/COLOR]
+http://64.71.129.2:8080/hls/ius_000130.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/zd62aenf7/vnbc.png",[COLOR cyan][B] VNBC [/B][/COLOR]
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
+
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/wnwdqo22b/vstar.png",[COLOR cyan][B]* ViệtStar 57.11 * [/B][/COLOR]
+http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/wnwdqo22b/vstar.png",[COLOR cyan][B]* ViệtStar 57.11 2* [/B][/COLOR]
+http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
+
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/h5hrvpwg5/saigon.png",[COLOR cyan][B] Saigon TV [/B][/COLOR]
+http://63.143.59.125:1935/live/myStream/chunklist_w225895095.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/h5hrvpwg5/saigon.png",[COLOR cyan][B]* Saigon TV Westminster CA 57.5 *[/B][/COLOR]
+http://63.143.59.125:1935/live/myStream/playlist.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s30.postimg.org/p2ybmvni9/lstv.png",[COLOR cyan][B]* Little Saigon TV 57.7 *[/B][/COLOR]
+http://saigontvtv.saigon.ns01.us:1935/Lstv577/myStream/chunklist_w1229536511.m3u8
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/umvwrvfrp/KVLA.png",[COLOR cyan][B]* KVLA TV 56.5 *[/B][/COLOR]
+http://saigontv.saigon.ns01.us:1935/kvla/myStream/chunklist_w1554228211.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/umvwrvfrp/KVLA.png",[COLOR cyan][B]* KVLA TV 56.5 2 *[/B][/COLOR]
+http://63.143.59.125:1935/live/myStream/chunklist_w322541891.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",[COLOR cyan][B] VBS- Vietnames Broadcasting Service [/B][/COLOR]
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/7t4su66md/vbs1.png",[COLOR cyan][B] VBS (WS) [/B][/COLOR]
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/99da6ha97/VBS.png",[COLOR cyan][B] VBS Canada [/B][/COLOR]
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png",[COLOR cyan][B] VNA TV [/B][/COLOR]
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/r6cyu78or/sctv.jpg",[COLOR ff00ffff][B] *SCTV-Phim hay tổng hợp  24h HD *[/B][/COLOR]
+rtmp://vf10.aditmedia.net/ingestx/ playpath=ivn_000105 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nguoiviet.tv/phim/
+
+
+
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Movie for Guys who like 24/7 movies[/B][/COLOR]
+rtmp://stream.connectcast.tv/live playpath=mp4:CC-C1AE794A-46EF-4D98-06D4-5FE8BD2D1605-53116 swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/_0ct0man_2
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Movie Night 24/7 movies[/B][/COLOR]
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Taiwan - Nature[/B][/COLOR]
+rtmp://stream.connectcast.tv/live playpath=mp4:CC-F3C7758B-5422-3764-0640-F305B4841A4B-12144 swfUrl=http://connectcast.tv/new/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/hiwaystar
+
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/bomxy361v/keeng.png",[COLOR cyan][B] MTV [/B][/COLOR]
+http://125.235.29.16/livetv/keeng.m3u8
+
+
+
+
+
+#EXTINF:-1,[COLOR ffffa500][B]  Viên Thảo Radio và những trạm Radio ở Mỹ [/B][/COLOR]
+http://173.193.205.96:8047/;stream.nsv
+
+#EXTINF:-1,[COLOR ffffa500][B]  Saigon HD Radio – Seattle-Tacoma -WA [/B][/COLOR]
+http://170.75.194.209:8888/;
+
+#EXTINF:-1,[COLOR ffffa500][B]  Viên Thảo Radio [/B][/COLOR]
+http://173.193.205.96:8047/;stream.nsv
+
+#EXTINF:-1,[COLOR ffffa500][B]  RFI Vietnamese Radio[/B][/COLOR]
+http://rfi-vietnamien.scdn.arkena.com/rfienvietnamien.mp3
+
+#EXTINF:-1,[COLOR ffffa500][B]  Bolsa Radio[/B][/COLOR]
+http://ice7.securenetsystems.net/RBVU?playSessionID=AE760094-C840-5A9C-559A77A8E04CAED9
+
+#EXTINF:-1,[COLOR ffffa500][B]  Viêt star Radio[/B][/COLOR]
+http://vietstar.saigon.ns01.us:1935/Vietstar/myStream/chunklist_w876090101.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]  VNHN/VABC Fall Church Radio[/B][/COLOR]
+http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]  Viêt Sóng  Radio[/B][/COLOR]
+http://ice41.securenetsystems.net/VIETSONG?playSessionID=E363E037-01FA-6743-9F617A5953C75EDB
+
+#EXTINF:-1,[COLOR ffffa500][B] Radio Việt Nam Hải Ngoại – ( Falls Church-Virginia – USA ) [/B][/COLOR]
+http://209.239.123.91:8239/;
+
+#EXTINF:-1,[COLOR ffffa500][B] Thời Báo Radio Toronto  [/B][/COLOR]
+http://209.250.131.2:8000/;stream.mp3
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/mtx7qbiez/dw_tv.png",[COLOR cyan][B] DW TV –  (tiếng Anh)[/B][/COLOR]
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/bomxy361v/keeng.png",[COLOR cyan][B] MTV [/B][/COLOR]
+http://125.235.29.16/livetv/keeng.m3u8
+
+
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/afqnj8491/Vietnamtv1200x1200.jpg",[COLOR cyan][B][/B][/COLOR][COLOR red][B]* Live TV trong nước *[/B][/COLOR] 
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/r6cyu78or/sctv.jpg",[COLOR ff00ffff][B] *** SCTV-Phim hay tổng hợp  24h HD ***[/B][/COLOR]
+rtmp://vf10.aditmedia.net/ingestx/ playpath=ivn_000105 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nguoiviet.tv/phim/
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
+http://123.30.185.126/hls/vtv1.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2
+http://123.30.185.126/hls/vtv2.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
+http://123.30.185.126/hls/vtv3.m3u8
+
+#EXTINF:-1,[COLOR ff00ff00][B] VTV1 HD [/B][/COLOR]
+http://123.30.191.202/hls/vtv1.m3u8
+
+#EXTINF:-1, [COLOR ff00ff00][B] VTV-6[/B][/COLOR] 
+http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png",VTV4
+http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
+http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOVnews
+http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV 
+http://123.30.185.126/hls/antv.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN 
+http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w848419920_b1000000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
+rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
+http://123.30.185.126/hls/vtc1.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
+http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
+http://123.30.185.126/hls/vtc3.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
+http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
+http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png", VTC5
+http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png", VTC6
+http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s2
+http://yolive.958695d0.viettel-cdn.vn/vtc7/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
+http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s2
+http://14.161.5.88:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s3
+http://yolive.958695d0.viettel-cdn.vn/vtc9/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
+http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
+http://123.30.185.126/hls/vtc3.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
+http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s2
+http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11 
+http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aKmAf9Z.png", VTC12
+http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/jwo4w6mfb/itvhd.png",VTC13 S1
+http://117.103.224.222:1935/live/_definst_/smil:iTVHD_2016.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png", VTC13 s2
+http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s3
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14 
+http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16  
+http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
+rtmp://vf10.aditmedia.net/ingestx/ivn_000105
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 
+http://123.30.185.126/hls/hanoi1.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
+http://123.30.185.126/hls/hanoi2.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
+http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",CAO BANG
+http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/7q4nqksjr/baccan.jpg",Bac Can
+http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn 
+rtmp://123.18.206.40:1935/live/livestream
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
+rtmp://45.124.85.26/oflaDemo/livestream
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hoa Binh 
+http://123.30.185.126/hls/hoabinh.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
+http://118.107.76.15:1935/live/_definst_/PT/smil:PT_live.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,[COLOR ff808000][B]* Live Television Network  *[/B][/COLOR] 
+http://live-1112.la2.edge.filmon.com/live/3283.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe10823ae9c82c899f3c56b7aaac698bc7e844deae8d85aa2f8cd6a99ab9120ee2b33300357df595cc8c134eb9096d98e8e125e4f624b42d0294ca92f04627918e743e4bb5f98a983d2e469381b8189887ad0c0919adb7c9f52f066fd5e3463856ad7013a50218b736315fe49ae610d2aa2702c6a114895cef2959983e2961efa461df8e4cee8f3242440a160fb23d3416
+
+  
+  
+#EXTINF:-1,[COLOR ff00ff00][B] Real Madrid [/B][/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRTBELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CHINA HISTORY CHANNEL
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
+
+#EXTINF:-1  group-title="QUOC TE TH" tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png", NHK WORLD
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/edj0suuct/abcnews.jpg",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Tom And Jerry
+rtmp://208.53.164.194/live? playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tom.html
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+#EXTINF:-1,[COLOR ff808000][B]American/Euro Live TV Combo+[/B][/COLOR] 
+http://live-1124.la2.edge.filmon.com/live/500.low.stream/playlist.m3u8?
+
+
+
+#EXTM3U tvg-shift=0
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National FHD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona FHD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles FHD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain FHD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon FHD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington FHD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area FHD
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR ffff00ff][B]  D I R E C T  T V - USA Channels  [/B][/COLOR] 
+http://12345678890----------------
+
+
+
+
+#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR cyan][B]US Direct TV -Cinemax Action Max[/B][/COLOR] 
+http://199.21.149.125:8888/US_FOX_SPORT_2/tracks-v1a1/index.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B] ABC News HD[/B][/COLOR]
+http://199.21.149.125:8888/US_ABC_NEWS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Animal Planet HD[/B][/COLOR]
+http://199.21.149.125:8888/UK_ANIMAL-PLANET-HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] BLOOMBERG HD[/B][/COLOR]
+http://199.21.149.125:8888/US_BLOOMBERG/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Bein Sports US HD[/B][/COLOR]
+http://199.21.149.125:8888/US_BEIN_SPORT_USA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Bein US HD[/B][/COLOR]
+http://199.21.149.125:8888/US_BEIN_USA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] BTN Sports US HD[/B][/COLOR]
+http://199.21.149.125:8888/US_BEIN_USA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] BNN HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_BNN_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Animal Planet [/B][/COLOR]
+http://199.21.149.125:8888/UK_ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] AMC HD [/B][/COLOR]
+http://199.21.149.125:8888/US_AMC_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Cartoon Network HD [/B][/COLOR]
+http://199.21.149.125:8888/UK_CARTOON_NETWORK/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CNN HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CNN_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CBS Sports Network HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CBS_SPORTS_NETWORK_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Comedy Central HD [/B][/COLOR]
+http://199.21.149.125:8888/US_COMEDY_CENTRAL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CBN News HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CBN_NEWS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CW HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CW_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CNBC HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CNBC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Cinemax 5 StarMax HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CINEMAX_5_STARMAX/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Cinemax Action Max East HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CINEMAX_ACTION_MAX_EAST/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Discovery Channel HD [/B][/COLOR]
+http://199.21.149.125:8888/US_DISCOVERY_CHANNEL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Discovery Science HD [/B][/COLOR]
+http://199.21.149.125:8888/US_DISCOVERY_SCIENCE_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] ESPN  2 HD [/B][/COLOR]
+http://199.21.149.125:8888/US_ESPN-2-HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Food Network HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FOOD_NETWORK/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Fox HD [/B][/COLOR]
+FOXhttp://199.21.149.125:8888/US_FOX_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Fox Sports 1 HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FOX_SPORTS_1_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Foxx HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FOXX_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] FX HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FX/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Fix HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FIX_TV_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] FREEROM HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FREEROM_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] HallMark Channel HD [/B][/COLOR]
+http://199.21.149.125:8888/US_HALLMARK_CHANNEL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] ID HD [/B][/COLOR]
+http://199.21.149.125:8888/US_INVESTIGATION_DISCOVERY/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TNT HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TNT/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] HBO 2 HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_HBO2_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] HBO Zone HD[/B][/COLOR]
+http://199.21.149.125:8888/US_HBO_ZONE_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] KBL HBO East HD[/B][/COLOR]
+http://199.21.149.125:8888/KBL_HBO_EAST/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CBC HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_CBC_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Bravo HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_BRAVO_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TLC HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_TLC_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Discovery HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_DISCOVERY_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] StarZ Cinema HD[/B][/COLOR]
+http://199.21.149.125:8888/US_STARZ_CINEMA_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] SYFY HD[/B][/COLOR]
+http://199.21.149.125:8888/US_SYFY/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Showtime Showcase[/B][/COLOR]
+http://199.21.149.125:8888/US_SHOWTIME_SHOWCASE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Showtime Extreme[/B][/COLOR]
+http://199.21.149.125:8888/US_SHOWTE_IMEXTREME/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Spike HD[/B][/COLOR]
+http://199.21.149.125:8888/US_SPIKE_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Travel HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TRAVEL_CHANNEL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TBS HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TBS_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TNT HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TNT/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TBC HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NBC_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Tennis HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TENNIS_CHANNEL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] USA Network HD[/B][/COLOR]
+http://199.21.149.125:8888/US_USA_NETWORK_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] UOC HD[/B][/COLOR]
+http://199.21.149.125:8888/US_UNIVERSITY_OF_CALIFORNIA_TV/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Music RMC1 HD[/B][/COLOR]
+http://199.21.149.125:8888/US_MUSIC_RMC1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] NASA HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NASA_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] NBC Golf HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NBC_GOLF/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] National Geographic HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NAT-GEO-HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Nickoloden HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NICKELODEN_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] WWE Network[/B][/COLOR]
+http://199.21.149.125:8888/US_WWE_NETWORK_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Willow Cricket HD Network[/B][/COLOR]
+http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR cyan][B]Ends of US Direct TV testing[/B][/COLOR]
+http://199.21.149.125:8888/US_FOX_SPORT_2/tracks-v1a1/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR ff00ff00][B] News Max TV HD [/B][/COLOR]
+http://ooyalahd2-f.akamaihd.net:80/i/newsmax02_delivery@119568/index_1128_av-p.m3u8
+
+#EXTINF:-1,[COLOR ff00ff00][B] Fox 30 News [/B][/COLOR]
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00ff00][B] Fox 25 News [/B][/COLOR]
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00ff00][B] Fox 23 News [/B][/COLOR]
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00ff00][B] CBS News [/B][/COLOR]
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-p.m3u8
+
+#EXTINF:-1,[COLOR ff00ff00][B] CBS 47 News [/B][/COLOR]
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s23.postimg.org/3z1fchvmj/champions.jpg", Champions League
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s28.postimg.org/oq0fmsb0t/bongro.jpg", Bóng rổ
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
+http://46.105.161.243:8085/lighd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
+http://81.7.13.162/hls/ss1/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 3 
+http://81.7.13.162/hls/ss3/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 4 
+http://81.7.13.162/hls/ss4/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 2 HD
+http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 3 HD
+http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 4 HD
+http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 5 HD
+http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.org/f4qv8i2d3/winsport.png",WIN SPORT
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s1
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s2
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/214_/seg0/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s3
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s4
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s1
+http://223.75.3.82:8081/live/live2/CCTV5HHD/4000/CCTV5HHD-4000-node4.m3u8?fmt=x264_4000k_mpegts&&authType=2&node=4&type=live
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s2
+http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s3
+http://220.194.207.35/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+
+
+
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:LONDON LIVE 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:BBC AMERICA 
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:ABC NEWS 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:CNN 
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/95uolyzjd/bloomberg.png",USA:Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:TRU TV 
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:DYSCOVERY 
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:ANIMAL PLANET HD 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:NICK TOONS 
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:TNT 
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 2 
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 3 
+http://a1.adintrend.com:443/live/ch3/i/ch3i.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 5
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 7 s1
+http://je8.bugaboo.tv/liveedgech7_partner/480p/playlist.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 7 s2
+http://111.223.36.2/teleplus_ch7.m3u8?bandwidth=556
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 8 s1
+http://202.142.207.150:1935/live/liveinfinity3/playlist.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 8 s2
+http://stream.rs.co.th/ch8-low/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 13
+http://stream.13livetv.com:1935/live/13livetv/chunklist_w1245002243.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:NBT
+http://202.43.34.234:1935/11/s1/chunklist.m3u8?wowzasessionid=1576797501
+
+#EXTINF:-1 group-title="THAILAND",Thai:MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:GANG CARTOON
+http://111.223.36.6/tp_gang_cartoon.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CAT CHANNEL
+http://61.19.18.237/live/m1.sdp/chunklist_w1633942408.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CARTOON CLUB
+http://111.223.36.3/tp_cartoon_club.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:NEW TV 18
+http://111.223.36.6/tp_dailynews_tv.m3u8?bandwidth=306
+
+#EXTINF:-1 group-title="KOREA",Korea:BBS
+http://edge1.everyon.tv:1935/etv1/phd553/chunklist_w1460618078.m3u8
+
+#EXTINF:-1 group-title="KOREA",Korea:CBS
+http://123.108.164.71/etv2sb/phd27/chunklist_w1165666480.m3u8
+
+#EXTINF:-1 group-title="KOREA",Korea:KIDS TV
+http://123.108.164.71/etv2/phd1043/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA",Korea:ANIMATION
+http://123.108.164.71/etv2sb/pld13/lihattv.m3u8
+
+#EXTINF:-1 group-title="KOREA",Korea:KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+
+#EXTINF:-1 group-title="KOREA",Korea:LIHAT TV
+http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
+
+
+
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",KOSMOS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+
+
+#EXTINF:-1,[COLOR ff808000][B]* Videos - Nhạc yêu Cầu[/B][/COLOR]
+http://f.vp9.tv/music/nhac_vang/Nghi_chuyen_ngay_xuan-Mai_Thien_Van/mv.mp4
+
+
+
+#EXTINF:-1,[COLOR ffff00ff][B] Xuân Phát Tài - 6 (2016) HD[/B][/COLOR]
+http://www.mediafire.com/download/fd1m8arggdqs667
+
+#EXTINF:-1,[COLOR ffff00ff][B] Xuân Phát Tài - 6 S2*(2016) HD[/B][/COLOR]
+http://www.mediafire.com/download/fd1m8arggdqs667/%5BLinksVIP.Net%5D+Xuan+Phat+Tai+6.2016.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Xuân Phát Tài 5 P1[/B][/COLOR]
+
+
+#EXTINF:-1,[COLOR ffff00ff][B] Bước Chân hai thế Hệ Xuân 2016-Hạnh Phúc Đầu Xuân HD[/B][/COLOR]
+http://www.mediafire.com/download/z0b81bpbbghqm5g
+
+#EXTINF:-1,[COLOR ffff00ff][B] GALA Nhạc 7 - Tết Trong Tâm Hồn HD[/B][/COLOR]
+http://www.mediafire.com/watch/w2q9bcp99yn8a4k
+
+#EXTINF:-1,[COLOR ffff00ff][B] GALA Nhạc 7 - Tết Trong Tâm Hồn HD[/B][/COLOR]
+http://www.mediafire.com/download/w2q9bcp99yn8a4k
+
+#EXTINF:-1,[COLOR ffff00ff][B] Thương Quá Việt Nam 1 HD[/B][/COLOR]
+http://www.mediafire.com/download/kyi1c1z4r7nq8bb/Thuong.Qua.Viet.Nam.4.Dem.Tao.Ngo.DVD.Disc1.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Thương Quá Việt Nam 2 HD[/B][/COLOR]
+http://www.mediafire.com/download/jk3qdkb9i1kv4az/Thuong.Qua.Viet.Nam.4.Dem.Tao.Ngo.DVD.Disc2.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia-Mừng Xuân 2016 disk full {R} [/B][/COLOR] 
+http://www.mediafire.com/download/o7jlgp4wvys0yoo/Asia+-+Mung+Xuan+2016+1080p+DD2.0-ATN.mp4
+
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia-78 Tình Yêu & Thận Phận 1080p[/B][/COLOR]
+http://download021.fshare.vn/dl/h0v3MMVvnSgoYhzMt7jsAN6BDz6Sdn9l5+cVaTMZmVaEh5KdRzoLW98Ho0rlASEtvGlH9Lh8Cz7vUB6N/Asia%2078%20-%20Tinh%20Yeu%20va%20Than%20Phan%202016%201080p%20WEB-DL%20DD2.0%20x264.mkv
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia-77 Dòng Nhạc Anh Bằng-Lam Phương  1080[/B][/COLOR]
+http://www.mediafire.com/download/8fvc8pv43jwe46x/Asia77.Dong.Nhac.Anh.Bang.Va.Lam.Phuong.Bluray.1080p.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia-77 Dòng Nhạc Anh Bằng-Lam Phương DVD1[/B][/COLOR]
+http://www.mediafire.com/watch/lidvdkdtke46vd2/Asia-77.D1.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia-77 Dòng Nhạc Anh Bằng-Lam Phương DVD2[/B][/COLOR]
+http://www.mediafire.com/watch/2qhhxy4cj9b8gar/Asia-77.D2.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia-76 Hành Trình một Giấc Mơ[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.76.Hanh.Trinh.Mot.Giac.Mo.2015.720p/Asia.76.Hanh.Trinh.Mot.Giac.Mo.2015.720p/index.m3u8?worldtokenstarttime=1458590631&worldtokenendtime=1458675231&worldtokenhash=_sVSBwbgitcq3WjugdXNABEzoH5GA98VP4oBukifcbA=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia-75 Những giọng ca huyền thoại [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/shows/Asia/Asia.75.Nhung.Giong.Ca.Huyen.Thoai.2014.1080p/media_w2019069101_10.m3u?worldtokenstarttime=1456950467&worldtokenendtime=1457035067&worldtokenhash=LYfOi8pwY1Q-wwJUFC0-_5BBBejrB5Fn5AXgKkkes9Q%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia-74 Trúc Phương -Ông Hoàng dòng nhạc Bolero [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/index.m3u8?worldtokenstarttime=1458590866&worldtokenendtime=1458675466&worldtokenhash=4IfFFYBfp_omDaHftWk2p-VN6JqTF7uWHtb7kbHUHYI=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia  - Hùng ca Sử Việt[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.ff00ffffen.2.Hung.Ca.Su.Viet.2011.720p/Asia.ff00ffffen.2.Hung.Ca.Su.Viet.2011.720p/index.m3u8?worldtokenstarttime=1458591024&worldtokenendtime=1458675624&worldtokenhash=b0T5CeyLKY7Iv5LPuNfIrzzEceIcDHvNH6cD8d5hLlU=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia  Khúc Nhạc Đồng Quê[/B][/COLOR]
+http://www.mediafire.com/download/a0329bgacesl5pg/blackbox247-asia-ff00ffffen4.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia Khúc Nhạc Đồng Quê[/B][/COLOR]
+http://www.mediafire.com/download/a0329bgacesl5pg/blackbox247-asia-ff00ffffen4.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia 73-Mùa Hè Rực Rỡ[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.73.Mua.He.Ruc.Ro.2013.720p/Asia.73.Mua.He.Ruc.Ro.2013.720p/index.m3u8?worldtokenstarttime=1458244400&worldtokenendtime=1458329000&worldtokenhash=cu0EsV0Pioo2tF4SkNGKFVL2r-fQMrLVvDzSwTHz144=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia 72-Dòng Nhạc Y Vân[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.72.Dong.Nhac.Y.Van.2013.720p/Asia.72.Dong.Nhac.Y.Van.2013.720p/chunklist_w1837488634.m3u8?worldtokenstarttime=1458243558&worldtokenendtime=1458328158&worldtokenhash=qbCJCfwLD7dinEU6fWh3tIc4ow5HOYQhOBX8nU3tTqE%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia 71-32 Năm kỷ niệm[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.71.32.Nam.Ky.Niem.2012.720p/Asia.71.32.Nam.Ky.Niem.2012.720p/chunklist_w969710851.m3u8?worldtokenstarttime=1458244043&worldtokenendtime=1458328643&worldtokenhash=mPjHEZFBnMjgSbWa0I14XwJyypZYYPs7mKyqR58x3Jk%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia 70-Quê Hương Yêu Dấu[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.70.Que.Huong.Yeu.Dau.2012.720p/Asia.70.Que.Huong.Yeu.Dau.2012.720p/index.m3u8?worldtokenstarttime=1458244523&worldtokenendtime=1458329123&worldtokenhash=-7t8UtqB-gZ0iCQaUiF5Xu5l0xSLOlNNEjOH02HlJPc=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia 69 Liên khúc tuyệt vời -Tình ca muôn thuở[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.69.Lien.Khuc.Tuyet.Voi_Tinh.Ca.Muon.Thuo.2012.720p/Asia.69.Lien.Khuc.Tuyet.Voi_Tinh.Ca.Muon.Thuo.2012.720p/index.m3u8?worldtokenstarttime=1458160553&worldtokenendtime=1458245153&worldtokenhash=h3mtflAh-mcrJTSsD5wfdC4SqqTfOtsau0mwxAOU3kI=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Asia 68 Sài Gòn Kỷ Niệm[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/asia/shows/Asia.68.Sai.Gon.Ky.Niem.2011.720p/Asia.68.Sai.Gon.Ky.Niem.2011.720p/index.m3u8?worldtokenstarttime=1458591204&worldtokenendtime=1458675804&worldtokenhash=8_tgffDlRVZFYRDloYYrcnWW3LUCGzp_ympjo7wkano=
+
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/gyjoubsv7/pbndivas.jpg",[COLOR ffff00ff][B] Paris by Night -Divas[/B][/COLOR]
+http://www.mediafire.com/download/2fupdwb70gdf5x4/Paris+by+Night+-+Divas+2016+in+Las+Vegas.mkv
+
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s30.postimg.org/7atzluw4h/paris_by_night_121_viet_circle.jpg",[COLOR ffff00ff][B] Paris by Night -121 Song Ca Nhạc Vàng [/B][/COLOR]
+http://www.mediafire.com/download1593/dhdqjmfpbo8wa7w/PBN21_720p.mkv
+
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s30.postimg.org/7atzluw4h/paris_by_night_121_viet_circle.jpg",[COLOR ffff00ff][B] Paris by Night -121 Song Ca Nhạc Vàng HD[/B][/COLOR]
+http://www.mediafire.com/watch/dhdqjmfpbo8wa7w/PBN21_720p.mkv
+
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/uuycdfr9f/pbn120.jpg",[COLOR ffff00ff][B] Paris by Night -120 Còn Chút Gì Để Nhớ HD[/B][/COLOR]
+http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/uuycdfr9f/pbn120.jpg",[COLOR ffff00ff][B] Paris by Night -120 Còn Chút Gì Để Nhớ HD[/B][/COLOR]
+http://www.mediafire.com/watch/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mp4
+
+
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -117 Vườn Hoa Âm Nhạc - full HD (www+dl+2ndid)[/B][/COLOR]
+http://www.mediafire.com/download/fj56quupoqr5d4b/TN_117.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -117 Vườn Hoa Âm Nhạc BlueRay [Full][/B][/COLOR]
+http://www.mediafire.com/watch/fj56quupoqr5d4b/Paris_By_Night_117_Vuon_Hoa_Am_Nhac_2016_mHD_BluRay_DD2.0_x264-TRiM.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -117 Vườn Hoa Âm Nhạc BlueRay HD[/B][/COLOR]
+http://www.mediafire.com/watch/fj56quupoqr5d4b/Paris_By_Night_117_Vuon_Hoa_Am_Nhac_2016_mHD_BluRay_DD2.0_x264-TRiM.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -117 Vườn Hoa Âm Nhạc DVD2[/B][/COLOR]
+http://www.mediafire.com/watch/1zuw4pril8jg3pa/TN-117.MKV_D2.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -116 Nụ Cười đầu Xuân [Full]1080p[/B][/COLOR]
+http://www.mediafire.com/watch/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -116 Nụ Cười đầu Xuân 1080-DVD5[/B][/COLOR]
+http://www.mediafire.com/watch/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -115 Nét Đẹp Á Đông [full][/B][/COLOR]
+http://www.mediafire.com/watch/f922xg2xuh7y13w/blackbox-TN115.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -114 Tôi là Người Việt Nam DVD-1 [/B][/COLOR]
+http://www.mediafire.com/download/24bca4rhxf197q3/TN114-DVD1.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -114 Tôi là Người Việt Nam DVD-2 [/B][/COLOR]
+http://www.mediafire.com/download/tfooui5jcu33mi7/TN114-DVD2.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -114 Tôi là Người Việt Nam DVD-3 [/B][/COLOR]
+http://www.mediafire.com/download/mhbs2g1vsc3r22g/TN114-DVD3.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -113 Mừng tuổi Mẹ BlueRay-1 [/B][/COLOR]
+http://www.mediafire.com/download/m1435e1p3d338jd/TN113-Part1.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -113 Mừng tuổi Mẹ BlueRay-2 [/B][/COLOR]
+http://www.mediafire.com/download/4ukpavn9e37vvc5/TN113-Part2.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -113 Mừng tuổi Mẹ BlueRay-3 [/B][/COLOR]
+http://www.mediafire.com/download/68ddqmdl2qy7mce/TN113-Part3.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN -113 Mừng tuổi Mẹ BlueRay-4 [/B][/COLOR]
+http://www.mediafire.com/watch/78ggue2uoeggpjf/TN113-Part4.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN PBN-111 [/B][/COLOR]
+https://lh3.googleusercontent.com/48Kvlf5lsVTgEVqTQsXtQkrAOumDs8I2V_tz1Sk1Y_yodQhg8uKjwj4Yw9516d1iqhL04Z9v0Yc=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-99 [/B][/COLOR]
+https://lh3.googleusercontent.com/nSKHNpsV0mKYkvrrY9qfmAt9LPPRZYHZdBPjVtXk3LpV-E3gE2LiL7HlQnKrgxh8aVaFo_rRPws=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN 98 D1 [/B][/COLOR] 
+https://lh3.googleusercontent.com/bxyWqHIx4MYWHo4qNViz_UyNDwIJab5xLRI4QCEkcb-UC20EshIqnWuABtFUDkwRc2tj6bW7BDY=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN 98 D2 [/B][/COLOR]
+https://lh3.googleusercontent.com/Ue35BjhU82VgSBm4irl0dd3N8xGz30u0-qX5sQ7LLYuLw_9F7LHCstkJcxOgMuy4jwhpex4YjRw=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN 97 [/B][/COLOR]  
+https://lh3.googleusercontent.com/CytfbLSCdKW1zJcaqQR9OY9F5V0ZVWiENyec9it85prscw7klg5MP3rqYIJLBKgCrwnHUjA6QWw=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-96 DVD1 [/B][/COLOR]   
+https://lh3.googleusercontent.com/DVoDYrQ467GjZfEBEmD98dzQtdNc7C1f_-UaEd_dDrpljqahT42EHXXWRGGcYozgfbfO5_cnxi8=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-96 DVD2 [/B][/COLOR]  
+https://lh3.googleusercontent.com/QpU0I8Pc31-T7t393aNqWkl_joTb7vyxVWYHLW8RBOrqSUevygQXKEbQI1AjZ0j8kVkPR-8nwNI=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B]  PBN-95 DVD1 [/B][/COLOR]  
+https://lh3.googleusercontent.com/Aggy71EkmD-2-jwd3dCKyXI9ODry5LB5dLtjwgcWHOrEH2NnxVbDrIpXtz6X-31sIReWsX8l-ic=m18
+ 
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-95 DVD2 [/B][/COLOR]  
+https://lh3.googleusercontent.com/TQS9nap_5984wCFfplgMQzheJqn5XDaftU-E97nayN-gthysMdzswgcCvD_-S4rlbfk2fTfo2hc=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-94 [/B][/COLOR]  
+https://lh3.googleusercontent.com/OHYkT3FB_9a0REc5zBgqqYOuMGRvrZ6_9-4BUQua17dVjIlII61lXpAnc52xT6NHDVzuzKjNfsU=m18
+ 
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-93 [/B][/COLOR]  
+https://lh3.googleusercontent.com/F1NB9rD_2l_jiqQAJSKekjfFE4PxEq-gqFwX_JINIR3bcw571oad4kOcw03RrLi1iWSAd1FdsKg=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-92 [/B][/COLOR]  
+https://lh3.googleusercontent.com/_0abzs3Mzk5pBfQ-pVUR_wloQNd5kwmH2ITw11SdjEA6nEGYbEFiLS1z_sUCYDG1cHxJp7-D5nM=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-91 DVD1 [/B][/COLOR]  
+https://lh3.googleusercontent.com/OnQbl9jp1uleYo_rrf55l-GuZoQTbal-W_DGWpWdHcP8jhpf8v438KIB2Zma1o3twveoRlmbB8E=m18
+ 
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-91 DVD2 [/B][/COLOR]
+https://lh3.googleusercontent.com/u16oK5b1H1JCGSHp9l40ZhiM2S_RwtixUcjVReUQJjci1UFzY-689FDtMoz16Bz5hCeEk-iGjCo=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-90 [/B][/COLOR]  
+https://lh3.googleusercontent.com/zXPGu6AwKRGbP61vuHH_WS7-32iMIN0Hvslob6Tg9cvziRDMs-LBQN6AyBmLi29i4HtXpsyyujA=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-89 [/B][/COLOR]   
+https://lh3.googleusercontent.com/7n4LdtDp2ZBvSRxhnJa8bVfvxNUlnQspwQfAN1hFuOZ3bQMqlD_d7-oItFbfQZK3-4FEcLzKXhs=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-88 [/B][/COLOR]    
+https://lh3.googleusercontent.com/nmcBVWqYmBFK8OXyJBMSx6jN9ata6P0VJByIZx_nTnqytUy8bvivHqh7UV148EQsySItQYuMa6A=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-87 [/B][/COLOR]    
+https://lh3.googleusercontent.com/v54cq5rlFjE5gxsyUegnxmdY0aqg7v5rcxfq93rRFD9n9zmLSKidM_7MEmxPL4PHd4S4w3QsWig=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-86 [/B][/COLOR]    
+https://lh3.googleusercontent.com/6e9JGGkWMvgpuIQXBczekmD9QIkJEeq3hdFyNLkyPAp1Yh5-RfO_tb0FiAhqQmDA25lh8uRGJuY=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-85  [/B][/COLOR]   
+https://lh3.googleusercontent.com/Adaj0o1GSF6OPT5FYK3AB_HhhNWMb7qbhZeA5JHqdqew8qjGB2mDuthXOQc7MDPG6ORuenvPFBE=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-84 DVD1 [/B][/COLOR]   
+https://lh3.googleusercontent.com/ia3GSmcpqDIKqNyfcVZPdLCYxpaY6AHd48yk2ijJKUztRsNhX5bpKgW3mf1Xv142KkIzjaznh38=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-84 DVD2 [/B][/COLOR]  
+https://lh3.googleusercontent.com/CO0xQLI3gfJSE-Tniwn0VLN3XxEXMI13hmd16aOKxToAccWRPqaCrN1NmeBALwmM_c-TeveD7UU=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-83  [/B][/COLOR]    
+https://lh3.googleusercontent.com/Oof4_kPaY49oWQhzvBDGGihE90Ahsk7TIu_l1robVlNdjNBuj6sje1iNu-Au5zok9zsgz90hKjs=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-82 [/B][/COLOR]  
+https://lh3.googleusercontent.com/KKwIlDRct1rI2mysOvIcaALWI8GofYaogmf-tZXsaJCD_O3mOxg32DeZWt4OLOT3yggyiPJTsNg=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-78 [/B][/COLOR]  
+https://lh3.googleusercontent.com/srUpZEyQGqnEZ6wbThRQ8mN4-vXUbXocWo8YGKH6gl4xsoCi9JiPz24Rgv7uCuMo-AW4jRu7fMQ=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-76 DVD1 [/B][/COLOR]  
+https://lh3.googleusercontent.com/Wu9LwvXvpYV5GU09-kjUir6RNjFKGW12izlaIyyG5zEEa0etD7tlRE14a4hHX8Lzt2T6EE25rg=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-76 DVD2 [/B][/COLOR]    
+https://lh3.googleusercontent.com/J6n2WKCtR6s9u5CB97FR_pTMnvUAJIh1W4-ubpfm6OMyjUzk6eDqdRDLCusmR5E9BE8n9kqV4A8=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-75 DVD1 [/B][/COLOR]  
+https://lh3.googleusercontent.com/AvVLT0hDxL3r970J8L-d8CSeVLQoB8Lzi8WMINTEBPk0WOiZuFS5svWSiG-nvLBymv5DS6qjmzQ=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-75 DVD2 [/B][/COLOR]  
+https://lh3.googleusercontent.com/sUVZzAxSEHKfxxhvd8m_bLQjTZ_D3JeuywtWFHU_CZ9bi17jpn308XtVLjl-dbQd9NJ92fDE2ew=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-74 [/B][/COLOR]  
+https://lh3.googleusercontent.com/N6HVRy-aBVN-BvM0K7PyIJd9mNeg-CpCpyeayfbEE-Nq50H9pmwYFoj4Vd79CRJG0aTrc7pA93E=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-73 [/B][/COLOR]  
+https://lh3.googleusercontent.com/R7GK8m-EmQQhKqJ05hSnjYIfd4WAu5sa4EF99lkgmPZYGJaZpI3dXinIbzrvV5GieEVYEeAh8g=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-72 [/B][/COLOR]  
+https://lh3.googleusercontent.com/JKmpjO2eRXKgdm6p1Z6CzwjbQ4VGSIqtGCiCrBIlL50ncCI4Cfw1tdak_9zIFSj4aStybOfpZHc=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-71 [/B][/COLOR]  
+https://lh3.googleusercontent.com/KTSFmP1rc5FW68W8pYAmZRvz1N-7-PgAQVWK-yja5He2bl7LlK7ZUhBmgFKCJyCbWC98h5cvX4g=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-70 [/B][/COLOR]    
+https://lh3.googleusercontent.com/ry8DB8Javwi19GKQ4ngteXb1Z5KL6nG404slrMZLZGcGnKiIvj0CPz_I5eZnDttcQjVk0MlCxYE=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-69 [/B][/COLOR]  
+https://lh3.googleusercontent.com/CiiFqEKuWum4R8u2EnPukXH3gQ2v_tDzFX5kTK2KU9X-trDuQ3dnESspHczAtQM70dF_-UJ4rlQ=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-67 [/B][/COLOR]  
+https://lh3.googleusercontent.com/cfrxErn05VGjSWvrYQUiW0aUHuiRu7h4En0cVmLzv3_f2lXihfZ-FqqY_TA_KpsYyscZrGCfJzQ=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-66 [/B][/COLOR]  
+https://lh3.googleusercontent.com/p0R6qWgWKCsQTLvYEn-mI0Ygi7xXHbi-0n6nMr7zpoOUZfxO486XyCbDo7bSMb9nMWyZ0bu2GYs=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-65 [/B][/COLOR]  
+https://lh3.googleusercontent.com/mg7XKoTNMKmwtk47hrqpAgsbcVdyZA-gYBkyFyboVuLjUimlwl8RG9gfxjmK0BubEMsn4euaC8o=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-64 [/B][/COLOR]  
+https://lh3.googleusercontent.com/SnBYf8h93K0HMgHD2VbNEmPPO47mEt7FceZ81BLLtqDGEl2GlnfVOWW7f7_ZI-jd4Y4tLLwvYQo=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-63 [/B][/COLOR]  
+https://lh3.googleusercontent.com/9eSVf5h81U4vQftb0i-coo_Se_OFkrRligZI2N8k0sRWzpd4fNbM6j25_lDlsE5gKT-lxci04H4=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-62 [/B][/COLOR]  
+https://lh3.googleusercontent.com/wo6urg7p2eR2hxRUh1mzWeoM1-2Xa4RcXM0GLJkX3RcHHLMhJwncRW6WSHdK6axbFANM52Zjatw=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-61 [/B][/COLOR]  
+https://lh3.googleusercontent.com/lMb5OjDXCkcecbsuMLiUXIjftDO7NI8OXl505On9XLj5lj972ybSyFadxcB3PzplmSwv8Qbrj9o=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-60 [/B][/COLOR]  
+https://lh3.googleusercontent.com/cOOlLIz4bAHSqpmRups4x3Z1h6fbXrNqTFbdMCe5Zj1Dfzz9tLAZHEDhp8kPLNtmM5Q-QvPdcac=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-59 [/B][/COLOR]  
+https://lh3.googleusercontent.com/rXd_AWw1TuyTGPLS6ml3B-lCNoCxEqMU9T3mKh6DQ8nDTnO6MHNHPokHlIU7nZiUb263fS7Jykk=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-58 [/B][/COLOR]  
+https://lh3.googleusercontent.com/RMxAjWhzgYfaQL3SJ7aTbj5rNbWvvp6BqxVersRG_dWsfV3nr7xyAq149kg9V5Byu7FEqudOgoY=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-57 [/B][/COLOR]  
+https://lh3.googleusercontent.com/IfDF8BwgVXgViYMA4oe8un0wMXCAOn_1hE_GwCa-bNSzp--yo5_rcgRn01Q4Q85GRchP2p9yCnE=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-55 [/B][/COLOR]  
+https://lh3.googleusercontent.com/7tgm-ew6TL_CsEL0gxUkRPROj66e6a7JNadrVsAUodKv2pJHIP1DJ0n3lhTRt4S9Hul5q4kMx1OB=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-54 [/B][/COLOR]  
+https://lh3.googleusercontent.com/tbSVQx4ZcNjsMZk-5ueVMOY-HZwjyUttTGJWMSZUsAwP7ek_d5U1XTHGtadv4psxiJv75EdnCmWi=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-52 [/B][/COLOR]  
+https://lh3.googleusercontent.com/uyIdn2hsrDBlbvGEsLnPPZg1Hw580RboPJG7x-ePDK7skNhqBU1Rq2XGw_RS5Th-fLIC6Frf-X4T=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-50 [/B][/COLOR]   
+https://lh3.googleusercontent.com/dsSdcIsczdybfrdmRh9-z2dz3FOjhQ_2-kZHUnXN2wp8H3wdPTju55vklZ-Z3aifLQE30-X_02c=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-49 [/B][/COLOR] 
+https://lh3.googleusercontent.com/CcuYq94OHsRiR1bmuG8pnKx-ztfGlV5DyU2UvuwXTc71MM5-O29T173zrAmOkp3WfIPpQgqQEJY=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-48 [/B][/COLOR]  
+https://lh3.googleusercontent.com/kJ_YHNiocv-ir1g_50K5NXKUcM-VpBPDCoMoN-g6bsQC50k3e9lS7Kt4sCJz1NpApIgIhiMcG3Y=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-46 [/B][/COLOR]  
+https://lh3.googleusercontent.com/5ITfkOHk3A8vqPqiquOXg4mcVL6vn6Wkl2wDQPFlAmqfHJybMQt92A1tXriZgGXfe_Ad3-E--MQ=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-44 [/B][/COLOR]  
+https://lh3.googleusercontent.com/EHqGz4iUgEGJSn8nQeJVe-lbhWLSqU4i4R6Y2oNfAw4Zi1p5qLuyB2WS8sUzQ_rNTbID7tmewDw=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-43 [/B][/COLOR]  
+https://lh3.googleusercontent.com/KHhk3mP9c291xjXgfAgkh3whzsa9BxGc9xP7uWtHEN4eo5sBw937kbBk1czQYrB1QyJFrkgm_8Q=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-42 [/B][/COLOR]  
+https://lh3.googleusercontent.com/XDbbLcIA6AmZT8vfQttqSRUIcXn7CVyGK3-7cY7t9aeFm_gBmDLagMkdis-kxHBnuJFL_ehiVXs=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-41 [/B][/COLOR]  
+https://lh3.googleusercontent.com/-RHqBV5C3c3ANinU5yW9ITZYfYU0kdsAm1lMFaLYF515_MMPrbbKQxi5riqTC8AgAODPCYKe6fM=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] PBN-40 Mẹ [/B][/COLOR]  
+https://lh3.googleusercontent.com/yExHhHASraLiWSChoLl-qowo3RCF2cOGdTOhvNEOjbscXbWRF-DZjTXl3dfH18ttPL6NDsTdcUg=m18
+
+#EXTINF:-1,[COLOR ffff00ff][B] Vip Party 109: Đại Gia Đình[/B][/COLOR]
+http://gr.vkool.net/mb/mp4/dmtvb2x2aXByMFJRd3FUQURqVEF3ZDNRQmpVUTlrVVFyUURueUdNQ3B2VGp5aUNuK0hyUlVueEhUTzNuZk1SWkcrSmdzQ3lvL2tSUTlkUkFEcWZhTXVzbURRM0FEUVJTc1lSU19RVVFNajNBVG8zUTlZUlFIQkc=-720/Vkool.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Quang Lê Show 2: Hát trên Quê Hương Disk1 ('-'[/B][/COLOR]
+http://www.mediafire.com/download/33z3yuzxpa3765p/QuangLe-LiveShow2_1.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Quang Lê Show 2: Hát trên Quê Hương Disk2 ('-'[/B][/COLOR]
+http://www.mediafire.com/download/igq2cs6nwv7d60p/QuangLe-LiveShow2_2.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Live Show Lệ Quyên - Dan Nguyen-6(2016) HD[/B][/COLOR]
+http://www.mediafire.com/download/gsa4c922k7agabp
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Anh Là Ai *-Hợp ca Asia[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Anh_la_ai-Hop_Ca/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Anh thương Cô Út đưa đò *[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Anh_thuong_co_ut_dua_do-Luong_Anh_Loan_ft_Truong_Son/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Chưa vơi sầu đau [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Chua.Voi.Sau.Dau_Thanh.Truc_Vu.Tuan.Duc.2015.1080p/chunklist_w410297971.m3u8?worldtokenstarttime=1456005005&worldtokenendtime=1456089605&worldtokenhash=eY6oJVOehGmIJrQc6_NfrE2kolhzqK89ptgQQIN6KJs%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Chiều Cuối Tuần -TT [/B][/COLOR]
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Chieu.Cuoi.Tuan.2014.720p/chunklist.m3u8
+
+#EXTINF:-1,[COLOR ffff00ff][B] Con Đường Mang Tên Em [/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Con_duong_mang_ten_em-Dao_Phi_Duong_ft_Anh_Van/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Con Đường xưa Em đi[/B][/COLOR]
+http://f.vp9.tv/music/nhac_vang/Con_duong_xua_em_di-My_Huyen/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Diễm Xưa*-TK-[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Diem_xua-Thien_Kim/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Đoạn cuối tình yêu[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Doan.Cuoi.Tinh.Yeu_Bang.Tam_Huynh.Phi.Tien.2015.1080p/chunklist_w1221917263.m3u8?worldtokenstarttime=1456004646&worldtokenendtime=1456089246&worldtokenhash=gwIjej9MGO_5XkMlwly3DHDKzZXebheV9V5vS7z9YhI%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Hạ Buồn -PDH-*[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Ha_buon-Phuong_Diem_Hanh/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Gia Tài Của nó *[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Gia_tai_cua_no-Bang_Tam_ft_Dang_The_Luan/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Anh Còn Nợ Em[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Anh_con_no_em_Thien_Kim/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Anh Là Tia Nắng Trong Em *[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Anh_la_tia_nang_trong_em-Luu_Thuy_Van/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Áo Lụa Hà Đông  *[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Ao_lua_ha_dong-Bang_Kieu/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Áo Anh sút chỉ đường tà  *[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Ao_sut_chi_duong_ta-Quoc_Khanh/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Bạch Đằng Giang*[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Bach_dang_giang-Nguyen_Hong_Nhung_ft_Diem_Lien/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Bao Giờ Biết Tư *[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Bao_gio_het_tuong_tu-Ho_Hoang_Yen/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Bóng Nhõ Đường Chiều *[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Bong_nho_duong_chieu-Y_Phung/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Bông Cỏ Mây *[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Bong_co_may-Giang_Tu/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Nghĩ Chuyện ngày Xuân-MTV[/B][/COLOR]
+http://f.vp9.tv/music/nhac_vang/Nghi_chuyen_ngay_xuan-Mai_Thien_Van/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Thói Đời-TV[/B][/COLOR]
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Thoi.Doi.2014.720p/chunklist_w2087283826.m3u8?worldtokenstarttime=1458509527&worldtokenendtime=1458594127&worldtokenhash=ZP4mTWLXopTjfmN1wfEXJl7Bc0VeawdzOgRVgb0FQ9s%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Đêm Tâm Sự [/B][/COLOR]
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Dem.Tam.Su.2014.720p/chunklist_w1013551372.m3u8?worldtokenstarttime=1458509670&worldtokenendtime=1458594270&worldtokenhash=A-Gd0vwZ-g7DizaKnV0NphXZiXHk0M_1wAEclcRdl9w%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Tình Ca Quê Hương  [/B][/COLOR]
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.73.Mua.He.Ruc.Ro.2013.720p/Tinh.Ca.Que.Huong.2013.720p/chunklist_w1665577196.m3u8?worldtokenstarttime=1458512755&worldtokenendtime=1458597355&worldtokenhash=9lF_Rq0L0NmWbwve_oHohrxVQurVxds7Q6lc_O38e0E%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Thúy đã đi rồi - Đan Nguyên  [/B][/COLOR]
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.72.Dong.Nhac.Y.Van.2013.720p/Thuy.Da.Di.Roi.720p/index.m3u8?worldtokenstarttime=1458512891&worldtokenendtime=1458597491&worldtokenhash=_im-4735DcDNJshDbRN7LBWIWFUaYkb2x94ajkr7aUo=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Tình thắm duyên Quê  [/B][/COLOR]
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.74.Truc.Phuong_Ong.Hoang.Cua.Dong.Nhac.Bolero.2014.720p/Tinh.Tham.Duyen.Que.2014.720p/index.m3u8?worldtokenstarttime=1458513090&worldtokenendtime=1458597690&worldtokenhash=lqUqY2M4lhpGdawd5AAlb5iajaQq1zBH1_bCljhtLE8=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Tân Cổ - Chiều Thương Đô Thị [/B][/COLOR]
+http://204.9.200.253:1935/vodorigin/_definst_/asia/mvs/Asia.68.Sai.Gon.Ky.Niem.2011.720p/Tan.Co_Chieu.Thuong.Do.Thi.720p/chunklist_w1817326047.m3u8?worldtokenstarttime=1458512616&worldtokenendtime=1458597216&worldtokenhash=BZoSpNxQRsgRlmChmJnuo9_u_1EdePqGqBfepmuYEls%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Những đồi hoa Sim[/B][/COLOR]
+http://f.vp9.tv/music/nhac_vang/Nhung_doi_hoa_sim-Hoang_Oanh_ft_Mai_Thien_Van/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] *Ngày đó xa rồi -ĐN-*[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Ngay_do_xa_roi-Dan_Nguyen/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Hai Đứa Giận Nhau[/B][/COLOR]
+http://f.vp9.tv/music/nhac_vang/Hai_dua_gian_nhau-Mai_Thien_Van_ft_Truong_Vu/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Hai Vì Sao Lạc - MTV[/B][/COLOR]
+http://f.vp9.tv/music/nhac_vang/Hai_vi_sao_lac-Mai_Thien_Van/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Một Người đi[/B][/COLOR]
+http://f.vp9.tv/music/nhac_vang/Mot_nguoi_di-Hoang_Oanh/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Xin Gọi Nhau Là cố Nhân[/B][/COLOR]
+http://f.vp9.tv/music/nhac_vang/Xin_goi_nhau_la_co_nhan-Quang_Le/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Về Đâu Mái Tóc Người Thương [/B][/COLOR] 
+http://f.vp9.tv/music/nhac_vang/Ve_dau_mai_toc_nguoi_thuong-Quang_Le/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Nếu Anh Đừng Hẹn [/B][/COLOR] 
+http://f.vp9.tv/music/nhac_vang/Neu_anh_dung_hen-Mai_Thien_Van/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Nếu Chúng mình cách trở[/B][/COLOR] 
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Neu.Chung.Minh.Cach.Tro_Nhat.Lam_Nga.My.2015.1080p/chunklist_w1728181710.m3u8?worldtokenstarttime=1456004086&worldtokenendtime=1456088686&worldtokenhash=YWcLnBdfewglzhwSngz4WiJ9FuWG9omgcLdvLJigmz0%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Nhật Ký Đời Tôi [/B][/COLOR] 
+http://f.vp9.tv/music/nhac_vang/Nhat_ky_doi_toi-Mai_Thien_Van/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Người Đi Ngoài Phố [/B][/COLOR] 
+http://f.vp9.tv/music/nhac_vang/Nguoi_di_ngoai_pho-Nhu_Quynh/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Huế Buồn [/B][/COLOR] 
+http://f.vp9.tv/music/nhac_vang/Hue_buon-Nhu_Quynh/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Một Người Đi [/B][/COLOR] 
+http://f.vp9.tv/music/nhac_vang/Mot_nguoi_di-Hoang_Oanh/mv.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]Hãy Đến Bên Anh Người Yêu[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Hay.Den.Ben.Anh.Nguoi.Yeu_Si.Dan_Philip.Huy.2015.1080p/index.m3u8?worldtokenstarttime=1456040609&worldtokenendtime=1456125209&worldtokenhash=eSL1jC4g82_uyUuY-2q6FhdatvOd3XrWx3wUE8dSwo0=
+
+#EXTINF:-1,[COLOR ffff00ff][B]Lạnh Trọn Đêm Mưa - Giã Từ Đêm Mưa - Mưa Đêm Độc Hành[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Lanh.Tron.Dem.Mua_Gia.Tu.Dem.Mua_Mua.Dem.Doc.Hanh_Dan.Nguyen_Cat.Linh_Thuy.Huong_Le.Quoc.Tuan.2015.1080p/index.m3u8?worldtokenstarttime=1456040065&worldtokenendtime=1456124665&worldtokenhash=1V4MiBJogV30b_CYxIeZ4Py-m0N5NrT-1wJCFTuMWtY=
+
+#EXTINF:-1,[COLOR ffff00ff][B]Chưa Vơi Sầu Đau[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Chua.Voi.Sau.Dau_Thanh.Truc_Vu.Tuan.Duc.2015.1080p/chunklist_w81366495.m3u8?worldtokenstarttime=1456040462&worldtokenendtime=1456125062&worldtokenhash=Yp3bmDNTiEBGSnBekSO3Yei7wCN4uwS1KaYKO08YqhY%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Nếu chúng Mình cách trở [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Neu.Chung.Minh.Cach.Tro_Nhat.Lam_Nga.My.2015.1080p/index.m3u8?worldtokenstarttime=1456004086&worldtokenendtime=1456088686&worldtokenhash=YWcLnBdfewglzhwSngz4WiJ9FuWG9omgcLdvLJigmz0=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Rừng chưa thay lá [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Rung.Chua.Thay.La_My.Huyen_Dang.Vu.2015.1080p/chunklist_w160399395.m3u8?worldtokenstarttime=1456004439&worldtokenendtime=1456089039&worldtokenhash=4t8lzNl7GOjDKU4RFrAOxec-UKKw-Z5m169hZK3yqLs%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Tình đẹp như mơ [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Tinh.Dep.Nhu.Mo_Doan.Phi_Ngoc.Anh.Vi.2015.1080p/chunklist_w688859677.m3u8?worldtokenstarttime=1456004510&worldtokenendtime=1456089110&worldtokenhash=NI21N7aOEBpTmsnhXSMzzIHyeDPEtvxjrL5_vNCmTIU%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Đoạn cuối tình yêu [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Doan.Cuoi.Tinh.Yeu_Bang.Tam_Huynh.Phi.Tien.2015.1080p/chunklist_w1221917263.m3u8?worldtokenstarttime=1456004646&worldtokenendtime=1456089246&worldtokenhash=gwIjej9MGO_5XkMlwly3DHDKzZXebheV9V5vS7z9YhI%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Cát bụi tình xa [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Cat.Bui.Tinh.Xa_Le.Thu_Thien.Kim.2015.1080p/index.m3u8?worldtokenstarttime=1456004699&worldtokenendtime=1456089299&worldtokenhash=VdypV1LwTwNvG-a7a_D41n2RysVpQ0U7QVEcwEeDF1w=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Về đâu mái tóc Người thương [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Ve.Dau.Mai.Toc.Nguoi.Thuong_Dang.Le.Tuan_Truc.Mi.2015.1080p/chunklist_w995558727.m3u8?worldtokenstarttime=1456004752&worldtokenendtime=1456089352&worldtokenhash=-C5mqUsabGhPBtNBjgJtYCqx6c8VSE3uEvdSZ2YnAAI%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Biết nói gì đây [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Biet.Noi.Gi.Day_Tuan.Vu_Thanh.Tuyen.2015.1080p/chunklist_w24373621.m3u8?worldtokenstarttime=1456004800&worldtokenendtime=1456089400&worldtokenhash=C2IjJe1X_hwcrod4MlWN5vyivHBzvjVX6woWhOaVkFU%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Nuối tiếc [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Nuoi.Tiec_Trinh.Nam.Son_Thuy.Tien.2015.1080p/chunklist_w1502646333.m3u8?worldtokenstarttime=1456004847&worldtokenendtime=1456089447&worldtokenhash=7GJecW0cK1H_Xv46BFXRlYVGIN8Jc5jAU3Zae4kWJPw%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Cho đến cuối cuộc đời [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Cho.Den.Cuoi.Cuoc.Doi_Ho.Hoang.Yen_Quoc.Khanh.2015.1080p/chunklist_w169367700.m3u8?worldtokenstarttime=1456004897&worldtokenendtime=1456089497&worldtokenhash=lUG-aFxKZzgeRKkWSlFld5IHcXoua118Y1G24hoD5lE%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Và Anh hãy nói yêu Em [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Va.Anh.Hay.Noi.Yeu.Em_Lam.Nhat.Tien_Nguyen.Hong.Nhung.2015.1080p/chunklist_w2096448206.m3u8?worldtokenstarttime=1456004953&worldtokenendtime=1456089553&worldtokenhash=YZRE8q7iu69UhfdZcyleds1aJvIQThaSx9CqzqSkBK4%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Nếu ta đừng quen nhau-Hoa trắng thôi cài trên áo tím [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Neu.Ta.Dung.Quen.Nhau_Hoa.Trang.Thoi.Cai.Tren.Ao.Tim_Huy.Sinh_Ngoc.Dan.Thanh_Thien.Trang.2015.1080p/chunklist_w286064829.m3u8?worldtokenstarttime=1456005370&worldtokenendtime=1456089970&worldtokenhash=-OoCxWd1sxQWJ7z8FrBBWaFraNd4OTEjA9l0AD_BfEc%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Nỗi Buồn Hoa Phượng - Bt [/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Noi_buon_hoa_phuong-Bang_Tam/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Có những chuyện tình không là trăm năm [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Co.Nhung.Chuyen.Tinh.Khong.La.Tram.Nam_Lam.Thuy.Van_Lam.Nhat.Tien.2015.1080p/chunklist_w1297892832.m3u8?worldtokenstarttime=1456005566&worldtokenendtime=1456090166&worldtokenhash=byltTVyIvK7Gy5jlNK4bRkKlUc14a50hpfE_v9WLCKM%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Tình Bơ Vơ - Đừng Nói Xa Nhau [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Tinh.Bo.Vo_Dung.Noi.Xa.Nhau_Ha.Thanh.Xuan_Dan.Nguyen_Hoang.Thuc.Linh.2015.1080p/index.m3u8?worldtokenstarttime=1456006603&worldtokenendtime=1456091203&worldtokenhash=IDUm9SIw88O86gj3OM-rarJxl0YQiVGc1Ua9e4ZUhMc=
+
+#EXTINF:-1,[COLOR ffff00ff][B] Kiếp Cầm Ca - Mưa Rừng [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Kiep.Cam.Ca_Mua.Rung_Thanh.Thuy_Minh.Hieu.2015.1080p/chunklist_w983097846.m3u8?worldtokenstarttime=1456006825&worldtokenendtime=1456091425&worldtokenhash=hHyzzdA-hw02p-Z51whb-rtR-V2KP_aM4ZYuF_xiFts%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B]  Một Mình [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Mot.Minh_Mai.Thanh.Son_Hoang.Anh.Thu.2015.1080p/chunklist_w981183005.m3u8?worldtokenstarttime=1456003966&worldtokenendtime=1456088566&worldtokenhash=dpsfYtW6OPNvdQkkwwM06pTDhEnBXuNGGNVqwaG3pgQ%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Tiếng trống mê linh [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Tieng.Trong.Me.Linh_Ngoc.Huyen_Manh.Quynh_Y.Phung_Tuan.Chau_Van.Chung.2015.1080p/chunklist_w487971176.m3u8?worldtokenstarttime=1456006953&worldtokenendtime=1456091553&worldtokenhash=gTi8QndZ4bHa8iA3Zu9KAEqKgnVZ0FwPrjyCxgJ1Cl8%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Việt Dzũng Trong Trái Tim Việt Nam [/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/mvs/Viet.Dzung.Trong.Trai.Tim.Viet.Nam_Hop.Ca.Asia.2015.1080p/chunklist_w1260161645.m3u8?worldtokenstarttime=1456007184&worldtokenendtime=1456091784&worldtokenhash=9U0i7jN5IW7BMMeW6inuf2uJNSWslxPtUwINCq_FRiI%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Show - Chuyện tình yêu[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/shows/Chuyen.Tinh.Yeu/Chuyen.Tinh.Yeu.01.720p/chunklist_w949316692.m3u8?worldtokenstarttime=1456086347&worldtokenendtime=1456170947&worldtokenhash=27HJyFrrlfBToK_TC3GbadTRhLb-IUkDb2DKTY66H24%3D
+
+#EXTINF:-1,[COLOR ffff00ff][B] Sương Lạnh Chiều Đông - ĐN[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Suong_lanh_chieu_dong-Dan_Nguyen/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] 10 năm tình cũ[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/10_nam_tinh_cu-Luong_Manh_Hung/10_nam_tinh_cu-Luong_Manh_Hung.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] 24 Giờ Phép-Dan Nguyen[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/24_gio_phep-Dan_Nguyen/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Ai thương yêu Em[/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Ai_thuong_yeu_em-Thien_Quang/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] Vòng Nhẫn cưới [/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/Vong_nhan_cuoi-Quang_Le/mvhd.HV.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B] 16 Trăng Tròn [/B][/COLOR]
+http://f.vp9.tv/music/tru_tinh/16_trang_tron-Tuong_Khue_ft_Tuong_Nguyen/mvhd.HV.mp4
+
+
+
+
+#EXTINF:-1,[COLOR ff808000][B]Videos-Phim mới(2016-15)[/B][/COLOR] 
+http://movihd.net/youtube/video.mp4?url=DxASMFAeSXEsABYPOC8nJycYXQEcG1RYDQEBAg8HRAkEHkgcAw4ACgUEAgotMwUBVBQCFRMpUUEVLTJYCwM5bDc7KRgXBAoEUkcbShEDGU4JBwkKFwsZGVgcEBtFGitvBF9YAFNWUXVBQQNmOwNLXmwjMDIvV0FUVQdcQRoUDVsaAQkLGBJBCQcFWBYQCxYBKg0SGAoIFBQJMlcBVRonAAFAIzp5Y2ZaXVZdRBVdGBUBEhlVWkwOCxcDGA9YVEFaUUB6ZFFbXUAUFAcyQkkVYywAAxMjOCEgOwZfFRsVQVAKDhgHGRtGCQYRHhoLGRZJHAxPGjszAUYYCRIWBSUPTRZyNxUQDz45aDYwGhoUFlJAXQ8ZCRIfGg9XKEpVKFlZVCNFKiExDGIlKy5eVyYlAmUXJ2ocJkNeenJ2ZApZRSI1WgsHUEYrXl1bLFIpRyIpWyxXUEYqWjULFFIrWSUhVlAEYRwkG25WRlNsISEqdQYbVw%3d%3d
+
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B] Bầy Cá Mập [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/05a/tt1438173/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Ba Ngày đổi Mạng [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt2172934/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Blue (HBO)[/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/05a/tt1223922/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] American Reunion[/B][/COLOR]
+http://103.1.209.76/720p/2012/american-reunion.2012.vp9.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] A Bug Life[/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt0120623/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] An Toàn không Đ3m Bảo[/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/10/80a/pt2_tt1520211/tt1804266/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Bảy kẻ Tâm Thần[/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/75a/tt1931533/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Năm năm đính hôn[/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt1195478/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] 12 Vòng Sinh Tử [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt2317524/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Sáu Viên Đạn [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt1975249/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] 360 [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt1680045/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Abraham Lincoln - Thợ săn ma Cà Rồng  [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt1975249/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Ana Karenina[/B][/COLOR]
+http://103.1.209.76/720p/2012/anna-karenina.2012.vp9.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Argo [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt1975249/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Anh Chàng sét đắnh [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt1975249/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Ảo Thuật Gia tài ba [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt1975249/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] As Above- so below [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt1975249/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Amour [/B][/COLOR]
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt1975249/HV.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Biển Xanh Sâu Thẳm [/B][/COLOR]
+http://103.1.209.73/720p/2011/the-deep-blue-sea.2011.vp9.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Ba Chàng Ngự Lâm 2 [/B][/COLOR]
+http://103.1.209.73/720p/2011/the-hangover-part-II.2011.vp9.mp4
+
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]Siera nevada [/B][/COLOR]
+http://dl.my-film.org/reza/film/Sieranevada.2016.720p.WEB-DL.x264-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]The Remains[/B][/COLOR]
+http://dl.tehmovies.org/94/95/9/The.Remains.2016.1080p.5.1CH.Ganool.Tehmovies.biz.mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]Exposed.2016.720p[/B][/COLOR]
+http://dl.directdlmovie.com/Exposed.2016.720p.BluRay.directdlmovie.com.mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]Wheeler.2017 nn[/B][/COLOR]
+http://s1.bia2m.biz/Movies/Archive/2017/Bahman95/Wheeler.2017.720p.WEB-DL.MkvCage%20(Bia2Movies).mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]Zombie nn[/B][/COLOR]
+http://avadl.uploadet.ir/DL4/Film/Zombie%20Ninjas%20vs%20Black%20Ops%20%282015%29%20HDRip_AVADL.CoM.mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]Vacation nn[/B][/COLOR]
+http://avadl.uploadet.ir/DL4/Film/Vacation%20%282015%29%201080p%20BrRip%20x265_AVADL.CoM.mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]Hacksaw.Ridge.2016.720p[/B][/COLOR]
+http://dl.my-film.org/reza/film/Hacksaw.Ridge.2016.720p.BluRay.x264.ShAaNiG-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]Money.Monster.2016.720p[/B][/COLOR]
+http://dl.my-film.org/reza/film/Money.Monster.2016.720p-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]Allied.2016[/B][/COLOR]
+http://dl.my-film.org/reza/film/Allied.2016.DVDScr.MkvCage-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]La La Land-2016 BlueRay -MT[/B][/COLOR]
+http://dl.my-film.org/reza/film/La.La.Land.2016.DVDScr-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]Let's be Evil 2016 BlueRay -MT[/B][/COLOR]
+http://dl.my-film.org/reza/film/Lets.Be.Evil.2016.720p.MkvCage-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B] Masterminds-2016 -MT[/B][/COLOR]
+http://dl.my-film.org/reza/film/Masterminds.2016.720p.MkvCage-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B] Max Steel-2016 -MT[/B][/COLOR]
+http://dl.my-film.org/reza/film/Max.Steel.2016.HDrip.NBY-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B] Money Monster-2016 -MT[/B][/COLOR]
+http://dl.my-film.org/reza/film/Money.Monster.2016.720p-[My-Film].mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B] Death Race 2050[/B][/COLOR]
+http://mcdn-play-358.5centscdn.net/ciextv/5c6d78cffa59e129f040fcec2d788532.sdp/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Huntsman Winter's War 3D <mamo>[/B][/COLOR]
+http://91.207.102.134:8777/moceadvrw24pcnokailst2muxefr4hujzswlpcs4vrndryf6nirii2izsm/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Binding  <mamo>[/B][/COLOR]
+http://74.117.181.134:8777/wgcel6fww24pcnokaikst46iwmoc4pdvu2ksqo7xvptbbz5xcp2lnr5w24/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Brooklyn Banker  <mamo>[/B][/COLOR]
+http://77.81.98.200:8777/tocetnnww24pcnokailst2e4xaevtzzmanas6pfi7hbpyu62gkcbgfk2ce/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Mind's Eye  <mamo>[/B][/COLOR]
+http://31.14.252.93:8777/yscemn5xw24pcnokailstyow5ifj63hvwkq6673orfwb7k63s6r7afoefm/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Remains  <mamo>[/B][/COLOR]
+http://74.117.181.132:8777/rwcelunxw24pcnokailst5op7cymjwd3fm65hirao2uavl375q4irigvea/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Suffering  <mamo>[/B][/COLOR]
+http://74.117.181.134:8777/wgcekrvuw24pcnokaijcty647jaorsi2hhpc7m6ttdvidvlzc2uvecobra/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Ice Age Collistion Course  <mamo>[/B][/COLOR]
+http://77.81.98.228:8777/mccebpxtw24pcnokajuct2m76hhqhrn4qr2aur7dequ5kouyspyj7sy5tu/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Maggie's Plan  <mamo>[/B][/COLOR]
+http://74.117.181.142:8777/xscebeptw24pcnokajuct46g5zxfohsw3wwwsryhrodgkfsybytnil64s4/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] 2 Lava 2 lantula !  <mamo>[/B][/COLOR]
+http://74.117.181.148:8777/v2cefxdgw24pcnokajxct2wuwtfoy4uu5tpmwdzsmmdolez66qwgz5efsu/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Money Monster  <mamo>[/B][/COLOR]
+http://77.81.98.202:8777/j2ceanlhw24pcnokajxctzgz66azrd5q5ovvxrfzm4deszvevipjdjuzey/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Rachet & Clark  <mamo>[/B][/COLOR]
+http://74.117.181.136:8777/w2cefqlhw24pcnokajxstp6o56xfmevkhlgcqwtqbgpyz5irpef4feejca/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Too Late  <mamo>[/B][/COLOR]
+http://31.14.252.70:8777/6gcegzdew24pcnokajxctmoa6l6oil6v3nr2ragguxjgixb2uc5lzy7t4a/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Star Trek Beyond  <mamo>[/B][/COLOR]
+http://91.195.99.72:182/d/7jsczxizljrwuximgu4h73ys4hbjoobfhphsgegxbnwa64r7lghynldm/video.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Secret Summer  <mamo>[/B][/COLOR]
+http://74.117.181.142:8777/ukceeodgxo4pcnokai3ct2o6wbnwuesvkwj5onszbkn36erg4njzp6uyle/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Perfect Christmas  <mamo>[/B][/COLOR]
+http://77.81.98.200:8777/sccefvb5xc4pcnokaiactn6cxebhx3jq3dftisnfbuj3fqml6e3qp64gna/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Looking: The Movie  <mamo>[/B][/COLOR]
+http://74.117.181.134:8777/woceh3tbxo4pcnokai3ct7u65hnsgqqe5jqphbhtbkka2tcgggofepmhry/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Daylight's End  <mamo>[/B][/COLOR]
+http://74.117.181.142:8777/ugcelhz5xc4pcnokaibct2w262t7lhbhltrfwlqjrkyvxqjyy7zvbcd6gq/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Arachnicide  <mamo>[/B][/COLOR]
+http://91.207.102.133:8777/p6ceb4coxc4pcnokaidctyu76hlozbrkzif6jyuqttqlcazkgjx3onn5gm/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Mechamic resurrection  <mamo>[/B][/COLOR]
+http://74.117.181.132:8777/rwcek62pxc4pcnokaicctp635v37q66oisff5boykxwtsb2kwlv2kk5wae/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Skiptrace  <mamo>[/B][/COLOR]
+http://74.117.181.132:8777/rwcekpkpxc4pcnokaicct7gf6bb75lyz4266vvndatpxb3gcleszknouxu/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] My Summer Prince  <mamo>[/B][/COLOR]
+http://74.117.181.142:8777/xscea2hqw24pcnokajuctmwb6auzsaou6r2mz57iisnhpeujfhzpjwkzey/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Legend of Tarzan  <mamo>[/B][/COLOR]
+http://74.117.181.140:8777/x2cee7qpxg4pcnokaiictzm55bup7k4q46bdjnda32edjvj2sx6amedn44/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Wedding March <mamo>[/B][/COLOR]
+http://77.81.98.201:8777/qwcesledxg4pcnokaimstmg37jkvrfrsdko74hauwhesjf4dhrpq2s5d2q/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Into the Forest <mamo>[/B][/COLOR]
+http://91.195.99.66:8777/7gcetkgxxg4pcnokaipstp6vwa47yrjq7ksrtmd4x5kfnb77relr33j2bq/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] God not Dead 2 <mamo>[/B][/COLOR]
+http://74.117.181.134:8777/wkcefjilxg4pcnokaiict5mu7awcepzqv3suxi62e2nl6dckhq74d5dyci/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Bet <mamo>[/B][/COLOR]
+http://77.81.98.200:8777/tocet36uxg4pcnokaipstn455b7kzyaiswilbnnlpcdb6r4olstsje5o44/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] ABCs of Death 2.5 <mamo>[/B][/COLOR]
+http://74.117.181.132:8777/rwcekzylxg4pcnokaipct5w34govkyz4nfwleguvbkkttlsighpib6vqvm/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] The Revenant <stis>[/B][/COLOR]
+http://74.117.181.130:8777/rocegebow64pcnokal7svzgd6mazvx3fsqsw64mlv3qoy5at4pe57vmere/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Batman vs Superman <stis>[/B][/COLOR]
+http://74.117.181.138:8777/xocehfbjw64pcnokalesvnw57g35bxt5w45az5nblu7qks7oqylire2kga/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Alligiant <stis>[/B][/COLOR]
+http://74.117.181.132:8777/r6cehuziw64pcnokajtctygj5d4wgem3wanrgrtrisrwzystw5cheyw3om/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B] Phantom Detective-Thám Tử tài năng   <hdet>('-'[/B][/COLOR]
+http://n06.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/16/Phantom_Detective_2016_720p_HDRip_H/playlist_h.m3u8?audioindex=1
+
+#EXTINF:-1,[COLOR ff00ffff][B] To steal from a Thief  <hdet>('-'[/B][/COLOR]
+http://n06.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/17/To_Steal_From_A_Thief_2016_SD_H/To_Steal_From_A_Thief_2016_SD_H_800/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Những chú chim nổi giận  <hdet>('-'[/B][/COLOR]
+http://n01.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/28/Angry_Birds_2016_1080p_BluRay_S/Angry_Birds_2016_1080p_BluRay_S_1792/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Người Kiến <hdet>[/B][/COLOR]
+http://n01.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/042016/28/Ant_Man_2015_1080p_BluRay_S_ViE/Ant_Man_2015_1080p_BluRay_S_ViE_1792/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Cuộc Chiến Quyền Lợi  <hdet>('-'[/B][/COLOR]
+http://n06.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/27/The_Hunt_2016_720p_HDRip_H/The_Hunt_2016_720p_HDRip_H_1024/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Ghost Shooter - Truy tìm nội gián <hdet>('-'[/B][/COLOR]
+http://n08.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/27/Sniper_Ghost_Shooter_2016_DVDRip_H/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Phòng Khám Tình Yêu <viud> [/B][/COLOR]
+http://115.146.123.58:1935/phim28/mp4:Love.Clinic.2015.mp4/chunklist.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Ngày Phẫn Nộ <viud> [/B][/COLOR]
+http://vtsstr2.sctv.vn/betavod/_definist_/cache/vod/phim/phimle/hanhdong/ngayphanno/0_8y79c4ux.smil/media_w770937551_b2611000_0.ts
+
+#EXTINF:-1,[COLOR ff00ffff][B] Truy Tiềm Bóng Ma <viud> [/B][/COLOR]
+http://vtsstr2.sctv.vn/betavod/_definist_/cache/vod/phim/phimle/hanhdong/truytimbongma/0_wm4udfzh.smil/chunklist_w628424105_b2573000.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Thời Đại của Rồng <viud> [/B][/COLOR]
+http://vtsstr1.sctv.vn/betavod/_definist_/cache/vod/phim//phimle/hanhdong/thoidaicuarong-HD/0_mrwlyh6e.smil/chunklist.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Sứ Mệnh Tuyệt Mật  <viud>  [/B][/COLOR]
+http://vtsstr1.sctv.vn/betavod/_definist_/cache/vod/phim/phimle/hanhdong/sumenhtuyetmat/0_4bylh09a.smil/chunklist_w1068061356_b2194000.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Sky -2016  (fuar) [/B][/COLOR]
+http://77.81.98.201:8777/q2cemi6l2w4pcnokalwcx2675wkp4v647ptnfiwbyqi2ideyvjywnw6z24/v.mp4
+
+#EXTINF:-1,[COLOR ff00ffff][B]  God's Slave [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4875115222001&videoId=4875005685001
+
+#EXTINF:-1,[COLOR cyan][B] Yellow Rock  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822741034001&pubId=3692957913001&videoId=3822459768001
+
+#EXTINF:-1,[COLOR cyan][B] Warrior Angels  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3816993080001&pubId=3692957913001&videoId=3816751182001
+
+#EXTINF:-1,[COLOR cyan][B] Viper  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822718398001&pubId=3692957913001&videoId=3822344154001
+
+#EXTINF:-1,[COLOR cyan][B] Under Heavy Fire  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3818922102001&pubId=3692957913001&videoId=3818786616001
+
+#EXTINF:-1,[COLOR cyan][B] US Seals  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3816908334001&pubId=3692957913001&videoId=3816734812001
+
+#EXTINF:-1,[COLOR cyan][B] Tunnel Rats  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3869991977001&pubId=3692957913001&videoId=3869446780001
+
+#EXTINF:-1,[COLOR cyan][B] The Last Kungfu Monk  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822852775001&pubId=3692957913001&videoId=3822690722001
+
+#EXTINF:-1,[COLOR cyan][B] Black 300 Killers  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822207792001&pubId=3692957913001&videoId=3821757580001
+
+#EXTINF:-1,[COLOR cyan][B] Black 18 Fingers of Death  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3816400255001&pubId=3692957913001&videoId=3816318558001
+
+#EXTINF:-1,[COLOR cyan][B] Black Plague  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4795697964001&videoId=4795600905001
+
+#EXTINF:-1,[COLOR cyan][B] Cougar Hunting  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4921347134001&videoId=3821430564001
+
+#EXTINF:-1,[COLOR cyan][B] Deep in the Valley  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3851578397001&pubId=3692957913001&videoId=3849471523001
+
+#EXTINF:-1,[COLOR cyan][B] Cougar Club  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3937195914001&videoId=3936835067001
+
+#EXTINF:-1,[COLOR cyan][B] Whirly Girl  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3820326302001&pubId=3692957913001&videoId=3820140440001
+
+#EXTINF:-1,[COLOR cyan][B] Ski School 2  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3818497767001&pubId=3692957913001&videoId=3818408095001
+
+#EXTINF:-1,[COLOR cyan][B] Buys & Girls Guide to getting down  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3824655898001&pubId=3692957913001&videoId=3824380833001
+
+#EXTINF:-1,[COLOR cyan][B] Casting Couch  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4921337960001&videoId=3836862655001
+
+#EXTINF:-1,[COLOR cyan][B] Foreign Exchange  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3854261390001&pubId=3692957913001&videoId=3854125086001
+
+#EXTINF:-1,[COLOR cyan][B] Stoned  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4723199159001&videoId=3820606494001
+
+#EXTINF:-1,[COLOR cyan][B] Saint John of Las Vegas  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3851442899001&pubId=3692957913001&videoId=3849409355001
+
+#EXTINF:-1,[COLOR cyan][B] American Animal  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3834775655001&pubId=3692957913001&videoId=3834261983001
+
+#EXTINF:-1,[COLOR cyan][B] Escanaba in da moonlight  <poix>[/B][/COLOR]
+http://brightcove.vo.llnwd.net/e1/hls/3692957913001/3819208544001/3692957913001_3819208544001_s-1.ts?pubId=3692957913001&videoId=3818950853001
+
+#EXTINF:-1,[COLOR cyan][B] Grand Theft the  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3837911436001&pubId=3692957913001&videoId=3837521359001
+
+#EXTINF:-1,[COLOR cyan][B] The Good Student  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3854518809001&pubId=3692957913001&videoId=3854232905001
+
+#EXTINF:-1,[COLOR cyan][B] Freshman Orientation  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3817375585001&pubId=3692957913001&videoId=3817249035001
+
+#EXTINF:-1,[COLOR cyan][B] Who is your Daddy  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3820401033001&pubId=3692957913001&videoId=3820198138001
+
+#EXTINF:-1,[COLOR cyan][B] Winter Break  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3854193939001&pubId=3692957913001&videoId=3854125060001
+
+#EXTINF:-1,[COLOR cyan][B] Far Cry  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3934553571001&videoId=3934392804001
+
+#EXTINF:-1,[COLOR cyan][B] Evel Knievel  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4083443321001&videoId=4083296058001
+
+#EXTINF:-1,[COLOR cyan][B] Echelon 8  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822762820001&pubId=3692957913001&videoId=3822417000001
+
+#EXTINF:-1,[COLOR cyan][B] Dusting Cliff 7  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3821477383001&pubId=3692957913001&videoId=3821061995001
+
+#EXTINF:-1,[COLOR cyan][B] Down and Dangerous  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3870255409001&pubId=3692957913001&videoId=3869621173001
+
+#EXTINF:-1,[COLOR cyan][B] Dishdogz  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3817171016001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] Destination Vegas  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3816537212001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] Day of Wrath  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3854276988001&pubId=3692957913001&videoId=3854125082001
+
+#EXTINF:-1,[COLOR cyan][B] D4  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4184317918001
+
+#EXTINF:-1,[COLOR cyan][B] Croczila  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4583369256001&videoId=3836793625001
+
+#EXTINF:-1,[COLOR cyan][B] Coyote Run <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3799781421001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] Conned <poix>[/B][/COLOR]
+http://screenmedia-a.akamaihd.net/hls/3692957913001/201412/3933465482001/3692957913001_3933465482001_s-1.ts?videoId=3933021400001
+
+#EXTINF:-1,[COLOR cyan][B] Caught Inside <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822400628001&pubId=3692957913001&videoId=3822143463001
+
+#EXTINF:-1,[COLOR cyan][B] Case of Honor <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3817247935001&pubId=3692957913001&videoId=3817170972001
+
+#EXTINF:-1,[COLOR cyan][B] CIA Exiled a.k.a Curacao ES <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3820373822001&pubId=3692957913001&videoId=3820296147001
+
+#EXTINF:-1,[COLOR cyan][B] BullFighter <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3820140339001&pubId=3692957913001&videoId=3819817321001
+
+#EXTINF:-1,[COLOR cyan][B] Brotherhood of Justice <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3812685787001&pubId=3692957913001&videoId=3812507144001
+
+#EXTINF:-1,[COLOR cyan][B] Bridge of Dragons <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3820818462001&pubId=3692957913001&videoId=3820696383001
+
+#EXTINF:-1,[COLOR cyan][B] Blood Game <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3861619218001&pubId=3692957913001&videoId=3861309265001
+
+#EXTINF:-1,[COLOR cyan][B] Blue Collar Hooligan <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4316014109001&videoId=4315638287001
+
+#EXTINF:-1,[COLOR cyan][B] Berserker Hell Warrior <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3827421053001&pubId=3692957913001&videoId=3827226906001
+
+#EXTINF:-1,[COLOR cyan][B] Assassin Code <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3861589017001&pubId=3692957913001&videoId=3861309262001
+
+#EXTINF:-1,[COLOR cyan][B] Angels Dance <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3815182190001&pubId=3692957913001&videoId=3814982642001
+
+#EXTINF:-1,[COLOR cyan][B] Ameigo <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3870042748001&pubId=3692957913001&videoId=3869430918001
+
+#EXTINF:-1,[COLOR cyan][B] American Ninja 5 <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3854915604001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] Amazones and Gladiators <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3818627680001&pubId=3692957913001&videoId=3818524251001
+
+#EXTINF:-1,[COLOR cyan][B] Afghan Luke <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4048927213001&videoId=4048638289001
+
+#EXTINF:-1,[COLOR cyan][B] Abstraction <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4710240910001&videoId=4710085685001
+
+#EXTINF:-1,[COLOR cyan][B] 300 Killers <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822207792001&pubId=3692957913001&videoId=3821757580001
+
+#EXTINF:-1,[COLOR cyan][B] Hoodies VS Hooligans  <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4783304548001&videoId=4783110282001
+
+#EXTINF:-1,[COLOR cyan][B] Silver Case <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4710136556001
+
+#EXTINF:-1,[COLOR cyan][B] The September Issue <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4690068908001
+
+#EXTINF:-1,[COLOR cyan][B] Mystery Team <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4688652656001
+
+#EXTINF:-1,[COLOR cyan][B] P2 <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4690054327001
+
+#EXTINF:-1,[COLOR cyan][B] Virgin Suicides <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4663385155001
+
+#EXTINF:-1,[COLOR cyan][B] The Romantics <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4712386245001
+
+#EXTINF:-1,[COLOR cyan][B] American Werewolf in London <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4726391091001
+
+#EXTINF:-1,[COLOR cyan][B] Enduring Love <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4712279826001
+
+#EXTINF:-1,[COLOR cyan][B] True Color <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4712627109001&videoId=4712289791001
+
+#EXTINF:-1,[COLOR cyan][B] Wake in Fright <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4724487893001&videoId=4724328261001
+
+#EXTINF:-1,[COLOR cyan][B] Tell No One <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4739594704001&videoId=4739369137001
+
+#EXTINF:-1,[COLOR cyan][B] The Duchess <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4712608214001&videoId=4712269946001
+
+#EXTINF:-1,[COLOR cyan][B] Sins <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4712061361001&videoId=4711788022001
+
+#EXTINF:-1,[COLOR cyan][B] Once Fallen <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3826852586001&pubId=3692957913001&videoId=3826747099001
+
+#EXTINF:-1,[COLOR cyan][B] Samourais <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3826870777001&pubId=3692957913001&videoId=3826747098001
+
+#EXTINF:-1,[COLOR cyan][B] Straight into Darkness <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3817846038001&pubId=3692957913001&videoId=3817687791001
+
+#EXTINF:-1,[COLOR cyan][B] Sun Storm <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3826852718001&pubId=3692957913001&videoId=3826648527001
+
+#EXTINF:-1,[COLOR cyan][B] U.S. Seals <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3816908334001&pubId=3692957913001&videoId=3816734812001
+
+#EXTINF:-1,[COLOR cyan][B] Surival Games <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3834903285001&pubId=3692957913001&videoId=3834488602001
+
+#EXTINF:-1,[COLOR cyan][B] Over The Top <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4776248572001&videoId=4776063188001
+
+#EXTINF:-1,[COLOR cyan][B] The Assault <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4412252715001&videoId=3828596747001
+
+#EXTINF:-1,[COLOR cyan][B] 18 Fingers of Death <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3816400255001&pubId=3692957913001&videoId=3816318558001
+
+#EXTINF:-1,[COLOR cyan][B] Pitcher and the pin-up <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3820052252001&pubId=3692957913001&videoId=3819434832001
+
+#EXTINF:-1,[COLOR cyan][B] Mile...Mile and a Half <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3869977462001&pubId=3692957913001&videoId=3869453322001
+
+#EXTINF:-1,[COLOR cyan][B] Gone - Disappearace of Aeryn Gillern <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4574061576001&videoId=4573868110001
+
+#EXTINF:-1,[COLOR cyan][B] Dark Tide <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4688487930001
+
+#EXTINF:-1,[COLOR cyan][B] The Invincible Iron Man <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4774445937001&videoId=4773986065001
+
+#EXTINF:-1,[COLOR cyan][B] The Love Ones <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4712455529001
+
+#EXTINF:-1,[COLOR cyan][B] Doctor Strange <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4774235779001
+
+#EXTINF:-1,[COLOR cyan][B] Nobody's Fool <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4772576108001&videoId=4772258159001
+
+#EXTINF:-1,[COLOR cyan][B] The Presidio <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4772848417001&videoId=4772545942001
+
+#EXTINF:-1,[COLOR cyan][B] Planet hulk <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4774209050001&videoId=4773857115001
+
+#EXTINF:-1,[COLOR cyan][B] The Big Kahuna <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4774076554001&videoId=4773755463001
+
+#EXTINF:-1,[COLOR cyan][B] The Singing Detective <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4770598824001
+
+#EXTINF:-1,[COLOR cyan][B] Four Fearthers <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4774556562001&videoId=4774122305001
+
+#EXTINF:-1,[COLOR cyan][B] Rate Race <poix>[/B][/COLOR]
+http://popcornflixv2.device.screenmedia.net/api/videos/f9e5ca8d-ca78-4b0f-a7c1-4160bd1ae11d
+
+#EXTINF:-1,[COLOR cyan][B] Aeon Flux <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4770840956001&videoId=4770430230001
+
+#EXTINF:-1,[COLOR cyan][B] Love Me if You dare <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4712455569001
+
+#EXTINF:-1,[COLOR cyan][B] Whos your Daddy <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3820198138001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] The Cake Eaters <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3820528862001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] The Jungle Girls <poix>[/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3869060243001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] Battle in Seatlte (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3819116798001&pubId=3692957913001&videoId=3818950837001
+
+#EXTINF:-1,[COLOR cyan][B] Fire with fire (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=4686289721001
+
+#EXTINF:-1,[COLOR cyan][B] The Last Kungku Monk (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822852775001&pubId=3692957913001&videoId=3822690722001
+
+#EXTINF:-1,[COLOR cyan][B] Ghost from the Machine (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3821349250001&pubId=3692957913001&videoId=3820970272001
+
+#EXTINF:-1,[COLOR cyan][B] Yellow Rock (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822741034001&pubId=3692957913001&videoId=3822459768001
+
+#EXTINF:-1,[COLOR cyan][B] Silver Hawk (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3819915195001&pubId=3692957913001&videoId=3819655908001
+
+#EXTINF:-1,[COLOR cyan][B] Deep in the Valley (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3849471523001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] One Way (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3869950627001&pubId=3692957913001&videoId=3869295681001
+
+#EXTINF:-1,[COLOR cyan][B] Easy (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3819961373001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] In Hell (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=3826655323001&pubId=3692957913001
+
+#EXTINF:-1,[COLOR cyan][B] The Hustle (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3839934514001&pubId=3692957913001&videoId=3839853678001
+
+#EXTINF:-1,[COLOR cyan][B] Meteor Storm (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3820518618001&pubId=3692957913001&videoId=3820378950001
+
+#EXTINF:-1,[COLOR cyan][B] Abandonted Mine (pofx) [/B][/COLOR]
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3869428340001&pubId=3692957913001&videoId=3868671067001
+
+
+
+#EXTINF:-1,[COLOR ff808000][B] XXX for G U Y S W h o L i k e s  XXX ('-'[/B][/COLOR]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w490756326.m3u8
+
+
+
+#EXTINF:-1,[COLOR ffff00ff][B]  Playboy TV 19+[/B][/COLOR]
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:-1,[COLOR ffff00ff][B]  Brazer 1[/B][/COLOR]
+http://static.brazzers.com/scenes/4500/180sec.flv
+
+#EXTINF:-1,[COLOR ffff00ff][B]  Brazer 2[/B][/COLOR]
+http://static.brazzers.com/scenes/4503/180sec.flv
+
+#EXTINF:-1,[COLOR ffff00ff][B]  Brazer 3[/B][/COLOR]
+http://static.brazzers.com/scenes/4502/180sec.flv
+
+#EXTINF:-1,[COLOR ffff00ff][B]  Brazer 4[/B][/COLOR]
+http://static.brazzers.com/scenes/4501/180sec.flv
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 1[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 2[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 3[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 4[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 5[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 6[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 7[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 8[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 9[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 10[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  VOD 11[/B][/COLOR]
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+
+#EXTINF:-1,[COLOR ffff00ff][B]  Brazzers[/B][/COLOR]
+http://static.brazzers.com/scenes/4510/180sec.flv
+
+
+
+
+#EXTINF:-1,[COLOR ff800080][B] B E G I N  o f   T E S T I N G ('-'[/B][/COLOR]
+http://www.mediafire.com/download/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
+
+
+
+
+
+#EXTINF:-1 group-title="QUOC TE TH",KOSMOS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRTBELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg" group-title="QUOC TE TH",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg" group-title="QUOC TE TH",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg" group-title="QUOC TE TH",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="QUOC TE TH" tvg-name="NASA TV", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE TH",US:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",US:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",US:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",CHINA HISTORY CHANNEL
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png" group-title="QUOC TE TH", NHK WORLD
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://www.rainews.it/dl/rainews/images/logo_news.png" group-title="QUOC TE TH",RAI NEWS 24
+http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE TH",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",NHK WORLD NEWS
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 group-title="QUOC TE TH", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="QUOC TE TH",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8
+
+
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:LONDON LIVE 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:BBC AMERICA 
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:ABC NEWS 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on#7
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:CNN 
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="https://s18.postimg.org/95uolyzjd/bloomberg.png",USA:Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:TRU TV 
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:DYSCOVERY 
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:ANIMAL PLANET HD 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:NICK TOONS 
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:TNT 
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="",USA:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 2 
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 3 
+http://a1.adintrend.com:443/live/ch3/i/ch3i.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:,CHANNEL 5
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 7 s1
+http://je8.bugaboo.tv/liveedgech7_partner/480p/playlist.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 7 s2
+http://111.223.36.2/teleplus_ch7.m3u8?bandwidth=556
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 8 s1
+http://202.142.207.150:1935/live/liveinfinity3/playlist.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 8 s2
+http://stream.rs.co.th/ch8-low/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CHANNEL 13
+http://stream.13livetv.com:1935/live/13livetv/chunklist_w1245002243.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:NBT
+http://202.43.34.234:1935/11/s1/chunklist.m3u8?wowzasessionid=1576797501
+
+#EXTINF:-1 group-title="THAILAND",Thai:MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:GANG CARTOON
+http://111.223.36.6/tp_gang_cartoon.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CAT CHANNEL
+http://61.19.18.237/live/m1.sdp/chunklist_w1633942408.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:CARTOON CLUB
+http://111.223.36.3/tp_cartoon_club.m3u8
+
+#EXTINF:-1 group-title="THAILAND",Thai:NEW TV 18
+http://111.223.36.6/tp_dailynews_tv.m3u8?bandwidth=306
+
+#EXTINF:-1 group-title="KOREA",Korea:BBS
+http://edge1.everyon.tv:1935/etv1/phd553/chunklist_w1460618078.m3u8
+
+#EXTINF:-1 group-title="KOREA",Korea:CBS
+http://123.108.164.71/etv2sb/phd27/chunklist_w1165666480.m3u8
+
+#EXTINF:-1 group-title="KOREA",Korea:KIDS TV
+http://123.108.164.71/etv2/phd1043/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA",Korea:ANIMATION
+http://123.108.164.71/etv2sb/pld13/lihattv.m3u8
+
+#EXTINF:-1 group-title="KOREA",Korea:KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+
+#EXTINF:-1 group-title="KOREA",Korea:LIHAT TV
+http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
+
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",KOSMOS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/4h4wag8k9/rtdoc.jpg",RT DOCUMENTARY
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRTBELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CHINA HISTORY CHANNEL
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
+
+#EXTINF:-1  group-title="QUOC TE TH" tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png", NHK WORLD
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/edj0suuct/abcnews.jpg",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR ff808000][B] E N D  o f  V I Ệ T    T E S T I N G ('-'[/B][/COLOR]
+http://www.mediafire.com/download/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
+
+
+
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  TLC [/B][/COLOR]
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Golf Live 1080 [/B][/COLOR]
+http://54.193.182.243/server/play/golfxctgstg/4296000/prog.m3u8?
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  SCTV-Phim 24h HD [/B][/COLOR]
+rtmp://vf10.aditmedia.net/ingestx/ playpath=ivn_000105 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nguoiviet.tv/phim/
+
+
+
+
+#EXTINF:-1,[COLOR cyan][B]=====Phim truyện lẻ========[/B][/COLOR]
+http://
+
+#EXTINF:-1 group-title="phim le",BẢY KẺ TÂM THẦN
+http://2co1.vp9.tv/data/vp9/f/05/75a/tt1931533/HV.mp4
+#EXTINF:-1 group-title="phim le",BIỂN XANH SÂU THẲM
+http://103.1.209.73/720p/2011/the-deep-blue-sea.2011.vp9.mp4
+#EXTINF:-1 group-title="phim le",BA CHÀNG NGỰ LÂM 2
+http://103.1.209.73/720p/2011/the-hangover-part-II.2011.vp9.mp4
+#EXTINF:-1 group-title="phim le",BA CHÀNG NGỐC
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt0383010/HV.mp4
+#EXTINF:-1 group-title="phim le",BICENTENNIAL MAN
+http://2co1.vp9.tv/data/vp9/f/05/05a/tt0182789/HV.mp4
+#EXTINF:-1 group-title="phim le",BÍ ẨN GIỮA CÁC ĐẠI DƯƠNG
+http://2co1.vp9.tv/data/vp9/f/05/05a/tt1223922/HV.mp4
+
+
+#EXTINF:-1 group-title="phim le",CHIẾN HẠM
+http://103.1.209.76/720p/2012/battleship.2012.vp9.mp4
+#EXTINF:-1 group-title="phim le",CHIẾN DỊCH TRANH CỬ
+http://103.1.209.73/720p/2011/the-ides-of-march.2011.vp9.mp4
+#EXTINF:-1 group-title="phim le",CÔ GÁI CÓ HÌNH XĂM RỒNG
+http://103.1.209.73/720p/2011/the-girl-with-the-dragon-tattoo.2011.vp9.mp4
+#EXTINF:-1 group-title="phim le",CAO BỒI VÀ NGƯỜI NGOÀI HÀNH TINH
+http://2co1.vp9.tv/data/vp9/f/05/10a/tt0409847/HV.mp4
+#EXTINF:-1 group-title="phim le",CUỘC CHIẾN GIỮA CÁC VỊ THẦN 
+http://2co3.vp9.tv/data/04/f/00/75a/tt0800320/HV.mp4
+#EXTINF:-1 group-title="phim le",CUỘC CHIẾN TÌNH YÊU
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt1596350/HV.mp4
+#EXTINF:-1 group-title="phim le",CUỐN NHẬT KÝ KÌ LẠ
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt0376136/HV.mp4
+#EXTINF:-1 group-title="phim le",CHÚ GẤU TED
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt1637725/HV.mp4
+
+
+
+#EXTINF:-1 group-title="phim le",ĐẶC KHU B13: TỐI HẬU THƯ
+http://2co1.vp9.tv/data/vp9/f/05/05a/tt1247640/HV.mp4
+
+
+#EXTINF:-1 group-title="phim le",FANTOMAS
+http://2co1.vp9.tv/data/vp9/f/05/25a/tt0058089/HV.mp4
+
+#EXTINF:-1 group-title="phim le",HODEJEGERNE
+http://2co1.vp9.tv/data/vp9/f/05/35a/tt1614989/HV.mp4
+#EXTINF:-1 group-title="phim le",HƯƠNG VỊ TÌNH ĐẦU
+http://2co1.vp9.tv/data/vp9/f/05/75a/tt2205697/HV.mp4
+
+#EXTINF:-1 group-title="phim le",INDIANAJONES AND THE LAST CRUSADE
+http://2co1.vp9.tv/data/vp9/f/05/40a/tt0097576/HV.mp4
+
+#EXTINF:-1 group-title="phim le",KHÁCH SẠN HOA CÚC VÀNG NHIỆT ĐỚI
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt1412386/HV.mp4
+
+#EXTINF:-1 group-title="phim le",MẬT MÃ SỐNG CÒN
+http://2co1.vp9.tv/data/vp9/f/05/05a/tt0364970/HV.mp4
+
+
+#EXTINF:-1 group-title="phim le",NEVER BACK DOWN
+http://2co1.vp9.tv/data/vp9/f/05/55a/tt1023111/HV.mp4
+#EXTINF:-1 group-title="phim le",NHỮNG THIÊN THẦN CỦA CHARLIE: TỐC ĐỘ TỐI DA
+http://2co1.vp9.tv/data/vp9/f/05/10a/tt0305357/HV.mp4
+#EXTINF:-1 group-title="phim le",NON STOP
+http://2co1.vp9.tv/data/vp9/f/05/55a/tt2024469/HV.mp4
+#EXTINF:-1 group-title="phim le",NGƯỜI ĐÀN BÀ THÉP
+http://103.1.209.73/720p/2011/the-iron-lady.2011.vp9.mp4
+#EXTINF:-1 group-title="phim le",NGƯỜI DƠI KHỞI SỰ
+http://2co1.vp9.tv/data/vp9/f/05/05a/tt0372784/HV.mp4
+#EXTINF:-1 group-title="phim le",NỮ SÁT THỦ COLOMBIANA
+http://2co1.vp9.tv/data/vp9/f/05/10a/tt1657507/HV.mp4
+#EXTINF:-1 group-title="phim le",NƠI TÌNH YÊU BẮT ĐẦU
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt0457939/HV.mp4
+
+
+#EXTINF:-1 group-title="phim le",SỨC MẠNH VÔ HÌNH
+http://103.1.209.76/720p/2012/chronicle.2012.vp9.mp4
+#EXTINF:-1 group-title="phim le",SÒNG BẠC HOÀNG GIA
+http://2co1.vp9.tv/data/vp9/f/05/10a/tt0381061/HV.mp4
+
+
+#EXTINF:-1 group-title="phim le",PHI VỤ NGẦM
+http://103.1.209.76/720p/2012/contraband.2012.vp9.mp4
+#EXTINF:-1 group-title="phim le",PREMMIUM RUSH
+http://103.1.209.76/720p/2012/premium-rush.2012.vp9.mp4
+
+#EXTINF:-1 group-title="phim le",THE WAY BACK
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt1023114/HV.mp4
+#EXTINF:-1 group-title="phim le",THE TREE OF LIFE
+http://103.1.209.73/720p/2011/the-tree-of-life.2011.vp9.mp4
+#EXTINF:-1 group-title="phim le",TRIỆU KIỂU CHẾT MIỀN TÂY
+http://2co1.vp9.tv/data/vp9/f/05/00a/tt2557490/HV.mp4
+#EXTINF:-1 group-title="phim le",TRÁI TIM DŨNG CẢM
+http://2co1.vp9.tv/data/vp9/f/05/05a/tt0112573/HV.mp4
+#EXTINF:-1 group-title="phim le",THE MATRIX RELOADED
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt0234215/HV.mp4
+#EXTINF:-1 group-title="phim le",TRAPPED
+http://2co3.vp9.tv/data/04/f/00/75a/tt0280380/HV.mp4
+#EXTINF:-1 group-title="phim le",TRỪNG PHẠT TỘI ÁC
+http://103.1.209.73/720p/2011/the-mechanic.2011.vp9.mp4
+#EXTINF:-1 group-title="phim le",TROY
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt0332452/HV.mp4
+#EXTINF:-1 group-title="phim le",TOM VÀ JERRY: PHÙ THỦY XỨ OZ
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt2027255/HV.mp4
+#EXTINF:-1 group-title="phim le",TIẾN THOÁI LƯỠNG NAM
+http://2co1.vp9.tv/data/vp9/f/05/80a/tt1578275/HV.mp4
+
+
+#EXTINF:-1 group-title="phim le",VIÊN ĐẠN VÀO ĐẦU
+http://103.1.209.76/720p/2012/bullet-to-the-head.2012.vp9.mp4
+
+
+
+#EXTINF:-1,[COLOR cyan][B]=====Phim Tài liệu========[/B][/COLOR]
+****************************************************************
+
+
+
+#EXTINF:-1 group-title="phim TL",CUỘC KHỦNG HOẢNG KINH TẾ
+http://2co1.vp9.tv/data/vp9/f/05/40a/tt1645089/HV.mp4
+
+#EXTINF:-1 group-title="phim TL",DI SẢN NỔI TIẾNG TRÊN THẾ GIỚI
+http://2co3.vp9.tv/data/04/f/00/05a/kh_0000060/kh_0000063/HV.mp4
+
+#EXTINF:-1 group-title="phim TL",KHÁM PHÁ CUỘC SỐNG ĐỘNG VẬT - P7
+http://2co1.vp9.tv/data/vp9/f/10/45a/pt_tt1533395/tt1561893/HV.mp4
+#EXTINF:-1 group-title="phim TL",KHÁM PHÁ CUỘC SỐNG ĐỘNG VẬT - P8
+http://2co1.vp9.tv/data/vp9/f/10/45a/pt_tt1533395/tt1561891/HV.mp4
+
+#EXTINF:-1 group-title="phim TL", NHỮNG SỰ KIỆN THIÊN NHIÊN KỲ VĨ:BĂNG TAN P1 
+http://2co1.vp9.tv/data/vp9/f/10/55a/pt1_tt1380596/tt1383655/HV.mp4
+#EXTINF:-1 group-title="phim TL",NHỮNG SỰ KIỆN THIÊN NHIÊN KỲ VĨ:CÁ HỒI NGƯỢC DÒNG P2
+http://2co1.vp9.tv/data/vp9/f/10/55a/pt1_tt1380596/tt1394027/HV.mp4
+
+
+#EXTINF:-1 group-title="phim TL",ỐC ĐẢO CỦA ĐẠI DƯƠNG
+http://2co3.vp9.tv/data/04/f/00/05a/tt0289365/HV.mp4
+
+#EXTINF:-1 group-title="phim TL",TIẾT LỘ VỀ NƯỚC MỸ:QUỐC GIA DI CHUYỂN
+http://2co3.vp9.tv/data/04/f/00/05a/kh_0000045/kh_0000047/HV.mp4
+#EXTINF:-1 group-title="phim TL",TIẾT LỘ VỀ NƯỚC MỸ:QUỐC GIA SỬ DỤNG ĐIỆN
+http://2co3.vp9.tv/data/04/f/00/05a/kh_0000045/kh_0000048/HV.mp4
+#EXTINF:-1 group-title="phim TL",THIÊN NHIÊN HOANG DÃ NƯỚC NGA
+http://2co1.vp9.tv/data/vp9/f/00/05a/pt_tt1442188/tt1491587/HV.mp4
+
+
+
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/e86hng4z7/PBN_120.jpg",[COLOR ffff00ff][B] PBN -120 Còn Chút Gì Để Nhớ HD[/B][/COLOR]
+http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv
+
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/e86hng4z7/PBN_120.jpg",[COLOR ffff00ff][B] PBN -120 Còn Chút Gì Để Nhớ HD[/B][/COLOR]
+http://www.mediafire.com/watch/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mp4
+
+
+
+#EXTINF:-1,[COLOR cyan][B] C O N T I N U E  T E S T I N G [/B][/COLOR]
+1234567890
+
+#EXTINF:-1,[COLOR ff00ff00][B] Animal Planet [/B][/COLOR]
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="THỂ THAO"tvg-logo="https://s16.postimg.org/jyjsz46qt/anh.png",Trực tiếp ngoại hạng
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
+http://123.30.191.202/hls/vtv1.m3u8
+
+#EXTINF:-1 group-title="VTV-VTVcab",VTV2 HD
+http://123.30.191.202/hls/vtv2.m3u8
+
+#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
+http://123.30.191.202/hls/vtv3.m3u8
+
+
+#EXTINF:-1 group-title="VTV-VTVcab",VTV6 sd
+http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD
+http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+#EXTINF:-1 group-title="VTV-VTVcab",NHÂN DÂN
+rtmp://203.162.121.235:1935/live/truyenhinhnhandan720
+#EXTINF:-1 group-title="VTV-VTVcab",QPVN
+rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
+
+#EXTINF:-1 group-title="VTV-VTVcab",VTV8 HD
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="VTV-VTVcab",VOV
+http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="VTC",VTC1 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="VTC",VTC1
+http://117.103.224.222:1935/live/_definst_/VTC1HD_2016.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC",VTC2
+http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC",VTC3
+http://123.30.185.126/hls/vtc3.m3u8
+#EXTINF:-1 group-title="VTC",VTC4
+http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="VTC",VTC5
+http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="VTC",VTC6
+http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="VTC",VTC7
+http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC",VTC8
+http://103.21.148.45:81/icomchannelvtc/vtc8_576/chunklist.m3u8
+#EXTINF:-1 group-title="VTC",VTC9
+http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
+
+
+#EXTINF:-1 group-title="VTC",ITV
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+#EXTINF:-1 group-title="VTC",VTC14
+http://live.cdn.mobifonetv.vn/motv/vtc14_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="VTC",VTC16
+http://live.cdn.mobifonetv.vn/motv/vtc16_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="VTC",VTC PLAY
+http://117.103.224.222:1935/live/_definst_/VTCPlay_music/playlist.m3u8
+#EXTINF:-1 group-title="VTC",ITV HD
+http://117.103.224.222:1935/live/_definst_/smil:iTVHD_2016.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC",SCTV5
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+
+
+#EXTINF:-1 group-title="THỂ THAO", ESPN
+http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
+#EXTINF:-1 group-title="THỂ THAO", MEXICO SPORTS HD
+http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8
+#EXTINF:-1 group-title="THỂ THAO", FOX SPORTS 2HD
+http://159.203.63.133:8081/rstm/FoxSports2/playlist.m3u8
+#EXTINF:-1 group-title="THỂ THAO", FOX SPORTS 3HD
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
+#EXTINF:-1 group-title="THỂ THAO",STAR SPORTS HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1 group-title="THỂ THAO",CCTV5
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
+
+#EXTINF:-1 group-title="THỂ THAO",CCTV5+
+http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+
+#EXTINF:-1 group-title="THỂ THAO",SUPERSPORT 2 HD
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:-1 group-title="THỂ THAO",SUPERSPORT 3 HD
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title="THỂ THAO",SUPERSPORT 4 HD
+http://81.7.13.162/hls/ss4/index.m3u8
+
+
+#EXTINF:-1 group-title="THỂ THAO",SPORT 1 HD BRAZIL
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="THỂ THAO",SPORT 2 HD BRAZIL
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="THỂ THAO",SPORT 3 HD BRAZIL
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="THỂ THAO",SPORT 4 HD BRAZIL
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="THỂ THAO",SPORT 5 HD BRAZIL
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="THỂ THAO",OSN SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="THỂ THAO",OSN SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="THỂ THAO",OSN SPORT 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1 group-title="THỂ THAO",OSN SPORT 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1 group-title="THỂ THAO",OSN SPORT 5 HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+#EXTINF:-1 group-title="THỂ THAO", SPORT HD
+http://46.105.161.243:8085/lighd
+#EXTINF:-1 group-title="THỂ THAO",Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="PHIM TRUYỆN",Fox-Cinema
+http://159.203.63.115:8081/rstm/FOX-Cinema/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TRUYỆN",FOX-Family
+http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TRUYỆN",FOX-Movies
+http://159.203.63.115:8081/rstm/FOX-Movies/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TRUYỆN",GalaTV
+http://159.203.63.115:8081/rstm/GalaTV/playlist.m3u8
+#EXTINF:-1 group-title="PHIM TRUYỆN",HBO-Family
+
+#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-logo="https://s16.postimg.org/543e4810l/letv.png",LETV MOVIES USA
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-logo="https://s10.postimg.org/ckf0luoqh/phimhanhdong.png",MOVIES HANH DONG
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TRUYỆN" tvg-logo="https://s3.postimg.org/r89zpqyyr/tomandjerry.jpg",TOM & JERRY
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="TỔNG HỢP" tvg-logo="https://s21.postimg.org/49lshbqw7/keeng.png",Keeng
+http://125.235.29.16/livetv/keeng.m3u8
+
+#EXTINF:-1 group-title="TỔNG HỢP" tvg-logo="https://s21.postimg.org/8vfhj4qev/nct.jpg",NCT
+http://123.30.134.108:1935/live/nctlive/playlist.m3u8
+
+
+
+
+#EXTINF:-1,CBS 47 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+
+#EXTINF:-1,CBS NEWS
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-p.m3u8
+
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1,DW
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1,FOX 23 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1,FOX 25 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+
+#EXTINF:-1,FOX 30 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1,FRANCE 24
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_1200.m3u8
+
+#EXTINF:-1,HOPE CHANNEL
+http://bcliveuniv-lh.akamaihd.net:80/i/HopeChannel_1@182961/index_1192_av-p.m3u8
+
+#EXTINF:-1,KIRO 7 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+
+#EXTINF:-1,NEWSMAX TV
+http://ooyalahd2-f.akamaihd.net:80/i/newsmax02_delivery@119568/index_1128_av-p.m3u8
+
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-p.m3u8
+
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1,WFTV 9 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8
+
+#EXTINF:-1,WGN 9 NEWS
+http://wgntribune-lh.akamaihd.net:80/i/WGNPrimary_1@304622/index_700_av-p.m3u8
+
+#EXTINF:-1,WPXI NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+
+#EXTINF:-1,WSOC 9 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR cyan][B]  T  E  S  T  I  N  G  --  S  T  A  R  T  S  [/B][/COLOR]
+1234567890================================================================================
+
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  WEather Nation [/B][/COLOR]
+http://klive-a.akamaihd.net/dc-1/m/ny-live-publish2/live/legacy/p/931702/e/1_oorxcge2/t/xPdzPRHeTzuJBzgAqe4T3A/chunklist_b2128000.m3u8
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Channel News Asia [/B][/COLOR]
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Discovery HD [/B][/COLOR]
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]  H2 [/B][/COLOR]
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Military [/B][/COLOR]
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Luxury Yatches HD [/B][/COLOR]
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
+
+
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B] UK Premiere Sports HD[/B][/COLOR]
+http://199.21.149.125:8888/UK_PREMIERE_SPORT_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS 1 HD ***[/B][/COLOR]
+http://199.21.149.125:8888/UK_BT_SPORTS_1_HD_TRUE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS 2 HD ***[/B][/COLOR]
+http://199.21.149.125:8888/UK_UK_BT_SPORT_2_HD/tracks-v1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS Europe HD ***[/B][/COLOR]
+http://199.21.149.125:8888/UK_BT_SPORT_EUROPE_HD/tracks-v1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS Europe HD True ***[/B][/COLOR]
+http://199.21.149.125:8888/UK_BT_SPORTS_EUROPE_HD_TRUE/tracks-v1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS Extra ***[/B][/COLOR]
+http://199.21.149.125:8888/UK_BT_SPORTS_EXTRA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** UK Eurosport 1 HD ***[/B][/COLOR]
+http://199.21.149.125:8888/UK_EUROSPORT_1HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** UK Eurosport 2 HD ***[/B][/COLOR]
+http://199.21.149.125:8888/UK_EUROSPORT_2HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** 300 Rise of an Empire <famo> ***[/B][/COLOR]
+http://dl.sv-mov.in/shahriyar/movie/archive/300%20Rise%20Of%20An%20Empire%20(2014)%20BluRay%20720p(MovIran).mkv
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** Cloverfield Lane <famo> ***[/B][/COLOR]
+http://dl.my-film.org/reza/film/10.Cloverfield.Lane.2016.1080p.6CH.x265.HEVC-[My-Film].mkv
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]*** Clinical 2017 <famo> ***[/B][/COLOR]
+http://dl.uplodin.ir/Film/2017/Clinical.2017.WEBRip.720.Ganool.FardaDownload.mkv
+
+http://dl.uplodin.ir/Film/2017/Coin.Heist.2017.720p.WEBRip.MkvCage.FardaDownload.mkv
+
+
+#EXTINF:-1,[COLOR cyan][B]  T  E  S  T  I  N  G  -http://gg.gg/4ficz-  E  N  D  E  D  -- [/B][/COLOR]
+1234567890================================================================================
+

@@ -1,0 +1,163 @@
+ #EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR cyan][B]ATT&t US Direct TV -Cinemax Action Max[/B][/COLOR] 
+http://199.21.149.125:8888/US_FOX_SPORT_2/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B] ABC News HD[/B][/COLOR]
+http://199.21.149.125:8888/US_ABC_NEWS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Animal Planet HD[/B][/COLOR]
+http://199.21.149.125:8888/UK_ANIMAL-PLANET-HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Bein Sports US HD[/B][/COLOR]
+http://199.21.149.125:8888/US_BEIN_SPORT_USA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Bein US HD[/B][/COLOR]
+http://199.21.149.125:8888/US_BEIN_USA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] BTN Sports US HD[/B][/COLOR]
+http://199.21.149.125:8888/US_BEIN_USA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] BNN HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_BNN_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Animal Planet [/B][/COLOR]
+http://199.21.149.125:8888/UK_ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] AMC HD [/B][/COLOR]
+http://199.21.149.125:8888/US_AMC_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Cartoon Network HD [/B][/COLOR]
+http://199.21.149.125:8888/UK_CARTOON_NETWORK/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CNN HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CNN_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CBS Sports Network HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CBS_SPORTS_NETWORK_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Comedy Central HD [/B][/COLOR]
+http://199.21.149.125:8888/US_COMEDY_CENTRAL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CBN News HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CBN_NEWS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CW HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CW_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CNBC HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CNBC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Cinemax 5 StarMax HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CINEMAX_5_STARMAX/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Cinemax Action Max East HD [/B][/COLOR]
+http://199.21.149.125:8888/US_CINEMAX_ACTION_MAX_EAST/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Discovery Channel HD [/B][/COLOR]
+http://199.21.149.125:8888/US_DISCOVERY_CHANNEL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Discovery Science HD [/B][/COLOR]
+http://199.21.149.125:8888/US_DISCOVERY_SCIENCE_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] ESPN  2 HD [/B][/COLOR]
+http://199.21.149.125:8888/US_ESPN-2-HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Fox HD [/B][/COLOR]
+FOXhttp://199.21.149.125:8888/US_FOX_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Fox Sports 1 HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FOX_SPORTS_1_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Foxx HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FOXX_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] FX HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FX/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Fix HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FIX_TV_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] HallMark Channel HD [/B][/COLOR]
+http://199.21.149.125:8888/US_HALLMARK_CHANNEL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] ID [/B][/COLOR]
+http://199.21.149.125:8888/US_INVESTIGATION_DISCOVERY/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TNT HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TNT/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] HBO 2 HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_HBO2_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] HBO Zone HD[/B][/COLOR]
+http://199.21.149.125:8888/US_HBO_ZONE_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CBC HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_CBC_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Bravo HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_BRAVO_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TLC HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_TLC_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Discovery HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_DISCOVERY_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] StarZ Cinema HD[/B][/COLOR]
+http://199.21.149.125:8888/US_STARZ_CINEMA_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] SYFY HD[/B][/COLOR]
+http://199.21.149.125:8888/US_SYFY/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Showtime Showcase[/B][/COLOR]
+http://199.21.149.125:8888/US_SHOWTIME_SHOWCASE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Showtime Extreme[/B][/COLOR]
+http://199.21.149.125:8888/US_SHOWTE_IMEXTREME/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Spike HD[/B][/COLOR]
+http://199.21.149.125:8888/US_SPIKE_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Travel HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TRAVEL_CHANNEL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TBS HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TBS_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TNT HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TNT/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] TBC HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NBC_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Tennis HD[/B][/COLOR]
+http://199.21.149.125:8888/US_TENNIS_CHANNEL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] USA Network HD[/B][/COLOR]
+http://199.21.149.125:8888/US_USA_NETWORK_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Music RMC1 HD[/B][/COLOR]
+http://199.21.149.125:8888/US_MUSIC_RMC1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] NASA HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NASA_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] NBC Golf HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NBC_GOLF/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] National Geographic HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NAT-GEO-HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Nickoloden HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NICKELODEN_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] WWE Network[/B][/COLOR]
+http://199.21.149.125:8888/US_WWE_NETWORK_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Willow Cricket HD Network[/B][/COLOR]
+http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR cyan][B]Ends of US Direct TV testing[/B][/COLOR]
+http://199.21.149.125:8888/US_FOX_SPORT_2/tracks-v1a1/index.m3u8  

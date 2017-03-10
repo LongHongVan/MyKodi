@@ -1,0 +1,465 @@
+#EXTM3U http://textuploader.com/d5x8a/raw
+
+
+#EXTINF:-1 group-title="Tin Tức", [COLOR yellow][B]Hieuhien.vn-26/10/2016[/B][/COLOR]
+http://123.30.238.109/live/vtv1.m3u8|User-Agent=Mozilla/5.0
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Tin Tức", [COLOR red][B]Asia 75[/B][/COLOR]
+http://media.onworldtv.com:1935/vodorigin/_definst_/shows/Asia/Asia.75.Nhung.Giong.Ca.Huyen.Thoai.2014.1080p/media_w2068982058.m3u8|User-Agent=Mozilla/5.0
+
+
+
+#EXTINF:-1 group-title="Tin Tức", [COLOR lime][B]List [COLOR blue]ThanhNguyenPhu[/COLOR][/B][/COLOR]
+http://hieuhien.vn
+
+
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
+http://123.30.185.126/hls/vtv1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2
+http://123.30.185.126/hls/vtv2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
+http://123.30.185.126/hls/vtv3.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://i.imgur.com/keIENsc.png", VTV6 HD
+http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOV
+http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV
+http://123.30.185.126/hls/antv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN
+http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w848419920_b1000000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
+rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
+#EXTINF:-1 group-title="VN-VTV" tvg-logo="https://lh3.googleusercontent.com/-tEhZMDUuz_w/Vb25ogAOOgI/AAAAAAAAAhc/vdfAxRmBoBY/h118/nhandantv-tivi4k.png", NHAN DAN
+rtmpt://203.162.121.235:1935/live/truyenhinhnhandan720
+
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
+http://123.30.185.126/hls/vtc1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
+http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
+http://123.30.185.126/hls/vtc3.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
+http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png", VTC5
+http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/xXeBAok.png", VTC6
+http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7
+http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
+http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s2
+http://14.161.5.88:1935/live/myStream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s2
+http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11 
+http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/aKmAf9Z.png", VTC12
+http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png", VTC13 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s2
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s3
+http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14 
+http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtc14.smil/chunklist_b1500000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16
+http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://i.imgur.com/j7NsBwD.png", ANTG HD
+http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png", NCM BTV10
+http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png",Phim hay  
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png",Mien Tay  
+http://live.cdn.mobifonetv.vn/motv2/mientay_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vietteen_141217629418.png", VIETTEEN
+http://live.cdn.mobifonetv.vn/motv/vietten_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM BTV11 TV
+http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="https://s22.postimg.org/xq0en0n6p/anvienhd.jpg", ANVIEN HD
+http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_codien.png", Nhac Co Dien
+http://live.cdn.mobifonetv.vn/motv3/nhaccodien_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_trutinh.png", Nhac Tru Tinh
+http://live.cdn.mobifonetv.vn/motv3/nhactrutinh_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_dantoc.png", Nhac Dan Toc
+http://live.cdn.mobifonetv.vn/motv3/nhacdantoc_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nambo.png", Nhac Nam Bo
+http://live.cdn.mobifonetv.vn/motv3/nhacnambo_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nhactre.png", Nhac Tre
+http://live.cdn.mobifonetv.vn/motv3/nhactre_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nhacnhe.png", Nhac Nhe
+http://live.cdn.mobifonetv.vn/motv3/nhacnhe_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_cachmang.png", Nhac Cach Mang
+http://live.cdn.mobifonetv.vn/motv3/nhaccachmang_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-mobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_docsach.png", Doc Sach
+http://live.cdn.mobifonetv.vn/motv3/docsach_hls.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",Ha Noi 1
+http://123.30.185.126/hls/hanoi1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",Ha Noi 2
+http://123.30.185.126/hls/hanoi2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
+http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",CAO BANG
+http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://s21.postimg.org/7q4nqksjr/baccan.jpg",Bac Can
+http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn 
+rtmp://123.18.206.40:1935/live/livestream
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
+rtmp://45.124.85.26/oflaDemo/livestream
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hoa Binh 
+http://123.30.185.126/hls/hoabinh.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
+http://118.107.76.15:1935/live/_definst_/PT/smil:PT_live.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_hai-phong.png",Hai Phong
+rtmp://125.212.131.31/live/livestream
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-1_141457746552.png",Quang Ninh 1
+rtmp://123.29.68.44/hctv/vstv020
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_quang-ninh-3_141457749017.png",Quang Ninh 3
+rtmp://123.29.68.44/hctv/vstv021
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/eGfpF9j.png",Hung Yen
+http://42.112.16.101:1935/live/HYTV/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg",VINH PHUC 
+rtmp://117.6.162.63/live/thvp
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://s13.postimg.org/lkxq2eocn/hanam.jpg",HaNam 
+rtmp://113.160.198.111:8086/live//hanamtv
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_thanh-hoa_141457714089.png",Thanh Hoa 
+http://123.30.185.126/hls/ttv.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/ABygmpS.png",Ha Tinh 
+http://hatinhtv.vn/liveevent.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/lYtL22F.png",Quang Tri 
+rtmp://123.25.117.9:80/live/qtv
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg",THUA THIEN HUE 
+rtmp://118.69.176.149:1935/live/trt
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-1.png",Da Nang 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_da-nang-2.png",Da Nang 2 
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt2/chunklist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://s22.postimg.org/4yt2cm741/quangnam.png",Quang Nam
+rtmp://113.161.6.157:1935/live/livestream
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_binh-dinh.png",Binh Dinh 
+http://123.30.185.126/hls/binhdinh.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png",Khánh Hòa 
+rtmp://118.69.198.109/live/video
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg",GIA LAI
+rtmp://222.255.169.132/live/livestream
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://s11.postimg.org/g5akk3vrn/dacnong.jpg",DAK NONG 
+rtmp://222.255.158.22/live/truyenhinh
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg",Binh Phuoc 1
+http://118.69.197.145/hls/bptv1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg",Binh Phuoc 2
+http://118.69.197.145/hls/bptv2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ba-ria-vung-tau_141457728259.png",Bà Rịa-Vũng Tàu 
+rtmp://113.163.216.24:1935/live/livestream
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-1.png",Vinh long 1 
+http://123.30.108.72/hls/thvl1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_vinh-long-2.png",Vinh long 2 
+http://123.30.108.72/hls/thvl2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg",Ben Tre
+rtmp://113.163.94.245/livepkgr/thbt
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_145880827066.jpg",Sóc trăng 
+rtmp://115.78.3.164/live/stv1
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://s14.postimg.org/aqu8lk3i9/travinh.jpg",Tra Vinh 
+http://123.30.185.126/hls/travinh.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_145881130802.jpg",Bac Lieu 
+rtmp://118.69.205.213/livepkgr/livestream1
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_tien-giang.png",Tien Giang 
+http://123.30.185.126/hls/tiengiang.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_an-giang.png",An Giang 
+rtmp://113.161.212.25/live//atv1
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/OAwAkbr.png",Hau Giang
+rtmp://123.30.110.170:1939/thhg/thhg
+#EXTINF:-1 group-title="VN-DIA PHUONG" tvg-logo="http://i.imgur.com/YAGwIeW.png",Ca Mau 
+rtmp://113.161.220.254:1935/livepkgr/livestream2
+
+#EXTINF:-1 group-title="HAI NGOAI",VIETFACE 57.2
+http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",SGN 51.3 LIVE – SAIGON NETWORK TV ( HOUSTON, TEXAS )
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",SAIGONTV 55.3
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/chunklist_w136554602_b350000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",SAIGON TV LIVE – Media Kit & Rate (WESTMINSTER, CALIFORNIA)
+http://63.143.59.125:1935/live/myStream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VIET GLOBAL
+http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",KVLA
+http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 s1
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VBS TELEVISION Channel 57.6 s2
+http://69.75.17.10:1935/vbstv/myStream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",YOU STREAMLIVE
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VIETBAY
+http://64.71.129.2:8080/hls/ius_000131.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",ITV SHOP
+http://origin.onworldtv.com:1935/liveorigin/itvshop/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s1
+http://stream.onworldtv.com/edge/liveorigin/vna/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s2
+http://origin.onworldtv.com:1935/liveorigin/vna/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VNATV 57.3 s3
+http://livestream.vnvn.net/vnatv573.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",S CHANNEL TV 56.6 Live TV
+http://64.71.129.2:8080/hls/ius_000114.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",IBC NEWS
+rtmp://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp
+#EXTINF:-1 group-title="HAI NGOAI",VIETSET 57.4
+http://69.75.17.10:1935/vietset574tvv/myStream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s1
+http://204.9.200.251:1935/liveorigin/vstartv/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VSTAR TV s2
+http://stream.onworldtv.com/edge/liveorigin/vstartv/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",V STAR TV CHANNEL 57.11 – Nam California s3
+http://origin.onworldtv.com:1935/liveorigin/vstartv/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",Công Giáo TV
+http://conggiao.saigon.ns01.us:1935/conggiao/myStream/chunklist_w1690292235.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VIETCHRISTIAN
+mms://live.vietchristian.com/tv
+#EXTINF:-1 group-title="HAI NGOAI",KEENG TV
+http://125.235.29.16/livetv/keeng.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VIET MY TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",VIỆT SÓNG TV 47.7 WKTB ( Rates )- ATLANTA, GEORGIA
+http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",Nail & Beauty Channel
+http://stream.onworldtv.com/edge/liveorigin/lexor/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="HAI NGOAI",Radio Bolsa Westminster 
+http://ice7.securenetsystems.net/RBVU?type=.flv
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 106.3 FM Los Angeles 
+http://ice5.securenetsystems.net:80/KALI
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 1430 AM San Jose
+http://ice5.securenetsystems.net:80/KVVN
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio 900 AM Houston 
+http://ice5.securenetsystems.net:80/KREH
+#EXTINF:-1 group-title="HAI NGOAI",Saigon Radio Seattle 
+http://170.75.194.209:8888
+#EXTINF:-1 group-title="HAI NGOAI",Thời Báo Radio Toronto 
+http://209.250.131.2:8000/;stream.mp3
+#EXTINF:-1 group-title="HAI NGOAI",Radio VNHN/VABC Falls Church  
+http://vpr.serverroom.us:7492/;stream.mp3/playlist.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="USA",Showtime
+http://46.166.162.35:9090/load/b0922f3fa8aa/26.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",Starz Encore
+http://46.166.162.35:9090/load/b0922f3fa8aa/34.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",BRAVO
+http://46.166.162.35:9090/load/b0922f3fa8aa/5.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",TNT
+http://46.166.162.35:9090/load/b0922f3fa8aa/10.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",SYFY
+http://46.166.162.35:9090/load/b0922f3fa8aa/11.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",A&E
+http://46.166.162.35:9090/load/b0922f3fa8aa/2.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",HBO Zone
+http://46.166.162.35:9090/load/b0922f3fa8aa/21.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",HBO Signature
+http://46.166.162.35:9090/load/b0922f3fa8aa/22.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",Cinemax ActionMax
+http://46.166.162.35:9090/load/b0922f3fa8aa/25.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",Showtime Showcase
+http://46.166.162.35:9090/load/b0922f3fa8aa/28.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",NBCSN 
+http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",FS2
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",NETWORK
+http://46.166.162.35:9090/load/b0922f3fa8aa/49.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",VERSUS HD 
+http://46.166.162.35:9090/load/b0922f3fa8aa/50.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",NHL 
+http://46.166.162.35:9090/load/b0922f3fa8aa/51.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",TSN1
+http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",TSN2 
+http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",FOX 
+http://46.166.162.35:9090/load/b0922f3fa8aa/7.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",NATGEO
+http://46.166.162.35:9090/load/b0922f3fa8aa/39.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",NATGEO WILD 
+http://46.166.162.35:9090/load/b0922f3fa8aa/40.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",DISCOVERY ID 
+http://46.166.162.35:9090/load/b0922f3fa8aa/41.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",TLC 
+http://46.166.162.35:9090/load/b0922f3fa8aa/18.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",ANIMALPLANET
+http://46.166.162.35:9090/load/b0922f3fa8aa/37.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",H2
+http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",NBC
+http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",ABC 
+http://46.166.162.35:9090/load/b0922f3fa8aa/3.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",AMC
+http://46.166.162.35:9090/load/b0922f3fa8aa/4.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",SPIKE 
+http://46.166.162.35:9090/load/b0922f3fa8aa/12.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",COMEDY CENTER 
+http://46.166.162.35:9090/load/b0922f3fa8aa/14.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="USA",LIFETIME 
+http://46.166.162.35:9090/load/b0922f3fa8aa/15.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="CHINA",China:CCTV1 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV2 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-2/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV3 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-3/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV4 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-4/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV6 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-6/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV7 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-7/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV8 HD 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-8/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV9 s1 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-news/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV9 s2  
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-9/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV10 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-10/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV11 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-11/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV12 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-12/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV13 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV14 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CCTV15 
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN Military Review
+http://218.203.106.12:5580/ysten-businessmobile/live/junshipl/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN Gold Variety
+http://218.203.106.12:5580/ysten-businessmobile/live/saishijx/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN fine record
+http://218.203.106.12:5580/ysten-businessmobile/live/jingpinjl/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN fine arts
+http://218.203.106.12:5580/ysten-businessmobile/live/jzongyi/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN Sports Collectibles
+http://218.203.106.12:5580/ysten-businessmobile/live/jtiyu/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN Collectibles Movies
+http://218.203.106.12:5580/ysten-businessmobile/live/jdianying/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN boutique Grand Theatre
+http://218.203.106.12:5580/ysten-businessmobile/live/jdaju/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN theater costume
+http://218.203.106.12:5580/ysten-businessmobile/live/guzhuangjc/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN home theater
+http://218.203.106.12:5580/ysten-businessmobile/live/jiatingjc/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN romantic comedy
+http://218.203.106.12:5580/ysten-businessmobile/live/aiqingxj/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN military theater
+http://218.203.106.12:5580/ysten-businessmobile/live/junlvjc/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN action movies
+http://218.203.106.12:5580/ysten-businessmobile/live/dongzuody/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN large star
+http://218.203.106.12:5580/ysten-businessmobile/live/mingxingdp/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN overseas theater
+http://218.203.106.12:5580/ysten-businessmobile/live/xiqumd/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN suspense thriller
+http://218.203.106.12:5580/ysten-businessmobile/live/jingsongxy/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN Anime Kingdom
+http://218.203.106.12:5580/ysten-businessmobile/live/donghuawg/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN agricultural wealth
+http://218.203.106.12:5580/ysten-businessmobile/live/nongyezf/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN about health
+http://218.203.106.12:5580/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="CHINA",China:CIBN Perfect Game
+http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="QUOC TE TH",KOSMOS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRTBELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8|User-Agent=Mozilla/5.0?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg" group-title="QUOC TE TH",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg" group-title="QUOC TE TH",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg" group-title="QUOC TE TH",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg" group-title="QUOC TE TH",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="QUOC TE TH" tvg-name="NASA TV", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8|User-Agent=Mozilla/5.0?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE TH",US:H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH",US:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH",US:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH",CHINA HISTORY CHANNEL
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png" group-title="QUOC TE TH", NHK WORLD
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8|User-Agent=Mozilla/5.0?IPTVBRASILHD
+#EXTINF:-1 tvg-logo="http://www.rainews.it/dl/rainews/images/logo_news.png" group-title="QUOC TE TH",RAI NEWS 24
+http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8|User-Agent=Mozilla/5.0?IPTVBRASILHD
+#EXTINF:-1 group-title="QUOC TE TH",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH",NHK WORLD NEWS
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="QUOC TE TH",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s12.postimg.org/ue2266qkt/Chaplin.jpg",Charlie Chaplin (ingles)
+http://198.179.31.197/live/2966.high.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s10.postimg.org/fer15w86h/cinema.png",Action Cinema (ingles)
+http://198.179.31.197/live/500.high.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",FilmOn Horror Network (ingles)
+http://198.179.31.197/live/1684.high.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",Kung Fu Classics (ingles)
+http://198.179.31.197/live/1967.high.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",Bonanza (ingles)
+http://198.179.31.197/live/2957.high.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/lwgykkmwx/filmon.png",Kartoon Klassics
+http://198.179.31.197/live/793.high.stream/playlist.m3u8|User-Agent=Mozilla/5.0
