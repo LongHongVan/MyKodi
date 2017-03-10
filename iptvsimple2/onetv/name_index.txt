@@ -2,7 +2,7 @@
 	"NBC Sports Network HD", 
 	"NBC NFL HD", 
     "CW HD", 
-    "CBS NFL HD", 
+    "CBS NEWS HD", 
     "FOX NFL/NEWS HD",
     "ESPN HD",	
     "A&E HD", 
