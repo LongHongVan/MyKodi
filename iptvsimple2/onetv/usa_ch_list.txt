@@ -1,5 +1,5 @@
 [
-    "http://163.172.81.33:1234/live/www.iptvrestream.net/eeGY0TLlU6/562.ts|User-Agent=fuck41", 
+    "plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ipsatpro.info:8000/live/cLCyE0c0ZY/Hff95MbmM8/1456.ts", 
 	"plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://88.198.185.5:25461/live/KECQKA19mH/N9e1r33ZHb/203.ts", 
     "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ1dfSEQvdHJhY2tzLXYxYTEvaW5kZXgubTN1OA==", 
     "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQ0JTX0hEL3RyYWNrcy12MWExL2luZGV4Lm0zdTg=", 
