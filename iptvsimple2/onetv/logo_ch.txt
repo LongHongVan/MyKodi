@@ -1,5 +1,9 @@
 [     
 	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
+	"https://www.thelogodb.com/images/media/logo/tyvqqr1433945535.png", 
+	"https://www.thelogodb.com/images/media/logo/vvvvtw1465807769.png", 
+	"http://www.thelogodb.com/images/media/logo/nvghtj1485607808.png", 
+	"https://www.thelogodb.com/images/media/logo/tssypq1449496871.png", 
 	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
     "https://www.thelogodb.com/images/media/logo/qspwpv1453168359.png", 
     "http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", 

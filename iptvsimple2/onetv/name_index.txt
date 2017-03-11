@@ -1,5 +1,9 @@
 [   
 	"NBC Sports Network HD", 
+	"E! HD", 
+	"NBA TV HD", 
+	"BEIN SPORT USA", 
+	"AMC HD", 
 	"NBC NFL HD", 
     "CW HD", 
     "CBS NEWS HD", 
