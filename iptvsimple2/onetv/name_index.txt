@@ -1,6 +1,6 @@
 [   
 	"NBC Sports Network HD", 
-	"E! HD", 
+	"Entertainment HD", 
 	"NBA TV HD", 
 	"BEIN SPORT USA", 
 	"AMC HD", 
