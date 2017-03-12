@@ -1,4 +1,7 @@
 [   
+	"HTV7 FHD (Bonus)", 
+	"HTV9 FHD (Bonus)", 
+	"HTVC Travel FHD (Bonus)", 
 	"NBC Sports Network HD", 
 	"Entertainment HD", 
 	"NBA TV HD", 
