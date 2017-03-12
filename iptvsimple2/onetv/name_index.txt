@@ -5,7 +5,6 @@
 	"NBC Sports Network HD", 
 	"Entertainment HD", 
 	"NBA TV HD", 
-	"BEIN SPORT USA", 
 	"NBC NFL HD", 
     "CW HD", 
     "CBS NEWS HD", 
