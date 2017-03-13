@@ -1056,3 +1056,16 @@ http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgv
 #EXTINF:-1 group-title="Super USA Stream", TSN 5 HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfVFNOXzVfSEQvaW5kZXgubTN1OA==
 
+### HTVPlus ++++++++++++++++++++++
+
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png",HTV7 FHD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Ny4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/650827-HTV9_FullHD.png",HTV9 FHD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2OS4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",HTVC Travel
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Y2NhbmhhYy4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
+#EXTINF:-1group-title="HTVPlus Channels",  tvg-logo="http://img.hplus.com.vn/728x409/banner/2016/09/28/750391-htvc_ca_nhac.png", HTVC Ca Nhac FHD
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="https://1.bp.blogspot.com/-E3AJ42O8kUw/Vu3QLs3eoWI/AAAAAAAABDU/cHoTEyDolk0LUb9bAvjprPNiBn1JiqBAA/s1600/Star_Movies_HD_.png", Star Movies HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvc3Rhcm1vdmllcy43MjBwLnN0cmVhbS9jaHVua2xpc3QubTN1OA==
+
+
