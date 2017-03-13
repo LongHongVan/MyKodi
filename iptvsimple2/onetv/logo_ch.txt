@@ -4,6 +4,7 @@
 	"http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png", 
 	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
 	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
+	"http://www.thelogodb.com/images/media/logo/2i2f5x1485860104.png", 
 	"https://www.thelogodb.com/images/media/logo/tyvqqr1433945535.png", 
 	"https://www.thelogodb.com/images/media/logo/vvvvtw1465807769.png",  
 	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
