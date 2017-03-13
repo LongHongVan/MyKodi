@@ -3,6 +3,7 @@
 	"HTV9 FHD (Bonus)", 
 	"HTVC Travel FHD (Bonus)", 
 	"NBC Sports Network HD", 
+	"NBCSN ALT HD", 
 	"Entertainment HD", 
 	"NBA TV HD", 
 	"NBC NFL HD", 
