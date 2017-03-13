@@ -4,7 +4,7 @@
 	"HTVC Travel FHD (Bonus)", 
 	"NBC Sports Network HD", 
 	"NBCSN ALT HD (NEW)", 
-	"BEIN SPORT USA FHD", 
+	"BEIN/MUTV SPORT USA FHD", 
 	"Entertainment HD", 
 	"NBA TV HD", 
 	"NBC NFL HD", 
