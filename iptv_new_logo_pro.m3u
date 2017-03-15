@@ -649,8 +649,7 @@ http://127.0.0.1:19096/vntvnetproxy/hn1
 
 #### End VTVGoVN Live Channels #####
 
-#### - Top 10 USA Channels ##### Last updated 03/13/2017 for LSViet ##########
-
+#### - Top 10 USA Channels ##### Last updated Tue Mar 14 13:39:06 2017 for LSViet ##########
 
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png",HTV7 FHD (Bonus)
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Ny4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
@@ -659,10 +658,12 @@ http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",HTVC Travel FHD (Bonus)
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Y2R1bGljaC4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png",NBC Sports Network HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE2My4xNzIuMjE5LjE5MTozMTM1L05CQy9TTi9pbmRleC5tM3U4P3Rva2VuPU1ETXhOV1UyTXpNeVlUSTFOamxtTVRCaFlqaGlObUpsTXpJek56SmlOakE2TVRRNE9UTTRPVGcxTlE9PQ==
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE2My4xNzIuMjE5LjE5MTozMTM1L05CQy9TTi9pbmRleC5tM3U4P3Rva2VuPU1ETXhOV1UyTXpNeVlUSTFOamxtTVRCaFlqaGlObUpsTXpJek56SmlOakE2TVRRNE9UVXhOVEl4TWc9PQ==
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png",NBCSN ALT HD (NEW)
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkJDX1NQT1JUL3RyYWNrcy12MWExL2luZGV4Lm0zdTg=
-#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/2i2f5x1485860104.png",BEIN/MUTV SPORT USA FHD
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/2i2f5x1485860104.png",BEIN SPORT USA FHD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQkVJTl9TUE9SVF9VU0EvdHJhY2tzLXYxYTEvaW5kZXgubTN1OA==
+#EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/rpxxqy1433779967.png",MUTV FHD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVUtfTVVUVi90cmFja3MtdjFhMS9pbmRleC5tM3U4
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/tyvqqr1433945535.png",Entertainment HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jNzMzODFkNjU0MzcwMDc5MGU5NDllZTA4MTU3MTIwZi5tM3U4P3N0PUJ2aldqTURmT0J6VGVHdW9aTGpoYncmZT0xNDkwMDAwNDUxfFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
@@ -708,6 +709,7 @@ http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS41OS4yMjIuMjMyL3AycC9i
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8wNzVkNjY5OTMxNTFjMTc4ZGYxZWQ5ODQwMjAyZDk4My5tM3U4P3N0PTlCUENCdHRVbDQyRUVlY3I4NGM0c3cmZT0xNDg5OTE2NzU3fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
 #EXTINF:-1 group-title="Top 10 USA Channels",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yusqqu1444656884.png",HGTV HD
 http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC83ZDkwMDBjMDk2N2NjNDkxOWYwN2VjYmUyNzM2Yzk1YS5tM3U4P3N0PWFTbkhTeTJmZWRUeVItZ1hJSFB1ZXcmZT0xNDg5OTE3MjIzfFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+
 
 
 ################### New One-TV Server #####################################
