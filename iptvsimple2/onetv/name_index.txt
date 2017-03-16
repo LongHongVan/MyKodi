@@ -3,6 +3,7 @@
 	"HTV9 FHD (Bonus)", 
 	"HTVC Travel FHD (Bonus)", 
 	"THVL1 HD (Bonus)", 
+	"THVL2 HD (Bonus)", 
 	"NBC Sports Network HD", 
 	"NBCSN ALT HD (NEW)", 
 	"BEIN SPORT USA FHD",
