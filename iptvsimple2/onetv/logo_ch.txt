@@ -6,7 +6,7 @@
 	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
 	"https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
 	"http://www.thelogodb.com/images/media/logo/2i2f5x1485860104.png", 
-	"https://www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", 
+	"https://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png", 
 	"https://www.thelogodb.com/images/media/logo/tyvqqr1433945535.png", 
 	"https://www.thelogodb.com/images/media/logo/vvvvtw1465807769.png",  
 	"http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 

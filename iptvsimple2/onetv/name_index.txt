@@ -6,7 +6,7 @@
 	"NBC Sports Network HD", 
 	"NBCSN ALT HD (NEW)", 
 	"BEIN SPORT USA FHD",
-	"MUTV FHD", 
+	"BT SPORTS EUROPE HD", 
 	"Entertainment HD", 
 	"NBA TV HD", 
 	"NBC NFL HD", 
