@@ -4,7 +4,7 @@
 	"http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Y2R1bGljaC4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=", 
 	"http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzYxM2UzNGZlMzZjNGExOTA3YmU4YmM0NjVkMWExYjVkMi9zcHNrbGZsL3Zpbmhsb25nMS4zNjBwLnN0cmVhbS9jaHVua2xpc3QubTN1OA==", 
 	"http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzYxM2UzNGZlMzZjNGExOTA3YmU4YmM0NjVkMWExYjVkMi9zcHNrbGZsL3Zpbmhsb25nMi40ODBwLnN0cmVhbS9jaHVua2xpc3QubTN1OA==", 
-	"http://dns.theplayersklub.us:2095/live/playersklub/playersklub/149.m3u8", 
+	"http://dns.theplayersklub.us:2095/live/playersklub/playersklub/149.ts", 
 	"http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfTkJDX1NQT1JUL3RyYWNrcy12MWExL2luZGV4Lm0zdTg=", 
 	"http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVVNfQkVJTl9TUE9SVF9VU0EvdHJhY2tzLXYxYTEvaW5kZXgubTN1OA==", 
 	"http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE5OS4yMS4xNDkuMTI1Ojg4ODgvVUtfQlRfU1BPUlRfMl9IRC90cmFja3MtdjFhMS9pbmRleC5tM3U4", 
