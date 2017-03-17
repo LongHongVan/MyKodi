@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:0,VTV1
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv1.360p.stream/chunklist.m3u8
+#EXTINF:0,VTV1 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv1hd.1080p.stream/chunklist.m3u8
+#EXTINF:0,VTV2
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv2.360p.stream/chunklist.m3u8
+#EXTINF:0,VTV3
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv3.360p.stream/chunklist.m3u8
+#EXTINF:0,VTV3 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv3.720p.stream/chunklist.m3u8
+#EXTINF:0,VTV6 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv6.720p.stream/chunklist.m3u8
+#EXTINF:0,VTV9
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv9.360p.stream/chunklist.m3u8
+#EXTINF:0,ANTV
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/antv.480p.stream/chunklist.m3u8
+#EXTINF:0,National Geographic HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/natgeo.720p.stream/chunklist.m3u8
+#EXTINF:0,Quc Hi
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/quochoi.480p.stream/chunklist.m3u8
+#EXTINF:0,StarMovies HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/starmovies.720p.stream/chunklist.m3u8
+#EXTINF:0,StarWorld HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/starworld.720p.stream/chunklist.m3u8
+#EXTINF:0,KBS World
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/KBSWorld.480p.stream/chunklist.m3u8
+#EXTINF:0,TTXVN
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/ttxvn.480p.stream/chunklist.m3u8
+#EXTINF:0,Nhân Dân
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/nhandan.1080p.stream/chunklist.m3u8
+#EXTINF:0,QPVN
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/qptv.480p.stream/chunklist.m3u8
+#EXTINF:0,VTC1 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc1.1080p.stream/chunklist.m3u8
+#EXTINF:0,VTC3 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc3.720p.stream/chunklist.m3u8
+#EXTINF:0,VTC4 - Yeah1falimy
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc4.360p.stream/chunklist.m3u8
+#EXTINF:0,VTC7 - TodayTV
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc7.360p.stream/chunklist.m3u8
+#EXTINF:0,VTC8 - VIEWTV
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc8.360p.stream/chunklist.m3u8
+#EXTINF:0,VTC9 - Let's Vit
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc9.360p.stream/chunklist.m3u8
+#EXTINF:0,VTC10 - NETVIET
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc10.360p.stream/chunklist.m3u8
+#EXTINF:0,VTC11 - Kids TV
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc11.480p.stream/chunklist.m3u8
+#EXTINF:0,VTC13 - iTV HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/itvhd.1080p.stream/chunklist.m3u8
+#EXTINF:0,VTC14 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc14.1080p.stream/chunklist.m3u8
+#EXTINF:0,VTC16 - 3NTV
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc16.480p.stream/chunklist.m3u8
+#EXTINF:0,VTVcab7 - Dramas
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/ddrama.480p.stream/chunklist.m3u8
+#EXTINF:0,VTVcab17 - Yeah1TV
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/yeah1.720p.stream/chunklist.m3u8
+#EXTINF:0,HTV Co.op
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htvcoop.360p.stream/chunklist.m3u8
+#EXTINF:0,HTV Th Thao HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htvthethao.720p.stream/chunklist.m3u8
+#EXTINF:0,HTV1
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv1.360p.stream/chunklist.m3u8
+#EXTINF:0,HTV2
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv2.360p.stream/chunklist.m3u8
+#EXTINF:0,HTV2 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv2.720p.stream/chunklist.m3u8
+#EXTINF:0,HTV3
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv3.360p.stream/chunklist.m3u8
+#EXTINF:0,HTV4
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv4.360p.stream/chunklist.m3u8
+#EXTINF:0,HTV7
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv7.360p.stream/chunklist.m3u8
+#EXTINF:0,HTV7 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv7.720p.stream/chunklist.m3u8
+#EXTINF:0,HTV9
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv9.360p.stream/chunklist.m3u8
+#EXTINF:0,HTV9 HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv9.720p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Ca Nhc
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htvc_music.360p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Du Lch & Cuoc Song
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/du_lich.360p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Gia ình
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/gia_dinh.360p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Phim
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htvc_phim.360p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Phim HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htvc_movies.720p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Ph N
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/phu_nu.360p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Plus
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htvc_plus.360p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Shopping
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/shopping.360p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Thun Vit
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/thuan_viet.360p.stream/chunklist.m3u8
+#EXTINF:0,HTVC Thuan Viet HD
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/thuan_viet.720p.stream/chunklist.m3u8áº§n+Viá»‡t+HD?
+#EXTINF:0,FBNC
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/fbnc.720p.stream/chunklist.m3u8
+#EXTINF:0,MTV
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/mtv.360p.stream/chunklist.m3u8
+#EXTINF:0,BPTV1 - Bình Phc
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/binhphuoc.360p.stream/chunklist.m3u8
+#EXTINF:0,BRT - Vung Tàu
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/baria.360p.stream/chunklist.m3u8
+#EXTINF:0,BTV - Bình Dinh
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/binhdinh.360p.stream/chunklist.m3u8
+#EXTINF:0,CTV - Cà Mau
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/camau.360p.stream/chunklist.m3u8
+#EXTINF:0,DRT - c Lc
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/daclac.360p.stream/chunklist.m3u8
+#EXTINF:0,HD1 - Hi Dng
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/haiduong.360p.stream/chunklist.m3u8
+#EXTINF:0,KTV - Khánh Hòa
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/khanhhoa.360p.stream/chunklist.m3u8
+#EXTINF:0,LA34 - Long An
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/longan.360p.stream/chunklist.m3u8
+#EXTINF:0,LSTV - Lang Sn
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/langson.360p.stream/chunklist.m3u8
+#EXTINF:0,Min Tây
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/mientay.480p.stream/chunklist.m3u8
+#EXTINF:0,NBTV - Ninh Bình
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/ninhbinh.360p.stream/chunklist.m3u8
+#EXTINF:0,NTV - Nam nh
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/namdinh.360p.stream/chunklist.m3u8
+#EXTINF:0,PTD - c Nông
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/dacnong.360p.stream/chunklist.m3u8
+#EXTINF:0,QRT - Qung Nam
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/quangnam.360p.stream/chunklist.m3u8
+#EXTINF:0,STV - Sóc Trang
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/soctrang.360p.stream/chunklist.m3u8
+#EXTINF:0,THT - Dong Tháp
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/dongthap.360p.stream/chunklist.m3u8
+#EXTINF:0,THLC - Lào Cai
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/laocai.360p.stream/chunklist.m3u8
+#EXTINF:0,THVL1 - Vinh Long
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vinhlong1.360p.stream/chunklist.m3u8
+#EXTINF:0,THVL2 - Vinh Long
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vinhlong2.480p.stream/chunklist.m3u8
+#EXTINF:0,THTPCT - Can Tho
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/can_tho.360p.stream/chunklist.m3u8
+#EXTINF:0,TRT - Hu
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/hue.360p.stream/chunklist.m3u8
+#EXTINF:0,TTV11 - Tây Ninh
+http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/tayninh.360p.stream/chunklist.m3u8
