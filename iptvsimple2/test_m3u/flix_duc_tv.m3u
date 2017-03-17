@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VTV 1" tvg-name="VTV 1" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1-hd_w150_h150.png" group-title="",VTV1 HD - 1080
+#EXTINF:-1 tvg-id="VTV 1" tvg-name="VTV 1" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1-hd_w150_h150.png" group-title="",VTV1 FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/vtv1hd.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="VTV 1" tvg-name="VTV 1" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1-hd_w150_h150.png" group-title="",VTV1 HD 
 http://118.107.68.10:1935/live/_definst_/VTV1HD_1280x720_07122016/playlist.m3u8
@@ -27,17 +27,17 @@ http://113.160.49.39/lives/origin04/v6sd.isml/v6sd.m3u8
 rtmp://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream
 #EXTINF:-1 tvg-id="VTV9" tvg-name="VTV9" tvg-shift="" radio="" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="",VTV9
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/vtv9.360p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="VTV 3" tvg-name="VTV 3" tvg-shift="" radio="" tvg-logo="" group-title="",VTV3 HD - 1080
+#EXTINF:-1 tvg-id="VTV 3" tvg-name="VTV 3" tvg-shift="" radio="" tvg-logo="" group-title="",VTV3 FHD
 http://123.29.68.179/v2live.m3u8?c=vstv262&q=auto&deviceType=&userId=&deviceId=&type=&p=0&zn=net&rkey=YuckVcCl8Zg1aswQ&grantor=1&pkg=pkg5&profiles=hd&location=
-#EXTINF:-1 tvg-id="VTV 6" tvg-name="VTV 6" tvg-shift="" radio="" tvg-logo="" group-title="",VTV6 HD - 1080
+#EXTINF:-1 tvg-id="VTV 6" tvg-name="VTV 6" tvg-shift="" radio="" tvg-logo="" group-title="",VTV6 FHD
 http://123.29.68.179/v2live.m3u8?c=vstv263&q=auto&deviceType=&userId=&deviceId=&type=&p=0&zn=net&rkey=eRPdSKMbT3Qjd9Bb&grantor=1&pkg=pkg5&profiles=hd&location=
-#EXTINF:-1 tvg-id="HTV 7" tvg-name="HTV 7" tvg-shift="" radio="" tvg-logo="" group-title="",HTV7 HD - 1080
+#EXTINF:-1 tvg-id="HTV 7" tvg-name="HTV 7" tvg-shift="" radio="" tvg-logo="" group-title="",HTV7 FHD
 http://123.29.68.179/v2live.m3u8?c=vstv273&q=auto&deviceType=&userId=&deviceId=&type=&p=0&zn=net&rkey=AzYktrqMQ4VLZQ4I&grantor=1&pkg=pkg5&profiles=hd&location=
-#EXTINF:-1 tvg-id="VTC 3" tvg-name="VTC 3" tvg-shift="" radio="" tvg-logo="" group-title="",VTC3 HD - 1080
+#EXTINF:-1 tvg-id="VTC 3" tvg-name="VTC 3" tvg-shift="" radio="" tvg-logo="" group-title="",VTC3 FHD
 http://123.29.68.179/v2live.m3u8?c=vstv269&q=auto&deviceType=&userId=&deviceId=&type=&p=0&zn=net&rkey=f7YJNjkGeX8QaQBf&grantor=1&pkg=pkg5&profiles=hd&location=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",OUTDOOR CHANNEL HD - 1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",OUTDOOR CHANNEL FHD
 http://123.29.68.179/v2live.m3u8?c=vstv278&q=auto&deviceType=&userId=&deviceId=&type=&p=0&zn=net&rkey=xGE597EHohjCmGAj&grantor=1&pkg=pkg5&profiles=hd&location=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b1/NHK_World_Japan.png" group-title="",NHK WORLD HD - 1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b1/NHK_World_Japan.png" group-title="",NHK WORLD FHD
 http://123.29.68.179/v2live.m3u8?c=vstv279&q=auto&deviceType=&userId=&deviceId=&type=&p=0&zn=net&rkey=hPpTT7b5LhSWTZIb&grantor=1&pkg=pkg5&profiles=hd&location=
 #EXTINF:-1 tvg-id="StarMovie HD" tvg-name="StarMovie HD" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/TUox2sL.png" group-title="",STAR MOVIES HD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/starmovies.720p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
@@ -105,11 +105,11 @@ http://103.21.148.45:81/icomchannelvtc/smil:vtc11_adb_security.smil/chunklist_b9
 http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="ITV-HD" tvg-name="ITV-HD" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/aXVM1Bj.png?1" group-title="",VTC13 - iTV HD
 http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b900000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/aXVM1Bj.png?1" group-title="",VTC13 - iTV HD - 1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/aXVM1Bj.png?1" group-title="",VTC13 - iTV FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/itvhd.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="VTC 14" tvg-name="" tvg-shift="" radio="" tvg-logo="https://s13.postimg.org/xfqtu80tz/vtc14.png" group-title="",VTC14
 http://118.70.203.130:8081/livedemo/vtc14hd-p1/chunks.m3u8
-#EXTINF:-1 tvg-id="VTC 14" tvg-name="VTC 14" tvg-shift="" radio="" tvg-logo="https://s13.postimg.org/xfqtu80tz/vtc14.png" group-title="",VTC14 HD
+#EXTINF:-1 tvg-id="VTC 14" tvg-name="VTC 14" tvg-shift="" radio="" tvg-logo="https://s13.postimg.org/xfqtu80tz/vtc14.png" group-title="",VTC14 FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/vtc14.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VTCplay Music
 http://118.107.68.10:1935/live/_definst_/VTCPlay_music/playlist.m3u8
@@ -169,9 +169,9 @@ http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv2.720p.stream/
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv3.480p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="HTV 4" tvg-name="HTV 4" tvg-shift="" radio="" tvg-logo="" group-title="",HTV4
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv4.360p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="HTV 7" tvg-name="HTV 7" tvg-shift="" radio="" tvg-logo="" group-title="",HTV7 HD
+#EXTINF:-1 tvg-id="HTV 7" tvg-name="HTV 7" tvg-shift="" radio="" tvg-logo="" group-title="",HTV7 FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv7.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="HTV 9" tvg-name="HTV 9" tvg-shift="" radio="" tvg-logo="" group-title="",HTV9 HD
+#EXTINF:-1 tvg-id="HTV 9" tvg-name="HTV 9" tvg-shift="" radio="" tvg-logo="" group-title="",HTV9 FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htv9.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HTV Coop
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcoop.360p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
@@ -187,15 +187,15 @@ http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/thuanviet.720p.st
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvc_phim.360p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="HTV Phim truyện" tvg-name="HTV_Phim_truyện" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC PHIM HD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvc_movies.720p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="HTV Du lịch" tvg-name="HTV_Du_lịch" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC DU LỊCH HD
+#EXTINF:-1 tvg-id="HTV Du lịch" tvg-name="HTV_Du_lịch" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC DU LỊCH FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcdulich.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="HTV Phụ nữ" tvg-name="HTV_Phụ_nữ" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC PHỤ NỮ HD
+#EXTINF:-1 tvg-id="HTV Phụ nữ" tvg-name="HTV_Phụ_nữ" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC PHỤ NỮ FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcphunu.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="HTV Gia đình" tvg-name="HTV_Gia_đình" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC GIA ĐÌNH HD
+#EXTINF:-1 tvg-id="HTV Gia đình" tvg-name="HTV_Gia_đình" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC GIA ĐÌNH FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcgiadinh.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="HTVC+" tvg-name="HTVC+" tvg-shift="" radio="" tvg-logo="" group-title="",CHANNEL B
+#EXTINF:-1 tvg-id="HTVC+" tvg-name="HTVC+" tvg-shift="" radio="" tvg-logo="" group-title="",CHANNEL B FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvcplus.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="HTV Ca nhạc" tvg-name="HTV_Ca_nhạc" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC CA NHẠC HD
+#EXTINF:-1 tvg-id="HTV Ca nhạc" tvg-name="HTV_Ca_nhạc" tvg-shift="" radio="" tvg-logo="" group-title="",HTVC CA NHẠC FHD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/htvccanhac.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="FBNC" tvg-name="FBNC" tvg-shift="" radio="" tvg-logo="" group-title="",FBNC HD
 http://livetv.flix.vn/08f878cd41e6fc80e681668f6afa2db2/spsklfl/fbnc.720p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
