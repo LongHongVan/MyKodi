@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,VTV1
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv1.360p.stream/chunklist.m3u8
-#EXTINF:0,VTV1 HD
+#EXTINF:0,VTV1 FHD
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv1hd.1080p.stream/chunklist.m3u8
 #EXTINF:0,VTV2
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtv2.360p.stream/chunklist.m3u8
@@ -27,11 +27,11 @@ http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/starworld.720p.s
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/KBSWorld.480p.stream/chunklist.m3u8
 #EXTINF:0,TTXVN
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/ttxvn.480p.stream/chunklist.m3u8
-#EXTINF:0,Nhan Dan
+#EXTINF:0,Nhan Dan FHD
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/nhandan.1080p.stream/chunklist.m3u8
 #EXTINF:0,QPVN
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/qptv.480p.stream/chunklist.m3u8
-#EXTINF:0,VTC1 HD
+#EXTINF:0,VTC1 FHD
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc1.1080p.stream/chunklist.m3u8
 #EXTINF:0,VTC3 HD
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc3.720p.stream/chunklist.m3u8
@@ -51,9 +51,9 @@ http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc10.360p.strea
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc11.480p.stream/chunklist.m3u8
 #EXTINF:0,VTC13 - iTV HD
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/itvhd.1080p.stream/chunklist.m3u8
-#EXTINF:0,VTC14 HD
+#EXTINF:0,VTC14 FHD
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc14.1080p.stream/chunklist.m3u8
-#EXTINF:0,VTC16 - 3NTV
+#EXTINF:0,VTC16 FHD - 3NTV
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/vtc16.480p.stream/chunklist.m3u8
 #EXTINF:0,VTVcab7 - Dramas
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/ddrama.480p.stream/chunklist.m3u8
@@ -85,7 +85,7 @@ http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv7.360p.stream
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv7.720p.stream/chunklist.m3u8
 #EXTINF:0,HTV9
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv9.360p.stream/chunklist.m3u8
-#EXTINF:0,HTV9 HD
+#EXTINF:0,HTV9 FHD
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htv9.720p.stream/chunklist.m3u8
 #EXTINF:0,HTVC Ca Nhac
 http://livetv.flix.vn/613e34fe36c4a1907be8bc465d1a1b5d2/spsklfl/htvc_music.360p.stream/chunklist.m3u8
