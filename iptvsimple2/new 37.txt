@@ -7,6 +7,11 @@ http://dns.theplayersklub.us:2095/get.php?username=playersklub&password=playersk
 http://dns.theplayersklub.us:2095/xmltv.php?username=playersklub&password=playersklub&type=m3u_plus&output=ts
 http://dns.theplayersklub.us:2095/get.php?username=playersklub&password=playersklub&type=m3u_plus&output=ts
 
+http://dns.theplayersklub.us:2095/get.php?username=playersklub&password=playersklub&type=m3u_plus&output=m3u8
+
+
+http://185.176.192.25/vids/resident.evil.the.final.chapter.2016.1080p.web-dl.dd5.1.h264-fgt___58c915514125d.mp4
+
 
 03/11/2017
 

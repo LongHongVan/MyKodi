@@ -1,0 +1,351 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ABC. NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]." tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]ABC. NEWS[/B][/COLOR][COLORwhite] HD[/COLOR].
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ABC NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]ABC NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/108.ts
+#EXTINF:-1 tvg-id="A&E USA" tvg-name="[COLOR gold][B]A & E[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]A & E[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/239.ts
+#EXTINF:-1 tvg-id="BBC America HDTV (East) (BBC)" tvg-name="[COLOR gold][B]BBC AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]BBC AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/228.ts
+#EXTINF:-1 tvg-id="CBS SPORTS NETWORK" tvg-name="[COLOR gold][B]CBSN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CBSN[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/220.ts
+#EXTINF:-1 tvg-id="COOKING CHANNEL CA" tvg-name="[COLOR gold][B]COOKING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]COOKING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/211.ts
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="[COLOR gold][B]DISCOVERY SCIENCE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]DISCOVERY SCIENCE[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/206.ts
+#EXTINF:-1 tvg-id="Food Network USA" tvg-name="[COLOR gold][B]FOOD NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FOOD NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/195.ts
+#EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-name="[COLOR gold][B]FOX SPORT 1[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FOX SPORT 1[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/188.ts
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="[COLOR gold][B]FOX SPORT 2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FOX SPORT 2[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HBO 2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HBO 2[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/174.ts
+#EXTINF:-1 tvg-id="HBO COMEDY US" tvg-name="[COLOR gold][B]HBO COMEDY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HBO COMEDY[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/173.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="[COLOR gold][B]HBO FAMILY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HBO FAMILY[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/172.ts
+#EXTINF:-1 tvg-id="MLB HD" tvg-name="[COLOR gold][B]MLB NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]MLB NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/160.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="[COLOR gold][B]MTV[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]MTV[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/158.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="[COLOR gold][B]NAT GEO WILD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NAT GEO WILD[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/157.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NBCSN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NBCSN[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/149.ts
+#EXTINF:-1 tvg-id="NFL HD" tvg-name="[COLOR gold][B]NFL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NFL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/148.ts
+#EXTINF:-1 tvg-id="NHLHD" tvg-name="[COLOR gold][B]NHL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NHL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/147.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="[COLOR gold][B]TCM[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TCM[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/128.ts
+#EXTINF:-1 tvg-id="The Movie Netwtork" tvg-name="[COLOR gold][B]THE MOVIE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]THE MOVIE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]THE WEATHER NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]THE WEATHER NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]TLC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TLC[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]A&E.[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]A&E.[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/267.ts
+#EXTINF:-1 tvg-id="ABC Sparks HD" tvg-name="[COLOR gold][B]ABC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]ABC[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/263.ts
+#EXTINF:-1 tvg-id="American Heroes Channel" tvg-name="[COLOR gold][B]AMERICAN HEROES[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]AMERICAN HEROES[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/241.ts
+#EXTINF:-1 tvg-id="ANIMAL PLANET USA" tvg-name="[COLOR gold][B]ANIMAL PLANET.[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]ANIMAL PLANET.[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]CARTOON NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CARTOON NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/258.ts
+#EXTINF:-1 tvg-id="CBS" tvg-name="[COLOR gold][B]CBS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CBS[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/266.ts
+#EXTINF:-1 tvg-id="CNN" tvg-name="[COLOR gold][B]CNN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CNN[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/260.ts
+#EXTINF:-1 tvg-id="COMEDY CENTRAL USA" tvg-name="[COLOR gold][B]COMEDY CENTRAL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]COMEDY CENTRAL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/257.ts
+#EXTINF:-1 tvg-id="The Discovery Channel (East) (DSC)" tvg-name="[COLOR gold][B]DISCOVERY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]DISCOVERY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/255.ts
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="[COLOR gold][B]ESPN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]ESPN[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/256.ts
+#EXTINF:-1 tvg-id="FOX News HD (FNCHD)" tvg-name="[COLOR gold][B]FOX NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FOX NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/252.ts
+#EXTINF:-1 tvg-id="History HD" tvg-name="[COLOR gold][B]HISTORY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HISTORY[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/251.ts
+#EXTINF:-1 tvg-id="Lifetime Television HDTV (East) (LIFEH)" tvg-name="[COLOR gold][B]LIFE.TIME[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]LIFE.TIME[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]MY9[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]MY9[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/249.ts
+#EXTINF:-1 tvg-id="NAT GEO USA" tvg-name="[COLOR gold][B]NATIONAL GEOGRAPHIC CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NATIONAL GEOGRAPHIC CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/247.ts
+#EXTINF:-1 tvg-id="NBC" tvg-name="[COLOR gold][B]NBC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NBC[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/248.ts
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="[COLOR gold][B]NICKELODEON[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NICKELODEON[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/265.ts
+#EXTINF:-1 tvg-id="PBS" tvg-name="[COLOR gold][B]PBS.[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PBS.[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/264.ts
+#EXTINF:-1 tvg-id="SPIKE USA" tvg-name="[COLOR gold][B]SPIKE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]SPIKE[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/246.ts
+#EXTINF:-1 tvg-id="SYFY USA" tvg-name="[COLOR gold][B]SYFY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]SYFY[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/245.ts
+#EXTINF:-1 tvg-id="TNT USA" tvg-name="[COLOR gold][B]TNT.[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TNT.[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/243.ts
+#EXTINF:-1 tvg-id="USA Network US" tvg-name="[COLOR gold][B]USA NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]USA NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/242.ts
+#EXTINF:-1 tvg-id="AMC USA" tvg-name="[COLOR gold][B]AMC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]AMC[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/314.ts
+#EXTINF:-1 tvg-id="BET" tvg-name="[COLOR gold][B]BET[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]BET[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/299.ts
+#EXTINF:-1 tvg-id="Bravo USA" tvg-name="[COLOR gold][B]BRAVO[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]BRAVO[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/315.ts
+#EXTINF:-1 tvg-id="Cinemax ThrillerMax HD (TMAXHD)" tvg-name="[COLOR gold][B]CINEMAX THRILLERMAX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CINEMAX THRILLERMAX[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/313.ts
+#EXTINF:-1 tvg-id="CW" tvg-name="[COLOR gold][B]CW[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CW[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/319.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="[COLOR gold][B]FOX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FOX[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/318.ts
+#EXTINF:-1 tvg-id="Freeform" tvg-name="[COLOR gold][B]FREEFORM[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FREEFORM[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/320.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]FX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FX[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/324.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]FXX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FXX[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/323.ts
+#EXTINF:-1 tvg-id="H2 USA" tvg-name="[COLOR gold][B]H2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]H2[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/309.ts
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="[COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/317.ts
+#EXTINF:-1 tvg-id="HBO Zone HD (HBOZHD)" tvg-name="[COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/321.ts
+#EXTINF:-1 tvg-id="HGTV USA HD" tvg-name="[COLOR gold][B]HGTV[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HGTV[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/302.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/305.ts
+#EXTINF:-1 tvg-id="Lifetime Television HDTV (East) (LIFEH)" tvg-name="[COLOR gold][B]LIFETIME[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]LIFETIME[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/300.ts
+#EXTINF:-1 tvg-id="NFL HD" tvg-name="[COLOR gold][B]NFL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NFL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/308.ts
+#EXTINF:-1 tvg-id="OWN HD" tvg-name="[COLOR gold][B]OWN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]OWN[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/311.ts
+#EXTINF:-1 tvg-id="PBS" tvg-name="[COLOR gold][B]PBS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PBS[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/322.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/306.ts
+#EXTINF:-1 tvg-id="TBS USA" tvg-name="[COLOR gold][B]TBS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TBS[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/301.ts
+#EXTINF:-1 tvg-id="TNT USA" tvg-name="[COLOR gold][B]TNT[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TNT[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/298.ts
+#EXTINF:-1 tvg-id="truTV HDTV (East) (TRUTVD)" tvg-name="[COLOR gold][B]TRU TV[/B][/COLOR][COLOR white] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TRU TV[/B][/COLOR][COLOR white] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/312.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="[COLOR gold][B]UNIVERSAL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]UNIVERSAL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/310.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]VELOCITY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]VELOCITY[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/307.ts
+#EXTINF:-1 tvg-id="WWE" tvg-name="[COLOR gold][B]WWE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]WWE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B][COLOR gold][B]ACTION MAX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B][COLOR gold][B]ACTION MAX[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/353.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]BEIN SPORTS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]BEIN SPORTS[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/352.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]BET [/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]BET [/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/351.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]CINEMAX [/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CINEMAX [/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/350.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]CNBC [/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CNBC [/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/349.ts
+#EXTINF:-1 tvg-id="Destination America HDTV (DAMHD)" tvg-name="[COLOR gold][B]DESINATION AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]DESINATION AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/348.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]DISNEY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]DISNEY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/347.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]DIY NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]DIY NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/346.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="[COLOR gold][B]E![/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]E![/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/345.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ENCORE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]ENCORE[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/344.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ESPN 2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]ESPN 2[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/343.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]FYI [/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FYI [/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/342.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HALLMARK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HALLMARK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/341.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HBO SIGNATURE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HBO SIGNATURE[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/340.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/339.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]LIFETIME MOVE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]LIFETIME MOVE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/338.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]MSNBC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]MSNBC[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/337.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NBA TV[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NBA TV[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/336.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NBC GOLF[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NBC GOLF[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/335.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NICK JR[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NICK JR[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/333.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NICK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NICK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/334.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/331.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]SHOWTIME WEST[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]SHOWTIME WEST[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/330.ts
+#EXTINF:-1 tvg-id="SHOWTIME HD" tvg-name="[COLOR gold][B]SHOWTIME[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]SHOWTIME[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/332.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/328.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]STARZ EAST[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]STARZ EAST[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/329.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]TENNIS CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TENNIS CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://plexflixiptv.co.uk:80/hls/325.m3u8?channelId=325&uid=4428&deviceMac=00:1A:79:40:F1:D1
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]TRAVEL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TRAVEL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/326.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]TV Land[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]TV Land[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/325.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL Red Zone[/B][/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL Red Zone[/B][/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/368.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 1 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 1 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/355.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 10 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 10 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/367.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 12 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 12 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/365.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 13 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 13 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/364.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 2 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 2 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/363.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 3 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 3 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/362.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 4 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 4 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/361.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 5 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 5 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/360.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 6 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 6 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/359.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 7 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 7 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/358.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 9 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 9 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/356.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite]11 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite]11 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/366.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite]8 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]",[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite]8 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/357.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 1 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 1 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/380.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 10 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 10 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/376.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 14 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 14 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/375.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 15 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 15 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/374.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 2 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 2 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/373.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 3 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 3 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/372.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 4 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 4 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/371.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 5 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 5 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/370.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 6 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 6 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/369.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 7 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 7 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/379.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 8 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 8 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/378.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 9 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 9 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/377.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]C-SPAN 1[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]C-SPAN 1[COLOR white] HD[/B][/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/388.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]C-SPAN 2[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]C-SPAN 2[COLOR white] HD[/B][/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/387.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]CBS NEWS.[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]CBS NEWS.[COLOR white] HD[/B][/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/389.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]GOLF CHANNEL[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]GOLF CHANNEL[COLOR white] HD[/B][/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/390.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NASA[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]NASA[COLOR white] HD[/B][/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/391.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 ARIZONA[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PAC 12 ARIZONA[COLOR white] HD[/B][/COLOR]
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 BAY AREA[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PAC 12 BAY AREA[COLOR white] HD[/B][/COLOR]
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 LA[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PAC 12 LA[COLOR white] HD[/B][/COLOR]
+http://www.xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 MOUNTAIN[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PAC 12 MOUNTAIN[COLOR white] HD[/B][/COLOR]
+http://www.xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 NATIONAL[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PAC 12 NATIONAL[COLOR white] HD[/B][/COLOR]
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 OREGON[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PAC 12 OREGON[COLOR white] HD[/B][/COLOR]
+http://www.xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 WASHINGTON[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]PAC 12 WASHINGTON[COLOR white] HD[/B][/COLOR]
+http://www.xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]THE WEATHER CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]THE WEATHER CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]C-SPAN 3[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]C-SPAN 3[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/401.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="[COLOR gold][B]VH 1[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]VH 1[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/402.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]WE-TV HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]WE-TV HD[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/403.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 1 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 1 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/416.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 10 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 10 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/415.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 11 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 11 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/414.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 12 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 12 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/413.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 13 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 13 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/412.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 2 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 2 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/411.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 3 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 3 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/410.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 4 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 4 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/409.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 5 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 5 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/408.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 6 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 6 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/407.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 7 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 7 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/406.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 8 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 8 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/405.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 9 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]",[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 9 HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/404.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HSN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]HSN[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://plexflixiptv.co.uk:80/hls/346.m3u8?channelId=346&uid=2609&deviceMac=00:1A:79:40:F0:86
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]FIGHT NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]FIGHT NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://plexflixiptv.co.uk:80/hls/361.m3u8?channelId=361&uid=2609&deviceMac=00:1A:79:40:F0:86
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]MOREMAX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]MOREMAX[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://plexflixiptv.co.uk:80/hls/342.m3u8?channelId=342&uid=2609&deviceMac=00:1A:79:40:F0:86
+#EXTINF:-1 tvg-id="Destination America HDTV (DAMHD)" tvg-name="[COLOR gold][B]Destination America HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]Destination America HD[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/425.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]BEIN USA HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]BEIN USA HD[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/427.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]Big Ten Network HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]Big Ten Network HD[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/428.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]AMC[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]AMC[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/443.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]CINEMAX[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]CINEMAX[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/446.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]FOX SPORTS 1[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]FOX SPORTS 1[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/439.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]FOX SPORTS 2[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]FOX SPORTS 2[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/438.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]FOX[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]FOX[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/442.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]OCHO TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]OCHO TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/437.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]PROYECTO 40[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]PROYECTO 40[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/436.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]RT DOCUMENTARY[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]RT DOCUMENTARY[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/435.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TCM[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]TCM[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/444.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TELEMEDELLIN[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]TELEMEDELLIN[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/434.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TELEMUNDO[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]TELEMUNDO[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TNT[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]TNT[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/432.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TRU TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]TRU TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/431.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]UNIVERSAL[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO[/B][/COLOR][COLORwhite] TV[/COLOR]",[COLOR cyan][B]UNIVERSAL[/B][/COLOR][COLORwhite] LATINO[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/445.ts
+#EXTINF:-1 tvg-id="Chiller (CHILL)" tvg-name="[COLOR gold][B]DIY HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLORdeepblue][B] TV[/B][/COLOR]",[COLOR gold][B]DIY HD[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/447.ts
