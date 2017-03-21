@@ -1,0 +1,84 @@
+#EXTM3U mic_iptv
+#EXTINF:-1,[COLOR ffffa500][B]NBCSN HD (mic)[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/NBCSN_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]NBC HD (mic)[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/NBC_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500 ][B]ABC HD [/B][/COLOR]
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]CBS HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/CBS_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]Fox HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FOX_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]Fox 25 [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/FOX_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]MY9 [/B][/COLOR]
+http://208.86.19.13:8080/live/105.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]PBS WLIW [/B][/COLOR]
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+
+
+#EXTINF:-1,[COLOR ffffa500][B]The CW HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/CW_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]FX HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/FX_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]FXx HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/FXX_HD/index.m3u8
+
+
+#EXTINF:-1,[COLOR ffffa500][B]ION HD[/B][/COLOR]
+http://208.86.19.123:8080/live/109.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]TNT HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/TNT_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]CNN HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/CNN_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]ABC HD [/B][/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR ffffa500][B]MSNBC HD [/B][/COLOR]
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-b.m3u8?sd=10&rebase;=on
+
+#EXTINF:-1,[COLOR ffffa500][B]Fox News [/B][/COLOR]
+http://sjc-uhls-proxy06.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=4381960&stream=2&connectionId=oldurl-698e412ec49870bf5349c617f84a7b5b7b1c9920&group=iphone
+
+#EXTINF:-1,[COLOR ffffa500][B]Fox News HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/FOX_NEWS_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B]Bloom Berg HD [/B][/COLOR]
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+
+
+#EXTINF:-1,[COLOR ffffa500][B]Spike HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/SPIKE_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B] SYFI Network HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/SYFY_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B] Comedy Central HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/COMEDY_CENTRAL_HD/index.m3u8
+
+#EXTINF:-1,[COLOR ffffa500][B] USA Network HD [/B][/COLOR]
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+
+
+#EXTINF:-1,[COLOR ffffa500][B] Bravo HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/BRAVO_HD/index.m3u8
+
+
+#EXTINF:-1,[COLOR ffffa500][B] A&E HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/A&E;_HD/index.m3u8
+
+
+#EXTINF:-1,[COLOR ffffa500][B] AMC HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/AMC_HD/index.m3u8
