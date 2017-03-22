@@ -1,8 +1,8 @@
 #EXTM3U mic_iptv
-#EXTINF:-1,[COLOR ffffa500][B]NBCSN HD (mic)[/B][/COLOR]
+#EXTINF:-1,[COLOR ffffa500][B]NBCSN HD[/B][/COLOR]
 http://50.7.69.42:8899/GB/USA/NBCSN_HD/index.m3u8
 
-#EXTINF:-1,[COLOR ffffa500][B]NBC HD (mic)[/B][/COLOR]
+#EXTINF:-1,[COLOR ffffa500][B]NBC HD[/B][/COLOR]
 http://50.7.69.42:8899/GB/USA/NBC_HD/index.m3u8
 
 #EXTINF:-1,[COLOR ffffa500 ][B]ABC HD [/B][/COLOR]
