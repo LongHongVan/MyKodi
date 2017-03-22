@@ -38,6 +38,5 @@
     "http://www.thelogodb.com/images/media/logo/swwvwy1475246194.png", 
     "http://www.thelogodb.com/images/media/logo/yyxvut1482260692.png", 
     "https://www.thelogodb.com/images/media/logo/xutptv1433429127.png", 
-    "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", 
-    "http://www.thelogodb.com/images/media/logo/sqsqst1456747365.png"
+    "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png"
 ]
