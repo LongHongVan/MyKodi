@@ -33,5 +33,17 @@
     "http://www.thelogodb.com/images/media/logo/swwvwy1475246194.png", 
     "http://www.thelogodb.com/images/media/logo/yyxvut1482260692.png", 
     "https://www.thelogodb.com/images/media/logo/xutptv1433429127.png", 
-    "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png"
+    "http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", 
+    "https://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png", 
+    "https://www.thelogodb.com/images/media/logo/srvusx1466367859.png", 
+    "https://www.thelogodb.com/images/media/logo/vytvxy1433965098.png", 
+    "http://www.thelogodb.com/images/media/logo/xpvytr1473881752.png", 
+    "https://www.thelogodb.com/images/media/logo/wrxwtw1433965123.png", 
+    "http://www.thelogodb.com/images/media/logo/qtwyrw1473881773.png", 
+    "https://www.thelogodb.com/images/media/logo/qsyrrq1433965141.png", 
+    "https://www.thelogodb.com/images/media/logo/qwytxv1433965174.png", 
+    "https://www.thelogodb.com/images/media/logo/typywu1433965191.png", 
+    "https://www.thelogodb.com/images/media/logo/rsvrsp1433965199.png", 
+    "https://www.thelogodb.com/images/media/logo/ttpvsq1433965207.png", 
+    "https://www.thelogodb.com/images/media/logo/trvyxp1455554906.png"
 ]
