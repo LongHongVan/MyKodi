@@ -3,7 +3,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s28.postimg.org/s1pz7thdp/ht2.jpg",[COLOR ff808000][B]Chúc các Bạn xem TV vui vẽ - keeping you updated around the clock (*!*)[/B][/COLOR] 
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s28.postimg.org/s1pz7thdp/ht2.jpg",[COLOR ffff0000][B]Chúc các Bạn xem TV vui vẽ - keeping you updated around the clock (*!*)[/B][/COLOR] 
 http://f.vp9.tv/music/tru_tinh/Anh_la_ai-Hop_Ca/mvhd.HV.mp4
 
 
@@ -13,7 +13,7 @@ http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s28.postimg.org/63vy1i8tp/BYN_Logo.png",[COLOR cyan][B]BYN TV[/B][/COLOR] 
-http://origin.onworldtv.com:1935/liveorigin/byn/chunklist.m3u8
+
 
 
 
@@ -25,13 +25,28 @@ http://64.71.129.2:8080/hls/ius_000131.m3u8
 http://64.71.129.2:8080/hls/ius_000131.m3u8
 
 
-
-#EXTINF:-1,tvg-name="" tvg-logo="https://s27.postimg.org/z3xib62cz/v_logo.png",[COLOR cyan][B] Viên Thao TV[/B][/COLOR]
-
-
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",[COLOR cyan][B] SBTN -SET channel 2072 -2 (m3u8)[/B][/COLOR]
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
 
+
+#EXTINF:-1,tvg-name="" tvg-logo="https://s1.postimg.org/4hfu2w66n/sbtn.png",[COLOR cyan][B] *** SBTN ***[/B][/COLOR]
+rtmp://stream.connectcast.tv/live playpath=mp4:sb72 swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/sb72
+
+
+#EXTINF:-1,tvg-name="" tvg-logo="https://s27.postimg.org/z3xib62cz/v_logo.png",[COLOR cyan][B] Viên Thao TV[/B][/COLOR]
+rtmp://stream.connectcast.tv/live playpath=mp4:vthao1223 swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/vthao1223
+
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s30.postimg.org/ws7h71gr5/tvirt.png",[COLOR cyan][B] TViet [/B][/COLOR]
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s29.postimg.org/7qe7wd13r/image.png",[COLOR cyan][B] **Viêtface TV **[/B][/COLOR]
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s30.postimg.org/ws7h71gr5/tvirt.png",[COLOR cyan][B] TViet [/B][/COLOR]
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",[COLOR cyan][B] SBTN -SET channel 2072 -2 (m3u8)[/B][/COLOR]
@@ -56,7 +71,7 @@ http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 http://68.235.37.11:1935/vietmagazine/vietmagazine/chunklist_w818469389.m3u8
 
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/s0fe2u0t7/image.png",[COLOR cyan][B] Việt Sóng TV 47.7  Atlanta  2[/B][/COLOR]
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://s13.postimg.org/ygxbnfr1z/cau_hinh_aspx.png",[COLOR cyan][B] VSam1040 TV Atlanta  2[/B][/COLOR]
 rtmp://uni5rtmp.tulix.tv/playout2multi10/ playpath=playout2multi10.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/playout2multi10/index.php
 
 
@@ -157,28 +172,7 @@ rtmp://vf10.aditmedia.net/ingestx/ playpath=ivn_000105 swfUrl=http://p.jwpcdn.co
 
 
 
-
-#EXTINF:-1,[COLOR ff00ffff][B]  Movie for Guys who like 24/7 movies[/B][/COLOR]
-rtmp://stream.connectcast.tv/live playpath=mp4:CC-C1AE794A-46EF-4D98-06D4-5FE8BD2D1605-53116 swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/_0ct0man_2
-
-
-#EXTINF:-1,[COLOR ff00ffff][B]  Movie Night 24/7 movies[/B][/COLOR]
-
-
-#EXTINF:-1,[COLOR ff00ffff][B]  Taiwan - Nature[/B][/COLOR]
-rtmp://stream.connectcast.tv/live playpath=mp4:CC-F3C7758B-5422-3764-0640-F305B4841A4B-12144 swfUrl=http://connectcast.tv/new/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/hiwaystar
-
-
-
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/bomxy361v/keeng.png",[COLOR cyan][B] MTV [/B][/COLOR]
-http://125.235.29.16/livetv/keeng.m3u8
-
-
-
-
-
-#EXTINF:-1,[COLOR ffffa500][B]  Viên Thảo Radio và những trạm Radio ở Mỹ [/B][/COLOR]
+#EXTINF:-1,[COLOR ffff0000][B]  Viên Thảo Radio và những trạm Radio ở Mỹ [/B][/COLOR]
 http://173.193.205.96:8047/;stream.nsv
 
 #EXTINF:-1,[COLOR ffffa500][B]  Saigon HD Radio – Seattle-Tacoma -WA [/B][/COLOR]
@@ -209,8 +203,19 @@ http://209.239.123.91:8239/;
 http://209.250.131.2:8000/;stream.mp3
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/mtx7qbiez/dw_tv.png",[COLOR cyan][B] DW TV –  (tiếng Anh)[/B][/COLOR]
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Movie for Guys who like 24/7 movies[/B][/COLOR]
+rtmp://stream.connectcast.tv/live playpath=mp4:CC-C1AE794A-46EF-4D98-06D4-5FE8BD2D1605-53116 swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/_0ct0man_2
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Movie Night 24/7 movies[/B][/COLOR]
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]  Taiwan - Nature[/B][/COLOR]
+rtmp://stream.connectcast.tv/live playpath=mp4:CC-F3C7758B-5422-3764-0640-F305B4841A4B-12144 swfUrl=http://connectcast.tv/new/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/hiwaystar
+
 
 
 
@@ -218,305 +223,137 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10
 http://125.235.29.16/livetv/keeng.m3u8
 
 
+#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s23.postimg.org/mtx7qbiez/dw_tv.png",[COLOR cyan][B] DW TV –  (tiếng Anh)[/B][/COLOR]
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/afqnj8491/Vietnamtv1200x1200.jpg",[COLOR cyan][B][/B][/COLOR][COLOR red][B]* Live TV trong nước *[/B][/COLOR] 
-http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/bomxy361v/keeng.png",[COLOR cyan][B] MTV [/B][/COLOR]
+http://125.235.29.16/livetv/keeng.m3u8
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/r6cyu78or/sctv.jpg",[COLOR ff00ffff][B] *** SCTV-Phim hay tổng hợp  24h HD ***[/B][/COLOR]
-rtmp://vf10.aditmedia.net/ingestx/ playpath=ivn_000105 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nguoiviet.tv/phim/
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
-http://123.30.185.126/hls/vtv1.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2
-http://123.30.185.126/hls/vtv2.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
-http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s4.postimg.org/wk5rem019/icon.png",[COLOR ffff0000][B] Made in Canada IPTV List <mic>[/B][/COLOR] 
+http://199.21.149.125:8888/US_FOX_SPORT_2/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ff00][B] VTV1 HD [/B][/COLOR]
-http://123.30.191.202/hls/vtv1.m3u8
 
-#EXTINF:-1, [COLOR ff00ff00][B] VTV-6[/B][/COLOR] 
-http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png",VTV4
-http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
-http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]NBC HD (mic)[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/NBC_HD/index.m3u8
 
+#EXTINF:-1,[COLOR ffffa500 ][B]ABC HD [/B][/COLOR]
+http://208.86.19.123:8080/live/104.stream/index.m3u8
 
+#EXTINF:-1,[COLOR ffffa500][B]CBS HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/CBS_HD/index.m3u8
 
+#EXTINF:-1,[COLOR ffffa500][B]Fox HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FOX_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
-http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]Fox 25 [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/FOX_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOVnews
-http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]MY9 [/B][/COLOR]
+http://208.86.19.13:8080/live/105.stream/index.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV 
-http://123.30.185.126/hls/antv.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]PBS WLIW [/B][/COLOR]
+http://208.86.19.13:8080/live/108.stream/index.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN 
-http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w848419920_b1000000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
-rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
+#EXTINF:-1,[COLOR ffffa500][B]The CW HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/CW_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
-http://123.30.185.126/hls/vtc1.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]FX HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/FX_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
-http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]FXx HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/FXX_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
-http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]ION HD[/B][/COLOR]
+http://208.86.19.123:8080/live/109.stream/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]TNT HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/TNT_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
-http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]CNN HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/CNN_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
-http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]ABC HD [/B][/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png", VTC5
-http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]MSNBC HD [/B][/COLOR]
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-b.m3u8?sd=10&rebase;=on
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png", VTC6
-http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]Fox News [/B][/COLOR]
+http://sjc-uhls-proxy06.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=4381960&stream=2&connectionId=oldurl-698e412ec49870bf5349c617f84a7b5b7b1c9920&group=iphone
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]Fox News HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/FOX_NEWS_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s2
-http://yolive.958695d0.viettel-cdn.vn/vtc7/chunklist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]Bloom Berg HD [/B][/COLOR]
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
-http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]Spike HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/SPIKE_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s2
-http://14.161.5.88:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B] SYFI Network HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/SYFY_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s3
-http://yolive.958695d0.viettel-cdn.vn/vtc9/chunklist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B] Comedy Central HD[/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/COMEDY_CENTRAL_HD/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
-http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B] USA Network HD [/B][/COLOR]
+http://208.86.19.123:8080/live/11.stream/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
-http://123.30.185.126/hls/vtc3.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B] Bravo HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/BRAVO_HD/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
-http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
 
+#EXTINF:-1,[COLOR ffffa500][B] A&E HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/A&E;_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s1
-http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s2
-http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B] AMC HD [/B][/COLOR]
+http://50.7.69.42:8899/GB/USA/AMC_HD/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11 
-http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
+#EXTINF:-1,[COLOR ffffa500][B] E! [/B][/COLOR]
+http://199.21.149.125:8888/US_E!/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aKmAf9Z.png", VTC12
-http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/jwo4w6mfb/itvhd.png",VTC13 S1
-http://117.103.224.222:1935/live/_definst_/smil:iTVHD_2016.smil/playlist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B] Hallmark [/B][/COLOR]
+http://199.21.149.125:8888/US_HALLMARK_CHANNEL_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png", VTC13 s2
-http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s3
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+#EXTINF:-1,[COLOR ffffa500][B]*** CBSN ***[/B][/COLOR]
+rtmp://stream.connectcast.tv/live playpath=mp4:PIRATERADIOSHIP swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/PIRATERADIOSHIP
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14 
-http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16  
-http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
-rtmp://vf10.aditmedia.net/ingestx/ivn_000105
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
-http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
-
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 
-http://123.30.185.126/hls/hanoi1.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
-http://123.30.185.126/hls/hanoi2.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
-http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",CAO BANG
-http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/7q4nqksjr/baccan.jpg",Bac Can
-http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn 
-rtmp://123.18.206.40:1935/live/livestream
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
-rtmp://45.124.85.26/oflaDemo/livestream
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hoa Binh 
-http://123.30.185.126/hls/hoabinh.m3u8
-
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
-http://118.107.76.15:1935/live/_definst_/PT/smil:PT_live.smil/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1,[COLOR ff808000][B]* Live Television Network  *[/B][/COLOR] 
-http://live-1112.la2.edge.filmon.com/live/3283.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe10823ae9c82c899f3c56b7aaac698bc7e844deae8d85aa2f8cd6a99ab9120ee2b33300357df595cc8c134eb9096d98e8e125e4f624b42d0294ca92f04627918e743e4bb5f98a983d2e469381b8189887ad0c0919adb7c9f52f066fd5e3463856ad7013a50218b736315fe49ae610d2aa2702c6a114895cef2959983e2961efa461df8e4cee8f3242440a160fb23d3416
-
-  
-  
-#EXTINF:-1,[COLOR ff00ff00][B] Real Madrid [/B][/COLOR]
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRTBELGESEL HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
-rtsp://yayin.networkbil.com/belgeseltv
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg",TGRT Belgesel
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg",WORLD TRAVEL CHANNEL HD
-http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CHINA HISTORY CHANNEL
-http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
-
-#EXTINF:-1  group-title="QUOC TE TH" tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png", NHK WORLD
-http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
-rtmp://54.251.134.121/live/15273.sdp
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/edj0suuct/abcnews.jpg",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-
-#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Tom And Jerry
-rtmp://208.53.164.194/live? playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tom.html
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-
-
-
-#EXTINF:-1,[COLOR ff808000][B]American/Euro Live TV Combo+[/B][/COLOR] 
-http://live-1124.la2.edge.filmon.com/live/500.low.stream/playlist.m3u8?
-
-
-
-#EXTM3U tvg-shift=0
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National FHD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona FHD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles FHD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain FHD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon FHD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington FHD
-http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area FHD
-http://xrxs.net/video/live-p12baya-4728.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR ffff00ff][B]  D I R E C T  T V - USA Channels  [/B][/COLOR] 
+#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR ffff0000][B]  D I R E C T  T V - USA Channels  [/B][/COLOR] 
 http://12345678890----------------
 
 
 
 
-#EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR cyan][B]US Direct TV -Cinemax Action Max[/B][/COLOR] 
+#EXTINF:-1,[COLOR ff00ffff][B]US Direct TV -Cinemax Action Max[/B][/COLOR] 
 http://199.21.149.125:8888/US_FOX_SPORT_2/tracks-v1a1/index.m3u8
-
 
 
 
 #EXTINF:-1,[COLOR ff00ffff][B] ABC News HD[/B][/COLOR]
 http://199.21.149.125:8888/US_ABC_NEWS/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ffff][B] Animal Planet HD[/B][/COLOR]
-http://199.21.149.125:8888/UK_ANIMAL-PLANET-HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,[COLOR ff00ffff][B] AMC HD[/B][/COLOR]
+http://199.21.149.125:8888/US_AMC_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ffff][B] BLOOMBERG HD[/B][/COLOR]
-http://199.21.149.125:8888/US_BLOOMBERG/tracks-v1a1/index.m3u8
+#EXTINF:-1,[COLOR ff00ffff][B] Animal Planet HD[/B][/COLOR]
+http://199.21.149.125:8888/US_ANIMAL_PLANET_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Bein Sports US HD[/B][/COLOR]
 http://199.21.149.125:8888/US_BEIN_SPORT_USA/tracks-v1a1/index.m3u8
@@ -530,11 +367,8 @@ http://199.21.149.125:8888/US_BEIN_USA/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR ff00ffff][B] BNN HD[/B][/COLOR]
 http://199.19.95.115:8888/EXP_BNN_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ffff][B] Animal Planet [/B][/COLOR]
-http://199.21.149.125:8888/UK_ANIMAL_PLANET/index.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] AMC HD [/B][/COLOR]
-http://199.21.149.125:8888/US_AMC_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,[COLOR ff00ffff][B] Bravo HD[/B][/COLOR]
+http://199.21.149.125:8888/US_BRAVO_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Cartoon Network HD [/B][/COLOR]
 http://199.21.149.125:8888/UK_CARTOON_NETWORK/tracks-v1a1/index.m3u8
@@ -545,11 +379,14 @@ http://199.21.149.125:8888/US_CNN_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR ff00ffff][B] CBS Sports Network HD [/B][/COLOR]
 http://199.21.149.125:8888/US_CBS_SPORTS_NETWORK_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ffff][B] Comedy Central HD [/B][/COLOR]
-http://199.21.149.125:8888/US_COMEDY_CENTRAL_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,[COLOR ff00ffff][B] CBC HD[/B][/COLOR]
+http://199.19.95.115:8888/EXP_CBC_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] CBN News HD [/B][/COLOR]
 http://199.21.149.125:8888/US_CBN_NEWS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] CBS News HD[/B][/COLOR]
+http://199.21.149.125:8888/US_CBS_NEWS/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] CW HD [/B][/COLOR]
 http://199.21.149.125:8888/US_CW_HD/tracks-v1a1/index.m3u8
@@ -563,11 +400,20 @@ http://199.21.149.125:8888/US_CINEMAX_5_STARMAX/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR ff00ffff][B] Cinemax Action Max East HD [/B][/COLOR]
 http://199.21.149.125:8888/US_CINEMAX_ACTION_MAX_EAST/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,[COLOR ff00ffff][B] Comedy Central HD [/B][/COLOR]
+http://199.21.149.125:8888/US_COMEDY_CENTRAL_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,[COLOR ff00ffff][B] Discovery Channel HD [/B][/COLOR]
 http://199.21.149.125:8888/US_DISCOVERY_CHANNEL_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Discovery Science HD [/B][/COLOR]
 http://199.21.149.125:8888/US_DISCOVERY_SCIENCE_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] E! HD [/B][/COLOR]
+http://199.21.149.125:8888/US_E!/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] ESPN  HD [/B][/COLOR]
+http://199.21.149.125:8888/US_ESPN-HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] ESPN  2 HD [/B][/COLOR]
 http://199.21.149.125:8888/US_ESPN-2-HD/tracks-v1a1/index.m3u8
@@ -576,10 +422,13 @@ http://199.21.149.125:8888/US_ESPN-2-HD/tracks-v1a1/index.m3u8
 http://199.21.149.125:8888/US_FOOD_NETWORK/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Fox HD [/B][/COLOR]
-FOXhttp://199.21.149.125:8888/US_FOX_HD/tracks-v1a1/index.m3u8
+http://199.21.149.125:8888/US_FOX_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Fox Sports 1 HD [/B][/COLOR]
 http://199.21.149.125:8888/US_FOX_SPORTS_1_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Fox Sports 2 HD [/B][/COLOR]
+http://199.21.149.125:8888/US_FOX_SPORTS_2_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Foxx HD [/B][/COLOR]
 http://199.21.149.125:8888/US_FOXX_HD/tracks-v1a1/index.m3u8
@@ -605,14 +454,20 @@ http://199.21.149.125:8888/US_TNT/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR ff00ffff][B] HBO 2 HD[/B][/COLOR]
 http://199.19.95.115:8888/EXP_HBO2_HD/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,[COLOR ff00ffff][B] HBO US HD[/B][/COLOR]
+http://199.21.149.125:8888/US_HBO_US/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,[COLOR ff00ffff][B] HBO Zone HD[/B][/COLOR]
 http://199.21.149.125:8888/US_HBO_ZONE_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] HBO Signature HD[/B][/COLOR]
+http://199.21.149.125:8888/US_HBO_SIGNATURE_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] KBL HBO East HD[/B][/COLOR]
 http://199.21.149.125:8888/KBL_HBO_EAST/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ffff][B] CBC HD[/B][/COLOR]
-http://199.19.95.115:8888/EXP_CBC_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,[COLOR ff00ffff][B] History HD[/B][/COLOR]
+http://199.21.149.125:8888/US_HISTORY_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Bravo HD[/B][/COLOR]
 http://199.19.95.115:8888/EXP_BRAVO_HD/tracks-v1a1/index.m3u8
@@ -629,11 +484,8 @@ http://199.21.149.125:8888/US_STARZ_CINEMA_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR ff00ffff][B] SYFY HD[/B][/COLOR]
 http://199.21.149.125:8888/US_SYFY/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ffff][B] Showtime Showcase[/B][/COLOR]
-http://199.21.149.125:8888/US_SHOWTIME_SHOWCASE/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Showtime Extreme[/B][/COLOR]
-http://199.21.149.125:8888/US_SHOWTE_IMEXTREME/tracks-v1a1/index.m3u8
+#EXTINF:-1,[COLOR ff00ffff][B] Showtime 2 HD[/B][/COLOR]
+http://199.21.149.125:8888/US_SHOWTIME_2_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Spike HD[/B][/COLOR]
 http://199.21.149.125:8888/US_SPIKE_HD/tracks-v1a1/index.m3u8
@@ -659,6 +511,9 @@ http://199.21.149.125:8888/US_USA_NETWORK_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR ff00ffff][B] UOC HD[/B][/COLOR]
 http://199.21.149.125:8888/US_UNIVERSITY_OF_CALIFORNIA_TV/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,[COLOR ff00ffff][B] MLB Network HD[/B][/COLOR]
+http://199.21.149.125:8888/US_MLB_NETWORK_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,[COLOR ff00ffff][B] Music RMC1 HD[/B][/COLOR]
 http://199.21.149.125:8888/US_MUSIC_RMC1/tracks-v1a1/index.m3u8
 
@@ -668,8 +523,17 @@ http://199.21.149.125:8888/US_NASA_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR ff00ffff][B] NBC Golf HD[/B][/COLOR]
 http://199.21.149.125:8888/US_NBC_GOLF/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,[COLOR ff00ffff][B] NBC Sports HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NBC_SPORT/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] Nat-Geo-HD[/B][/COLOR]
+http://199.21.149.125:8888/US_NAT-GEO-HD/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,[COLOR ff00ffff][B] National Geographic HD[/B][/COLOR]
 http://199.21.149.125:8888/US_NAT-GEO-HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B] National Geographic [/B][/COLOR]
+http://199.21.149.125:8888/US_NATIONAL_GEOGRAPHIC/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B] Nickoloden HD[/B][/COLOR]
 http://199.21.149.125:8888/US_NICKELODEN_HD/index.m3u8
@@ -683,6 +547,31 @@ http://199.21.149.125:8888/US_WILLOW_CRICKET_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id=" tvg-name=" tvg-logo="https://s11.postimg.org/bh9ty313n/dace.jpg",[COLOR cyan][B]Ends of US Direct TV testing[/B][/COLOR]
 http://199.21.149.125:8888/US_FOX_SPORT_2/tracks-v1a1/index.m3u8
 
+
+
+
+
+
+#EXTINF:-1,[COLOR ffff0000][B]American/Euro Live TV Combo+[/B][/COLOR] 
+http://live-1124.la2.edge.filmon.com/live/500.low.stream/playlist.m3u8?
+
+
+
+#EXTM3U tvg-shift=0
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National FHD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona FHD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles FHD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain FHD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon FHD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington FHD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area FHD
+http://xrxs.net/video/live-p12baya-4728.m3u8
 
 
 
@@ -887,7 +776,324 @@ http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 
 
-#EXTINF:-1,[COLOR ff808000][B]* Videos - Nhạc yêu Cầu[/B][/COLOR]
+
+
+
+
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s24.postimg.org/afqnj8491/Vietnamtv1200x1200.jpg",[COLOR cyan][B][/B][/COLOR][COLOR ffff0000][B]* Live TV trong nước *[/B][/COLOR] 
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png",HTV7 FHD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Ny4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/650827-HTV9_FullHD.png",HTV9 FHD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2OS4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",HTVC Travel FHD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Y2R1bGljaC4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/28/940965-htvc_ca_nhac.png",HTVC Ca Nhac FHD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Y2NhbmhhYy4xMDgwcC5zdHJlYW0vY2h1bmtsaXN0Lm0zdTg=
+#EXTINF:-1group-title="HTVPlus Channels",  tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/28/371877-htvc_gia_dinh.png", HTVC Gia Dinh FHD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvaHR2Y2dpYWRpbmguMTA4MHAuc3RyZWFtL2NodW5rbGlzdC5tM3U4
+#EXTINF:-1 group-title="HTVPlus Channels"  tvg-logo="https://1.bp.blogspot.com/-E3AJ42O8kUw/Vu3QLs3eoWI/AAAAAAAABDU/cHoTEyDolk0LUb9bAvjprPNiBn1JiqBAA/s1600/Star_Movies_HD_.png", Star Movies HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2xpdmV0di5mbGl4LnZuLzA4Zjg3OGNkNDFlNmZjODBlNjgxNjY4ZjZhZmEyZGIyL3Nwc2tsZmwvc3Rhcm1vdmllcy43MjBwLnN0cmVhbS9jaHVua2xpc3QubTN1OA==
+
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s23.postimg.org/r6cyu78or/sctv.jpg",[COLOR ff00ffff][B] *** SCTV-Phim hay tổng hợp  24h HD ***[/B][/COLOR]
+rtmp://vf10.aditmedia.net/ingestx/ playpath=ivn_000105 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nguoiviet.tv/phim/
+
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]HTV 9 HD [/B][/COLOR]
+http://123.29.68.44/live.m3u8?c=vstv009&q=medium&type=tv&token=aAzH6RF3frqVbFRh6LzRnQ&time=1489609407&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1489523007752&pkg=pkg4
+
+#EXTINF:-1,[COLOR ff00ffff][B]HTV 9 HD [/B][/COLOR]
+http://123.29.68.44/live.m3u8?c=vstv009&q=medium&type=tv&token=eO_62FGP9nn6u8EhDqjP8g&time=1489609468&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1489523068094&pkg=pkg4
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 6 HD  [/B][/COLOR]
+http://test.anluong.info/vtv6.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]HTV 7 HD [/B][/COLOR]
+http://123.29.68.44/live.m3u8?c=vstv015&q=medium&type=tv&token=A3vfz8cjwMHy3EncVJS7pw&time=1489779282&gcId=1532&userId=&deviceId=16&deviceType=1&location=NA&requestTime=1489692882923&pkg=pkg4&from=tivi365.net
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 6 HD[/B][/COLOR]
+http://test.anluong.info/vtv6.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 1 HD[/B][/COLOR]
+http://123.30.215.43/hls/4545780bfa790819/4/1/1ce830ce162f482173375d1a9150d1fd3925c7fe84cc09a6929924dc81d62fa1/dnR2MQ==_m.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 8 HD [/B][/COLOR]
+http://123.30.215.43/hls/4545780bfa790819/11/15/fbc1997768fadd1666609f2ce922eb645059d919a53e08a88e74323a033c12f6/dnR2OA==_m.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 5 HD [/B][/COLOR]
+http://123.30.215.43/hls/4545780bfa790819/8/9/1fc15dae320a83b85a0eba9514094c7896c474f0a5b553e747de5a05b43ced61/dnR2NQ==.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 4 HD [/B][/COLOR]
+http://123.30.215.43/hls/4545780bfa790819/7/7/c758400ae8aa555283156464723fadd5f16638cb8392d4f76b79be04d634de92/dnR2NA==_m.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 2 HD [/B][/COLOR]
+http://123.30.215.43/hls/4545780bfa790819/5/3/ac290ce0ce92c6130619fe5990d6406cc37357180c4ce8444c24428d7c224c59/dnR2Mg==_m.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 1 HD [/B][/COLOR]
+http://123.30.215.43/hls/4545780bfa790819/4/1/1ce830ce162f482173375d1a9150d1fd3925c7fe84cc09a6929924dc81d62fa1/dnR2MQ==_m.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]ANTV HD [/B][/COLOR]
+http://123.30.191.202/hls/antv.m3u8
+
+
+
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/JW8VXef.png", VTV1 
+http://123.30.185.126/hls/vtv1.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/RwwN9B3.png", VTV2
+http://123.30.185.126/hls/vtv2.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://i.imgur.com/spL8IHO.png", VTV3
+http://123.30.185.126/hls/vtv3.m3u8
+
+#EXTINF:-1,[COLOR ff00ff00][B] VTV1 HD [/B][/COLOR]
+http://123.30.191.202/hls/vtv1.m3u8
+
+#EXTINF:-1, [COLOR ff00ff00][B] VTV-6[/B][/COLOR] 
+http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png",VTV4
+http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",VTV5
+http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://s11.postimg.org/gi9l9vi4j/vtv8.jpg",VTV8 
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vov_141463718035.png", VOVnews
+http://103.21.148.45:81/icomchannelvtc/smil:vov_adb_security.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_antv.png", ANTV 
+http://123.30.185.126/hls/antv.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vnews.png", TTXVN 
+http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w848419920_b1000000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_quoc-phong-vn.png", QPVN
+rtmp://125.212.132.219/standard/_definst_/mp4:standard_480p
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/VJ8DiUW.png",VTC1 
+http://123.30.185.126/hls/vtc1.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png", VTC2
+http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
+http://123.30.185.126/hls/vtc3.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
+http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/fitz1bW.png",VTC4
+http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/3QYpmSw.png", VTC5
+http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/xXeBAok.png", VTC6
+http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZfjtPa2.png",VTC7 s2
+http://yolive.958695d0.viettel-cdn.vn/vtc7/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/uPxgmeN.png",VTC8
+http://45.121.26.49:1935/live/_definst_/smil:vtc8.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s2
+http://14.161.5.88:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5SoblfV.png",VTC9 s3
+http://yolive.958695d0.viettel-cdn.vn/vtc9/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/keIENsc.png",VTV6 
+http://yolive.958695d0.viettel-cdn.vn/vtv6/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/0t3ciaM.png",VTC3  
+http://123.30.185.126/hls/vtc3.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc3.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/CsXS6ve.png",VTC3 HD s2
+http://yolive.958695d0.viettel-cdn.vn/vtc3/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s1
+http://45.121.26.49:1935/live/_definst_/smil:vtc10.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/5GpXF4g.png",VTC10 s2
+http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/Vg5XFcf.png",VTC11 
+http://45.121.26.49:1935/live/_definst_/smil:vtc11.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aKmAf9Z.png", VTC12
+http://45.121.26.49:1935/live/_definst_/smil:vtc12.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="https://s21.postimg.org/jwo4w6mfb/itvhd.png",VTC13 S1
+http://117.103.224.222:1935/live/_definst_/smil:iTVHD_2016.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png", VTC13 s2
+http://45.121.26.49:1935/live/_definst_/smil:vtc13.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/ZIRi8xh.png",VTC13 s3
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/annOIzX.png",VTC14 
+http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/aJyUj9n.png",VTC16  
+http://45.121.26.49:1935/live/_definst_/smil:vtc16.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://static-stage.sctv.vn/channel/84/PhimVietHD.png",SCTVHD Phim Việt
+rtmp://vf10.aditmedia.net/ingestx/ivn_000105
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="http://www.sctv.com.vn/Media/ShortCut/channel/sctv5.png",SCTV5-SCJ
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/kFSFBHp.png",HaNoi1 
+http://123.30.185.126/hls/hanoi1.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/JHYNvNs.png",HaNoi2
+http://123.30.185.126/hls/hanoi2.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png",HA GIANG 
+http://118.107.76.15:1935/live/_definst_/HG/HG_640x480_1200kbps.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/75prmzdsn/caobang.jpg",CAO BANG
+http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://s21.postimg.org/7q4nqksjr/baccan.jpg",Bac Can
+http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/FRl2dMz.png",Lạng Sơn 
+rtmp://123.18.206.40:1935/live/livestream
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/a4oiL92.png",Thai Nguyen
+rtmp://45.124.85.26/oflaDemo/livestream
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/tMaZaYl.png",Hoa Binh 
+http://123.30.185.126/hls/hoabinh.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://i.imgur.com/W2d2XLV.png",Phu Tho
+http://118.107.76.15:1935/live/_definst_/PT/smil:PT_live.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,[COLOR ffff0000][B]* Live Television Network  *[/B][/COLOR] 
+http://live-1112.la2.edge.filmon.com/live/3283.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe10823ae9c82c899f3c56b7aaac698bc7e844deae8d85aa2f8cd6a99ab9120ee2b33300357df595cc8c134eb9096d98e8e125e4f624b42d0294ca92f04627918e743e4bb5f98a983d2e469381b8189887ad0c0919adb7c9f52f066fd5e3463856ad7013a50218b736315fe49ae610d2aa2702c6a114895cef2959983e2961efa461df8e4cee8f3242440a160fb23d3416
+
+  
+  
+#EXTINF:-1,[COLOR ff00ff00][B] Real Madrid [/B][/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRTBELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8FvNchkmnEQ/VpgEGVRfFBI/AAAAAAAANnY/HKwbN_9Hgbw/s1600/belgeselt.jpg",BELGESEL TV
+rtsp://yayin.networkbil.com/belgeseltv
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="http://3.bp.blogspot.com/-lz1zOSohT9I/VpgGp0QbbkI/AAAAAAAANpk/Xi_S149uZXY/s1600/worldtravelch.jpg",WORLD TRAVEL CHANNEL HD
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s29.postimg.org/8v43ecgfr/aljazeeradoc.jpg",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="",CHINA HISTORY CHANNEL
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
+
+#EXTINF:-1  group-title="QUOC TE TH" tvg-logo="http://2.bp.blogspot.com/-r2Q3MWtx6hE/Usk9U09luPI/AAAAAAAAbMo/S19GjfCEzOM/s1600/NHK+logo.png", NHK WORLD
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/stv/225446/live.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/539jbvuy3/newsasia.png",CHANNEL NEWSASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s27.postimg.org/5956a7bar/ariang.jpg",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/chunklist_b700000.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s18.postimg.org/c7sgrie6h/cnn.png",CNN PHILIPPIN
+rtmp://54.251.134.121/live/15273.sdp
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s15.postimg.org/4wvvvudl7/aljazeera.jpg",Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s28.postimg.org/edj0suuct/abcnews.jpg",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+
+#EXTINF:-1 group-title="QUOC TE TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Tom And Jerry
+rtmp://208.53.164.194/live? playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tom.html
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/7mnffp0p3/jackiechan.jpg",Phim Jackie Chan
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s16.postimg.org/xvm6d881x/dichnhankiet.jpg",Phim Thần Thám Địch Nhân Kiệt
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/dvn52h743/tayduky.jpg",Phim Tây Du Ký
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/p6e7zhi5d/baocong.jpg",Phim Bao Công
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s9.postimg.org/hj27fgd0v/tomandjerry.jpg",Phim Tom And Jerry
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s21.postimg.org/r22vxwb07/tvmy.jpg",Phim Truyền hình Mỹ
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s4.postimg.org/bpgra044d/actiontv.jpg",Phim Hành Động
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s11.postimg.org/6glcxr7fn/phimtailieu.jpg",Phim Tài Liệu Khoa Học
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 group-title="PHIM TH" tvg-logo="https://s14.postimg.org/4gmm2m95d/dongvat.jpg",Phim Thế Giới Động Vật
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+
+#EXTINF:-1,[COLOR ffff0000][B]* Videos - Nhạc yêu Cầu[/B][/COLOR]
 http://f.vp9.tv/music/nhac_vang/Nghi_chuyen_ngay_xuan-Mai_Thien_Van/mv.mp4
 
 
@@ -1418,7 +1624,7 @@ http://f.vp9.tv/music/tru_tinh/16_trang_tron-Tuong_Khue_ft_Tuong_Nguyen/mvhd.HV.
 
 
 
-#EXTINF:-1,[COLOR ff808000][B]Videos-Phim mới(2016-15)[/B][/COLOR] 
+#EXTINF:-1,[COLOR ffff0000][B]Videos-Phim mới(2016-15)[/B][/COLOR] 
 http://movihd.net/youtube/video.mp4?url=DxASMFAeSXEsABYPOC8nJycYXQEcG1RYDQEBAg8HRAkEHkgcAw4ACgUEAgotMwUBVBQCFRMpUUEVLTJYCwM5bDc7KRgXBAoEUkcbShEDGU4JBwkKFwsZGVgcEBtFGitvBF9YAFNWUXVBQQNmOwNLXmwjMDIvV0FUVQdcQRoUDVsaAQkLGBJBCQcFWBYQCxYBKg0SGAoIFBQJMlcBVRonAAFAIzp5Y2ZaXVZdRBVdGBUBEhlVWkwOCxcDGA9YVEFaUUB6ZFFbXUAUFAcyQkkVYywAAxMjOCEgOwZfFRsVQVAKDhgHGRtGCQYRHhoLGRZJHAxPGjszAUYYCRIWBSUPTRZyNxUQDz45aDYwGhoUFlJAXQ8ZCRIfGg9XKEpVKFlZVCNFKiExDGIlKy5eVyYlAmUXJ2ocJkNeenJ2ZApZRSI1WgsHUEYrXl1bLFIpRyIpWyxXUEYqWjULFFIrWSUhVlAEYRwkG25WRlNsISEqdQYbVw%3d%3d
 
 
@@ -1439,7 +1645,7 @@ http://103.1.209.76/720p/2012/american-reunion.2012.vp9.mp4
 #EXTINF:-1,[COLOR ff00ffff][B] A Bug Life[/B][/COLOR]
 http://2co1.vp9.tv/data/vp9/f/05/00a/tt0120623/HV.mp4
 
-#EXTINF:-1,[COLOR ff00ffff][B] An Toàn không Đ3m Bảo[/B][/COLOR]
+#EXTINF:-1,[COLOR ff00ffff][B] An Toàn không Đảm Bảo[/B][/COLOR]
 http://2co1.vp9.tv/data/vp9/f/10/80a/pt2_tt1520211/tt1804266/HV.mp4
 
 #EXTINF:-1,[COLOR ff00ffff][B] Bảy kẻ Tâm Thần[/B][/COLOR]
@@ -1529,139 +1735,12 @@ http://dl.my-film.org/reza/film/Max.Steel.2016.HDrip.NBY-[My-Film].mkv
 #EXTINF:-1,[COLOR ff00ffff][B] Money Monster-2016 -MT[/B][/COLOR]
 http://dl.my-film.org/reza/film/Money.Monster.2016.720p-[My-Film].mkv
 
-#EXTINF:-1,[COLOR ff00ffff][B] Death Race 2050[/B][/COLOR]
-http://mcdn-play-358.5centscdn.net/ciextv/5c6d78cffa59e129f040fcec2d788532.sdp/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1,[COLOR ff00ffff][B] The Huntsman Winter's War 3D <mamo>[/B][/COLOR]
-http://91.207.102.134:8777/moceadvrw24pcnokailst2muxefr4hujzswlpcs4vrndryf6nirii2izsm/v.mp4
 
-#EXTINF:-1,[COLOR ff00ffff][B] The Binding  <mamo>[/B][/COLOR]
-http://74.117.181.134:8777/wgcel6fww24pcnokaikst46iwmoc4pdvu2ksqo7xvptbbz5xcp2lnr5w24/v.mp4
 
-#EXTINF:-1,[COLOR ff00ffff][B] The Brooklyn Banker  <mamo>[/B][/COLOR]
-http://77.81.98.200:8777/tocetnnww24pcnokailst2e4xaevtzzmanas6pfi7hbpyu62gkcbgfk2ce/v.mp4
 
-#EXTINF:-1,[COLOR ff00ffff][B] The Mind's Eye  <mamo>[/B][/COLOR]
-http://31.14.252.93:8777/yscemn5xw24pcnokailstyow5ifj63hvwkq6673orfwb7k63s6r7afoefm/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] The Remains  <mamo>[/B][/COLOR]
-http://74.117.181.132:8777/rwcelunxw24pcnokailst5op7cymjwd3fm65hirao2uavl375q4irigvea/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] The Suffering  <mamo>[/B][/COLOR]
-http://74.117.181.134:8777/wgcekrvuw24pcnokaijcty647jaorsi2hhpc7m6ttdvidvlzc2uvecobra/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Ice Age Collistion Course  <mamo>[/B][/COLOR]
-http://77.81.98.228:8777/mccebpxtw24pcnokajuct2m76hhqhrn4qr2aur7dequ5kouyspyj7sy5tu/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Maggie's Plan  <mamo>[/B][/COLOR]
-http://74.117.181.142:8777/xscebeptw24pcnokajuct46g5zxfohsw3wwwsryhrodgkfsybytnil64s4/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] 2 Lava 2 lantula !  <mamo>[/B][/COLOR]
-http://74.117.181.148:8777/v2cefxdgw24pcnokajxct2wuwtfoy4uu5tpmwdzsmmdolez66qwgz5efsu/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Money Monster  <mamo>[/B][/COLOR]
-http://77.81.98.202:8777/j2ceanlhw24pcnokajxctzgz66azrd5q5ovvxrfzm4deszvevipjdjuzey/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Rachet & Clark  <mamo>[/B][/COLOR]
-http://74.117.181.136:8777/w2cefqlhw24pcnokajxstp6o56xfmevkhlgcqwtqbgpyz5irpef4feejca/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Too Late  <mamo>[/B][/COLOR]
-http://31.14.252.70:8777/6gcegzdew24pcnokajxctmoa6l6oil6v3nr2ragguxjgixb2uc5lzy7t4a/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Star Trek Beyond  <mamo>[/B][/COLOR]
-http://91.195.99.72:182/d/7jsczxizljrwuximgu4h73ys4hbjoobfhphsgegxbnwa64r7lghynldm/video.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Secret Summer  <mamo>[/B][/COLOR]
-http://74.117.181.142:8777/ukceeodgxo4pcnokai3ct2o6wbnwuesvkwj5onszbkn36erg4njzp6uyle/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Perfect Christmas  <mamo>[/B][/COLOR]
-http://77.81.98.200:8777/sccefvb5xc4pcnokaiactn6cxebhx3jq3dftisnfbuj3fqml6e3qp64gna/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Looking: The Movie  <mamo>[/B][/COLOR]
-http://74.117.181.134:8777/woceh3tbxo4pcnokai3ct7u65hnsgqqe5jqphbhtbkka2tcgggofepmhry/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Daylight's End  <mamo>[/B][/COLOR]
-http://74.117.181.142:8777/ugcelhz5xc4pcnokaibct2w262t7lhbhltrfwlqjrkyvxqjyy7zvbcd6gq/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Arachnicide  <mamo>[/B][/COLOR]
-http://91.207.102.133:8777/p6ceb4coxc4pcnokaidctyu76hlozbrkzif6jyuqttqlcazkgjx3onn5gm/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Mechamic resurrection  <mamo>[/B][/COLOR]
-http://74.117.181.132:8777/rwcek62pxc4pcnokaicctp635v37q66oisff5boykxwtsb2kwlv2kk5wae/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Skiptrace  <mamo>[/B][/COLOR]
-http://74.117.181.132:8777/rwcekpkpxc4pcnokaicct7gf6bb75lyz4266vvndatpxb3gcleszknouxu/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] My Summer Prince  <mamo>[/B][/COLOR]
-http://74.117.181.142:8777/xscea2hqw24pcnokajuctmwb6auzsaou6r2mz57iisnhpeujfhzpjwkzey/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] The Legend of Tarzan  <mamo>[/B][/COLOR]
-http://74.117.181.140:8777/x2cee7qpxg4pcnokaiictzm55bup7k4q46bdjnda32edjvj2sx6amedn44/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] The Wedding March <mamo>[/B][/COLOR]
-http://77.81.98.201:8777/qwcesledxg4pcnokaimstmg37jkvrfrsdko74hauwhesjf4dhrpq2s5d2q/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Into the Forest <mamo>[/B][/COLOR]
-http://91.195.99.66:8777/7gcetkgxxg4pcnokaipstp6vwa47yrjq7ksrtmd4x5kfnb77relr33j2bq/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] God not Dead 2 <mamo>[/B][/COLOR]
-http://74.117.181.134:8777/wkcefjilxg4pcnokaiict5mu7awcepzqv3suxi62e2nl6dckhq74d5dyci/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] The Bet <mamo>[/B][/COLOR]
-http://77.81.98.200:8777/tocet36uxg4pcnokaipstn455b7kzyaiswilbnnlpcdb6r4olstsje5o44/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] ABCs of Death 2.5 <mamo>[/B][/COLOR]
-http://74.117.181.132:8777/rwcekzylxg4pcnokaipct5w34govkyz4nfwleguvbkkttlsighpib6vqvm/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] The Revenant <stis>[/B][/COLOR]
-http://74.117.181.130:8777/rocegebow64pcnokal7svzgd6mazvx3fsqsw64mlv3qoy5at4pe57vmere/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Batman vs Superman <stis>[/B][/COLOR]
-http://74.117.181.138:8777/xocehfbjw64pcnokalesvnw57g35bxt5w45az5nblu7qks7oqylire2kga/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Alligiant <stis>[/B][/COLOR]
-http://74.117.181.132:8777/r6cehuziw64pcnokajtctygj5d4wgem3wanrgrtrisrwzystw5cheyw3om/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B] Phantom Detective-Thám Tử tài năng   <hdet>('-'[/B][/COLOR]
-http://n06.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/16/Phantom_Detective_2016_720p_HDRip_H/playlist_h.m3u8?audioindex=1
-
-#EXTINF:-1,[COLOR ff00ffff][B] To steal from a Thief  <hdet>('-'[/B][/COLOR]
-http://n06.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/17/To_Steal_From_A_Thief_2016_SD_H/To_Steal_From_A_Thief_2016_SD_H_800/playlist.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Những chú chim nổi giận  <hdet>('-'[/B][/COLOR]
-http://n01.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/28/Angry_Birds_2016_1080p_BluRay_S/Angry_Birds_2016_1080p_BluRay_S_1792/playlist.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B]  Người Kiến <hdet>[/B][/COLOR]
-http://n01.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/042016/28/Ant_Man_2015_1080p_BluRay_S_ViE/Ant_Man_2015_1080p_BluRay_S_ViE_1792/playlist.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Cuộc Chiến Quyền Lợi  <hdet>('-'[/B][/COLOR]
-http://n06.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/27/The_Hunt_2016_720p_HDRip_H/The_Hunt_2016_720p_HDRip_H_1024/playlist.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Ghost Shooter - Truy tìm nội gián <hdet>('-'[/B][/COLOR]
-http://n08.vn-hd.com/d4babca07d5fe177b40203b3ef2ce069/s2/072016/27/Sniper_Ghost_Shooter_2016_DVDRip_H/playlist.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Phòng Khám Tình Yêu <viud> [/B][/COLOR]
-http://115.146.123.58:1935/phim28/mp4:Love.Clinic.2015.mp4/chunklist.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Ngày Phẫn Nộ <viud> [/B][/COLOR]
-http://vtsstr2.sctv.vn/betavod/_definist_/cache/vod/phim/phimle/hanhdong/ngayphanno/0_8y79c4ux.smil/media_w770937551_b2611000_0.ts
-
-#EXTINF:-1,[COLOR ff00ffff][B] Truy Tiềm Bóng Ma <viud> [/B][/COLOR]
-http://vtsstr2.sctv.vn/betavod/_definist_/cache/vod/phim/phimle/hanhdong/truytimbongma/0_wm4udfzh.smil/chunklist_w628424105_b2573000.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Thời Đại của Rồng <viud> [/B][/COLOR]
-http://vtsstr1.sctv.vn/betavod/_definist_/cache/vod/phim//phimle/hanhdong/thoidaicuarong-HD/0_mrwlyh6e.smil/chunklist.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Sứ Mệnh Tuyệt Mật  <viud>  [/B][/COLOR]
-http://vtsstr1.sctv.vn/betavod/_definist_/cache/vod/phim/phimle/hanhdong/sumenhtuyetmat/0_4bylh09a.smil/chunklist_w1068061356_b2194000.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B] Sky -2016  (fuar) [/B][/COLOR]
-http://77.81.98.201:8777/q2cemi6l2w4pcnokalwcx2675wkp4v647ptnfiwbyqi2ideyvjywnw6z24/v.mp4
-
-#EXTINF:-1,[COLOR ff00ffff][B]  God's Slave [/B][/COLOR]
-http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=4875115222001&videoId=4875005685001
 
 #EXTINF:-1,[COLOR cyan][B] Yellow Rock  <poix>[/B][/COLOR]
 http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3822741034001&pubId=3692957913001&videoId=3822459768001
@@ -1998,7 +2077,7 @@ http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=3
 
 
 
-#EXTINF:-1,[COLOR ff808000][B] XXX for G U Y S W h o L i k e s  XXX ('-'[/B][/COLOR]
+#EXTINF:-1,[COLOR ffff0000][B] XXX for G U Y S W h o L i k e s  XXX ('-'[/B][/COLOR]
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w490756326.m3u8
 
 
@@ -2057,7 +2136,7 @@ http://static.brazzers.com/scenes/4510/180sec.flv
 
 
 
-#EXTINF:-1,[COLOR ff800080][B] B E G I N  o f   T E S T I N G ('-'[/B][/COLOR]
+#EXTINF:-1,[COLOR ffff0000][B] B E G I N  o f   T E S T I N G ('-'[/B][/COLOR]
 http://www.mediafire.com/download/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
 
 
@@ -2260,7 +2339,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 
 
-#EXTINF:-1,[COLOR ff808000][B] E N D  o f  V I Ệ T    T E S T I N G ('-'[/B][/COLOR]
+#EXTINF:-1,[COLOR ffff0000][B] E N D  o f  V I Ệ T    T E S T I N G ('-'[/B][/COLOR]
 http://www.mediafire.com/download/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
 
 
@@ -2429,11 +2508,11 @@ http://2co1.vp9.tv/data/vp9/f/00/05a/pt_tt1442188/tt1491587/HV.mp4
 
 
 
-#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/e86hng4z7/PBN_120.jpg",[COLOR ffff00ff][B] PBN -120 Còn Chút Gì Để Nhớ HD[/B][/COLOR]
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/e86hng4z7/PBN_120.jpg",[COLOR ffff0000][B] PBN -120 Còn Chút Gì Để Nhớ HD[/B][/COLOR]
 http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv
 
 
-#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/e86hng4z7/PBN_120.jpg",[COLOR ffff00ff][B] PBN -120 Còn Chút Gì Để Nhớ HD[/B][/COLOR]
+#EXTINF:-1,#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/e86hng4z7/PBN_120.jpg",[COLOR ffff0000][B] PBN -120 Còn Chút Gì Để Nhớ HD[/B][/COLOR]
 http://www.mediafire.com/watch/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mp4
 
 
@@ -2661,7 +2740,7 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
 
 
 
-#EXTINF:-1,[COLOR cyan][B]  T  E  S  T  I  N  G  --  S  T  A  R  T  S  [/B][/COLOR]
+#EXTINF:-1,[COLOR cyan][B]  T  E  S  T  I  N  G  --  *****  [/B][/COLOR]
 1234567890================================================================================
 
 
@@ -2695,39 +2774,34 @@ http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m
 #EXTINF:-1,[COLOR ff00ffff][B] UK Premiere Sports HD[/B][/COLOR]
 http://199.21.149.125:8888/UK_PREMIERE_SPORT_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS 1 HD ***[/B][/COLOR]
-http://199.21.149.125:8888/UK_BT_SPORTS_1_HD_TRUE/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS 2 HD ***[/B][/COLOR]
-http://199.21.149.125:8888/UK_UK_BT_SPORT_2_HD/tracks-v1/index.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS Europe HD ***[/B][/COLOR]
-http://199.21.149.125:8888/UK_BT_SPORT_EUROPE_HD/tracks-v1/index.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS Europe HD True ***[/B][/COLOR]
-http://199.21.149.125:8888/UK_BT_SPORTS_EUROPE_HD_TRUE/tracks-v1/index.m3u8
-
 #EXTINF:-1,[COLOR ff00ffff][B]*** UK BT SPORTS Extra ***[/B][/COLOR]
 http://199.21.149.125:8888/UK_BT_SPORTS_EXTRA/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,[COLOR ff00ffff][B]*** UK Eurosport 1 HD ***[/B][/COLOR]
 http://199.21.149.125:8888/UK_EUROSPORT_1HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR ff00ffff][B]*** UK Eurosport 2 HD ***[/B][/COLOR]
-http://199.21.149.125:8888/UK_EUROSPORT_2HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,[COLOR ff00ffff][B]*** 300 Rise of an Empire <famo> ***[/B][/COLOR]
-http://dl.sv-mov.in/shahriyar/movie/archive/300%20Rise%20Of%20An%20Empire%20(2014)%20BluRay%20720p(MovIran).mkv
-
-#EXTINF:-1,[COLOR ff00ffff][B]*** Cloverfield Lane <famo> ***[/B][/COLOR]
-http://dl.my-film.org/reza/film/10.Cloverfield.Lane.2016.1080p.6CH.x265.HEVC-[My-Film].mkv
 
 
-#EXTINF:-1,[COLOR ff00ffff][B]*** Clinical 2017 <famo> ***[/B][/COLOR]
-http://dl.uplodin.ir/Film/2017/Clinical.2017.WEBRip.720.Ganool.FardaDownload.mkv
 
-http://dl.uplodin.ir/Film/2017/Coin.Heist.2017.720p.WEBRip.MkvCage.FardaDownload.mkv
+#EXTINF:-1,[COLOR ff00ffff][B]*** CBSN ***[/B][/COLOR]
+rtmp://stream.connectcast.tv/live playpath=mp4:PIRATERADIOSHIP swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/PIRATERADIOSHIP
 
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 6 HD  [/B][/COLOR]
+http://test.anluong.info/vtv6.m3u8
+
+#EXTINF:-1,[COLOR ff00ffff][B]HTV 7 HD [/B][/COLOR]
+http://123.29.68.44/live.m3u8?c=vstv015&q=medium&type=tv&token=A3vfz8cjwMHy3EncVJS7pw&time=1489779282&gcId=1532&userId=&deviceId=16&deviceType=1&location=NA&requestTime=1489692882923&pkg=pkg4&from=tivi365.net
+
+#EXTINF:-1,[COLOR ff00ffff][B]VTV 6 HD[/B][/COLOR]
+http://test.anluong.info/vtv6.m3u8
+
+
+
+#EXTINF:-1,[COLOR ff00ffff][B]ANTV HD [/B][/COLOR]
+http://123.30.191.202/hls/antv.m3u8
+
+==========================================================================================================
 
 #EXTINF:-1,[COLOR cyan][B]  T  E  S  T  I  N  G  -http://gg.gg/4ficz-  E  N  D  E  D  -- [/B][/COLOR]
 1234567890================================================================================
