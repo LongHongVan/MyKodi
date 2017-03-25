@@ -1,0 +1,4 @@
+#EXTM3U Test
+
+#EXTINF:-1 tvg-id="viceland" tvg-name="[COLOR gold][B]Viceland HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="http://image.vam.synacor.com.edgesuite.net/dd/29/dd296a21537587d80d7fcd56868664dad9577d1e/w=414,h=303,crop=auto/?sig=88c390c980d4fa53d37ef16fbdc53ec3dfbad7d9fa626949827b76ae37140ac3&app=powerplay" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]",[COLOR gold][B]Viceland HD[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/husham/husham/477.ts
