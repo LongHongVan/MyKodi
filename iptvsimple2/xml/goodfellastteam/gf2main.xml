@@ -1,0 +1,185 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>Free TV Channels</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/16e0fa186b8e9d9f14c44f2d1d0f5085.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/live_tv_streams/tv_channel_streams.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/85c56a3d572a390ef85ded5ef6229d22.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>News Channels</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/45e8a03397a3d029c8f313b41525a603.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/live_tv_streams/news/news_cat.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/88eb1c6c57ee49714a94b972c5b1a867.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Sports/Events</name>
+<thumbnail>http://www.pixhoster.info/f/2016-09/49e31e23c2f0eab31c01cb73fd773957.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/Live_Events/Live_events_master.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/f8a9dba82dee88b527376f93e35da568.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>http://www.pixhoster.info/f/2016-09/34b1ab8c70f43de22f06765f76f9df69.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/movie_main.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/14057c3aac40c61c513c2fdadd0b1064.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>TV Shows</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/da9b952ed8bd1ea9a4e5c55d65363ff0.PNG</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/tv_shows/tv_shows_main.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/db462dee3b7468843f23dcb70a694584.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Seasonal Favorites</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/9d4bb716c841c8709d0886c45537fd33.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/holiday/Holiday.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/b62789c994d46e9c199bde21f1dd9fb1.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Biography/Documentary</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/ce42ca8a85862f3f98806065b9b4ba45.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/bio_doc/Bio_doc_main.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/0bd910a73055a41b7970ecdbb10813d2.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Audio Books/Newspapers</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/af970a035f051f977464339e914976f1.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/audiobook/audio_books.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/881f872eefa29aa9683c0537386c9af3.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Sounds/Meditation</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/aa6f3e46cec11bb56732604ece3dd23a.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/Relaxing%20Sounds/relaxing_sounds.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/b86850905922a3e558e27be3536407ab.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+
+
+<channel>
+<name>Culinary</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/499f0f247e5e05398ffd4614f5533ff7.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/culinary/culinary.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/6b8fc64d53da799310723a2e9492ff49.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Arts/Crafts</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/073e38362b9e3e5eff97ee694e61701b.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/arts_crafts/arts_crafts.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/1284d598736b19898a2f2c9d9a825bde.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Ladies Lounge</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/3df2feedd9031e9dbcf73e60f29632ad.PNG</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/her_place/her_place.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/c1a2c6627290168593e7272c633ffecf.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Outdoors</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/cc3e15bea9436dada3780baf8680d03a.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/outdoor/outdoors_main.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/8486a7dadcb7bdd34365a64a0dcf4317.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Military</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/bb07592ba57b6aef0e556f3f9e901925.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/military/military.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/ee6fa53d0073934ff5cb6904d496b00f.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Motor Headz</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/8885fa2d9eb23c4aa1a4c5611064735e.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/automobile/automobile.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/f2f384eee1576221952277084de7112e.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Gamerz</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/fbdbd034be88bb366a11482b69780c38.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/gamer/gamer.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/b9126dde352ad263faaa5be2ca3db556.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Vaping</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/503cb7ff92d5a8acc637f5930860265f.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/vaping/vaping.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/58c825de66d932af31de1694d03f3e6b.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Controversial YouTube</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/7be40514676d0609f1482c1bba15b543.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/Controversial_YouTube/Controversial_YouTube.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/c2147b85b2dd4eae17992c3f36090424.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Music</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/5a5b76e273916ebf9848317562bebc2d.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/music/music_main.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/7fa665bffcbdc43775b93c5e888372fc.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Fitness</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/744a4a2b414119383d57ca14207e867a.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/fitness/Fitness.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-08/1595fe974afe6ac6188a6046ae9df4f5.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+
+<channel>
+<name>Web Cams</name>
+<thumbnail>http://www.pixhoster.info/f/2016-09/c6840c032540f02450b004859e60aa2d.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/web_cams/webcams.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/1fa780e2d827b35ee5038bf8b2c8dd63.png</fanart>
+<info>Streaming from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>GoodFellas</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/2851e6b8140a9e04ef9b27bb5945ea63.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/GF/gf.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/6cf81ae685e65c8752d2d68605598b93.png</fanart>
+<info>The GoodFellas Personal Favorites to Watch</info>
+</channel>
+
+</channels>

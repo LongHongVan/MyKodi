@@ -2118,763 +2118,95 @@ http://127.0.0.1:19096/vntvnetproxy/hn1
 #### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
 
 
-#### USA playersklub #############################################
 
-#EXTM3U Sun Mar 19 22:23:29 2017
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ABC. NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]." tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]ABC. NEWS[/B][/COLOR][COLORwhite] HD[/COLOR].
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/107.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ABC NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]ABC NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/108.m3u8
-
-#EXTINF:-1 tvg-id="A&E USA" tvg-name="[COLOR gold][B]A & E[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]A & E[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/239.m3u8
-
-#EXTINF:-1 tvg-id="BBC America HDTV (East) (BBC)" tvg-name="[COLOR gold][B]BBC AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]BBC AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/228.m3u8
-
-#EXTINF:-1 tvg-id="CBS SPORTS NETWORK" tvg-name="[COLOR gold][B]CBSN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CBSN[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/220.m3u8
-
-#EXTINF:-1 tvg-id="COOKING CHANNEL CA" tvg-name="[COLOR gold][B]COOKING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]COOKING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/211.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="[COLOR gold][B]DISCOVERY SCIENCE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]DISCOVERY SCIENCE[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/206.m3u8
-
-#EXTINF:-1 tvg-id="Food Network USA" tvg-name="[COLOR gold][B]FOOD NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FOOD NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/195.m3u8
-
-#EXTINF:-1 tvg-id="FOX SPORTS 1" tvg-name="[COLOR gold][B]FOX SPORT 1[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FOX SPORT 1[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/188.m3u8
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="[COLOR gold][B]FOX SPORT 2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FOX SPORT 2[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/187.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HBO 2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HBO 2[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/174.m3u8
-
-#EXTINF:-1 tvg-id="HBO COMEDY US" tvg-name="[COLOR gold][B]HBO COMEDY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HBO COMEDY[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/173.m3u8
-
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="[COLOR gold][B]HBO FAMILY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HBO FAMILY[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/172.m3u8
-
-#EXTINF:-1 tvg-id="MLB HD" tvg-name="[COLOR gold][B]MLB NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]MLB NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/160.m3u8
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="[COLOR gold][B]MTV[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]MTV[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/158.m3u8
-
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="[COLOR gold][B]NAT GEO WILD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NAT GEO WILD[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/157.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NBCSN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NBCSN[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/149.m3u8
-
-#EXTINF:-1 tvg-id="NFL HD" tvg-name="[COLOR gold][B]NFL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NFL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/148.m3u8
-
-#EXTINF:-1 tvg-id="NHLHD" tvg-name="[COLOR gold][B]NHL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NHL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/147.m3u8
-
-#EXTINF:-1 tvg-id="TCM" tvg-name="[COLOR gold][B]TCM[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TCM[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/128.m3u8
-
-#EXTINF:-1 tvg-id="The Movie Netwtork" tvg-name="[COLOR gold][B]THE MOVIE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]THE MOVIE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/121.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]THE WEATHER NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]THE WEATHER NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/120.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]TLC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TLC[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/119.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]A&E.[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]A&E.[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/267.m3u8
-
-#EXTINF:-1 tvg-id="ABC Sparks HD" tvg-name="[COLOR gold][B]ABC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]ABC[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/263.m3u8
-
-#EXTINF:-1 tvg-id="American Heroes Channel" tvg-name="[COLOR gold][B]AMERICAN HEROES[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]AMERICAN HEROES[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/241.m3u8
-
-#EXTINF:-1 tvg-id="ANIMAL PLANET USA" tvg-name="[COLOR gold][B]ANIMAL PLANET.[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]ANIMAL PLANET.[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/262.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]CARTOON NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CARTOON NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/258.m3u8
-
-#EXTINF:-1 tvg-id="CBS" tvg-name="[COLOR gold][B]CBS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CBS[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/266.m3u8
-
-#EXTINF:-1 tvg-id="CNN" tvg-name="[COLOR gold][B]CNN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CNN[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/260.m3u8
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL USA" tvg-name="[COLOR gold][B]COMEDY CENTRAL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]COMEDY CENTRAL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/257.m3u8
-
-#EXTINF:-1 tvg-id="The Discovery Channel (East) (DSC)" tvg-name="[COLOR gold][B]DISCOVERY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]DISCOVERY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/255.m3u8
-
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="[COLOR gold][B]ESPN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]ESPN[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/256.m3u8
-
-#EXTINF:-1 tvg-id="FOX News HD (FNCHD)" tvg-name="[COLOR gold][B]FOX NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FOX NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/252.m3u8
-
-#EXTINF:-1 tvg-id="History HD" tvg-name="[COLOR gold][B]HISTORY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HISTORY[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/251.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime Television HDTV (East) (LIFEH)" tvg-name="[COLOR gold][B]LIFE.TIME[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]LIFE.TIME[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/250.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]MY9[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]MY9[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/249.m3u8
-
-#EXTINF:-1 tvg-id="NAT GEO USA" tvg-name="[COLOR gold][B]NATIONAL GEOGRAPHIC CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NATIONAL GEOGRAPHIC CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/247.m3u8
-
-#EXTINF:-1 tvg-id="NBC" tvg-name="[COLOR gold][B]NBC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NBC[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/248.m3u8
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="[COLOR gold][B]NICKELODEON[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NICKELODEON[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/265.m3u8
-
-#EXTINF:-1 tvg-id="PBS" tvg-name="[COLOR gold][B]PBS.[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PBS.[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/264.m3u8
-
-#EXTINF:-1 tvg-id="SPIKE USA" tvg-name="[COLOR gold][B]SPIKE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]SPIKE[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/246.m3u8
-
-#EXTINF:-1 tvg-id="SYFY USA" tvg-name="[COLOR gold][B]SYFY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]SYFY[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/245.m3u8
-
-#EXTINF:-1 tvg-id="TNT USA" tvg-name="[COLOR gold][B]TNT.[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TNT.[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/243.m3u8
-
-#EXTINF:-1 tvg-id="USA Network US" tvg-name="[COLOR gold][B]USA NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]USA NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/242.m3u8
-
-#EXTINF:-1 tvg-id="AMC USA" tvg-name="[COLOR gold][B]AMC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]AMC[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/314.m3u8
-
-#EXTINF:-1 tvg-id="BET" tvg-name="[COLOR gold][B]BET[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]BET[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/299.m3u8
-
-#EXTINF:-1 tvg-id="Bravo USA" tvg-name="[COLOR gold][B]BRAVO[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]BRAVO[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/315.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax ThrillerMax HD (TMAXHD)" tvg-name="[COLOR gold][B]CINEMAX THRILLERMAX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CINEMAX THRILLERMAX[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/313.m3u8
-
-#EXTINF:-1 tvg-id="CW" tvg-name="[COLOR gold][B]CW[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CW[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/319.m3u8
-
-#EXTINF:-1 tvg-id="FOX" tvg-name="[COLOR gold][B]FOX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FOX[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/318.m3u8
-
-#EXTINF:-1 tvg-id="Freeform" tvg-name="[COLOR gold][B]FREEFORM[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FREEFORM[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/320.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]FX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FX[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/324.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]FXX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FXX[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/323.m3u8
-
-#EXTINF:-1 tvg-id="H2 USA" tvg-name="[COLOR gold][B]H2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]H2[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/309.m3u8
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="[COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HBO[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/317.m3u8
-
-#EXTINF:-1 tvg-id="HBO Zone HD (HBOZHD)" tvg-name="[COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HBO ZONE[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/321.m3u8
-
-#EXTINF:-1 tvg-id="HGTV USA HD" tvg-name="[COLOR gold][B]HGTV[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HGTV[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/302.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HUNTING & FISHING[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/305.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime Television HDTV (East) (LIFEH)" tvg-name="[COLOR gold][B]LIFETIME[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]LIFETIME[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/300.m3u8
-
-#EXTINF:-1 tvg-id="NFL HD" tvg-name="[COLOR gold][B]NFL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NFL NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/308.m3u8
-
-#EXTINF:-1 tvg-id="OWN HD" tvg-name="[COLOR gold][B]OWN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]OWN[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/311.m3u8
-
-#EXTINF:-1 tvg-id="PBS" tvg-name="[COLOR gold][B]PBS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PBS[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/322.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]SHOPPING CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/306.m3u8
-
-#EXTINF:-1 tvg-id="TBS USA" tvg-name="[COLOR gold][B]TBS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TBS[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/301.m3u8
-
-#EXTINF:-1 tvg-id="TNT USA" tvg-name="[COLOR gold][B]TNT[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TNT[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/298.m3u8
-
-#EXTINF:-1 tvg-id="truTV HDTV (East) (TRUTVD)" tvg-name="[COLOR gold][B]TRU TV[/B][/COLOR][COLOR white] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TRU TV[/B][/COLOR][COLOR white] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/312.m3u8
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="[COLOR gold][B]UNIVERSAL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]UNIVERSAL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/310.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]VELOCITY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]VELOCITY[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/307.m3u8
-
-#EXTINF:-1 tvg-id="WWE" tvg-name="[COLOR gold][B]WWE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]WWE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/303.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B][COLOR gold][B]ACTION MAX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B][COLOR gold][B]ACTION MAX[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/353.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]BEIN SPORTS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]BEIN SPORTS[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/352.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]BET [/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]BET [/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/351.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]CINEMAX [/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CINEMAX [/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/350.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]CNBC [/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CNBC [/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/349.m3u8
-
-#EXTINF:-1 tvg-id="Destination America HDTV (DAMHD)" tvg-name="[COLOR gold][B]DESINATION AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]DESINATION AMERICA[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/348.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]DISNEY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]DISNEY CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/347.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]DIY NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]DIY NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/346.m3u8
-
-#EXTINF:-1 tvg-id="E!" tvg-name="[COLOR gold][B]E![/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]E![/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/345.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ENCORE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]ENCORE[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/344.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ESPN 2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]ESPN 2[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/343.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]FYI [/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FYI [/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/342.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HALLMARK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HALLMARK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/341.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HBO SIGNATURE[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HBO SIGNATURE[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/340.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]INVESTIGATION DISCOVERY[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/339.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]LIFETIME MOVE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]LIFETIME MOVE NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/338.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]MSNBC[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]MSNBC[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/337.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NBA TV[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NBA TV[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/336.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NBC GOLF[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NBC GOLF[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/335.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NICK JR[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NICK JR[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/333.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NICK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NICK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/334.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]SHOWTIME 2[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/331.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]SHOWTIME WEST[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]SHOWTIME WEST[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/330.m3u8
-
-#EXTINF:-1 tvg-id="SHOWTIME HD" tvg-name="[COLOR gold][B]SHOWTIME[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]SHOWTIME[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/332.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]STARZ CINEMA[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/328.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]STARZ EAST[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]STARZ EAST[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/329.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]TENNIS CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TENNIS CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3BsZXhmbGl4aXB0di5jby51azo4MC9obHMvMzI1Lm0zdTg/Y2hhbm5lbElkPTMyNSZ1aWQ9NDQyOCZkZXZpY2VNYWM9MDA6MUE6Nzk6NDA6RjE6RDE=
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]TRAVEL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TRAVEL CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/326.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]TV Land[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]TV Land[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/325.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL Red Zone[/B][/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL Red Zone[/B][/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/368.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 1 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 1 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/355.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 10 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 10 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/367.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 12 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 12 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/365.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 13 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 13 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/364.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 2 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 2 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/363.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 3 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 3 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/362.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 4 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 4 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/361.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 5 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 5 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/360.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 6 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 6 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/359.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 7 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 7 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/358.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 9 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite] 9 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/356.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite]11 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite]11 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/366.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite]8 HD[/COLOR]" tvg-logo="" group-title="[COLORblue][B]NFL SUNDAY[/B][/COLOR][COLORwhite] TICKET [/COLOR]", [COLOR red][B]NFL SUNDAY TICKET[/B][/COLOR][COLORwhite]8 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/357.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 1 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 1 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/380.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 10 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 10 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/376.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 14 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 14 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/375.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 15 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 15 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/374.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 2 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 2 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/373.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 3 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 3 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/372.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 4 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 4 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/371.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 5 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 5 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/370.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 6 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 6 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/369.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 7 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 7 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/379.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 8 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 8 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/378.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 9 HD[/COLOR]" tvg-logo="" group-title="[COLOR green][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR orange][B]NBA LEAGUE PASS LIVE[/B][/COLOR][COLORwhite] 9 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/377.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]C-SPAN 1[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]C-SPAN 1[COLOR white] HD[/B][/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/388.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]C-SPAN 2[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]C-SPAN 2[COLOR white] HD[/B][/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/387.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]CBS NEWS.[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]CBS NEWS.[COLOR white] HD[/B][/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/389.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]GOLF CHANNEL[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]GOLF CHANNEL[COLOR white] HD[/B][/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/390.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]NASA[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]NASA[COLOR white] HD[/B][/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/391.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 ARIZONA[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PAC 12 ARIZONA[COLOR white] HD[/B][/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3hyeHMubmV0L3ZpZGVvL2xpdmUtcDEyYXJpei00NzI4Lm0zdTg=
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 BAY AREA[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PAC 12 BAY AREA[COLOR white] HD[/B][/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3d3dy54cnhzLm5ldC92aWRlby9saXZlLXAxMmJheWEtNDcyOC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 LA[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PAC 12 LA[COLOR white] HD[/B][/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3d3dy54cnhzLm5ldC92aWRlby9saXZlLXAxMmxvc2EtNDcyOC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 MOUNTAIN[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PAC 12 MOUNTAIN[COLOR white] HD[/B][/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3d3dy54cnhzLm5ldC92aWRlby9saXZlLXAxMm1vdW4tNDcyOC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 NATIONAL[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PAC 12 NATIONAL[COLOR white] HD[/B][/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3d3dy54cnhzLm5ldC92aWRlby9saXZlLXAxMm5ldHctNDcyOC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 OREGON[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PAC 12 OREGON[COLOR white] HD[/B][/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3d3dy54cnhzLm5ldC92aWRlby9saXZlLXAxMm9yZWctNDcyOC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]PAC 12 WASHINGTON[COLOR white] HD[/B][/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]PAC 12 WASHINGTON[COLOR white] HD[/B][/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3d3dy54cnhzLm5ldC92aWRlby9saXZlLXAxMndhc2gtNDcyOC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]THE WEATHER CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]THE WEATHER CHANNEL[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL2NkbmFwaS5rYWx0dXJhLmNvbS9wLzkzMTcwMi9zcC85MzE3MDIwMC9wbGF5TWFuaWZlc3QvZW50cnlJZC8xX29vcnhjZ2UyL2Zvcm1hdC9hcHBsZWh0dHAvcHJvdG9jb2wvaHR0cC91aUNvbmZJZC8yODQyODc1MS9hLm0zdTg=
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]C-SPAN 3[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]C-SPAN 3[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/401.m3u8
-
-#EXTINF:-1 tvg-id="VH1" tvg-name="[COLOR gold][B]VH 1[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]VH 1[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/402.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]WE-TV HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]WE-TV HD[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/403.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 1 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 1 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/416.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 10 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 10 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/415.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 11 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 11 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/414.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 12 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 12 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/413.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 13 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 13 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/412.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 2 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 2 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/411.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 3 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 3 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/410.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 4 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 4 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/409.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 5 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 5 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/408.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 6 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 6 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/407.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 7 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 7 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/406.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 8 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 8 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/405.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 9 HD[/COLOR]" tvg-logo="" group-title="[COLOR orange][B]NHL CENTER ICE [/B][/COLOR][COLORwhite] HD[/COLOR]", [COLOR blueviolet][B]NHL [/B][/COLOR][COLORwhite] 9 HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/404.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]HSN[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]HSN[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3BsZXhmbGl4aXB0di5jby51azo4MC9obHMvMzQ2Lm0zdTg/Y2hhbm5lbElkPTM0NiZ1aWQ9MjYwOSZkZXZpY2VNYWM9MDA6MUE6Nzk6NDA6RjA6ODY=
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]FIGHT NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]FIGHT NETWORK[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3BsZXhmbGl4aXB0di5jby51azo4MC9obHMvMzYxLm0zdTg/Y2hhbm5lbElkPTM2MSZ1aWQ9MjYwOSZkZXZpY2VNYWM9MDA6MUE6Nzk6NDA6RjA6ODY=
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]MOREMAX[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]MOREMAX[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3BsZXhmbGl4aXB0di5jby51azo4MC9obHMvMzQyLm0zdTg/Y2hhbm5lbElkPTM0MiZ1aWQ9MjYwOSZkZXZpY2VNYWM9MDA6MUE6Nzk6NDA6RjA6ODY=
-#EXTINF:-1 tvg-id="Destination America HDTV (DAMHD)" tvg-name="[COLOR gold][B]Destination America HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]Destination America HD[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/425.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]BEIN USA HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]BEIN USA HD[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/427.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]Big Ten Network HD[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA playersklub [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]", [COLOR gold][B]Big Ten Network HD[/B][/COLOR][COLORwhite] HD[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/428.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]AMC[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]AMC[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/443.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]CINEMAX[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]CINEMAX[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/446.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]FOX SPORTS 1[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]FOX SPORTS 1[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/439.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]FOX SPORTS 2[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]FOX SPORTS 2[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/438.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]FOX[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]FOX[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/442.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]OCHO TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]OCHO TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/437.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]PROYECTO 40[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]PROYECTO 40[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/436.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]RT DOCUMENTARY[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]RT DOCUMENTARY[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/435.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TCM[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]TCM[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/444.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TELEMEDELLIN[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]TELEMEDELLIN[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/434.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TELEMUNDO[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]TELEMUNDO[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/433.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TNT[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]TNT[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/432.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]TRU TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]TRU TV[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/431.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR cyan][B]UNIVERSAL[/B][/COLOR][COLORwhite] LATINO[/COLOR]" tvg-logo="" group-title="[COLOR tomato][B]LATINO / SPANISH[/B][/COLOR][COLORwhite] TV[/COLOR]", [COLOR cyan][B]UNIVERSAL[/B][/COLOR][COLORwhite] LATINO[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/445.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]12 NEWS[/B][/COLOR][COLORwhite] LONG ISLAND[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]12 NEWS[/B][/COLOR][COLORwhite] LONG ISLAND[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/466.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]12 NEWS[/B][/COLOR][COLORwhite] WESTCHESTER[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]12 NEWS[/B][/COLOR][COLORwhite] WESTCHESTER[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/467.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]CBN TV [/B][/COLOR][COLORwhite]NEWS NTV[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]CBN TV [/B][/COLOR][COLORwhite]NEWS NTV[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/453.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]CBN TV[/B][/COLOR][COLORwhite] NTV[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]CBN TV[/B][/COLOR][COLORwhite] NTV[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/452.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 23[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 23[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/457.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 25[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 25[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/458.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 30[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 30[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/459.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 59[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]FOX[/B][/COLOR][COLORwhite] NEWS 59[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/456.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]KRGV 5[/B][/COLOR][COLORwhite] NEWS[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]KRGV 5[/B][/COLOR][COLORwhite] NEWS[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/451.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]KTVT 11[/B][/COLOR][COLORwhite] NEWS[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]KTVT 11[/B][/COLOR][COLORwhite] NEWS[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/450.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] BROOKLYN[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] BROOKLYN[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/461.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] CONNECTICUT[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] CONNECTICUT[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/462.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] HUDSON VALLEY[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] HUDSON VALLEY[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/463.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] LONG ISLAND[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] LONG ISLAND[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/460.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] NEW JERSEY[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] NEW JERSEY[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/464.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] THE BRONX[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]NEWS 12[/B][/COLOR][COLORwhite] THE BRONX[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/465.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]WJFW[/B][/COLOR][COLORwhite] NEWSWATCH 12[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]WJFW[/B][/COLOR][COLORwhite] NEWSWATCH 12[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/454.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR darkturquoise][B]WVIR 29[/B][/COLOR][COLORwhite] NEWS[/COLOR]" tvg-logo="" group-title="[COLOR deeppink][B]LOCAL [/B][/COLOR][COLOR white][B] NEWS[/B][/COLOR]", [COLOR darkturquoise][B]WVIR 29[/B][/COLOR][COLORwhite] NEWS[/COLOR]
-
-http://dns1.theplayersklub.host:2095/live/husham/husham/455.m3u8
-
-#### End USA playersklub #############################################
+#### Top (Test) USA Channels +++++++++++++++++++++++++++++++++++++
+
+
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png", HTV7 HD (Bonus)
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2N2hkLmlzbWwvaHR2N2hkLTIwOTZrLm0zdTg=
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/650827-HTV9_FullHD.png", HTV9 HD (Bonus)
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2OXNkLmlzbWwvaHR2OXNkLTEwOTZrLm0zdTg=
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBC Sports Network HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL290dHR2LmNvOjIwOTUvbGl2ZS9pYXBwLzkxOTEvMjAxNzEubTN1OA==
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8zYmFmN2RiMGQ4ZjFkNDAwODE2ZmI2MTY2YjI5N2Y0Ni5tM3U4P3N0PUFEeVF6TlBjSjlvVHVoYUh1bnl4YVEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8yOTZlNTZjNjY4YmM4YmQ2YjAwNDRkM2U0ZjAzNDE1My5tM3U4P3N0PXFQaHpwZFM0TGRjQVh4anNCU29XbXcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", CBS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC80ZDBmYWRjYTI2ODZhMmNkZDRhNGE2NjIzMjEyNDQ5Yy5tM3U4P3N0PU9sTHhWVTZjVFJZdFJ5MzNncHdHQ0EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/sqwqtt1436847658.png", Fox News HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC84NzdlMWZkMTkyYjNhNTg1NzdlNDM4Nzk3MWMyMTVhNy5tM3U4P3N0PVlUZVpaZnROekI3M0ZJSkR3V3BGaXcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hY2EwYTMxZDE0Yzg1ZTE5ZjcwMjNjOWEzODg5ZjM3Yi5tM3U4P3N0PUxUVEFkb0k3T2hQSHloX0JNaFUwcFEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jZTQyNWNhMzJkZWEwZjM3YjIyNzE3YWU5ODliY2ZmYi5tM3U4P3N0PTBVb3dyWHVXM0E5TW1NZHFNNlJpOUEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yyrvsy1433777362.png", Comedy Central HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8xZWQ5YjJiZjMyNWU1YmJhN2YzYzU3N2MzYTg2ZDBlZi5tM3U4P3N0PUd4azFxdndzNjI1Z2xKWTFXSE9pcHcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kMzc3ZmY2M2U5ZTIyOTM0MzQxOGJhMDY1YWNiNjQzZi5tM3U4P3N0PW5jZGp2SGRhakpLWDhINEw4OUhqemcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9lMDBkZDljY2JmNmNiYThlNDdjYTQ1ODk5M2YzMDdjMS5tM3U4P3N0PTNKanZ2bUExYVFKbXY5SW5jNVVWX2cmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/syytuy1467823090.png", USA Network HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8wZTM2NzQzNWQ0YmMxYTg5ZWE3NTA2Y2YwZWFkYjNhNy5tM3U4P3N0PWVqc3hKVWhXV0J1VHBhY3R0NWg1MncmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xvyrsu1480337641.png", CNN News HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mYjY1NWUwMzAzNTU1MGMxNGZjMmJjYzY1ZDQwY2ZmOC5tM3U4P3N0PUp3X0JsdWM3aWZkdnk5bDVIUF93cFEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yvwrvp1476084495.png", PBS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mZTIyMzY1MjM1YjQ5NjM2ODYwOTUxNTUyM2JmYjk3MS5tM3U4P3N0PUNwY1MwQUstdFFjSWFPVktmY2tSVlEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png", SPIKE HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hMDFkNGEyZDc5MDUyZDZiMWMyYzYzYmYyZDI4NDIwMi5tM3U4P3N0PVhnaUY2R3EtN21vSFE2MmJ4NXI1VncmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/uqrpqt1436889975.png", FX HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kNGM1MDNkYmNkZDBhYWE3OTcyNGRkNGI3OWI1YzhjNi5tM3U4P3N0PVhaMkJYZk1WaXM3a3AyZ0t6Wk9WNEEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/quwyru1480459347.png", Syfy HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kODMyMGZlZGI0YTkwZmIwNmM5ZjdiZmY5NmE3ZTYxOS5tM3U4P3N0PW1NQ0htMXptSXhNSWhxT2tqRWRWaGcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png", Animal Planet HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hMGY4ZGRiOGM4MjUxYTY4ZjEzNjY0OGIzMmMwZjYyZC5tM3U4P3N0PWdGdnBtWnBJUDRyMS11UTNvM2xjSkEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/qwqrws1434470899.png", Bravo HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC81ODJiMTlmM2VmNTQ1OWEyZjEzOWVjNjllZTIwNTNkMC5tM3U4P3N0PWFfSTBVbFQ2RFN4M3NoY3RKTnRCaXcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", Nat Geo HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9iZTJmYTM1OGU0ZjFjOWEwZWU4MzNhYTE1ZjgyOWY4MS5tM3U4P3N0PWlTNzczeUJHbjhtbGxJM01qUUhIZEEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png", Discovery Channel HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8wNzVkNjY5OTMxNTFjMTc4ZGYxZWQ5ODQwMjAyZDk4My5tM3U4P3N0PXYtSGZaYjFJTnRrTUU3N0FYMUl4TkEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yusqqu1444656884.png", HGTV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC83ZDkwMDBjMDk2N2NjNDkxOWYwN2VjYmUyNzM2Yzk1YS5tM3U4P3N0PTFDZ1R5VkxoSU5NblplUm00U0J6T1EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rqsyuu1433964470.png", Nick HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hNTVkN2MyNGEwMDkxNTIzNWNkYzZhNmRkYWFhZjY3Yi5tM3U4P3N0PUQ3RVNXUEJvQ1ZKNkVoZS1ib3pSV1EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rptqww1433943689.png", MTV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mZjY4ZTk3YjhlNDAxYzg3NzI4NDc1OGFlMjA2MGNkMC5tM3U4P3N0PTBNWktHNUcwTVlTZGxoSWMxd0N3dUEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png", Fox Sports 1 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jMWJhMTkxODdiYmE0ZDI3M2NkYzg3N2RjNDEzNTY0YS5tM3U4P3N0PVpWWk10S1lEU004Tm1aZDB2NVZEQ3cmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rwqsxv1476084322.png", FOX 5 NY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC85MzgyMzA2MTVlYWZlM2UyYWRmMzMzMzJkMWJlMzk0MC5tM3U4P3N0PXRQdjZOcXlTWHNWdXZXVHZyMFZpakEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yrwrqu1434048183.png", E! HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jNzMzODFkNjU0MzcwMDc5MGU5NDllZTA4MTU3MTIwZi5tM3U4P3N0PWgxV2tuV21VMXdkeEtjbXZuVTZiTFEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/swwvwy1475246194.png", ASTRO SUPERSPORT 1 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kMThjZDQwNzVhNjgxM2I3YTJkZWZiN2M1ZDJhNTRkOS5tM3U4P3N0PWg2aHplc1lMMmFiaEhXVUczMk5CMGcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yyxvut1482260692.png", CLUBLAND TV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mZTg3ODc1ZGIzNDI5MTRiNjk4M2M1YjIwMjYyNDUzNy5tM3U4P3N0PXBHNGFIQ2VhT1cySExVZG8xbHJ0RXcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/xutptv1433429127.png", NBA TV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hYzM2YTM2OTZlYzc4MWJhODhlMTQ2OTQ0NzcyMzA0MC5tM3U4P3N0PTNIZ294LTZ1akxtUFM1SXRsSFVpN0EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", HISTORY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kNzIyMjkzYmI5YmJmMjBjYzExMjkyNGVmMDAwYTIyNS5tM3U4P3N0PVlOUlR5cGxpNHczcFlvSWpjczRRQ1EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png", SKY MOVIES GREATS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hMmQwMjU5MDBjMjY4MDQ1ZTRlMmRhNTY3YThjM2Y5Yi5tM3U4P3N0PVVsUmFSYk1NaGFIN1UxTWtESG5uQ2cmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/srvusx1466367859.png", SKY MOVIES ACTION HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8zYzkwOWM5MjE4OTYxYjJlY2ZkZDVmNDRhODlhOTBiOC5tM3U4P3N0PVQzWVRfXzQ3LUktV1RMaW84eXl6UlEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vytvxy1433965098.png", SKY MOVIES COMEDY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jMTY4MjYyY2Y4Yjk3NzUzMDBkYTBiNzliMjE5OWVlNi5tM3U4P3N0PWZSMmxhbHVZVkx3Q0MtWVQ1RDZjcVEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xpvytr1473881752.png", SKY MOVIES CRIME HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hODQyNzEyNTBkOWRjOTNjMWVkYzg0ODc0NTUyZDZjNy5tM3U4P3N0PS1hdmN4Q3R3NDh2N3MyV1lfUU9tWWcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/wrxwtw1433965123.png", SKY MOVIES DISNEY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mYjJjZGU2ZTA0MTBjZjUzN2ExOTgwMGJkMTkyNjFmMC5tM3U4P3N0PW5pMFZXcDJsUHgtM25DU1BkYjlqMWcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/qtwyrw1473881773.png", SKY MOVIES DRAMA HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC81MDgxZDY4ZDQwNTRiYzkyMDllYzJiYjFjNWZmNWVlZi5tM3U4P3N0PWVaNkZROW5oajZDMTZCRnJDRW8zNHcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qsyrrq1433965141.png", SKY MOVIES FAMILY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8zY2FlZDU5ZTNiN2U0MDViM2E4MDJjYzQ4MGExNGUzMi5tM3U4P3N0PUNVbVp4TEpXY0s1N2hCN0RoN1Y5TncmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qwytxv1433965174.png", SKY MOVIES PREMIERE HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8zMjY1NjgyYTQxZjQ0MmU1YTQxNjRlOWIyNjM5MzYzNC5tM3U4P3N0PUU5RlkxeTR3ZmJIWGtCLXpGekQ2R0EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/typywu1433965191.png", SKY MOVIES SCIFI HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8yMGFiY2NhZmQ0YTI2YjZmY2U1N2RmODkyZTUwNDBiZS5tM3U4P3N0PVB0MV9lcnoxVy04UjRQV1duRWd0ZkEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/rsvrsp1433965199.png", SKY MOVIES SELECT HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC83NjA2NzBlZWFhYTNlNjJhZGMxOTg5ZmVlMmU4YjI1OS5tM3U4P3N0PVVZMjJUX2lkWGRFcm1ySVZoN1h4THcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ttpvsq1433965207.png", SKY MOVIES SHOWCASE HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9iNmYwOGFkMWIwOTc2ZDk5M2UxMTZjYmI3MmFlZjhiZC5tM3U4P3N0PUE4NV9SWm84WlZaU2M0NjBxMFpEeGcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/trvyxp1455554906.png", TRUE MOVIES HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kMmM3M2JlMTdiOTUwMzY4MDgzZjVjN2NhOTQ0NWNiOS5tM3U4P3N0PXNCVy1UV09URzdlVzJmVDVrWklIMmcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l

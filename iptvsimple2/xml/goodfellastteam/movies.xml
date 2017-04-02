@@ -1,0 +1,118 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>[B]Specto Movies[/B]</name>
+<thumbnail>https://tse2.mm.bing.net/th?id=OIP.Mb079a54f4d97efcafff52a8b594a6a00o0&pid=15.1&P=0&w=300&h=300</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/specto_movies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Featured Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/featured_movies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Top Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/top_movies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Action Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/ActionMovies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Comedy Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/ComedyMovies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Crime Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/crime_movies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Drama Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/DramaMovies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Mob Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/GoodFellas%20Mob%20Movies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Horror Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/HorrorMovies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Kids Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/KidsMovies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Kung-Fu[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/Kung-FU.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Scifi Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/ScifiMovies.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]International Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/international/international_main_movie.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Movie Addons[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-08/25cd8ce70503fa9b39e017a4033e4af4.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/movie/movie_addons.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/323f4ecf4182a0f5ac051bc793db5d2e.png</fanart>
+<info></info>
+</channel>
+
+</channels>

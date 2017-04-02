@@ -1,0 +1,38 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>Canadian Channels</name>
+<thumbnail>http://www.pixhoster.info/f/2016-09/1e4ea780bc027ba664c3447db204986e.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/live_tv_streams/uk-us-canadian/canadian_channels.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/0f78fe39ef74fab6551db39aaec35be0.png</fanart>
+<info>Streaming TV Channel links from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>UK Channels</name>
+<thumbnail>http://www.pixhoster.info/f/2016-09/38567f99394f0b4c691f8a233e0af8ac.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/live_tv_streams/uk-us-canadian/uk_channels.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/96c864d4e968b1f7843f873b5e0beec0.png</fanart>
+<info>Streaming TV Channel links from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>USA Channels</name>
+<thumbnail>http://www.pixhoster.info/f/2016-09/a4b2b3aa71886ff3d5ab69877c9f5671.png</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/live_tv_streams/uk-us-canadian/us_channels.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/c13d7ae849d063958b83ca332b3d3955.png</fanart>
+<info>Streaming TV Channel links from all around the world that are found on the internet </info>
+</channel>
+
+<channel>
+<name>Spanish Channels</name>
+<thumbnail>http://www.hdwallpapersact.com/wp-content/gallery/spain-flag-wallpaper/spain-flag-wallpaper.jpg</thumbnail>
+<externallink>http://goodfellasteam.com/goodfellas2/content/live_tv_streams/uk-us-canadian/spanish.xml</externallink>
+<fanart>http://www.pixhoster.info/f/2016-09/c13d7ae849d063958b83ca332b3d3955.png</fanart>
+<info>Streaming TV Channel links from all around the world that are found on the internet </info>
+</channel>
+
+</channels>
