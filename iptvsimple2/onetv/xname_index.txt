@@ -1,9 +1,6 @@
 [
-    "HTV7 FHD (Bonus)", 
-    "HTV9 FHD (Bonus)", 
-    "HTVC Travel FHD (Bonus)", 
-    "THVL1 HD (Bonus)", 
-    "THVL2 HD (Bonus)", 
+    "HTV7 HD (Bonus)", 
+    "HTV9 HD (Bonus)", 
     "NBC Sports Network HD", 
     "NBC HD", 
     "CW HD", 

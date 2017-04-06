@@ -1,9 +1,6 @@
 [
     "http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png", 
     "http://img.hplus.com.vn/460x260/poster/2016/09/01/650827-HTV9_FullHD.png", 
-    "http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png", 
-    "http://nami-media.com.vn/wp-content/uploads/2016/08/344282-THVL1.png", 
-    "http://truyenhinhcapsongthu.net/wp-content/uploads/2016/01/logo-vl2.jpg", 
     "https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
     "http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
     "http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png", 

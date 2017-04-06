@@ -2,6 +2,7 @@
     "http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png", 
     "http://img.hplus.com.vn/460x260/poster/2016/09/01/650827-HTV9_FullHD.png", 
     "https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", 
+    "http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png", 
     "http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", 
     "http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png", 
     "http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", 
