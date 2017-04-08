@@ -815,6 +815,9 @@ http://127.0.0.1:19098/livestreamer/d722293bb9bbf20cc112924ef000a225.m3u8
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://darkmp3.ru/imgs/7863025-460x460/reader-s-digest-music-bolero-romantico.jpg", [COLOR orange]Vietnamese TV Show and Music[/COLOR]
 http://google.com
 
+#EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/fWg8_fLqlME/hqdefault.jpg", Cho Người vào cuộc chiến
+http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=fWg8_fLqlME
+
 #EXTINF:-1 group-title="Top (Youtube) Vietnamese TV Show and Music",  tvg-id="" tvg-name="" tvg-logo="http://media.ngoisao.vn/resize_580/news/2016/08/16/tn-10-ngoisao.vn.stamp2.jpg", To My LiveShow HD
 http://localhost:8855/youtube.m3u?&pkid=0&tmp=1&portal=1&channel=BUAvOcwO3DI
 
