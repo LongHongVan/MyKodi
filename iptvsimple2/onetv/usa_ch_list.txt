@@ -1,7 +1,7 @@
 [
     "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2N2hkLmlzbWwvaHR2N2hkLTIwOTZrLm0zdTg=", 
     "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2OXNkLmlzbWwvaHR2OXNkLTEwOTZrLm0zdTg=", 
-    "http://163.172.219.191:3135/NBC/SN/index.m3u8?token=MDMxNWU2MzMyYTI1NjlmMTBhYjhiNmJlMzIzNzJiNjA6MTQ5MTUzNzMxMA==|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)", 
+    "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://root-iptv.is-found.org:25461/live/trees/trees/16604.ts;name=NBCSN HD", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts;name=MLB+Network", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/662.ts;name=NBC HD", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/665.ts;name=FOX HD", 
