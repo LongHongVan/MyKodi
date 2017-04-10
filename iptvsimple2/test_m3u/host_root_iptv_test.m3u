@@ -1,10 +1,10 @@
 #EXTM3U Sun Apr  9 20:32:44 2017
 
 #EXTINF:-1, USA | FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://root-iptv.is-found.org:25461/live/trees/trees/14419.ts
+http://root-iptv.is-found.org:25461/live/trees/trees/14419.ts
 
 #EXTINF:-1, CA | CTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://root-iptv.is-found.org:25461/live/trees/trees/5063.ts
+http://root-iptv.is-found.org:25461/live/trees/trees/5063.ts
 
 #EXTINF:-1, CA | E! HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://root-iptv.is-found.org:25461/live/trees/trees/13182.ts
