@@ -1,3 +1,68 @@
+04/09/2017
+
+http://otttv.co:2095/live/iapp/9191/22026.m3u8
+
+http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 USA Similar Port "iptv.monkeycline"
+http://lightspeed.sytes.net:25461/get.php?username=exQbn8JqFa&password=2jE8Z1lXvx&type=m3u
+
+03/27/2017
+
+http://37.187.132.70:25461
+
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/140.mpegts&amp;streamtype=TSDOWNLOADER</link>
+
+http://smashtv.ddns.net:9090/m3u8/38ad309c19cc?type=m3u&amp&output=mpegts
+
+http://smashtv.ddns.net:9090/m3u8/2e848b643e0e?type=m3u&amp&output=mpegts 
+
+http://smashtv.ddns.net:9090/load/2e848b643e0e
+
+http://smashtv.ddns.net:9090
+/load/2e848b643e0e
+
+
+03/23/2017
+
+http://otttv.co:2095/live/iapp/9191/22010.ts
+
+http://otttv.co:2095/get.php?username=iapp&password=9191&type=m3u
+
+
+
+03/21/2017
+
+http://163.172.81.33:1234/get.php?username=iptvrestream.net1&password=uT1IOcDc6e&type=m3u
+http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/179.m3u8
+
+http://192.99.149.20:8080/live/V3970700/ID43089209/2459.ts
+http://192.99.149.20:8080/get.php?username=V3970700&password=ID43089209&type=m3u
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ABC. NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]." tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]",[COLOR gold][B]ABC. NEWS[/B][/COLOR][COLORwhite] HD[/COLOR].
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR gold][B]ABC NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]",[COLOR gold][B]ABC NEWS[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/108.ts
+#EXTINF:-1 tvg-id="A&E USA" tvg-name="[COLOR gold][B]A & E[/B][/COLOR][COLORwhite] HD[/COLOR]" tvg-logo="" group-title="[COLOR yellow][B]USA [/B][/COLOR][COLOR white][B] TV[/B][/COLOR]",[COLOR gold][B]A & E[/B][/COLOR][COLORwhite] HD[/COLOR]
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/239.ts
+
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/107.m3u8
+
+
+http://dns2.theplayersklub.us:2095/live/playersklub/playersklub/107.m3u8?token=TxENB0MOEgxDVQdVAAJWXlNbBQtWCQEKAQBWAQBUAQACAgRWCVAFUgBDHxJLFUFdAw87UQYaWQIAU00TQ0NTE2taAUQKRAEGQ00RRFEMVhpYUkgaElEHEQpGUgABAQ5DGBEAHkQDQlgADWxUXRdaWwdAXlYXVA8fEgsPblJVWwBaV0dcElYSGkMIQEAaWxEaTkAGURZKAkdVRlsTBAcHUhYfRwVfE15CExgRCho0YBpOQAFAFl0NQFkLDxMMEltSQQtHShIPQ2kTBEBESgRSVQcQRgJACEEfEgkASWlTWQ9aVgYSWQleRUNbEQIIUQMIQE5GVQ1WCkdfFj5BX1QUWxYGUFEARE0=
+
+http://dns2.theplayersklub.us:2095/live/playersklub/playersklub/108.m3u8?token=TxENB0MOEgxDBQBRXVBRDAdQVAwDDFELAlVTVwIBBwAMBlFUAlVUDwdDHxJLFUFdAw87UQYaWQIAXE0TQ0NTE2taAUQKRAEGQ00RRFEMVhpYUkgaElEHEQpGUgkABRRNFlYdElUUXlcNPldVTghQXUBYCk0OVE8RXwo VVNdVw9QEV9EAEQcFAgSQxICQxEUQAANTBBZF1YSXkMDAQIOQxgRBglFCEREGEMJEm0yERRABxxMB1YQWl8KQwsUXQUUDBFJRFkVb0QEEkdCXQBeXRBAXhpSGk8RXQUZblVfWA9RUBEPXwhDFFtDAQAIUQMaTkAJVwxRF1xCOxFYUhIMQwcCXFUCRE0=
+
+http://dns2.theplayersklub.us:2095/live/playersklub/playersklub/108.m3u8?token=TxENB0MOEgxDVQdVAAJWXlNbBQtWCQEKAQBWAQBUAQACAgRWCVAFUgBDHxJLFUFdAw87UQYaWQIAU00TQ0NTE2taAUQKRAEGQ00RRFEMVhpYUkgaElEHEQpGUgABAQ5DGBEAHkQDQlgADWxUXRdaWwdAXlYXVA8fEgsPblJVWwBaV0dcElYSGkMIQEAaWxEaTkAGURZKAkdVRlsTBAcHUhYfRwVfE15CExgRCho0YBpOQAFAFl0NQFkLDxMMEltSQQtHShIPQ2kTBEBESgRSVQcQRgJACEEfEgkASWlTWQ9aVgYSWQleRUNbEQIIUQMIQE5GVQ1WCkdfFj5BX1QUWxYGUFEARE0=
+
+03/19/2017
+
+
+http://cableking-iptv.com:8000/get.php?username=francesco&password=francesco&type=m3u
+
+http://www.wedobox.eu:8000/get.php?username=line09&password=gSq01fAByj&type=m3u
+
+
 03/16/2017
 
 http://dns.theplayersklub.us:2095/live/playersklub/playersklub/267.ts

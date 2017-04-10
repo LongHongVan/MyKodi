@@ -1,0 +1,172 @@
+#EXTM3U 
+#EXTINF:-1,      [COLOR yellow]❀❀❀ Server: [/COLOR]http://iptv.ndasat.com:88 Sun Apr  9 10:23:28 2017
+http://google.com[COLOR yellow] ❀❀❀[/COLOR]
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}", AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2112.ts;name=AXN
+#EXTINF:-1 tvg-name="Action hd" tvg-logo="http://logo.ndasat.com/iptv/images/26355_action.jpg" group-title="{BOUQUET_NAME}", Action hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/296.ts;name=Action hd
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://logo.ndasat.com/iptv/images/47469_animalplanetosn.png" group-title="{BOUQUET_NAME}", Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1610.ts;name=Animal Planet
+#EXTINF:-1 tvg-name="Investigation Discovery NL" tvg-logo="http://logo.ndasat.com/iptv/images/36527_discoveryid.jpg" group-title="{BOUQUET_NAME}", Investigation Discovery NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2214.ts;name=Investigation Discovery NL
+#EXTINF:-1 tvg-name="History NL" tvg-logo="http://logo.ndasat.com/iptv/images/83823_history.png" group-title="{BOUQUET_NAME}", History NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2209.ts;name=History NL
+#EXTINF:-1 tvg-name="Fox Sports 6" tvg-logo="http://logo.ndasat.com/iptv/images/47126_foxsports5.jpg" group-title="{BOUQUET_NAME}", Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2223.ts;name=Fox Sports 6
+#EXTINF:-1 tvg-name="Fox NL" tvg-logo="http://logo.ndasat.com/iptv/images/37756_foxtv.jpg" group-title="{BOUQUET_NAME}", Fox NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2172.ts;name=Fox NL
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}", DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2570.ts;name=DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="MTV Dance" tvg-logo="http://logo.ndasat.com/iptv/images/78992_mtvdance.jpg" group-title="{BOUQUET_NAME}", MTV Dance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2166.ts;name=MTV Dance
+#EXTINF:-1 tvg-name="Fox Sports 3" tvg-logo="http://logo.ndasat.com/iptv/images/89681_holland.jpg" group-title="{BOUQUET_NAME}", Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/124.ts;name=Fox Sports 3
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="http://logo.ndasat.com/iptv/images/79655_holland.jpg" group-title="{BOUQUET_NAME}", Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/123.ts;name=Fox Sports 2
+#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="http://logo.ndasat.com/iptv/images/63670_holland.jpg" group-title="{BOUQUET_NAME}", Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/122.ts;name=Fox Sports 1
+#EXTINF:-1 tvg-name="Discovery NL" tvg-logo="http://logo.ndasat.com/iptv/images/53800_discovery.jpg" group-title="{BOUQUET_NAME}", Discovery NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/126.ts;name=Discovery NL
+#EXTINF:-1 tvg-name="NICK Jr" tvg-logo="http://logo.ndasat.com/iptv/images/4176_logoptdsmall.jpg" group-title="{BOUQUET_NAME}", NICK Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2538.ts;name=NICK Jr
+#EXTINF:-1 tvg-name="DiscoveryHD" tvg-logo="http://logo.ndasat.com/iptv/images/85074_discovery.jpg" group-title="{BOUQUET_NAME}", DiscoveryHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2341.ts;name=DiscoveryHD
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="http://logo.ndasat.com/iptv/images/6269_italia.jpg" group-title="{BOUQUET_NAME}", Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2356.ts;name=Cartoonito
+#EXTINF:-1 tvg-name="CBS Drama" tvg-logo="http://logo.ndasat.com/iptv/images/17933_cbsdrama.png" group-title="{BOUQUET_NAME}", CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/662.ts;name=CBS Drama
+#EXTINF:-1 tvg-name="DiscoveryWorld" tvg-logo="http://logo.ndasat.com/iptv/images/52542_discoworld.png" group-title="{BOUQUET_NAME}", DiscoveryWorld
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/760.ts;name=DiscoveryWorld
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://logo.ndasat.com/iptv/images/48982_241.png" group-title="{BOUQUET_NAME}", Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/299.ts;name=Discovery
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="http://logo.ndasat.com/iptv/images/40282_discovery_science_global.png" group-title="{BOUQUET_NAME}", Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/465.ts;name=Discovery Science
+#EXTINF:-1 tvg-name="Discovery DE" tvg-logo="http://logo.ndasat.com/iptv/images/57158_discovery.jpg" group-title="{BOUQUET_NAME}", Discovery DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/268.ts;name=Discovery DE
+#EXTINF:-1 tvg-name="Fox Crime" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}", Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2090.ts;name=Fox Crime
+#EXTINF:-1 tvg-name="Fox Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}", Fox Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2091.ts;name=Fox Comedy
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}", Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2100.ts;name=Discovery Channel
+#EXTINF:-1 tvg-name="MTV HD" tvg-logo="http://logo.ndasat.com/iptv/images/77836_MHD.png" group-title="{BOUQUET_NAME}", MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1030.ts;name=MTV HD
+#EXTINF:-1 tvg-name="CBC" tvg-logo="http://logo.ndasat.com/iptv/images/80242_23.png" group-title="{BOUQUET_NAME}", CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/409.ts;name=CBC
+#EXTINF:-1 tvg-name="HBO" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="{BOUQUET_NAME}", HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1960.ts;name=HBO
+#EXTINF:-1 tvg-name="E!" tvg-logo="http://logo.ndasat.com/iptv/images/8912_entraintement tv.png" group-title="{BOUQUET_NAME}", E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1535.ts;name=E!
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://logo.ndasat.com/iptv/images/83808_denmark_flag_small.jpg" group-title="{BOUQUET_NAME}", MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2021.ts;name=MTV
+#EXTINF:-1 tvg-name="LifeOK" tvg-logo="http://logo.ndasat.com/iptv/images/32094_Life-Ok-Channel-Logo1.jpg" group-title="{BOUQUET_NAME}", LifeOK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1896.ts;name=LifeOK
+#EXTINF:-1 tvg-name="Fox Sports 4" tvg-logo="http://logo.ndasat.com/iptv/images/90354_holland.jpg" group-title="{BOUQUET_NAME}", Fox Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1557.ts;name=Fox Sports 4
+#EXTINF:-1 tvg-name="Fox Sports 5" tvg-logo="http://logo.ndasat.com/iptv/images/20127_holland.jpg" group-title="{BOUQUET_NAME}", Fox Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1558.ts;name=Fox Sports 5
+#EXTINF:-1 tvg-name="HBO 3" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="{BOUQUET_NAME}", HBO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1863.ts;name=HBO 3
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://logo.ndasat.com/iptv/images/83298_discoverys.png" group-title="{BOUQUET_NAME}", Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1600.ts;name=Discovery
+#EXTINF:-1 tvg-name="Fox " tvg-logo="http://logo.ndasat.com/iptv/images/75354_foxtv.jpg" group-title="{BOUQUET_NAME}", Fox 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1592.ts;name=Fox 
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://logo.ndasat.com/iptv/images/4258_discoveryosn.png" group-title="{BOUQUET_NAME}", Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1608.ts;name=Discovery
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="http://logo.ndasat.com/iptv/images/45655_fightsports.png" group-title="{BOUQUET_NAME}", Fight Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1669.ts;name=Fight Sports
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="http://logo.ndasat.com/iptv/images/80563_foodnetwork.jpg" group-title="{BOUQUET_NAME}", Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1668.ts;name=Food Network
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="http://logo.ndasat.com/iptv/images/438_hbo.png" group-title="{BOUQUET_NAME}", HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1665.ts;name=HBO HD
+#EXTINF:-1 tvg-name="E! Channel" tvg-logo="http://logo.ndasat.com/iptv/images/12798_entraintement tv.png" group-title="{BOUQUET_NAME}", E! Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1703.ts;name=E! Channel
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="http://logo.ndasat.com/iptv/images/31371_130px-Food_Network_New_Logo.png" group-title="{BOUQUET_NAME}", Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1699.ts;name=Food Network
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://logo.ndasat.com/iptv/images/12843_mtv_us.png" group-title="{BOUQUET_NAME}", MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2624.ts;name=MTV
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://logo.ndasat.com/iptv/images/66931_cnnt.png" group-title="{BOUQUET_NAME}", CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/809.ts;name=CNN
+#EXTINF:-1 tvg-name="News One" tvg-logo="http://logo.ndasat.com/iptv/images/45973_muKCpInoFGepE6mBD6gCTwQ.jpg" group-title="{BOUQUET_NAME}", News One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1785.ts;name=News One
+#EXTINF:-1 tvg-name="PPV-A la Carte9" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/892.ts;name=PPV-A la Carte9
+#EXTINF:-1 tvg-name="PPV-A la Carte8" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/891.ts;name=PPV-A la Carte8
+#EXTINF:-1 tvg-name="PPV-A la Carte7" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/890.ts;name=PPV-A la Carte7
+#EXTINF:-1 tvg-name="PPV-A la Carte6" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/889.ts;name=PPV-A la Carte6
+#EXTINF:-1 tvg-name="PPV-A la Carte5" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/888.ts;name=PPV-A la Carte5
+#EXTINF:-1 tvg-name="PPV-A la Carte4" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/887.ts;name=PPV-A la Carte4
+#EXTINF:-1 tvg-name="PPV-A la Carte3" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/886.ts;name=PPV-A la Carte3
+#EXTINF:-1 tvg-name="PPV-A la Carte2" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/885.ts;name=PPV-A la Carte2
+#EXTINF:-1 tvg-name="PPV-A laCarte 10" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A laCarte 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/893.ts;name=PPV-A laCarte 10
+#EXTINF:-1 tvg-name="PPV-A la Carte1" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="{BOUQUET_NAME}", PPV-A la Carte1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/884.ts;name=PPV-A la Carte1
+#EXTINF:-1 tvg-name="News-Euro News" tvg-logo="http://logo.ndasat.com/iptv/images/17179_euronews.png" group-title="{BOUQUET_NAME}", News-Euro News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/872.ts;name=News-Euro News
+#EXTINF:-1 tvg-name="News-RussiaAlyaum" tvg-logo="http://logo.ndasat.com/iptv/images/57466_11911008_10153377575288891_2135425199_n.jpg" group-title="{BOUQUET_NAME}", News-RussiaAlyaum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/614.ts;name=News-RussiaAlyaum
+#EXTINF:-1 tvg-name="News-France24Arabic" tvg-logo="http://logo.ndasat.com/iptv/images/7014_11923298_10153377589218891_1083639935_n.jpg" group-title="{BOUQUET_NAME}", News-France24Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/639.ts;name=News-France24Arabic
+#EXTINF:-1 tvg-name="Nick Junior NL" tvg-logo="http://logo.ndasat.com/iptv/images/53304_nickjr.jpg" group-title="{BOUQUET_NAME}", Nick Junior NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2181.ts;name=Nick Junior NL
+#EXTINF:-1 tvg-name="Nickelodeon NL" tvg-logo="http://logo.ndasat.com/iptv/images/72811_nickelodeon.png" group-title="{BOUQUET_NAME}", Nickelodeon NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2180.ts;name=Nickelodeon NL
+#EXTINF:-1 tvg-name="News-AlArabiaHadath" tvg-logo="http://logo.ndasat.com/iptv/images/92452_11910685_10153377641613891_1794600393_n.jpg" group-title="{BOUQUET_NAME}", News-AlArabiaHadath
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/636.ts;name=News-AlArabiaHadath
+#EXTINF:-1 tvg-name="News-AL Arabiya" tvg-logo="http://logo.ndasat.com/iptv/images/7211_53.png" group-title="{BOUQUET_NAME}", News-AL Arabiya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/585.ts;name=News-AL Arabiya
+#EXTINF:-1 tvg-name="USHUAIA TV HD" tvg-logo="http://logo.ndasat.com/iptv/images/86345_242.png" group-title="{BOUQUET_NAME}", USHUAIA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/483.ts;name=USHUAIA TV HD
+#EXTINF:-1 tvg-name="cbc extra" tvg-logo="http://logo.ndasat.com/iptv/images/59628_767.png" group-title="{BOUQUET_NAME}", cbc extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/410.ts;name=cbc extra
+#EXTINF:-1 tvg-name="Syfy HD" tvg-logo="http://logo.ndasat.com/iptv/images/74237_syfy_hd.jpg" group-title="{BOUQUET_NAME}", Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1684.ts;name=Syfy HD
+#EXTINF:-1 tvg-name="WWE " tvg-logo="http://logo.ndasat.com/iptv/images/94391_wwe.jpg" group-title="{BOUQUET_NAME}", WWE 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1657.ts;name=WWE 
+#EXTINF:-1 tvg-name="Tnt" tvg-logo="http://logo.ndasat.com/iptv/images/22450_tnt.jpg" group-title="{BOUQUET_NAME}", Tnt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1646.ts;name=Tnt
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="http://logo.ndasat.com/iptv/images/3482_syfy.png" group-title="{BOUQUET_NAME}", Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1637.ts;name=Syfy
+#EXTINF:-1 tvg-name="WWE" tvg-logo="http://logo.ndasat.com/iptv/images/32128_osnwwe.jpg" group-title="{BOUQUET_NAME}", WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/1473.ts;name=WWE
+#EXTINF:-1 tvg-name="TLC Sverige" tvg-logo="http://logo.ndasat.com/iptv/images/91947_sweden.png" group-title="{BOUQUET_NAME}", TLC Sverige
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/934.ts;name=TLC Sverige
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="http://logo.ndasat.com/iptv/images/43054_syfy.png" group-title="{BOUQUET_NAME}", Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/929.ts;name=Syfy
+#EXTINF:-1 tvg-name="USA-Astro Supersport 3" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}", USA-Astro Supersport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2935.ts;name=USA-Astro Supersport 3
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}", Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3030.ts;name=Animal Planet
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}", Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3022.ts;name=Cartoon Network
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}", Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3015.ts;name=Discovery Channel HD
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}", Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3014.ts;name=Discovery Science
+#EXTINF:-1 tvg-name="NTV Spor HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}", NTV Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2967.ts;name=NTV Spor HD
+#EXTINF:-1 tvg-name="TLC" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}", TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2952.ts;name=TLC
+#EXTINF:-1 tvg-name="Cartoon Network Sweden" tvg-logo="" group-title="{BOUQUET_NAME}", Cartoon Network Sweden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3355.ts;name=Cartoon Network Sweden
+#EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="{BOUQUET_NAME}", DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3381.ts;name=DISCOVERY INVESTIGATION HD
+#EXTINF:-1 tvg-name="FOX DE" tvg-logo="" group-title="{BOUQUET_NAME}", FOX DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3425.ts;name=FOX DE
+#EXTINF:-1 tvg-name="TNT Comedy" tvg-logo="" group-title="{BOUQUET_NAME}", TNT Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3431.ts;name=TNT Comedy
+#EXTINF:-1 tvg-name="TNT Film" tvg-logo="" group-title="{BOUQUET_NAME}", TNT Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3430.ts;name=TNT Film
+#EXTINF:-1 tvg-name="TNT Serie" tvg-logo="" group-title="{BOUQUET_NAME}", TNT Serie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3432.ts;name=TNT Serie
+#EXTINF:-1 tvg-name="Universal DE" tvg-logo="" group-title="{BOUQUET_NAME}", Universal DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/3424.ts;name=Universal DE
+
