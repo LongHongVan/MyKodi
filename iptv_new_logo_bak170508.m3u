@@ -6,7 +6,7 @@ http://google.com
 
 ###################### Kid TV ######################################
 #EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="orig08.deviantart.net/307e/f/2012/068/0/c/nickelodeon_logo_by_urbinator17-d4s8zzx.png", Nickelodeon HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30761
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 
 #EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="images.all-free-download.com/images/graphicthumb/family_64721.jpg", Family HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=171
@@ -67,6 +67,8 @@ http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
 #EXTINF:-1, tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg", PLAYBOY HD 19+
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 
+
+
 #EXTINF:-1, tvg-id="2" tvg-name="Hustler TV USA" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", Hustler TV USA
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=302
 
@@ -83,152 +85,97 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=301
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1121
 
 
-
-
-
-
-
-
-
-
-#TOP MOVIES TV
-
 #EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", >>[B][COLOR yellow]LIVE MOVIES[/COLOR][/B] PPV <<
 http://google.com
 
 #EXTINF:-1, tvg-id="2" tvg-name="AMC" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", AMC HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8904
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=131
 
 #EXTINF:-1, tvg-id="2" tvg-name="TCM US" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", TCM US
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=132
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=132
 
 
 #EXTINF:-1, tvg-id="2" tvg-name="IFC" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", IFC HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8922
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=133
 
 #EXTINF:-1, tvg-id="2" tvg-name="FX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FX HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=937
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=136
+
+
 
 #EXTINF:-1, tvg-id="2" tvg-name="HBO East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO East
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25586
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=300
 
 #EXTINF:-1, tvg-id="2" tvg-name="HBO Signature East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Signature East
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8664
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=302
 
 #EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Comedy East
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=9138
-
-
-#EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Family HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8507
-
-#EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Signature HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8664
-
-#EXTINF:-1, tvg-id="2" tvg-name="HBO Comedy East" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Zone HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8665
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=307
 
 #EXTINF:-1, tvg-id="2" tvg-name="Starz East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz East
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24677
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=350
 
 #EXTINF:-1, tvg-id="2" tvg-name="Starz Edge East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Edge East
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34804
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=352
 
 #EXTINF:-1, tvg-id="2" tvg-name="Starz Comedy East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Comedy East
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8346
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=354
 
 #EXTINF:-1, tvg-id="2" tvg-name="Starz In Black East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz In Black East
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=355
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=355
 
 #EXTINF:-1, tvg-id="2" tvg-name="Starz Kids and Family East" tvg-logo="www.thearenaclub.com/app/webroot/files/Athletics/Youth%20Athletics/starz-logo.gif" group-title="TOP MOVIES TV", Starz Kids and Family East
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8346
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
+
 
 #EXTINF:-1, tvg-id="2" tvg-name="ActionMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ActionMax
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=313
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=313
 
 #EXTINF:-1, tvg-id="2" tvg-name="5 StarMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", 5 StarMax
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=314
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=314
 
 #EXTINF:-1, tvg-id="2" tvg-name="ThrillerMax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", ThrillerMax
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=315
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=315
 
 #EXTINF:-1, tvg-id="2" tvg-name="Showtime" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Showtime
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25581
-
-#EXTINF:-1, tvg-id="2" tvg-name="Showtime" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Showtime2
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35503
-
-#EXTINF:-1, tvg-id="2" tvg-name="Showtime" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Showtime2 HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35500
-
-#EXTINF:-1, tvg-id="2" tvg-name="Showtime" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Showtime Family Zone HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8666
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
 
 #EXTINF:-1, tvg-id="2" tvg-name="Action Movies" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Action Movies HD 
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=320
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=320
+
 
 #EXTINF:-1, tvg-id="2" tvg-name="HBO Latinoamerica" tvg-logo="vector.me/files/images/6/7/67440/hbo.png" group-title="TOP MOVIES TV", HBO Latinoamerica
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=309
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=309
 
 #EXTINF:-1, tvg-id="2" tvg-name="Moremax" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Moremax
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
+
 
 #EXTINF:-1, tvg-id="2" tvg-name="The Movie Channel East" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", The Movie Channel East
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=327
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=327
 
 
 
 #EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="TOP MOVIES TV", Cinemax East 
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6139
-
-#EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="TOP MOVIES TV", Cinemax Moremax
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35522
-
-#EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="TOP MOVIES TV", Cinemax Moremax HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=524
-
-#EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="TOP MOVIES TV", Cinemax Thrillermax
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35529
-
-#EXTINF:-1, tvg-id="2" tvg-name="Cinemax East" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/250px-Cinemax_(Yellow).svg.png" group-title="TOP MOVIES TV", Cinemax Thrillermax HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8208
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=310
 
 #EXTINF:-1, tvg-id="2" tvg-name="SKY Premiere" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY Premiere
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34601
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=530
 
 #EXTINF:-1, tvg-id="2" tvg-name="SKY Comedy" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY Comedy
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34596
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=528
 
 #EXTINF:-1, tvg-id="2" tvg-name="SKY Select" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY Select
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34593
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=533
 
 #EXTINF:-1, tvg-id="2" tvg-name="Sundance" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Sundance HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8630
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
 
 #EXTINF:-1, tvg-id="2" tvg-name="Lifetime" tvg-logo="nowwatchtvlive.co/wp-content/uploads/2011/07/LMN-hd-logo.jpeg" group-title="TOP MOVIES TV", Lifetime
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=33991
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=109
 
 #EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", FXX
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8156
-
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY CINEMA ACTION & ADVENTURE
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34595
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Sky Arts HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34580
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY CINEMA ACTION HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34490
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY CINEMA FAMILY
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34598
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY CINEMA GREATS
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34599
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", Sky Living HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34582
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY CINEMA DISNEY
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34600
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY CINEMA DISNEY HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34488
-#EXTINF:-1, tvg-id="2" tvg-name="FXX" tvg-logo="www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg" group-title="TOP MOVIES TV", SKY CINEMA DRAMA & ROMANCE
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34597
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=125
 
 
 ###################### End TOP Movies ######################################
@@ -244,7 +191,7 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34597
 http://google.com
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NFL Network
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24998
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=157
 
 
 #EXTINF:-1, tvg-id="" tvg-name="NBC New York" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="TOP SPORT TV", NBC NFL HD (Local E) [COLOR lime]Sunday Night[/COLOR]
@@ -260,97 +207,91 @@ http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CBS
 http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FOX
 
 # +++++++++++++++++++++++++++++ New iptvsubs 2017 Testing ++++++++++++++++++++++++++
-#EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1645
-
+#EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COLOR lime](New)[/COLOR]
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=143
+#EXTINF:-1, tvg-name="ESPN" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN HD [COLOR lime]Livestreamer[/COLOR] P99
+http://127.0.0.1:19099/livestreamer/aGxzOi8vaHR0cDovL29rMi5zZTo4MDAwL2xpdmUvdGh1eXZvMTc0QGdtYWlsLmNvbS93aGUzNDY1Zy8xNDMubTN1OA==
 #EXTINF:-1, tvg-id="144" tvg-name="ESPN2" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN 2 HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=5426
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=144
 #EXTINF:-1, tvg-name="Fox Sports 1" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 1
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=879
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=145
 #EXTINF:-1, tvg-name="Fox Sports 2" tvg-logo="www.tvtechnology.com/Portals/0/FOXSports-logo.png" group-title="TOP SPORT TV", Fox Sports 2
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8918
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=146
 
 #EXTINF:-1, tvg-id="" tvg-name="ABC" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/41.png" group-title="TOP SPORT TV", ABC
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=7383
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=10
 #EXTINF:-1, tvg-id="" tvg-name="Fox New York" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", Fox New York
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=9137
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9
 #EXTINF:-1, tvg-id="" tvg-name="Fox Miami" tvg-logo="67.media.tumblr.com/9eec75dc272d2c63a095bfbfb87589f5/tumblr_mgjd4k75AI1r0yxi7o1_400.jpg" group-title="TOP SPORT TV", Fox Miami
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35597
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=305
 #EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC New York" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC New York
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8020
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=7
 #EXTINF:0 group-title="TOP SPORT TV",  tvg-id="204" tvg-name="NBC Miami" tvg-logo="vignette1.wikia.nocookie.net/logopedia/images/2/2e/NFLNBC1988.png", NBC Miami
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8020
-#EXTINF:-1, tvg-id="" tvg-name="CBS New York" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/e/e0/NFLCBS06.png" group-title="TOP SPORT TV", CBS HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35664
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=303
+#EXTINF:-1, tvg-id="" tvg-name="CBS New York" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/e/e0/NFLCBS06.png" group-title="TOP SPORT TV", CBS New York
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=8
+#EXTINF:-1, tvg-id="" tvg-name="CBS Miami" tvg-logo="upload.wikimedia.org/wikipedia/en/0/0c/CBS_Sports_Logo_copy.png" group-title="TOP SPORT TV", CBS Miami HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=304
 #EXTINF:-1, tvg-id="" tvg-name="CBS Sports Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/92.png" group-title="TOP SPORT TV", CBS Sports Network
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8210
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=169
 #EXTINF:-1, tvg-id="159" tvg-name="BeIN Sports USA" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BeIN Sports USA HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6143
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=171
 #EXTINF:-1, tvg-id="159" tvg-name="BeinSports en Espa" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", BeinSports en Espa
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=236
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=236
 #EXTINF:-1, tvg-id="159" tvg-name="GOL TV ES" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/392.png" group-title="TOP SPORT TV", GOL TV ES HD (Soccer)
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=424
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=424
 #EXTINF:-1, tvg-id="159" tvg-name="NBC Sports Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2502.png" group-title="TOP SPORT TV", NBC Sports Network
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1785
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=170
 #EXTINF:-1, tvg-name="ESPN Latinoamerica" tvg-logo="www.multicanalcatamayo.com/cablevisiondondiego/images/espn.png" group-title="TOP SPORT TV", ESPN Latinoamerica
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=238
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=238
 #EXTINF:-1, tvg-id="9410" tvg-name="TNT" tvg-logo="www.everyjoe.com/files/2009/09/tnt-logo.jpg" group-title="TOP SPORT TV", TNT HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8932
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=341
+#EXTINF:-1, tvg-id="400" tvg-name="Super Tennis Italia" tvg-logo="www.snescentral.com/0/6/9/0690/logo.gif" group-title="TOP SPORT TV", Super Tennis Italia
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=639
 #EXTINF:-1, tvg-id="400" tvg-name="Tennis Channel" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1830.png" group-title="TOP SPORT TV", Tennis Channel 
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8192
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=167
 #EXTINF:-1 group-title="TOP SPORT TV" tvg-logo="soccer.indonewyork.com/wp-content/uploads/2013/07/wpid-mutv.jpeg", MUTV
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=228
 #EXTINF:-1, tvg-id="155" tvg-name="NBA TV" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA TV HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32953
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=165
 #EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 1
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26304
-
-#EXTINF:-1,NBA LEAGUE PASS 2
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26305
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2190
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 2
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2191
 #EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 3
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26306
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2192
 #EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 4
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26307
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2193
 #EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 5
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26308
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2194
 #EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 6
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26309
-#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 7
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26310
-#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="TOP SPORT TV", NBA LEAGUE PASS 8
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32482
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2195
 #EXTINF:-1, tvg-id="153" tvg-name="NHL Network USA" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/41.png" group-title="TOP SPORT TV", NHL Network USA
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6142
-
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
+#EXTINF:-1, tvg-id="5" tvg-name="ABC W" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2334.png" group-title="TOP SPORT TV", ABC W HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=306
+#EXTINF:-1, tvg-id="8100" tvg-name="ABC" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/90.png" group-title="TOP SPORT TV", ABC East HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=156
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 1 HD
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=204
-
-#EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports  1 HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34503
-#EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports  2 HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34502
-#EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports  3 HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34501
-#EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports  4 HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34500
-#EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 5 HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34499
-#EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports  F1 HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34498
-
-#EXTINF:-1, tvg-id="401" tvg-name="NBC Golf" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1205.png" group-title="TOP SPORT TV", Golf HD
-http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1271.png" group-title="TOP SPORT TV", Sky Sports 2 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=205
+#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1273.png" group-title="TOP SPORT TV", Sky Sports 3 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=206
+#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1275.png" group-title="TOP SPORT TV", Sky Sports 4 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=207
+#EXTINF:-1, tvg-name="" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1277.png" group-title="TOP SPORT TV", Sky Sports 5 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=208
+#EXTINF:-1, tvg-name="" tvg-logo="" group-title="TOP SPORT TV", Sky Sports F1 HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=210
+#EXTINF:-1, tvg-id="401" tvg-name="NBC Golf" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1205.png" group-title="TOP SPORT TV", NBC Golf
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=166
 #EXTINF:-1, tvg-id="402" tvg-name="Setanta Sports" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/265.png" group-title="TOP SPORT TV", Setanta Sports
-#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=234
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=234
 #EXTINF:-1, tvg-id="157" tvg-name="WWE Network" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/2971.png" group-title="TOP SPORT TV", WWE Network HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26301
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=168
 #EXTINF:-1, tvg-id="404" tvg-name="Racing UK" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1285.png" group-title="TOP SPORT TV", Racing HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34506
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=220
 
 ###################### END TOP SPORT TV #################################
 
@@ -2139,7 +2080,7 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32965
 http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32966
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[COLOR lime]USA UK UHDTV[/COLOR]", Batman (1966)
 http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32967
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[COLOR lime]USA UK UHDTV[/COLOR]", NBA TNT
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[COLOR lime]USA UK UHDTV[/COLOR]", NBA TNT: ----------
 http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32968
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[COLOR lime]USA UK UHDTV[/COLOR]", GMA Life
 http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32970
@@ -2178,4 +2119,94 @@ http://127.0.0.1:19096/vntvnetproxy/hn1
 
 
 
+#### Top (Test) USA Channels +++++++++++++++++++++++++++++++++++++
 
+
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png", HTV7 HD (Bonus)
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2N2hkLmlzbWwvaHR2N2hkLTIwOTZrLm0zdTg=
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/650827-HTV9_FullHD.png", HTV9 HD (Bonus)
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2OXNkLmlzbWwvaHR2OXNkLTEwOTZrLm0zdTg=
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBC Sports Network HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL290dHR2LmNvOjIwOTUvbGl2ZS9pYXBwLzkxOTEvMjAxNzEubTN1OA==
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8zYmFmN2RiMGQ4ZjFkNDAwODE2ZmI2MTY2YjI5N2Y0Ni5tM3U4P3N0PUFEeVF6TlBjSjlvVHVoYUh1bnl4YVEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8yOTZlNTZjNjY4YmM4YmQ2YjAwNDRkM2U0ZjAzNDE1My5tM3U4P3N0PXFQaHpwZFM0TGRjQVh4anNCU29XbXcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", CBS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC80ZDBmYWRjYTI2ODZhMmNkZDRhNGE2NjIzMjEyNDQ5Yy5tM3U4P3N0PU9sTHhWVTZjVFJZdFJ5MzNncHdHQ0EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/sqwqtt1436847658.png", Fox News HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC84NzdlMWZkMTkyYjNhNTg1NzdlNDM4Nzk3MWMyMTVhNy5tM3U4P3N0PVlUZVpaZnROekI3M0ZJSkR3V3BGaXcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hY2EwYTMxZDE0Yzg1ZTE5ZjcwMjNjOWEzODg5ZjM3Yi5tM3U4P3N0PUxUVEFkb0k3T2hQSHloX0JNaFUwcFEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jZTQyNWNhMzJkZWEwZjM3YjIyNzE3YWU5ODliY2ZmYi5tM3U4P3N0PTBVb3dyWHVXM0E5TW1NZHFNNlJpOUEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yyrvsy1433777362.png", Comedy Central HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8xZWQ5YjJiZjMyNWU1YmJhN2YzYzU3N2MzYTg2ZDBlZi5tM3U4P3N0PUd4azFxdndzNjI1Z2xKWTFXSE9pcHcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kMzc3ZmY2M2U5ZTIyOTM0MzQxOGJhMDY1YWNiNjQzZi5tM3U4P3N0PW5jZGp2SGRhakpLWDhINEw4OUhqemcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9lMDBkZDljY2JmNmNiYThlNDdjYTQ1ODk5M2YzMDdjMS5tM3U4P3N0PTNKanZ2bUExYVFKbXY5SW5jNVVWX2cmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/syytuy1467823090.png", USA Network HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8wZTM2NzQzNWQ0YmMxYTg5ZWE3NTA2Y2YwZWFkYjNhNy5tM3U4P3N0PWVqc3hKVWhXV0J1VHBhY3R0NWg1MncmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xvyrsu1480337641.png", CNN News HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mYjY1NWUwMzAzNTU1MGMxNGZjMmJjYzY1ZDQwY2ZmOC5tM3U4P3N0PUp3X0JsdWM3aWZkdnk5bDVIUF93cFEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yvwrvp1476084495.png", PBS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mZTIyMzY1MjM1YjQ5NjM2ODYwOTUxNTUyM2JmYjk3MS5tM3U4P3N0PUNwY1MwQUstdFFjSWFPVktmY2tSVlEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png", SPIKE HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hMDFkNGEyZDc5MDUyZDZiMWMyYzYzYmYyZDI4NDIwMi5tM3U4P3N0PVhnaUY2R3EtN21vSFE2MmJ4NXI1VncmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/uqrpqt1436889975.png", FX HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kNGM1MDNkYmNkZDBhYWE3OTcyNGRkNGI3OWI1YzhjNi5tM3U4P3N0PVhaMkJYZk1WaXM3a3AyZ0t6Wk9WNEEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/quwyru1480459347.png", Syfy HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kODMyMGZlZGI0YTkwZmIwNmM5ZjdiZmY5NmE3ZTYxOS5tM3U4P3N0PW1NQ0htMXptSXhNSWhxT2tqRWRWaGcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png", Animal Planet HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hMGY4ZGRiOGM4MjUxYTY4ZjEzNjY0OGIzMmMwZjYyZC5tM3U4P3N0PWdGdnBtWnBJUDRyMS11UTNvM2xjSkEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/qwqrws1434470899.png", Bravo HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC81ODJiMTlmM2VmNTQ1OWEyZjEzOWVjNjllZTIwNTNkMC5tM3U4P3N0PWFfSTBVbFQ2RFN4M3NoY3RKTnRCaXcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", Nat Geo HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9iZTJmYTM1OGU0ZjFjOWEwZWU4MzNhYTE1ZjgyOWY4MS5tM3U4P3N0PWlTNzczeUJHbjhtbGxJM01qUUhIZEEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png", Discovery Channel HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8wNzVkNjY5OTMxNTFjMTc4ZGYxZWQ5ODQwMjAyZDk4My5tM3U4P3N0PXYtSGZaYjFJTnRrTUU3N0FYMUl4TkEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yusqqu1444656884.png", HGTV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC83ZDkwMDBjMDk2N2NjNDkxOWYwN2VjYmUyNzM2Yzk1YS5tM3U4P3N0PTFDZ1R5VkxoSU5NblplUm00U0J6T1EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rqsyuu1433964470.png", Nick HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hNTVkN2MyNGEwMDkxNTIzNWNkYzZhNmRkYWFhZjY3Yi5tM3U4P3N0PUQ3RVNXUEJvQ1ZKNkVoZS1ib3pSV1EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rptqww1433943689.png", MTV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mZjY4ZTk3YjhlNDAxYzg3NzI4NDc1OGFlMjA2MGNkMC5tM3U4P3N0PTBNWktHNUcwTVlTZGxoSWMxd0N3dUEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png", Fox Sports 1 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jMWJhMTkxODdiYmE0ZDI3M2NkYzg3N2RjNDEzNTY0YS5tM3U4P3N0PVpWWk10S1lEU004Tm1aZDB2NVZEQ3cmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rwqsxv1476084322.png", FOX 5 NY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC85MzgyMzA2MTVlYWZlM2UyYWRmMzMzMzJkMWJlMzk0MC5tM3U4P3N0PXRQdjZOcXlTWHNWdXZXVHZyMFZpakEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yrwrqu1434048183.png", E! HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jNzMzODFkNjU0MzcwMDc5MGU5NDllZTA4MTU3MTIwZi5tM3U4P3N0PWgxV2tuV21VMXdkeEtjbXZuVTZiTFEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/swwvwy1475246194.png", ASTRO SUPERSPORT 1 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kMThjZDQwNzVhNjgxM2I3YTJkZWZiN2M1ZDJhNTRkOS5tM3U4P3N0PWg2aHplc1lMMmFiaEhXVUczMk5CMGcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yyxvut1482260692.png", CLUBLAND TV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mZTg3ODc1ZGIzNDI5MTRiNjk4M2M1YjIwMjYyNDUzNy5tM3U4P3N0PXBHNGFIQ2VhT1cySExVZG8xbHJ0RXcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/xutptv1433429127.png", NBA TV HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hYzM2YTM2OTZlYzc4MWJhODhlMTQ2OTQ0NzcyMzA0MC5tM3U4P3N0PTNIZ294LTZ1akxtUFM1SXRsSFVpN0EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", HISTORY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kNzIyMjkzYmI5YmJmMjBjYzExMjkyNGVmMDAwYTIyNS5tM3U4P3N0PVlOUlR5cGxpNHczcFlvSWpjczRRQ1EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png", SKY MOVIES GREATS HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hMmQwMjU5MDBjMjY4MDQ1ZTRlMmRhNTY3YThjM2Y5Yi5tM3U4P3N0PVVsUmFSYk1NaGFIN1UxTWtESG5uQ2cmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/srvusx1466367859.png", SKY MOVIES ACTION HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8zYzkwOWM5MjE4OTYxYjJlY2ZkZDVmNDRhODlhOTBiOC5tM3U4P3N0PVQzWVRfXzQ3LUktV1RMaW84eXl6UlEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vytvxy1433965098.png", SKY MOVIES COMEDY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9jMTY4MjYyY2Y4Yjk3NzUzMDBkYTBiNzliMjE5OWVlNi5tM3U4P3N0PWZSMmxhbHVZVkx3Q0MtWVQ1RDZjcVEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xpvytr1473881752.png", SKY MOVIES CRIME HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9hODQyNzEyNTBkOWRjOTNjMWVkYzg0ODc0NTUyZDZjNy5tM3U4P3N0PS1hdmN4Q3R3NDh2N3MyV1lfUU9tWWcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/wrxwtw1433965123.png", SKY MOVIES DISNEY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9mYjJjZGU2ZTA0MTBjZjUzN2ExOTgwMGJkMTkyNjFmMC5tM3U4P3N0PW5pMFZXcDJsUHgtM25DU1BkYjlqMWcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/qtwyrw1473881773.png", SKY MOVIES DRAMA HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC81MDgxZDY4ZDQwNTRiYzkyMDllYzJiYjFjNWZmNWVlZi5tM3U4P3N0PWVaNkZROW5oajZDMTZCRnJDRW8zNHcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qsyrrq1433965141.png", SKY MOVIES FAMILY HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8zY2FlZDU5ZTNiN2U0MDViM2E4MDJjYzQ4MGExNGUzMi5tM3U4P3N0PUNVbVp4TEpXY0s1N2hCN0RoN1Y5TncmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qwytxv1433965174.png", SKY MOVIES PREMIERE HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8zMjY1NjgyYTQxZjQ0MmU1YTQxNjRlOWIyNjM5MzYzNC5tM3U4P3N0PUU5RlkxeTR3ZmJIWGtCLXpGekQ2R0EmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/typywu1433965191.png", SKY MOVIES SCIFI HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC8yMGFiY2NhZmQ0YTI2YjZmY2U1N2RmODkyZTUwNDBiZS5tM3U4P3N0PVB0MV9lcnoxVy04UjRQV1duRWd0ZkEmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/rsvrsp1433965199.png", SKY MOVIES SELECT HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC83NjA2NzBlZWFhYTNlNjJhZGMxOTg5ZmVlMmU4YjI1OS5tM3U4P3N0PVVZMjJUX2lkWGRFcm1ySVZoN1h4THcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ttpvsq1433965207.png", SKY MOVIES SHOWCASE HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9iNmYwOGFkMWIwOTc2ZDk5M2UxMTZjYmI3MmFlZjhiZC5tM3U4P3N0PUE4NV9SWm84WlZaU2M0NjBxMFpEeGcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
+#EXTINF:-1 group-title="[COLOR blue]Top (Test) USA Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/trvyxp1455554906.png", TRUE MOVIES HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzE4NS4xNTIuNjQuMjM2L3AycC9kMmM3M2JlMTdiOTUwMzY4MDgzZjVjN2NhOTQ0NWNiOS5tM3U4P3N0PXNCVy1UV09URzdlVzJmVDVrWklIMmcmZT0xNDkxNzQ0NzY1fFVzZXItQWdlbnQ9TW96aWxsYSUyRjUuMCUyMCUyOExpbnV4JTNCJTIwQW5kcm9pZCUyMDUuMS4xJTNCJTIwTmV4dXMlMjA1JTIwQnVpbGQlMkZMTVk0OEIlM0IlMjB3diUyOSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwJTI4S0hUTUwlMkMlMjBsaWtlJTIwR2Vja28lMjklMjBWZXJzaW9uJTJGNC4wJTIwQ2hyb21lJTJGNDMuMC4yMzU3LjY1JTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JnJlZmVyZXI9bW9iZHJvLm1l
