@@ -327,9 +327,6 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32482
 #EXTINF:-1, tvg-id="153" tvg-name="NHL Network USA" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/41.png" group-title="TOP SPORT TV", NHL Network USA
 http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6142
 
-#EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=204
-
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports  1 HD
 http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34503
 #EXTINF:-1, tvg-name="" tvg-logo="pbs.twimg.com/profile_images/504278813644054528/lSkPHorY.png" group-title="TOP SPORT TV", Sky Sports  2 HD
@@ -550,7 +547,7 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2425
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2429
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR]HD[/COLOR]
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2433
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2433
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="tvtvtv.ru/icons/logo_5122.png", Việt Mỹ TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
@@ -966,48 +963,51 @@ http://google.com
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3079
 
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/8.png", CTV HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=16
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/9.png", CTV NORTH
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/11.png", CHCH HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=358
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/14.png", OMNI 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/14.png", OMNI 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34918
 
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/24.png", CP24 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=11
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/15.png", Global East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=52
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/2397.png", Global MTL
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=52
+#EXTINF:-1 group-title="CANADA" tvg-logo="", AMI
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34912
+XTINF:-1 group-title="CANADA" tvg-logo="", Animal Planet HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34908
+XTINF:-1 group-title="CANADA" tvg-logo="", AUX
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34913
+XTINF:-1 group-title="CANADA" tvg-logo="", BNN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34911
+XTINF:-1 group-title="CANADA" tvg-logo="", Book Television
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34915
+XTINF:-1 group-title="CANADA" tvg-logo="", CBS SPORTS HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34909
+XTINF:-1 group-title="CANADA" tvg-logo="", CMT
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34916
+XTINF:-1 group-title="CANADA" tvg-logo="", Cpac
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34917
+XTINF:-1 group-title="CANADA" tvg-logo="", Documentary Channel HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34923
+XTINF:-1 group-title="CANADA" tvg-logo="", Discovery HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34910
+XTINF:-1 group-title="CANADA" tvg-logo="", Discovery Science
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34921
+XTINF:-1 group-title="CANADA" tvg-logo="", DISNEY HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34926
+XTINF:-1 group-title="CANADA" tvg-logo="", DIY
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34922
+XTINF:-1 group-title="CANADA" tvg-logo="", Deja View
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34919
+XTINF:-1 group-title="CANADA" tvg-logo="", DTOUR HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34924
+XTINF:-1 group-title="CANADA" tvg-logo="", ESPN Classic
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34925
+XTINF:-1 group-title="CANADA" tvg-logo="", FX HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34928
+XTINF:-1 group-title="CANADA" tvg-logo="", FYI
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34929
+XTINF:-1 group-title="CANADA" tvg-logo="", G4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34930
+XTINF:-1 group-title="CANADA" tvg-logo="", Telemundo
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34927
+XTINF:-1 group-title="CANADA" tvg-logo="",  Viceland
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34914
 
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/14.png", City TV HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=53
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/309.png", CBC Vancouver HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=55
-#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/310.png", CTV Vancouver HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=57
-
-#EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", TSN 1
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
-#EXTINF:-1, tvg-id="uktvnow:234" tvg-name="TSN 2" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="CANADA", TSN 2
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=139
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 3
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 4
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=141
-#EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="CANADA", TSN 5
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=142
-#EXTINF:-1, tvg-id="" tvg-name="Sports Net One" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sports Net One
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
-#EXTINF:-1, tvg-id="" tvg-name="Sports Net Ontario" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sports Net Ontario
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=148
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="CANADA", Sportsnet 360 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=147
-#EXTINF:-1, tvg-id="" tvg-name="Sportsnet World" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="CANADA", Sportsnet World HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
 
 #<!--------------------------------End CANADA ------------------------->
@@ -1021,90 +1021,107 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
 
 
 #EXTINF:-1, tvg-id="409" tvg-name="Boxnation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", Boxnation
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=209
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35608
 #EXTINF:-1, tvg-id="416" tvg-name="BT Sport 1" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1287.png" group-title="TOP SPORT TV", BT Sport 1 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=225
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34497
 #EXTINF:-1, tvg-id="417" tvg-name="BT Sport 2" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sport 2 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=226
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34496
 #EXTINF:-1, tvg-id="417" tvg-name="BT Sport ESPN" tvg-logo="portal.iptvrocket.tv/stalker_portal/misc/logos/320/1289.png" group-title="TOP SPORT TV", BT Sport ESPN HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=233
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34495
 #EXTINF:-1, tvg-id="uktvnow:233" tvg-name="TSN 1" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", TSN 1
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=138
 #EXTINF:-1, tvg-id="uktvnow:234" tvg-name="TSN 2" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043314ts2.png" group-title="TOP SPORT TV", TSN 2
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=139
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=139
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 3" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 3
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=140
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 4" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 4
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=141
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=141
 #EXTINF:-1, tvg-id="uktvnow:235" tvg-name="TSN 5" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043351ts3.png" group-title="TOP SPORT TV", TSN 5
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=142
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34931
+
 #EXTINF:-1, tvg-id="" tvg-name="Sports Net One" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sports Net One
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=149
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35727
 #EXTINF:-1, tvg-id="" tvg-name="Sports Net Ontario" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sports Net Ontario
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=148
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=148
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet 360" tvg-logo="app.uktvnow.net/images/channel_imgs/200116043251tsn1.jpg" group-title="TOP SPORT TV", Sportsnet 360 HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=147
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=147
 #EXTINF:-1, tvg-id="" tvg-name="Sportsnet World" tvg-logo="4.bp.blogspot.com/-cgtNkdhig8E/ToT2t8TMywI/AAAAAAAACOU/i0EYFf4geUA/s500/Sportsnet+icon+2011.png" group-title="TOP SPORT TV", Sportsnet World HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=150
+
 #EXTINF:0 group-title="TOP SPORT TV", tvg-id="Poker Central" tvg-logo="media.cardplayer.com/assets/000/016/219/poker_central.jpg", Poker Central HD
 #http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1074
 #EXTINF:0 group-title="TOP SPORT TV", tvg-id="Fight Network" tvg-logo="www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/fight-network/logo/large_logo.jpg", Fight Network HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=608
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=608
 
 #EXTINF:-1, tvg-id="" tvg-name="NFL Network" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=157
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24998
 #EXTINF:-1, tvg-id="" tvg-name="NFL RED ZONE" tvg-logo="pbs.twimg.com/profile_images/727114924904861696/bYvDJAUO.jpg" group-title="NFL Thursday Night", NFL RED ZONE HD - NEW
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3949
 
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 1
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3168
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3168
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 2
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3169
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3169
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 3" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 3
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3170
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3170
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 4" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 4
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3171
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3171
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 5" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 5
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3172
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3172
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 6" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 6
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3173
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3173
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 77" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 7
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3174
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3174
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 8" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 8
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3175
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3175
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 9" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 9
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3176
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3176
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 10" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 10
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3177
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3177
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 11" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 11
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3178
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3178
 #EXTINF:-1, tvg-id="154" tvg-name="NFL Sunday Ticket 12" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/222.png" group-title="TOP SPORT TV", NFL Sunday Ticket 12
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3179
-#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1086.png" group-title="TOP SPORT TV", Eurosport 1 (IT)
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=703
-#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1087.png" group-title="TOP SPORT TV", Eurosport 2 (IT)
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=704
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3179
+#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 1" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1086.png" group-title="TOP SPORT TV", Eurosport 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35600
+#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 2" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/1087.png" group-title="TOP SPORT TV", Eurosport 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35599
+
+#EXTINF:-1, tvg-id="154" tvg-name="Eurosport 2" tvg-logo="" group-title="TOP SPORT TV", PREMIER SPORTS
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35584
+
+#EXTINF:-1, tvg-id="154" tvg-name="SKY SPORTS MIX HD" tvg-logo="" group-title="TOP SPORT TV", SKY SPORTS MIX HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35575
 
 
 ######### MTV Music TV ########################################
 
+#EXTINF:-1 group-title="Music Channels", MTV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8926
+#EXTINF:-1 group-title="Music Channels", MTVLive HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8505
 
-#EXTINF:-1 group-title="Music Channels", VIVO 2 FHD
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=hhttp://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2105.ts
 
-#EXTINF:-1 group-title="Music Channels", VH1
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2156.ts
-
-#EXTINF:-1 group-title="Music Channels", MU TV
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2182.ts
-#EXTINF:-1 group-title="Music Channels", MTV MUSIC
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2183.ts
-#EXTINF:-1 group-title="Music Channels", MTV HITS
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2184.ts
-#EXTINF:-1 group-title="Music Channels", MTV dance
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2124.ts
-#EXTINF:-1 group-title="Music Channels", MTV Classic
-http://localhost:8898/tsf4mst.m3u?&pkid=TSN1&tmp=1&portal=1&channel=http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2185.ts
+#EXTINF:-1 group-title="Music Channels", MTV Music
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34994
+#EXTINF:-1 group-title="Music Channels", 4Music
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35490
+#EXTINF:-1 group-title="Music Channels", MTV Base UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35497
+#EXTINF:-1 group-title="Music Channels", MTV Classic UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35494
+#EXTINF:-1 group-title="Music Channels", MTV Dance UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35495
+#EXTINF:-1 group-title="Music Channels", MTV Hits! UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35498
+#EXTINF:-1 group-title="Music Channels", MTV Rocks UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35496
+#EXTINF:-1 group-title="Music Channels", VH1 Classic UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35492
+#EXTINF:-1 group-title="Music Channels", VH1 UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35493
+#EXTINF:-1 group-title="Music Channels", VIVA the Hits!
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35491
 
 #EXTINF:-1,ES: MTV ROCKS
 http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2700.ts
@@ -1202,77 +1219,77 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=365
 http://google.com
 
 #EXTINF:-1, tvg-name="Bravo" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115427bravo.png" group-title="Top Cloud USA TV", Bravo
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=353
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8908
 #EXTINF:0 tvg-name="A and E" group-title="Top Cloud USA TV" tvg-logo="canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg", A and E
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=347
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35110
 #EXTINF:0 tvg-name="AMC" group-title="Top Cloud USA TV" tvg-logo="vignette2.wikia.nocookie.net/logopedia/images/5/5b/Amc.jpg/revision/latest?cb=20120503012834", AMC
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=334
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8904
 #EXTINF:0 tvg-name="Cartoon Network" group-title="Top Cloud USA TV" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=395
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=482
 #EXTINF:0 tvg-name="Comedy Central" group-title="Top Cloud USA TV" tvg-logo="1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif", Comedy Central
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1748
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=1683
 #EXTINF:0 tvg-name="Discovery Channel" group-title="Top Cloud USA TV" tvg-logo="images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg", Discovery Channel HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=319
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34910
 #EXTINF:0 tvg-name="HISTORY" group-title="Top Cloud USA TV" tvg-logo="2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png", HISTORY
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=322
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6141
 #EXTINF:0 tvg-name="National Geographic Channel HD" group-title="Top Cloud USA TV" tvg-logo="www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg", National Geographic Channel HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=330
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34493
 #EXTINF:0 tvg-name="Nat Geo Wild" group-title="Top Cloud USA TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/190.png", Nat Geo Wild
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=331
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35586
 #EXTINF:0 tvg-name="Nickelodeon" group-title="Top Cloud USA TV" tvg-logo="www.nick.com/nick-assets/common/nick-logo-200x200.png", Nickelodeon
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=394
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34835
 #EXTINF:0 tvg-name="Animal Planet" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/160116113836animal.PNG", Animal Planet
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=332
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35609
 #EXTINF:0 tvg-name="Lifetime" group-title="Top Cloud USA TV" tvg-logo="i.imgur.com/g1SNX37.png", Lifetime HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=326
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35590
 #EXTINF:0 tvg-name="Spike" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", Spike
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=318
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24678
 #EXTINF:0 tvg-name="True Entertainment" group-title="Top Cloud USA TV" tvg-logo="www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg", True Entertainment
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=340
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34842
 #EXTINF:0 tvg-name="USA Network" group-title="Top Cloud USA TV" tvg-logo="www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg", USA Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=312
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=24999
 #EXTINF:0 tvg-name="FX" group-title="Top Cloud USA TV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045335fx.png", FX HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=314
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=937
 #EXTINF:-1, tvg-name="DIY Network USA" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/151.png" group-title="Top Cloud USA TV", DIY Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=329
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6226
 #EXTINF:-1, tvg-name="HGTV" tvg-logo="app.uktvnow.net/images/channel_imgs/190116045843hgt.png" group-title="Top Cloud USA TV", HGTV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=335
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8943
 #EXTINF:-1, tvg-name="E!" tvg-logo="app.uktvnow.net/images/channel_imgs/160116014852en.png" group-title="Top Cloud USA TV", E!
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=338
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8915
 #EXTINF:-1, tvg-name="Showtime East" tvg-logo="app.uktvnow.net/images/channel_imgs/200116035931showtime.jpg" group-title="Top Cloud USA TV", Showtime East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=385
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25581
 #EXTINF:-1, tvg-name="HBO East" tvg-logo="i62.tinypic.com/nzk2o0.png" group-title="Top Cloud USA TV", HBO East
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=371
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25586
 #EXTINF:-1, tvg-name="CBS New York" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS New York
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=8
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35538
 #EXTINF:-1, tvg-name="CBS Miami" tvg-logo="app.uktvnow.net/images/channel_imgs/160116115741cbs.png" group-title="Top Cloud USA TV", CBS Miami
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=304
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35538
 #EXTINF:-1, tvg-name="Travel Channel UK" tvg-logo="cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM28E.png" group-title="Top Cloud USA TV", Travel Channel
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=349
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8935
 #EXTINF:-1, tvg-name="Syfy" tvg-logo="vignette1.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png" group-title="Top Cloud USA TV", Syfy
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=339
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35573
 #EXTINF:-1, tvg-name="Food Network" tvg-logo="www.bellaliant.ca/binaries/content/gallery/common_en/tv/channel-logos/food-oct2014.png" group-title="Top Cloud USA TV", Food Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1788
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8916
 #EXTINF:-1, tvg-name="MTV" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Top Cloud USA TV", MTV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=350
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8926
 #EXTINF:-1, tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/162.png" group-title="Top Cloud USA TV", VH1
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=354
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8944
 #EXTINF:-1, tvg-name="Investigation Discovery" tvg-logo="s33.postimg.org/ke3tu4wwv/image.png" group-title="Top Cloud USA TV", Investigation Discovery
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=1763
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8378
 #EXTINF:-1, tvg-name="BET" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/124.png" group-title="Top Cloud USA TV", BET
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=351
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8906
 #EXTINF:-1, tvg-name="Slice" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/134.png" group-title="Top Cloud USA TV", Slice
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=343
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34938
 #EXTINF:-1, tvg-name="WE TV" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/128.png" group-title="Top Cloud USA TV", WE TV
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=342
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8939
 #EXTINF:-1, tvg-name="PBS" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/44.png" group-title="Top Cloud USA TV", PBS
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=356
 #EXTINF:-1, tvg-name="W Network" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/127.png" group-title="Top Cloud USA TV", W Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=344
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=344
 #EXTINF:-1, tvg-name="Hallmark Channel" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/185.png" group-title="Top Cloud USA TV", Hallmark Channel
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=321
-#EXTINF:-1, tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/85.png" group-title="Top Cloud USA TV", CW11
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=359
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=906
+#EXTINF:-1, tvg-name="" tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/85.png" group-title="Top Cloud USA TV", CW HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8018
 
 ################### End  Top Cloud USA TV #############################       
 
