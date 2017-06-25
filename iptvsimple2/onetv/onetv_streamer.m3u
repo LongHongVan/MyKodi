@@ -1,5 +1,26 @@
 #EXTM3U tvg-shift=0
 
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png", ESPN 2
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/yptqtt1433332816.png", Fox Sports 2
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png", NFL Network
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/wpttyu1433780385.png", Premier Sports
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/xpwqxy1433965242.png", Sky Sports 1
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/qwsppt1433965260.png", Sky Sports 2
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/upsspx1433379567.png", TSN 1 HD
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/sutruq1433379787.png", TSN 2 HD
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png", TSN 3 HD
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png", TSN 4 HD
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN HD
 http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
 
