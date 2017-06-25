@@ -1,5 +1,11 @@
 #EXTM3U tvg-shift=0
 
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN HD
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png", MLB Network
+http://127.0.0.1:19098/livestreamer/fdfa99e57d0b886df98fa16b8cefa2b8.m3u8
+
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
 http://127.0.0.1:19098/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
