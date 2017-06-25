@@ -21,7 +21,7 @@ http://127.0.0.1:19098/livestreamer/418e4380e1577624622d91b6a1997e5b.m3u8
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png", TSN 4 HD
 http://127.0.0.1:19098/livestreamer/217ba763c8f90807fe76de76e36be045.m3u8
 
-#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN HD
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN
 http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
 
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png", MLB Network
