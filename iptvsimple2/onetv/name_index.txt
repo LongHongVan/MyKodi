@@ -13,6 +13,8 @@
     "TSN 4 HD", 
     "NBCSN", 
     "MLB Network", 
+    "ABC", 
+    "AMC", 
     "NBC HD", 
     "CW HD", 
     "CBS HD", 
