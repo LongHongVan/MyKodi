@@ -27,6 +27,11 @@ http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png", MLB Network
 http://127.0.0.1:19098/livestreamer/fdfa99e57d0b886df98fa16b8cefa2b8.m3u8
 
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC
+http://127.0.0.1:19098/livestreamer/ba354149f3c117ceb69529a1542b6281.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC
+http://127.0.0.1:19098/livestreamer/c0371e35a2b3244f5edda7947172d954.m3u8
+
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
 http://127.0.0.1:19098/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
@@ -46,7 +51,7 @@ http://127.0.0.1:19098/livestreamer/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 http://127.0.0.1:19098/livestreamer/ce425ca32dea0f37b22717ae989bcffb.m3u8
 
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yyrvsy1433777362.png", Comedy Central HD
-http://127.0.0.1:19098/livestreamer/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8
+http://127.0.0.1:19098/livestreamer/b9b55864b6779b7e83321ab0b74ed727.m3u8.m3u8 
 
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD
 http://127.0.0.1:19098/livestreamer/d377ff63e9e229343418ba065acb643f.m3u8
