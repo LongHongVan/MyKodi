@@ -51,7 +51,7 @@ http://127.0.0.1:19098/livestreamer/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 http://127.0.0.1:19098/livestreamer/ce425ca32dea0f37b22717ae989bcffb.m3u8
 
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yyrvsy1433777362.png", Comedy Central HD
-http://127.0.0.1:19098/livestreamer/b9b55864b6779b7e83321ab0b74ed727.m3u8.m3u8 
+http://127.0.0.1:19098/livestreamer/b9b55864b6779b7e83321ab0b74ed727.m3u8
 
 #EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD
 http://127.0.0.1:19098/livestreamer/d377ff63e9e229343418ba065acb643f.m3u8
