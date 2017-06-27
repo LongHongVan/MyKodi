@@ -105,9 +105,6 @@ http://127.0.0.1:19098/livestreamer/938230615eafe3e2adf33332d1be3940.m3u8
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yrwrqu1434048183.png", E!
 http://127.0.0.1:19098/livestreamer/c73381d6543700790e949ee08157120f.m3u8
 
-#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/swwvwy1475246194.png", ASTRO SUPERSPORT 1
-http://127.0.0.1:19098/livestreamer/d18cd4075a6813b7a2defb7c5d2a54d9.m3u8
-
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yyxvut1482260692.png", CLUBLAND TV HD
 http://127.0.0.1:19098/livestreamer/fe87875db342914b6983c5b202624537.m3u8
 
@@ -116,6 +113,45 @@ http://127.0.0.1:19098/livestreamer/ac36a3696ec781ba88e1469447723040.m3u8
 
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", HISTORY
 http://127.0.0.1:19098/livestreamer/d722293bb9bbf20cc112924ef000a225.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yyqrvu1433940918.png", BBC One
+http://127.0.0.1:19098/livestreamer/a8f14a834d2d09054715803924e798b2.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ysqvyr1433945409.png", BBC Two
+http://127.0.0.1:19098/livestreamer/d6b64a19b548bf941f57cdd4c5d71904.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/urytuu1433945420.png", BBC Three
+http://127.0.0.1:19098/livestreamer/b0cb790c33fec1d8babed26ff68ee629.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vywtsv1433945431.png", BBC Four
+http://127.0.0.1:19098/livestreamer/242b381a075fd20a0a73060c277e54a2.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png", Disney XD
+http://127.0.0.1:19098/livestreamer/c8c584218a3b3036c001e7e440b63c28.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vwwpxt1433789168.png", DMax UK
+http://127.0.0.1:19098/livestreamer/8371f16a5529228ac3dda62ea9ffb0e4.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/wswwpq1433524783.png", Drama Channel
+http://127.0.0.1:19098/livestreamer/24bdca7ce85d02fddf5992944b4960d1.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png", Lifetime USA
+http://127.0.0.1:19098/livestreamer/426080503467f5a54a5f1354fc0d5714.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ruprqp1433360902.png", BT SPORT 1
+http://127.0.0.1:19098/livestreamer/feb9c19124327ffd2bae3c97249ea40e.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vwxvty1433360911.png", BT SPORT 2
+http://127.0.0.1:19098/livestreamer/a0baff4a9870ad57efd54f32cf8be880.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/stxpwq1433361453.png", BT SPORT 3
+http://127.0.0.1:19098/livestreamer/ba7c7bb9f1f2be48a9041f6a308eaa92.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png", BT SPORT ESPN
+http://127.0.0.1:19098/livestreamer/8a0b2af9d4b4eb4cf9967448b67714d6.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/wysstw1434038860.png", BT SPORT EUROPE
+http://127.0.0.1:19098/livestreamer/9d8896af505619b4c912197f79833555.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/rqwvvs1459533178.png", Canal+ Sport
+http://127.0.0.1:19098/livestreamer/71acd8666ea6c8155ff0e261b6f75e86.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/rwpwxr1433377901.png", Chelsea TV
+http://127.0.0.1:19098/livestreamer/dc3b39d192930d7e940b1d58bda64bcf.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ruvrus1437612002.png", Liverpool TV
+http://127.0.0.1:19098/livestreamer/71a00014007ea740e245d9a342300cab.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/rpxxqy1433779967.png", MUTV
+http://127.0.0.1:19098/livestreamer/50e67d468d54cd43a2bd100b5ef8a53e.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/txuryp1433379134.png", Racing UK
+http://127.0.0.1:19098/livestreamer/7e8c4145e3a4119dbe243813d877aca8.m3u8
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vpwstx1476449246.png", WWE TV
+http://127.0.0.1:19098/livestreamer/cd61f0ea3b560a665ea813dab2505a2f.m3u8
 
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png", SKY MOVIES GREATS
 http://127.0.0.1:19098/livestreamer/a2d025900c268045e4e2da567a8c3f9b.m3u8
