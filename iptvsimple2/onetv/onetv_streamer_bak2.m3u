@@ -1,0 +1,156 @@
+#EXTM3U tvg-shift=0
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png", ESPN 2
+http://127.0.0.1:19098/livestreamer/7a39b11b9af247053ebd637ff1ca9db8.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/yptqtt1433332816.png", Fox Sports 2
+http://127.0.0.1:19098/livestreamer/b543594967ce3122d04138e344cdcff2.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png", NFL Network
+http://127.0.0.1:19098/livestreamer/877ad69c810ccc693b207cf11badc04a.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/wpttyu1433780385.png", Premier Sports
+http://127.0.0.1:19098/livestreamer/2d18f483dbcf20bf0cc41b916f026d6b.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/xpwqxy1433965242.png", Sky Sports 1
+http://127.0.0.1:19098/livestreamer/3562f7795a18fc93d94ad2cb616c3d90.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/qwsppt1433965260.png", Sky Sports 2
+http://127.0.0.1:19098/livestreamer/c715e3cbca072810c4d5216b0827437b.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/upsspx1433379567.png", TSN 1 HD
+http://127.0.0.1:19098/livestreamer/40beacf01f852160e0d3cf1d962449e6.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/sutruq1433379787.png", TSN 2 HD
+http://127.0.0.1:19098/livestreamer/bc42f627a6254b12a10dd090a8c7ff42.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/ssxtux1433380256.png", TSN 3 HD
+http://127.0.0.1:19098/livestreamer/418e4380e1577624622d91b6a1997e5b.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/yrrvpq1433380019.png", TSN 4 HD
+http://127.0.0.1:19098/livestreamer/217ba763c8f90807fe76de76e36be045.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png", NBCSN
+http://127.0.0.1:19098/livestreamer/e4d6b46ca81b601fe8461b43f641488c.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png", MLB Network
+http://127.0.0.1:19098/livestreamer/fdfa99e57d0b886df98fa16b8cefa2b8.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png", ABC
+http://127.0.0.1:19098/livestreamer/ba354149f3c117ceb69529a1542b6281.m3u8
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png", AMC
+http://127.0.0.1:19098/livestreamer/c0371e35a2b3244f5edda7947172d954.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="NBC New York" tvg-logo="http://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png", NBC HD
+http://127.0.0.1:19098/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/qspwpv1453168359.png", CW HD
+http://127.0.0.1:19098/livestreamer/296e56c668bc8bd6b0044d3e4f034153.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vruusq1434471511.png", CBS HD
+http://127.0.0.1:19098/livestreamer/4d0fadca2686a2cdd4a4a6623212449c.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/sqwqtt1436847658.png", Fox News HD
+http://127.0.0.1:19098/livestreamer/877e1fd192b3a58577e4387971c215a7.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="ESPN" tvg-logo="http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png", ESPN HD
+http://127.0.0.1:19098/livestreamer/aca0a31d14c85e19f7023c9a3889f37b.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E HD
+http://127.0.0.1:19098/livestreamer/ce425ca32dea0f37b22717ae989bcffb.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yyrvsy1433777362.png", Comedy Central HD
+http://127.0.0.1:19098/livestreamer/b9b55864b6779b7e83321ab0b74ed727.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium", TBS HD
+http://127.0.0.1:19098/livestreamer/d377ff63e9e229343418ba065acb643f.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="TNT" tvg-logo="http://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png", TNT HD
+http://127.0.0.1:19098/livestreamer/e00dd9ccbf6cba8e47ca458993f307c1.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/syytuy1467823090.png", USA Network HD
+http://127.0.0.1:19098/livestreamer/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xvyrsu1480337641.png", CNN News HD
+http://127.0.0.1:19098/livestreamer/81584236b35ba70e2e9a12f5fb338ff0.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yvwrvp1476084495.png", PBS HD
+http://127.0.0.1:19098/livestreamer/fe22365235b496368609515523bfb971.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png", SPIKE HD
+http://127.0.0.1:19098/livestreamer/a01d4a2d79052d6b1c2c63bf2d284202.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/uqrpqt1436889975.png", FX HD
+http://127.0.0.1:19098/livestreamer/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/quwyru1480459347.png", Syfy HD
+http://127.0.0.1:19098/livestreamer/d8320fedb4a90fb06c9f7bff96a7e619.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xpttwp1433424253.png", Animal Planet HD
+http://127.0.0.1:19098/livestreamer/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
+
+#EXTINF:0 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="Bravo" tvg-logo="http://www.thelogodb.com/images/media/logo/qwqrws1434470899.png", Bravo HD
+http://127.0.0.1:19098/livestreamer/582b19f3ef5459a2f139ec69ee2053d0.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png", Nat Geo HD 
+http://127.0.0.1:19098/livestreamer/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png", Discovery Channel HD
+http://127.0.0.1:19098/livestreamer/075d66993151c178df1ed9840202d983.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yusqqu1444656884.png", HGTV HD
+http://127.0.0.1:19098/livestreamer/7d9000c0967cc4919f07ecbe2736c95a.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rqsyuu1433964470.png", Nick HD
+http://127.0.0.1:19098/livestreamer/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rptqww1433943689.png", MTV HD
+http://127.0.0.1:19098/livestreamer/ff68e97b8e401c877284758ae2060cd0.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png", Fox Sports 1 HD
+http://127.0.0.1:19098/livestreamer/c1ba19187bba4d273cdc877dc413564a.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/rwqsxv1476084322.png", FOX 5 NY HD
+http://127.0.0.1:19098/livestreamer/938230615eafe3e2adf33332d1be3940.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yrwrqu1434048183.png", E! HD
+http://127.0.0.1:19098/livestreamer/c73381d6543700790e949ee08157120f.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/swwvwy1475246194.png", ASTRO SUPERSPORT 1 HD
+http://127.0.0.1:19098/livestreamer/d18cd4075a6813b7a2defb7c5d2a54d9.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/yyxvut1482260692.png", CLUBLAND TV HD
+http://127.0.0.1:19098/livestreamer/fe87875db342914b6983c5b202624537.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/xutptv1433429127.png", NBA TV HD
+http://127.0.0.1:19098/livestreamer/ac36a3696ec781ba88e1469447723040.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", HISTORY HD
+http://127.0.0.1:19098/livestreamer/d722293bb9bbf20cc112924ef000a225.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png", SKY MOVIES GREATS HD
+http://127.0.0.1:19098/livestreamer/a2d025900c268045e4e2da567a8c3f9b.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/srvusx1466367859.png", SKY MOVIES ACTION HD
+http://127.0.0.1:19098/livestreamer/3c909c9218961b2ecfdd5f44a89a90b8.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/vytvxy1433965098.png", SKY MOVIES COMEDY HD
+http://127.0.0.1:19098/livestreamer/c168262cf8b9775300da0b79b2199ee6.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/xpvytr1473881752.png", SKY MOVIES CRIME HD
+http://127.0.0.1:19098/livestreamer/a84271250d9dc93c1edc84874552d6c7.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/wrxwtw1433965123.png", SKY MOVIES DISNEY HD
+http://127.0.0.1:19098/livestreamer/fb2cde6e0410cf537a19800bd19261f0.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/qtwyrw1473881773.png", SKY MOVIES DRAMA HD
+http://127.0.0.1:19098/livestreamer/5081d68d4054bc9209ec2bb1c5ff5eef.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qsyrrq1433965141.png", SKY MOVIES FAMILY HD
+http://127.0.0.1:19098/livestreamer/3caed59e3b7e405b3a802cc480a14e32.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qwytxv1433965174.png", SKY MOVIES PREMIERE HD
+http://127.0.0.1:19098/livestreamer/3265682a41f442e5a4164e9b26393634.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/typywu1433965191.png", SKY MOVIES SCIFI HD
+http://127.0.0.1:19098/livestreamer/20abccafd4a26b6fce57df892e5040be.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/rsvrsp1433965199.png", SKY MOVIES SELECT HD
+http://127.0.0.1:19098/livestreamer/760670eeaaa3e62adc1989fee2e8b259.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ttpvsq1433965207.png", SKY MOVIES SHOWCASE HD
+http://127.0.0.1:19098/livestreamer/b6f08ad1b0976d993e116cbb72aef8bd.m3u8
+
+#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/trvyxp1455554906.png", TRUE MOVIES HD
+http://127.0.0.1:19098/livestreamer/d2c73be17b950368083f5c7ca9445cb9.m3u8
