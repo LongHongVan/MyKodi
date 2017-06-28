@@ -1,6 +1,11 @@
 [
     "http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png", 
     "http://img.hplus.com.vn/460x260/poster/2016/09/01/650827-HTV9_FullHD.png", 
+    "https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png", 
+    "https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png", 
+    "https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png", 
+    "https://www.thelogodb.com/images/media/logo/vpwptv1434501703.png", 
+    "https://pbs.twimg.com/profile_images/837352157317754880/mbNakies.jpg", 
     "http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png", 
     "https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png", 
     "http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png", 
