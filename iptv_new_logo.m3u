@@ -1450,29 +1450,8 @@ http://xrxs.net/video/live-p12baya-4728.m3u8
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
 
 
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s27.postimg.org/dkmv2jpdf/vietbay_television_logo.png",[COLOR cyan][B] Việt Bay- San Jose[/B][/COLOR]
-http://64.71.129.2:8080/hls/ius_000131.m3u8
-
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s27.postimg.org/dkmv2jpdf/vietbay_television_logo.png",[COLOR cyan][B] Nam TV Channel- San Jose[/B][/COLOR]
-http://64.71.129.2:8080/hls/ius_000131.m3u8
-
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",[COLOR cyan][B] SBTN -SET channel 2072 -2 (m3u8)[/B][/COLOR]
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
-
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s1.postimg.org/4hfu2w66n/sbtn.png",[COLOR cyan][B] *** SBTN ***[/B][/COLOR]
-rtmp://stream.connectcast.tv/live playpath=mp4:sb72 swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/sb72
-
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s27.postimg.org/z3xib62cz/v_logo.png",[COLOR cyan][B] Viên Thao TV[/B][/COLOR]
-rtmp://stream.connectcast.tv/live playpath=mp4:vthao1223 swfUrl=http://connectcast.tv/vendors/jwplayer/v6.12/jwplayer.flash.swf pageUrl=http://connectcast.tv/vthao1223
-
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",[COLOR cyan][B] SBTN -SET channel 2072 -2 (m3u8)[/B][/COLOR]
-http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
-
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s29.postimg.org/7qe7wd13r/image.png",[COLOR cyan][B] Việtface Dallas 55.5 [/B][/COLOR]
-http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
-
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s30.postimg.org/9jankmvsx/VF_PNG.png",[COLOR cyan][B] * Việtface Cali. 57.2 *[/B][/COLOR]
-http://saigontv.saigon.ns01.us:1935/vf572caliisai/myStream/chunklist_w1497994736.m3u8
 
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png",[COLOR cyan][B] * Việt Mỹ TV *[/B][/COLOR]
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
@@ -1482,9 +1461,6 @@ http://68.235.37.11:1935/vietmagazine/vietmagazine/chunklist_w818469389.m3u8
 
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s13.postimg.org/ygxbnfr1z/cau_hinh_aspx.png",[COLOR cyan][B] VSam1040 TV Atlanta  2[/B][/COLOR]
 rtmp://uni5rtmp.tulix.tv/playout2multi10/ playpath=playout2multi10.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.tulix.com/iframe/playout2multi10/index.php
-
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s23.postimg.org/66gbpam3v/vietbay_shopping_mall_logo.png",[COLOR cyan][B]* Việt Bay TV 1.4 KAXT *[/B][/COLOR]
-http://64.71.129.2:8080/hls/ius_000131.m3u8
 
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s27.postimg.org/6o0q5ftw3/channel_schannel_4.png",[COLOR cyan][B]* SChannel 54.4 *[/B][/COLOR]
 http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w810007827.m3u8
@@ -1510,8 +1486,6 @@ http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",[COLOR cyan][B][B] IBC TV 57.8 2 (f) [/B][/COLOR]
 rtmp://liveplay3.malimarcdn.com:1935/ibcnews playpath=ibcnews.sdp swfUrl=http://ibcnews.tv/content/scripts/media/strobe/StrobeMediaPlayback.swf pageUrl=http://nguoiviet.tv/ibc-tv/
 
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s28.postimg.org/nll6ubj9p/quehuong.png",[COLOR cyan][B]* Quê Hương Media *[/B][/COLOR]
-http://64.71.129.2:8080/hls/ius_000130.m3u8
 
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s27.postimg.org/zd62aenf7/vnbc.png",[COLOR cyan][B] VNBC [/B][/COLOR]
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
@@ -1549,35 +1523,20 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png",[COLOR cyan][B] VNA TV [/B][/COLOR]
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s23.postimg.org/r6cyu78or/sctv.jpg",[COLOR ff00ffff][B] *SCTV-Phim hay tổng hợp  24h HD *[/B][/COLOR]
-rtmp://vf10.aditmedia.net/ingestx/ playpath=ivn_000105 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://nguoiviet.tv/phim/
-
-
-
 
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://sbtn.co/images/set-sbtn-logo2.png", SET TV
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", Saigon TV
 http://saigontvtv.saigon.ns01.us:1935/Lstv577/myStream/chunklist_w1229536511.m3u8
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png", VietFace TV
-http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="https://lh5.ggpht.com/ogmrnURRik6lzvDiKEtW3QbKpi9R5mOS82enqqS4NdpDv3EwI3JALRCjkr_q05SVXQ=w300", VBS
-http://vbstv.saigon.ns01.us:1935/vbstv/myStream/playlist.m3u8
+
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="https://unoipbox.com/develop/webprojects/projects/uno/skins/uno/images/channel/channel_schannel.png", SChannel
 http://schannel.saigon.ns01.us:1935/schannel/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://kvla.tv/wp-content/uploads/2016/03/3232z.png", KVLA
-http://kvla.saigon.ns01.us:1935/kvla/myStream/playlist.m3u8
+
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg", VStar
 http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="yt3.ggpht.com/-NTEw5Vvn_pA/AAAAAAAAAAI/AAAAAAAAAAA/l4_jd0MiVhY/s88-c-k-no/photo.jpg", Viet News
 http://saigontvtv.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkFRPNwfIXZfG0Uka4UjmF_Fw9mR24WndKmy3_CE8iDGTlurWk", Que Huong TV
-rtmp://vf10.aditmedia.net/ingestx/ius_000130
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="www.vietbay.tv/images/file/tplyBIXp0QgBAikO/vietbay-television-logo.png", VietBay San Jose
-rtmp://vf10.aditmedia.net/ingestx/ius_000131
 
-#EXTINF:-1 group-title="Top Viet Hai Ngoai TV",  tvg-id="" tvg-name="" tvg-logo="http://static.wixstatic.com/media/e28766_ecb97a356c814f5fba5ebf439201e977.png", VNATV 57.3
-http://vnatv.saigon.ns01.us:1935/vnatv/myStream/chunklist_w729302537.m3u8
 
 ################### end Top 10 Viet News Hai Ngoai TV ###############################
 
