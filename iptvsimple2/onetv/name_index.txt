@@ -1,6 +1,9 @@
 [
     "HTV7 HD (Bonus)", 
     "HTV9 HD (Bonus)", 
+    "VTV3 FHD (Bonus)", 
+    "VTV6 FHD (Bonus)", 
+    "OUTDOOR Channel FHD", 
     "FS1 HD", 
     "FS2 HD", 
     "ESPN HD", 
