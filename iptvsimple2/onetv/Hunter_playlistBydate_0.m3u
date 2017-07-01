@@ -572,8 +572,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts;name=BABY TV
 #EXTINF:-1,DISNEY CH HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts;name=DISNEY CH HD
-#EXTINF:-1,MTV ESPA¹A
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts;name=MTV ESPA¹A
+#EXTINF:-1,MTV ESPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts;name=MTV ESPA
 #EXTINF:-1,DISNEY XD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts;name=DISNEY XD
 #EXTINF:-1,DISCOVERY
