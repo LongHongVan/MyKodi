@@ -157,9 +157,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:
 #EXTINF:-1,Starz Encore US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1524.ts;name=Starz Encore US
 #EXTINF:-1,Kiro 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1520.ts;name=Kiro 7
-#EXTINF:-1,Иллюзион +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1518.ts;name=Иллюзион +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1520.ts;name=Kiro 7
 #EXTINF:-1,CBSN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1521.ts;name=CBSN
 #EXTINF:-1,Famly HD
