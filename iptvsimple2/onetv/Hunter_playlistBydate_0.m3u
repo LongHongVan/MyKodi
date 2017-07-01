@@ -1,0 +1,596 @@
+#EXTM3U 
+#EXTINF:-1,      [COLOR yellow]❀❀❀ Server: [/COLOR]http://vip.groupiptv.com:7000 Sat Jul  1 07:14:09 2017
+http://google.com[COLOR yellow] ❀❀❀[/COLOR]
+#EXTINF:-1,UK | 5 USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3480.ts;name=UK - 5 USA
+#EXTINF:-1,UK | Alibi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3481.ts;name=UK - Alibi
+#EXTINF:-1,UK | Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3482.ts;name=UK - Animal Planet
+#EXTINF:-1,UK | At The Races
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3483.ts;name=UK - At The Races
+#EXTINF:-1,UK | Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3484.ts;name=UK - Baby TV
+#EXTINF:-1,UK | BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3485.ts;name=UK - BBC 1
+#EXTINF:-1,UK | BBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3486.ts;name=UK - BBC 2
+#EXTINF:-1,UK | BBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3488.ts;name=UK - BBC 4
+#EXTINF:-1,UK | BBC World News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3490.ts;name=UK - BBC World News
+#EXTINF:-1,UK | Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3491.ts;name=UK - Bloomberg
+#EXTINF:-1,UK | Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3492.ts;name=UK - Boomerang
+#EXTINF:-1,UK | Boxnation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3493.ts;name=UK - Boxnation
+#EXTINF:-1,UK | BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3495.ts;name=UK - BT Sport 2 HD
+#EXTINF:-1,UK | BT Sport Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3498.ts;name=UK - BT Sport Europe
+#EXTINF:-1,UK | BT Sport Extra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3499.ts;name=UK - BT Sport Extra 1
+#EXTINF:-1,UK | BT Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3500.ts;name=UK - BT Sport Extra 2
+#EXTINF:-1,UK | BT Sport Extra 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3501.ts;name=UK - BT Sport Extra 3
+#EXTINF:-1,UK | BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3502.ts;name=UK - BT Sport Extra 4
+#EXTINF:-1,UK | BT Sport Extra 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3503.ts;name=UK - BT Sport Extra 5
+#EXTINF:-1,UK | BT Sport Extra 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3504.ts;name=UK - BT Sport Extra 6
+#EXTINF:-1,UK | BT Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3496.ts;name=UK - BT Sports 1
+#EXTINF:-1,UK | BT Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3497.ts;name=UK - BT Sports 2
+#EXTINF:-1,UK | Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3506.ts;name=UK - Cartoon Network
+#EXTINF:-1,UK | Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3505.ts;name=UK - Cartoonito
+#EXTINF:-1,UK | Cbeebies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3507.ts;name=UK - Cbeebies
+#EXTINF:-1,UK | CBS Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3508.ts;name=UK - CBS Action
+#EXTINF:-1,UK | CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3509.ts;name=UK - CBS Drama
+#EXTINF:-1,UK | CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3510.ts;name=UK - CBS Reality
+#EXTINF:-1,UK | Channel 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3511.ts;name=UK - Channel 4
+#EXTINF:-1,UK | Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3512.ts;name=UK - Channel 5
+#EXTINF:-1,UK | Chelsea FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3513.ts;name=UK - Chelsea FC
+#EXTINF:-1,UK | CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3514.ts;name=UK - CNN
+#EXTINF:-1,UK | Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3515.ts;name=UK - Comedy Central
+#EXTINF:-1,UK | Comedy Central Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3516.ts;name=UK - Comedy Central Xtra
+#EXTINF:-1,UK | Crime and Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3517.ts;name=UK - Crime and Investigation
+#EXTINF:-1,UK | Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3518.ts;name=UK - Dave
+#EXTINF:-1,UK | Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3519.ts;name=UK - Discovery Channel
+#EXTINF:-1,UK | Discovery History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3520.ts;name=UK - Discovery History
+#EXTINF:-1,UK | Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3521.ts;name=UK - Discovery Science
+#EXTINF:-1,UK | Discovery Shed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3522.ts;name=UK - Discovery Shed
+#EXTINF:-1,UK | Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3523.ts;name=UK - Discovery Turbo
+#EXTINF:-1,UK | Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3524.ts;name=UK - Disney Channel
+#EXTINF:-1,UK | Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3525.ts;name=UK - Disney Junior
+#EXTINF:-1,UK | Disney Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3527.ts;name=UK - Disney Movies
+#EXTINF:-1,UK | Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3526.ts;name=UK - Disney XD
+#EXTINF:-1,UK | Dmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3528.ts;name=UK - Dmax
+#EXTINF:-1,UK | Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3529.ts;name=UK - Drama
+#EXTINF:-1,UK | E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3530.ts;name=UK - E4
+#EXTINF:-1,UK | Eir Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3531.ts;name=UK - Eir Sport 1
+#EXTINF:-1,UK | ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3533.ts;name=UK - ESPN
+#EXTINF:-1,UK | Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3534.ts;name=UK - Eurosport 1
+#EXTINF:-1,UK | Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3535.ts;name=UK - Eurosport 2
+#EXTINF:-1,UK | Five
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3537.ts;name=UK - Five
+#EXTINF:-1,UK | FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3539.ts;name=UK - FOX
+#EXTINF:-1,UK | FOX Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3540.ts;name=UK - FOX Crime
+#EXTINF:-1,UK | FOX News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3541.ts;name=UK - FOX News
+#EXTINF:-1,UK | Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3543.ts;name=UK - Gold
+#EXTINF:-1,UK | Good Food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3544.ts;name=UK - Good Food
+#EXTINF:-1,UK | History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3545.ts;name=UK - History Channel
+#EXTINF:-1,UK | Home and Health
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3546.ts;name=UK - Home and Health
+#EXTINF:-1,UK | ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3547.ts;name=UK - ITV 1
+#EXTINF:-1,UK | ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3548.ts;name=UK - ITV 2
+#EXTINF:-1,UK | ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3549.ts;name=UK - ITV 3
+#EXTINF:-1,UK | ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3550.ts;name=UK - ITV 4
+#EXTINF:-1,UK | ITV Be
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3551.ts;name=UK - ITV Be
+#EXTINF:-1,UK | ITV Encore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3552.ts;name=UK - ITV Encore
+#EXTINF:-1,UK | Kix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3553.ts;name=UK - Kix
+#EXTINF:-1,UK | Liverpool FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3555.ts;name=UK - Liverpool FC
+#EXTINF:-1,UK | Manchester United FC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3556.ts;name=UK - Manchester United FC
+#EXTINF:-1,UK | More 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3557.ts;name=UK - More 4
+#EXTINF:-1,UK | Motors TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3558.ts;name=UK - Motors TV
+#EXTINF:-1,UK | Movies 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3562.ts;name=UK - Movies 24
+#EXTINF:-1,UK | Movies 4 Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3559.ts;name=UK - Movies 4 Men
+#EXTINF:-1,UK | MTV Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3560.ts;name=UK - MTV Hits
+#EXTINF:-1,UK | MTV Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3561.ts;name=UK - MTV Music
+#EXTINF:-1,UK | National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3563.ts;name=UK - National Geographic
+#EXTINF:-1,UK | National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3564.ts;name=UK - National Geographic Wild
+#EXTINF:-1,UK | Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3566.ts;name=UK - Nick Junior
+#EXTINF:-1,UK | Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3565.ts;name=UK - Nickelodeon
+#EXTINF:-1,UK | Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3567.ts;name=UK - Nicktoons
+#EXTINF:-1,UK | Pick TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3568.ts;name=UK - Pick TV
+#EXTINF:-1,UK | Premier Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3569.ts;name=UK - Premier Sports
+#EXTINF:-1,UK | Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3570.ts;name=UK - Quest
+#EXTINF:-1,UK | Racing UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3571.ts;name=UK - Racing UK
+#EXTINF:-1,UK | Really
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3572.ts;name=UK - Really
+#EXTINF:-1,UK | RTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3573.ts;name=UK - RTE 1
+#EXTINF:-1,UK | RTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3574.ts;name=UK - RTE 2
+#EXTINF:-1,UK | Sky Arts 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3575.ts;name=UK - Sky Arts 1
+#EXTINF:-1,UK | Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3576.ts;name=UK - Sky Atlantic
+#EXTINF:-1,UK | Sky Living UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3577.ts;name=UK - Sky Living UK
+#EXTINF:-1,UK | Sky Movies Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3578.ts;name=UK - Sky Movies Action
+#EXTINF:-1,UK | Sky Movies Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3579.ts;name=UK - Sky Movies Comedy
+#EXTINF:-1,UK | Sky Movies Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3580.ts;name=UK - Sky Movies Drama
+#EXTINF:-1,UK | Sky Movies Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3581.ts;name=UK - Sky Movies Family
+#EXTINF:-1,UK | Sky Movies Modern Greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3582.ts;name=UK - Sky Movies Modern Greats
+#EXTINF:-1,UK | Sky Movies Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3583.ts;name=UK - Sky Movies Premiere
+#EXTINF:-1,UK | Sky Movies Scifi Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3584.ts;name=UK - Sky Movies Scifi Horror
+#EXTINF:-1,UK | Sky Movies Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3585.ts;name=UK - Sky Movies Select
+#EXTINF:-1,UK | Sky Movies Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3586.ts;name=UK - Sky Movies Showcase
+#EXTINF:-1,UK | Sky Movies Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3587.ts;name=UK - Sky Movies Thriller
+#EXTINF:-1,UK | SKY News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3588.ts;name=UK - SKY News
+#EXTINF:-1,UK | Sky One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3589.ts;name=UK - Sky One
+#EXTINF:-1,UK | Sky Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3591.ts;name=UK - Sky Sports 1 HD
+#EXTINF:-1,UK | Sky Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3593.ts;name=UK - Sky Sports 2 HD
+#EXTINF:-1,UK | Sky Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3596.ts;name=UK - Sky Sports 4
+#EXTINF:-1,UK | Sky Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3597.ts;name=UK - Sky Sports 4 HD
+#EXTINF:-1,UK | Sky Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3598.ts;name=UK - Sky Sports 5
+#EXTINF:-1,UK | Sky Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3599.ts;name=UK - Sky Sports 5 HD
+#EXTINF:-1,UK | Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3600.ts;name=UK - Sky Sports F1
+#EXTINF:-1,UK | Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3601.ts;name=UK - Sky Sports F1 HD
+#EXTINF:-1,UK | Sky Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3602.ts;name=UK - Sky Sports News
+#EXTINF:-1,UK | Sky Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3603.ts;name=UK - Sky Two
+#EXTINF:-1,UK | Spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3604.ts;name=UK - Spike
+#EXTINF:-1,UK | SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3605.ts;name=UK - SyFy
+#EXTINF:-1,UK | TG 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3606.ts;name=UK - TG 4
+#EXTINF:-1,UK | The Vault
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3607.ts;name=UK - The Vault
+#EXTINF:-1,UK | TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3608.ts;name=UK - TLC
+#EXTINF:-1,UK | Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3610.ts;name=UK - Travel Channel
+#EXTINF:-1,UK | True Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3611.ts;name=UK - True Entertainment
+#EXTINF:-1,UK | True Movies 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3612.ts;name=UK - True Movies 1
+#EXTINF:-1,UK | True Movies 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3613.ts;name=UK - True Movies 2
+#EXTINF:-1,UK | TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3614.ts;name=UK - TV3
+#EXTINF:-1,UK | TV3 Plus 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3615.ts;name=UK - TV3 Plus 1
+#EXTINF:-1,UK | Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3616.ts;name=UK - Universal
+#EXTINF:-1,UK | VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3617.ts;name=UK - VH1
+#EXTINF:-1,UK | W
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3618.ts;name=UK - W
+#EXTINF:-1,UK | Watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3619.ts;name=UK - Watch
+#EXTINF:-1,UK | Yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/3620.ts;name=UK - Yesterday
+#EXTINF:-1,SPORTS | Arena Sport 1 Croatia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4039.ts;name=SPORTS - Arena Sport 1 Croatia
+#EXTINF:-1,SPORTS | Arena Sport 1 Serbian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4038.ts;name=SPORTS - Arena Sport 1 Serbian
+#EXTINF:-1,SPORTS | Arena Sport 2 Croatia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4041.ts;name=SPORTS - Arena Sport 2 Croatia
+#EXTINF:-1,SPORTS | Arena Sport 2 Serbian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4040.ts;name=SPORTS - Arena Sport 2 Serbian
+#EXTINF:-1,SPORTS | Arena Sport 3 Croatia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4043.ts;name=SPORTS - Arena Sport 3 Croatia
+#EXTINF:-1,SPORTS | Arena Sport 3 Serbian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4042.ts;name=SPORTS - Arena Sport 3 Serbian
+#EXTINF:-1,SPORTS | Arena Sport 4 Croatia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4045.ts;name=SPORTS - Arena Sport 4 Croatia
+#EXTINF:-1,SPORTS | Arena Sport 4 Serbian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4044.ts;name=SPORTS - Arena Sport 4 Serbian
+#EXTINF:-1,SPORTS | Arena Sport 5 Croatia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4046.ts;name=SPORTS - Arena Sport 5 Croatia
+#EXTINF:-1,SPORTS | Arena Sport 5 Serbian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4047.ts;name=SPORTS - Arena Sport 5 Serbian
+#EXTINF:-1,SPORTS | Astro Supersport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4051.ts;name=SPORTS - Astro Supersport 4
+#EXTINF:-1,SPORTS | BEIN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4016.ts;name=SPORTS - BEIN SPORTS 1
+#EXTINF:-1,SPORTS | BEIN SPORTS 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4025.ts;name=SPORTS - BEIN SPORTS 10
+#EXTINF:-1,SPORTS | BEIN SPORTS 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4026.ts;name=SPORTS - BEIN SPORTS 11
+#EXTINF:-1,SPORTS | BEIN SPORTS 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4027.ts;name=SPORTS - BEIN SPORTS 12
+#EXTINF:-1,SPORTS | BEIN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4017.ts;name=SPORTS - BEIN SPORTS 2
+#EXTINF:-1,SPORTS | BEIN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4018.ts;name=SPORTS - BEIN SPORTS 3
+#EXTINF:-1,SPORTS | BEIN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4019.ts;name=SPORTS - BEIN SPORTS 4
+#EXTINF:-1,SPORTS | BEIN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4020.ts;name=SPORTS - BEIN SPORTS 5
+#EXTINF:-1,SPORTS | BEIN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4021.ts;name=SPORTS - BEIN SPORTS 6
+#EXTINF:-1,SPORTS | BEIN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4022.ts;name=SPORTS - BEIN SPORTS 7
+#EXTINF:-1,SPORTS | BEIN SPORTS 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4023.ts;name=SPORTS - BEIN SPORTS 8
+#EXTINF:-1,SPORTS | BEIN SPORTS 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4024.ts;name=SPORTS - BEIN SPORTS 9
+#EXTINF:-1,SPORTS | Digi Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4052.ts;name=SPORTS - Digi Sport 1
+#EXTINF:-1,SPORTS | Digi Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4053.ts;name=SPORTS - Digi Sport 2
+#EXTINF:-1,SPORTS | Digi Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4054.ts;name=SPORTS - Digi Sport 3
+#EXTINF:-1,SPORTS | Extreme Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4055.ts;name=SPORTS - Extreme Sports
+#EXTINF:-1,SPORTS | GEO Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4072.ts;name=SPORTS - GEO Super
+#EXTINF:-1,SPORTS | NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4056.ts;name=SPORTS - NBA TV
+#EXTINF:-1,SPORTS | OSN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4057.ts;name=SPORTS - OSN Sport 1
+#EXTINF:-1,SPORTS | OSN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4058.ts;name=SPORTS - OSN Sport 2
+#EXTINF:-1,SPORTS | OSN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4059.ts;name=SPORTS - OSN Sport 3
+#EXTINF:-1,SPORTS | PTV Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4071.ts;name=SPORTS - PTV Sports
+#EXTINF:-1,SPORTS | Smart Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4061.ts;name=SPORTS - Smart Sport 1
+#EXTINF:-1,SPORTS | Sony Six
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4070.ts;name=SPORTS - Sony Six
+#EXTINF:-1,SPORTS | Sport Klub 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4062.ts;name=SPORTS - Sport Klub 1
+#EXTINF:-1,SPORTS | Sport Klub 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4063.ts;name=SPORTS - Sport Klub 2
+#EXTINF:-1,SPORTS | Sport Klub 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4064.ts;name=SPORTS - Sport Klub 3
+#EXTINF:-1,SPORTS | Sport TV 1 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4067.ts;name=SPORTS - Sport TV 1 PT
+#EXTINF:-1,SPORTS | Star Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4075.ts;name=SPORTS - Star Sports 1
+#EXTINF:-1,SPORTS | Star Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4076.ts;name=SPORTS - Star Sports 2
+#EXTINF:-1,SPORTS | Star Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4077.ts;name=SPORTS - Star Sports 3
+#EXTINF:-1,SPORTS | Star Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4078.ts;name=SPORTS - Star Sports 4
+#EXTINF:-1,SPORTS | SuperSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4033.ts;name=SPORTS - SuperSport 1 HD
+#EXTINF:-1,SPORTS | SuperSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4034.ts;name=SPORTS - SuperSport 2 HD
+#EXTINF:-1,SPORTS | SuperSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4035.ts;name=SPORTS - SuperSport 3 HD
+#EXTINF:-1,SPORTS | SuperSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4036.ts;name=SPORTS - SuperSport 4 HD
+#EXTINF:-1,SPORTS | SuperSport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4037.ts;name=SPORTS - SuperSport 5 HD
+#EXTINF:-1,SPORTS | TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4074.ts;name=SPORTS - TEN
+#EXTINF:-1,SPORTS | Ten Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4068.ts;name=SPORTS - Ten Cricket
+#EXTINF:-1,SPORTS | TEN Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4073.ts;name=SPORTS - TEN Sports
+#EXTINF:-1,SPORTS | Willow Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4069.ts;name=SPORTS - Willow Cricket
+#EXTINF:-1,SPORTS VIP | AD Sports 1 (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4098.ts;name=SPORTS VIP - AD Sports 1 (Arabic)
+#EXTINF:-1,SPORTS VIP | AD Sports 2 (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4099.ts;name=SPORTS VIP - AD Sports 2 (Arabic)
+#EXTINF:-1,SPORTS VIP | Extreme Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4094.ts;name=SPORTS VIP - Extreme Sports 1
+#EXTINF:-1,SPORTS VIP | Fight Channel 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4089.ts;name=SPORTS VIP - Fight Channel 1
+#EXTINF:-1,SPORTS VIP | Fight Channel 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4090.ts;name=SPORTS VIP - Fight Channel 2
+#EXTINF:-1,SPORTS VIP | Fight Channel 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4091.ts;name=SPORTS VIP - Fight Channel 3
+#EXTINF:-1,SPORTS VIP | Fight Channel 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4092.ts;name=SPORTS VIP - Fight Channel 4
+#EXTINF:-1,SPORTS VIP | Ginx eSports TV (UK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4097.ts;name=SPORTS VIP - Ginx eSports TV (UK)
+#EXTINF:-1,SPORTS VIP | Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4100.ts;name=SPORTS VIP - Real Madrid
+#EXTINF:-1,SPORTS VIP | SFR Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4101.ts;name=SPORTS VIP - SFR Sport 1
+#EXTINF:-1,SPORTS VIP | SFR Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4102.ts;name=SPORTS VIP - SFR Sport 2
+#EXTINF:-1,SPORTS VIP | Sky Sports Mix (UK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4096.ts;name=SPORTS VIP - Sky Sports Mix (UK)
+#EXTINF:-1,SPORTS VIP | Skynet Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4103.ts;name=SPORTS VIP - Skynet Sports
+#EXTINF:-1,SPORTS VIP | Skynet Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4104.ts;name=SPORTS VIP - Skynet Sports 1
+#EXTINF:-1,SPORTS VIP | Skynet Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4105.ts;name=SPORTS VIP - Skynet Sports 2
+#EXTINF:-1,SPORTS VIP | Skynet Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4106.ts;name=SPORTS VIP - Skynet Sports 3
+#EXTINF:-1,SPORTS VIP | Skynet Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4108.ts;name=SPORTS VIP - Skynet Sports 5
+#EXTINF:-1,SPORTS VIP | Skynet Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4109.ts;name=SPORTS VIP - Skynet Sports 6
+#EXTINF:-1,SPORTS VIP | SPORTS Kombat Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4093.ts;name=SPORTS VIP - SPORTS Kombat Sport
+#EXTINF:-1,SPORTS VIP | VIASAT Football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4087.ts;name=SPORTS VIP - VIASAT Football
+#EXTINF:-1,SPORTS VIP | VIASAT Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4088.ts;name=SPORTS VIP - VIASAT Sports
+#EXTINF:-1,USA | Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4182.ts;name=USA - Animal Planet
+#EXTINF:-1,USA | Bein USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4183.ts;name=USA - Bein USA
+#EXTINF:-1,USA | Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4184.ts;name=USA - Bloomberg
+#EXTINF:-1,USA | CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4197.ts;name=USA - CBS
+#EXTINF:-1,USA | CBSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4202.ts;name=USA - CBSN
+#EXTINF:-1,USA | CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4185.ts;name=USA - CNBC
+#EXTINF:-1,USA | CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4186.ts;name=USA - CNN
+#EXTINF:-1,USA | ESPN USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4187.ts;name=USA - ESPN USA
+#EXTINF:-1,USA | Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4188.ts;name=USA - Fox Sports 1
+#EXTINF:-1,USA | FOX Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4189.ts;name=USA - FOX Sports 2
+#EXTINF:-1,USA | NBC SN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4191.ts;name=USA - NBC SN
+#EXTINF:-1,USA | NDTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4199.ts;name=USA - NDTV
+#EXTINF:-1,USA | TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4192.ts;name=USA - TSN 1
+#EXTINF:-1,USA | TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4193.ts;name=USA - TSN 2
+#EXTINF:-1,USA | TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4194.ts;name=USA - TSN 3
+#EXTINF:-1,USA | TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4195.ts;name=USA - TSN 4
+#EXTINF:-1,USA | TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4196.ts;name=USA - TSN 5
+#EXTINF:-1,USA VIP | 360 North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4206.ts;name=USA VIP - 360 North
+#EXTINF:-1,USA VIP | A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4207.ts;name=USA VIP - A&E
+#EXTINF:-1,USA VIP | AFN Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4230.ts;name=USA VIP - AFN Sports
+#EXTINF:-1,USA VIP | AFN Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4231.ts;name=USA VIP - AFN Sports 2
+#EXTINF:-1,USA VIP | AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4209.ts;name=USA VIP - AMC
+#EXTINF:-1,USA VIP | Bein Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4254.ts;name=USA VIP - Bein Sports
+#EXTINF:-1,USA VIP | Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4225.ts;name=USA VIP - Bloomberg
+#EXTINF:-1,USA VIP | BYU Sports TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4246.ts;name=USA VIP - BYU Sports TV
+#EXTINF:-1,USA VIP | Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4261.ts;name=USA VIP - Cartoon Network
+#EXTINF:-1,USA VIP | CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4262.ts;name=USA VIP - CBS
+#EXTINF:-1,USA VIP | CBSN-US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4226.ts;name=USA VIP - CBSN-US
+#EXTINF:-1,USA VIP | Cinemax East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4244.ts;name=USA VIP - Cinemax East
+#EXTINF:-1,USA VIP | Cinemax Moremax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4243.ts;name=USA VIP - Cinemax Moremax
+#EXTINF:-1,USA VIP | CityTV Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4210.ts;name=USA VIP - CityTV Toronto
+#EXTINF:-1,USA VIP | CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4211.ts;name=USA VIP - CNBC
+#EXTINF:-1,USA VIP | CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4239.ts;name=USA VIP - CNN
+#EXTINF:-1,USA VIP | Crime and Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4266.ts;name=USA VIP - Crime and Investigation
+#EXTINF:-1,USA VIP | CW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4212.ts;name=USA VIP - CW
+#EXTINF:-1,USA VIP | Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4238.ts;name=USA VIP - Discovery
+#EXTINF:-1,USA VIP | Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4260.ts;name=USA VIP - Discovery Science
+#EXTINF:-1,USA VIP | Discovery Velocity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4268.ts;name=USA VIP - Discovery Velocity
+#EXTINF:-1,USA VIP | E! Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4216.ts;name=USA VIP - E! Network
+#EXTINF:-1,USA VIP | ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4228.ts;name=USA VIP - ESPN
+#EXTINF:-1,USA VIP | ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4229.ts;name=USA VIP - ESPN 2
+#EXTINF:-1,USA VIP | Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4218.ts;name=USA VIP - Food Network
+#EXTINF:-1,USA VIP | FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4219.ts;name=USA VIP - FOX
+#EXTINF:-1,USA VIP | Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4221.ts;name=USA VIP - Fox Sports 2
+#EXTINF:-1,USA VIP | Fox Sports 506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4222.ts;name=USA VIP - Fox Sports 506
+#EXTINF:-1,USA VIP | FreeRom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4217.ts;name=USA VIP - FreeRom
+#EXTINF:-1,USA VIP | FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4223.ts;name=USA VIP - FX
+#EXTINF:-1,USA VIP | Hallmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4259.ts;name=USA VIP - Hallmark
+#EXTINF:-1,USA VIP | HBO Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4236.ts;name=USA VIP - HBO Comedy
+#EXTINF:-1,USA VIP | HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4235.ts;name=USA VIP - HBO Signature
+#EXTINF:-1,USA VIP | History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4265.ts;name=USA VIP - History
+#EXTINF:-1,USA VIP | Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4267.ts;name=USA VIP - Music
+#EXTINF:-1,USA VIP | NASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4224.ts;name=USA VIP - NASA
+#EXTINF:-1,USA VIP | National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4264.ts;name=USA VIP - National Geographic
+#EXTINF:-1,USA VIP | NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4250.ts;name=USA VIP - NBA
+#EXTINF:-1,USA VIP | NBA Versus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4251.ts;name=USA VIP - NBA Versus
+#EXTINF:-1,USA VIP | NBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4213.ts;name=USA VIP - NBC
+#EXTINF:-1,USA VIP | NBC Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4214.ts;name=USA VIP - NBC Golf
+#EXTINF:-1,USA VIP | NBC Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4215.ts;name=USA VIP - NBC Sport
+#EXTINF:-1,USA VIP | NFL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4240.ts;name=USA VIP - NFL
+#EXTINF:-1,USA VIP | RT Documentary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4249.ts;name=USA VIP - RT Documentary
+#EXTINF:-1,USA VIP | Showtime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4232.ts;name=USA VIP - Showtime
+#EXTINF:-1,USA VIP | Sports Net 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4242.ts;name=USA VIP - Sports Net 360
+#EXTINF:-1,USA VIP | Starz Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4255.ts;name=USA VIP - Starz Cinema
+#EXTINF:-1,USA VIP | Starz East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4258.ts;name=USA VIP - Starz East
+#EXTINF:-1,USA VIP | Starz Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4256.ts;name=USA VIP - Starz Edge
+#EXTINF:-1,USA VIP | Starz Encore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4257.ts;name=USA VIP - Starz Encore
+#EXTINF:-1,USA VIP | TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4248.ts;name=USA VIP - TBS
+#EXTINF:-1,USA VIP | TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4233.ts;name=USA VIP - TLC
+#EXTINF:-1,USA VIP | WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/4237.ts;name=USA VIP - WWE Network
+#EXTINF:-1,US: ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/abela/abela/5274.ts;name=US: ABC
+
+#EXTM3U 
+#EXTINF:-1,      [COLOR yellow]❀❀❀ Server: [/COLOR]http://192.99.149.20:8080 Sat Jul  1 07:18:42 2017
+http://google.com[COLOR yellow] ❀❀❀[/COLOR]
+
+#EXTM3U 
+#EXTINF:-1,      [COLOR yellow]❀❀❀ Server: [/COLOR]http://xc.cobra-iptv.com:25461 Sat Jul  1 07:18:42 2017
+http://google.com[COLOR yellow] ❀❀❀[/COLOR]
+
+#EXTM3U 
+#EXTINF:-1,      [COLOR yellow]❀❀❀ Server: [/COLOR]http://163.172.52.83:8000 Sat Jul  1 07:18:43 2017
+http://google.com[COLOR yellow] ❀❀❀[/COLOR]
+#EXTINF:-1,ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts;name=ANTENA 3 HD
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts;name=FOX LIFE HD
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts;name=FOX HD
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts;name=AXN WHITE HD
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts;name=AXN HD
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts;name=TNT HD
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts;name=AMC HD
+#EXTINF:-1,NICKELODEONHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts;name=NICKELODEONHD
+#EXTINF:-1,GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts;name=GOL TV
+#EXTINF:-1,EUROSPORT1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts;name=EUROSPORT1HD
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts;name=EUROSPORT 2
+#EXTINF:-1,NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts;name=NAT GEO HD
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts;name=BABY TV
+#EXTINF:-1,DISNEY CH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts;name=DISNEY CH HD
+#EXTINF:-1,MTV ESPA¹A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts;name=MTV ESPA¹A
+#EXTINF:-1,DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts;name=DISNEY XD
+#EXTINF:-1,DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts;name=DISCOVERY
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts;name=A&E
+
