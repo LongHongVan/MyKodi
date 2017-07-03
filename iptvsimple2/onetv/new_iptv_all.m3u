@@ -1,235 +1,203 @@
 #EXTM3U 
 
-#EXTINF:-1,Sky Sports News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/549.ts;name=Sky Sports News HD
-#EXTINF:-1,Sky Sport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/533.ts;name=Sky Sport 1 SD
-#EXTINF:-1,Sky Sport 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/532.ts;name=Sky Sport 2 SD
-#EXTINF:-1,Sky Sport 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/531.ts;name=Sky Sport 3 SD
-#EXTINF:-1,Sky Sport 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/530.ts;name=Sky Sport 4 SD
-#EXTINF:-1,Sky Sport 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/529.ts;name=Sky Sport 5 SD
-#EXTINF:-1,Sky Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/548.ts;name=Sky Sports 1 HD
-#EXTINF:-1,Sky Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/547.ts;name=Sky Sports 2 HD
-#EXTINF:-1,Sky Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/546.ts;name=Sky Sports 3 HD
-#EXTINF:-1,Sky Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/545.ts;name=Sky Sports 4 HD
-#EXTINF:-1,Sky Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/544.ts;name=Sky Sports 5 HD
-#EXTINF:-1,Sky Sports F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/539.ts;name=Sky Sports F1
-#EXTINF:-1,Sky Sport AU 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/438.ts;name=Sky Sport AU 1
-#EXTINF:-1,Sport TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1451.ts;name=Sport TSN 1
-#EXTINF:-1,Sport TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1452.ts;name=Sport TSN 2
-#EXTINF:-1,Sport TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1453.ts;name=Sport TSN 3
-#EXTINF:-1,Sport TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1455.ts;name=Sport TSN 5
-#EXTINF:-1,Skynet Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1476.ts;name=Skynet Sports HD
-#EXTINF:-1,Skynet Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1431.ts;name=Skynet Sports 1
-#EXTINF:-1,Skynet Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1436.ts;name=Skynet Sports 2
-#EXTINF:-1,Skynet Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1472.ts;name=Skynet Sports 3
-#EXTINF:-1,Skynet Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1473.ts;name=Skynet Sports 4
-#EXTINF:-1,Skynet Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1474.ts;name=Skynet Sports 5
-#EXTINF:-1,Skynet Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1475.ts;name=Skynet Sports 6
-#EXTINF:-1,Sports NET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1497.ts;name=Sports NET 360 HD
-#EXTINF:-1,Sports NET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1502.ts;name=Sports NET PACIFIC
-#EXTINF:-1,Sports NET ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1508.ts;name=Sports NET ONE HD
-#EXTINF:-1,Sports NET WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1526.ts;name=Sports NET WORLD
-#EXTINF:-1,Sports NET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1503.ts;name=Sports NET ONTARIO
-#EXTINF:-1,Sports NET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1525.ts;name=Sports NET WEST HD
-#EXTINF:-1,Sports Tonight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1490.ts;name=Sports Tonight
-#EXTINF:-1,Sport Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1459.ts;name=Sport Network
-#EXTINF:-1,Sport LTVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1496.ts;name=Sport LTVE HD
-#EXTINF:-1,USA Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1498.ts;name=USA Network
-#EXTINF:-1,Espn Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1483.ts;name=Espn Sport
-#EXTINF:-1,BeIN Sports US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1486.ts;name=BeIN Sports US
-#EXTINF:-1,Sports NFL Now HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1434.ts;name=Sports NFL Now HD
-#EXTINF:-1,NHL Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1429.ts;name=NHL Network HD
-#EXTINF:-1,Sport Snet Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1430.ts;name=Sport Snet Central
-#EXTINF:-1,ShowTime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1439.ts;name=ShowTime HD
-#EXTINF:-1,Showtime US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1480.ts;name=Showtime US
-#EXTINF:-1,AFN Prime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1479.ts;name=AFN Prime HD
-#EXTINF:-1,AFN Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1477.ts;name=AFN Movies HD
-#EXTINF:-1,TMN Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1471.ts;name=TMN Action
-#EXTINF:-1,TMN Movies 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1467.ts;name=TMN Movies 1
-#EXTINF:-1,TMN Movies 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1468.ts;name=TMN Movies 2
-#EXTINF:-1,TMN Movies 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1469.ts;name=TMN Movies 3
-#EXTINF:-1,TMN Movies 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1470.ts;name=TMN Movies 4
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1478.ts;name=FX HD
-#EXTINF:-1,FOX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1435.ts;name=FOX 1
-#EXTINF:-1,Ion US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1531.ts;name=Ion US
-#EXTINF:-1,FOX 30
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1523.ts;name=FOX 30
-#EXTINF:-1,FOX 23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1519.ts;name=FOX 23
-#EXTINF:-1,Fox 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1509.ts;name=Fox 24 HD
-#EXTINF:-1,Fox Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1448.ts;name=Fox Action
-#EXTINF:-1,Fox Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1441.ts;name=Fox Action HD
-#EXTINF:-1,Fox Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1437.ts;name=Fox Premium HD
-#EXTINF:-1,Cinemax ActionMax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1512.ts;name=Cinemax ActionMax
-#EXTINF:-1,HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1517.ts;name=HBO Signature
-#EXTINF:-1,NBCSN Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1533.ts;name=NBCSN Golf
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1481.ts;name=SYFY HD
-#EXTINF:-1,CBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1485.ts;name=CBS HD
-#EXTINF:-1,HBO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1433.ts;name=HBO 1
-#EXTINF:-1,Bravo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1482.ts;name=Bravo
-#EXTINF:-1,Starz Edge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1438.ts;name=Starz Edge
-#EXTINF:-1,Starz East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1450.ts;name=Starz East
-#EXTINF:-1,YTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1506.ts;name=YTV HD
-#EXTINF:-1,Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1457.ts;name=Fight Network
-#EXTINF:-1,Bravo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1507.ts;name=Bravo HD
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1500.ts;name=A&E HD
-#EXTINF:-1,HBO Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1511.ts;name=HBO Action
-#EXTINF:-1,Movie Time HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1499.ts;name=Movie Time HD
-#EXTINF:-1,RDS2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1505.ts;name=RDS2
-#EXTINF:-1,NBCSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1456.ts;name=NBCSN
-#EXTINF:-1,HSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1462.ts;name=HSN
-#EXTINF:-1,London Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1494.ts;name=London Live
-#EXTINF:-1,Golbal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1491.ts;name=Golbal HD
-#EXTINF:-1,Starz Encore US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1524.ts;name=Starz Encore US
-#EXTINF:-1,Kiro 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1520.ts;name=Kiro 7
-#EXTINF:-1,CBSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1521.ts;name=CBSN
-#EXTINF:-1,Famly HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1495.ts;name=Famly HD
-#EXTINF:-1,Olympic Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1493.ts;name=Olympic Channel
-#EXTINF:-1,AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1492.ts;name=AMC
-#EXTINF:-1,BBC Two Eng
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1443.ts;name=BBC Two Eng
-#EXTINF:-1,Msnbc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1447.ts;name=Msnbc
-#EXTINF:-1,Cinemax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1461.ts;name=Cinemax
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1534.ts;name=AMC HD
-#EXTINF:-1,Life Time HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1460.ts;name=Life Time HD
-#EXTINF:-1,C-Span 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1487.ts;name=C-Span 1 HD
-#EXTINF:-1,C-Span 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1488.ts;name=C-Span 2 HD
-#EXTINF:-1,C-Span 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1489.ts;name=C-Span 3 HD
-#EXTINF:-1,Showtime Extreme
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1539.ts;name=Showtime Extreme
-#EXTINF:-1,CBC Toronto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1541.ts;name=CBC Toronto
-#EXTINF:-1,Comedy Central HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1540.ts;name=Comedy Central HD US
-#EXTINF:-1,ActionMAX US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1527.ts;name=ActionMAX US
-#EXTINF:-1,CP24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1528.ts;name=CP24 HD
-#EXTINF:-1,TWiT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1535.ts;name=TWiT TV
-#EXTINF:-1,HBO Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1536.ts;name=HBO Family
-#EXTINF:-1,Starz Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1537.ts;name=Starz Comedy
-#EXTINF:-1,Starz Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1538.ts;name=Starz Cinema
-#EXTINF:-1,W Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1532.ts;name=W Network HD
-#EXTINF:-1,Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1464.ts;name=Bloomberg
-#EXTINF:-1,Amazing Discoveries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1465.ts;name=Amazing Discoveries
-#EXTINF:-1,ABC NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1466.ts;name=ABC NEWS HD
-#EXTINF:-1,A&E Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1458.ts;name=A&E Network
-#EXTINF:-1,Thai CH8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1463.ts;name=Thai CH8
-#EXTINF:-1,World Fashion TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1432.ts;name=World Fashion TV
-#EXTINF:-1,TBS Channle
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1449.ts;name=TBS Channle
-#EXTINF:-1,Amazing Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1446.ts;name=Amazing Music
-#EXTINF:-1,ABC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1504.ts;name=ABC
-#EXTINF:-1,Classique
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1515.ts;name=Classique
-#EXTINF:-1,Euro plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1516.ts;name=Euro plus
-#EXTINF:-1,TRT World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1513.ts;name=TRT World
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1510.ts;name=TLC
-#EXTINF:-1,NBC Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1501.ts;name=NBC Live
-#EXTINF:-1,BBC Amrica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/test28/test28/1514.ts;name=BBC Amrica
+#EXTINF:-1,FOX +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/4374.ts;name=FOX +1 HD
+#EXTINF:-1,Fox Crime +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9589.ts;name=Fox Crime +1
+#EXTINF:-1,Fox Comedy +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13311.ts;name=Fox Comedy +1 HD
+#EXTINF:-1,XXX XXX STARS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7395.ts;name=XXX XXX STARS
+#EXTINF:-1,XXX Playy>19  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10318.ts;name=XXX Playy>19  HD
+#EXTINF:-1,XXX RedLight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/5420.ts;name=XXX RedLight HD
+#EXTINF:-1,XXX But Go
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8316.ts;name=XXX But Go
+#EXTINF:-1,XXX Adult 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7729.ts;name=XXX Adult 2
+#EXTINF:-1,XXX Adult 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7726.ts;name=XXX Adult 7
+#EXTINF:-1,XXX Adult 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7723.ts;name=XXX Adult 8
+#EXTINF:-1,XXX Adult 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7725.ts;name=XXX Adult 9
+#EXTINF:-1,XXX Adult 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7724.ts;name=XXX Adult 10
+#EXTINF:-1,XXX Adult 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/5426.ts;name=XXX Adult 12
+#EXTINF:-1,XXX Adult 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/5422.ts;name=XXX Adult 13
+#EXTINF:-1,XXX Hot Club 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7390.ts;name=XXX Hot Club 4 HD
+#EXTINF:-1,XXX Hot Club 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7392.ts;name=XXX Hot Club 6 HD
+#EXTINF:-1,XXX PINK EROTIC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7242.ts;name=XXX PINK EROTIC 1
+#EXTINF:-1,XXX PINK EROTIC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7241.ts;name=XXX PINK EROTIC 2
+#EXTINF:-1,XXX PINK EROTIC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7239.ts;name=XXX PINK EROTIC 4
+#EXTINF:-1,USA ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/2931.ts;name=USA ABC News
+#EXTINF:-1,USA AFN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9516.ts;name=USA AFN SPORTS
+#EXTINF:-1,USA AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9517.ts;name=USA AFN SPORTS 2
+#EXTINF:-1,USA ABC W HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15244.ts;name=USA ABC W HD
+#EXTINF:-1,USA 360 North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/3863.ts;name=USA 360 North
+#EXTINF:-1,USA Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15250.ts;name=USA Animal Planet
+#EXTINF:-1,USA Astro SUPERSPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9520.ts;name=USA Astro SUPERSPORT 3
+#EXTINF:-1,USA ASD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/3861.ts;name=USA ASD TV
+#EXTINF:-1,USA AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8415.ts;name=USA AMC HD
+#EXTINF:-1,USA Astro SUPERSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9518.ts;name=USA Astro SUPERSPORT 1
+#EXTINF:-1,USA Church Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9536.ts;name=USA Church Channel
+#EXTINF:-1,USA Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9546.ts;name=USA Discovery Science
+#EXTINF:-1,USA DTX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9547.ts;name=USA DTX
+#EXTINF:-1,USA FOX Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8681.ts;name=USA FOX Sport 1
+#EXTINF:-1,USA Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9337.ts;name=USA Food Network
+#EXTINF:-1,USA NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8393.ts;name=USA NBC HD
+#EXTINF:-1,USA Mello TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9502.ts;name=USA Mello TV
+#EXTINF:-1,USA TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9480.ts;name=USA TLC HD
+#EXTINF:-1,USA NHL Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12479.ts;name=USA NHL Network
+#EXTINF:-1,USA RT Documentary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9497.ts;name=USA RT Documentary
+#EXTINF:-1,USA RT America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9498.ts;name=USA RT America HD
+#EXTINF:-1,USA Nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9333.ts;name=USA Nick
+#EXTINF:-1,USA NBCSN Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9526.ts;name=USA NBCSN Golf HD
+#EXTINF:-1,USA Nasa TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9499.ts;name=USA Nasa TV HD
+#EXTINF:-1,USA Spike HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13179.ts;name=USA Spike HD
+#EXTINF:-1,USA Sportsnet West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13232.ts;name=USA Sportsnet West HD
+#EXTINF:-1,USA NFL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8693.ts;name=USA NFL Network HD
+#EXTINF:-1,USA Sporstnet 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14036.ts;name=USA Sporstnet 360
+#EXTINF:-1,USA Sporstnet East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14035.ts;name=USA Sporstnet East HD
+#EXTINF:-1,USA Sporstnet Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14034.ts;name=USA Sporstnet Ontario HD
+#EXTINF:-1,USA Sporstnet Pacific HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14033.ts;name=USA Sporstnet Pacific HD
+#EXTINF:-1,USA TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13180.ts;name=USA TNT HD
+#EXTINF:-1,USA PAC Mountain 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14067.ts;name=USA PAC Mountain 1080P
+#EXTINF:-1,USA PAC-12 Net. (Arizona) 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14070.ts;name=USA PAC-12 Net. (Arizona) 1080P
+#EXTINF:-1,USA PAC-12 Net. (Bay Area) 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14072.ts;name=USA PAC-12 Net. (Bay Area) 1080P
+#EXTINF:-1,USA PAC-12 Net. (Encore)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14078.ts;name=USA PAC-12 Net. (Encore)
+#EXTINF:-1,USA PAC-12 Net. (Los Angeles) 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14073.ts;name=USA PAC-12 Net. (Los Angeles) 720P
+#EXTINF:-1,USA PAC-12 Net. (Oregon) 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14075.ts;name=USA PAC-12 Net. (Oregon) 1080P
+#EXTINF:-1,USA TBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9542.ts;name=USA TBN
+#EXTINF:-1,USA PAC-12 Net. (Oregon) 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14074.ts;name=USA PAC-12 Net. (Oregon) 720P
+#EXTINF:-1,USA Star Z Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9832.ts;name=USA Star Z Cinema
+#EXTINF:-1,USA TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8685.ts;name=USA TBS HD
+#EXTINF:-1,USA Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9330.ts;name=USA Tru TV HD
+#EXTINF:-1,USA USA Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9329.ts;name=USA USA Network HD
+#EXTINF:-1,USA Willow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9328.ts;name=USA Willow HD
+#EXTINF:-1,USA WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9530.ts;name=USA WWE
+#EXTINF:-1,USA Tsn Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8293.ts;name=USA Tsn Sport 1 HD
+#EXTINF:-1,USA Tsn Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8292.ts;name=USA Tsn Sport 2 HD
+#EXTINF:-1,USA Tsn Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8291.ts;name=USA Tsn Sport 3 HD
+#EXTINF:-1,USA Tsn Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8290.ts;name=USA Tsn Sport 4 HD
+#EXTINF:-1,USA Tsn-Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8289.ts;name=USA Tsn-Sport 5 HD
+#EXTINF:-1,USA Tsn Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12547.ts;name=USA Tsn Sport 5 HD
+#EXTINF:-1,USA WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8410.ts;name=USA WWE Network
+#EXTINF:-1,USA UALR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/3865.ts;name=USA UALR TV
+#EXTINF:-1,USA Teletoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15251.ts;name=USA Teletoon
+#EXTINF:-1,USA ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16858.ts;name=USA ABC HD
+#EXTINF:-1,USA BBC America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16857.ts;name=USA BBC America
+#EXTINF:-1,USA CBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16855.ts;name=USA CBC HD
+#EXTINF:-1,USA CBC News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16854.ts;name=USA CBC News HD
+#EXTINF:-1,USA CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16852.ts;name=USA CBS HD
+#EXTINF:-1,USA CBS Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16851.ts;name=USA CBS Sports Network HD
+#EXTINF:-1,USA Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16825.ts;name=USA Family HD
+#EXTINF:-1,USA FXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16834.ts;name=USA FXX HD
+#EXTINF:-1,USA Global BC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16833.ts;name=USA Global BC
+#EXTINF:-1,USA Global HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16832.ts;name=USA Global HD
+#EXTINF:-1,USA Hallmark Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16831.ts;name=USA Hallmark Channel HD
+#EXTINF:-1,USA HGTV CA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16830.ts;name=USA HGTV CA HD
+#EXTINF:-1,USA HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16829.ts;name=USA HGTV HD
+#EXTINF:-1,USA HLN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16828.ts;name=USA HLN HD
+#EXTINF:-1,USA ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16827.ts;name=USA ID HD
+#EXTINF:-1,USA OMNI 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16848.ts;name=USA OMNI 1 HD
+#EXTINF:-1,USA OMNI 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16847.ts;name=USA OMNI 2 HD
+#EXTINF:-1,USA OWN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16846.ts;name=USA OWN HD
+#EXTINF:-1,USA Slice HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16844.ts;name=USA Slice HD
+#EXTINF:-1,USA Starz Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16843.ts;name=USA Starz Comedy
+#EXTINF:-1,USA Sundance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16840.ts;name=USA Sundance HD
+#EXTINF:-1,USA SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16839.ts;name=USA SYFY HD
+#EXTINF:-1,USA Velocity HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16837.ts;name=USA Velocity HD
+#EXTINF:-1,C More Series SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8760.ts;name=C More Series SE
+#EXTINF:-1,C MORE LIVE SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8761.ts;name=C MORE LIVE SE
+#EXTINF:-1,C More Live 1 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14088.ts;name=C More Live 1 SE
 
