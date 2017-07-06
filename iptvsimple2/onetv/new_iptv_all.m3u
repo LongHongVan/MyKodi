@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1,      [COLOR yellow] Server [/COLOR]http://vip.groupiptv.com:7000 Wed Jul  5 21:31:14 2017
-http://google.com[COLOR yellow] [/COLOR]
+http://google.com
 #EXTINF:-1,USA  ABC News
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4181.ts;name=USA  ABC News
 #EXTINF:-1,USA  Animal Planet
