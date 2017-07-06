@@ -1,157 +1,9 @@
 #EXTM3U 
 
 #EXTINF:-1,USA  ABC News
+
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4181.ts;name=USA  ABC News
 #EXTINF:-1,USA  Animal Planet
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4182.ts;name=USA  Animal Planet
-#EXTINF:-1,USA  Bein USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4183.ts;name=USA  Bein USA
-#EXTINF:-1,USA  Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4184.ts;name=USA  Bloomberg
-#EXTINF:-1,USA  CBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4197.ts;name=USA  CBS
-#EXTINF:-1,USA  CBSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4202.ts;name=USA  CBSN
-#EXTINF:-1,USA  CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4185.ts;name=USA  CNBC
-#EXTINF:-1,USA  CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4186.ts;name=USA  CNN
-#EXTINF:-1,USA  ESPN USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4187.ts;name=USA  ESPN USA
-#EXTINF:-1,USA  Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4188.ts;name=USA  Fox Sports 1
-#EXTINF:-1,USA  FOX Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4189.ts;name=USA  FOX Sports 2
-#EXTINF:-1,USA  NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4190.ts;name=USA  NBA TV
-#EXTINF:-1,USA  NDTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4199.ts;name=USA  NDTV
-#EXTINF:-1,USA  NFL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4200.ts;name=USA  NFL
-#EXTINF:-1,USA  PAG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4201.ts;name=USA  PAG
-#EXTINF:-1,USA  TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4192.ts;name=USA  TSN 1
-#EXTINF:-1,USA  TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4193.ts;name=USA  TSN 2
-#EXTINF:-1,USA  TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4194.ts;name=USA  TSN 3
-#EXTINF:-1,USA  TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4195.ts;name=USA  TSN 4
-#EXTINF:-1,USA  TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4196.ts;name=USA  TSN 5
-#EXTINF:-1,USA  WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4198.ts;name=USA  WWE
-#EXTINF:-1,USA VIP  360 North
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4206.ts;name=USA VIP  360 North
-#EXTINF:-1,USA VIP  A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4207.ts;name=USA VIP  A&E
-#EXTINF:-1,USA VIP  AFN Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4230.ts;name=USA VIP  AFN Sports
-#EXTINF:-1,USA VIP  AFN Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4231.ts;name=USA VIP  AFN Sports 2
-#EXTINF:-1,USA VIP  AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4209.ts;name=USA VIP  AMC
-#EXTINF:-1,USA VIP  Bein Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4254.ts;name=USA VIP  Bein Sports
-#EXTINF:-1,USA VIP  Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4225.ts;name=USA VIP  Bloomberg
-#EXTINF:-1,USA VIP  BYU Sports TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4246.ts;name=USA VIP  BYU Sports TV
-#EXTINF:-1,USA VIP  Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4261.ts;name=USA VIP  Cartoon Network
-#EXTINF:-1,USA VIP  CBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4262.ts;name=USA VIP  CBS
-#EXTINF:-1,USA VIP  CBSN-US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4226.ts;name=USA VIP  CBSN-US
-#EXTINF:-1,USA VIP  Cinemax 5 Starmax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4245.ts;name=USA VIP  Cinemax 5 Starmax
-#EXTINF:-1,USA VIP  Cinemax East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4244.ts;name=USA VIP  Cinemax East
-#EXTINF:-1,USA VIP  Cinemax Moremax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4243.ts;name=USA VIP  Cinemax Moremax
-#EXTINF:-1,USA VIP  CityTV Toronto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4210.ts;name=USA VIP  CityTV Toronto
-#EXTINF:-1,USA VIP  CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4211.ts;name=USA VIP  CNBC
-#EXTINF:-1,USA VIP  CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4239.ts;name=USA VIP  CNN
-#EXTINF:-1,USA VIP  Crime and Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4266.ts;name=USA VIP  Crime and Investigation
-#EXTINF:-1,USA VIP  CW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4212.ts;name=USA VIP  CW
-#EXTINF:-1,USA VIP  Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4238.ts;name=USA VIP  Discovery
-#EXTINF:-1,USA VIP  Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4260.ts;name=USA VIP  Discovery Science
-#EXTINF:-1,USA VIP  Discovery Velocity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4268.ts;name=USA VIP  Discovery Velocity
-#EXTINF:-1,USA VIP  E Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4216.ts;name=USA VIP  E Network
-#EXTINF:-1,USA VIP  ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4228.ts;name=USA VIP  ESPN
-#EXTINF:-1,USA VIP  ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4229.ts;name=USA VIP  ESPN 2
-#EXTINF:-1,USA VIP  Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4218.ts;name=USA VIP  Food Network
-#EXTINF:-1,USA VIP  FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4219.ts;name=USA VIP  FOX
-#EXTINF:-1,USA VIP  Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4220.ts;name=USA VIP  Fox Sports 1
-#EXTINF:-1,USA VIP  Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4221.ts;name=USA VIP  Fox Sports 2
-#EXTINF:-1,USA VIP  Fox Sports 506
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4222.ts;name=USA VIP  Fox Sports 506
-#EXTINF:-1,USA VIP  FreeRom
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4217.ts;name=USA VIP  FreeRom
-#EXTINF:-1,USA VIP  FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4223.ts;name=USA VIP  FX
-#EXTINF:-1,USA VIP  Hallmark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4259.ts;name=USA VIP  Hallmark
-#EXTINF:-1,USA VIP  HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4234.ts;name=USA VIP  HBO
-#EXTINF:-1,USA VIP  HBO Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4236.ts;name=USA VIP  HBO Comedy
-#EXTINF:-1,USA VIP  HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4235.ts;name=USA VIP  HBO Signature
-#EXTINF:-1,USA VIP  History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4265.ts;name=USA VIP  History
-#EXTINF:-1,USA VIP  Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4267.ts;name=USA VIP  Music
-#EXTINF:-1,USA VIP  NASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4224.ts;name=USA VIP  NASA
-#EXTINF:-1,USA VIP  National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4264.ts;name=USA VIP  National Geographic
-#EXTINF:-1,USA VIP  NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4250.ts;name=USA VIP  NBA
-#EXTINF:-1,USA VIP  NBA Versus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4251.ts;name=USA VIP  NBA Versus
-#EXTINF:-1,USA VIP  NBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4213.ts;name=USA VIP  NBC
-#EXTINF:-1,USA VIP  NBC Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4214.ts;name=USA VIP  NBC Golf
-#EXTINF:-1,USA VIP  NFL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4240.ts;name=USA VIP  NFL
-#EXTINF:-1,USA VIP  RT Documentary
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4249.ts;name=USA VIP  RT Documentary
-#EXTINF:-1,USA VIP  Showtime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4232.ts;name=USA VIP  Showtime
-#EXTINF:-1,USA VIP  Sports Net 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4242.ts;name=USA VIP  Sports Net 360
-#EXTINF:-1,USA VIP  Sports Net One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4241.ts;name=USA VIP  Sports Net One
-#EXTINF:-1,USA VIP  Starz Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4255.ts;name=USA VIP  Starz Cinema
-#EXTINF:-1,USA VIP  Starz East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4258.ts;name=USA VIP  Starz East
-#EXTINF:-1,USA VIP  Starz Edge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4256.ts;name=USA VIP  Starz Edge
-#EXTINF:-1,USA VIP  Starz Encore
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4257.ts;name=USA VIP  Starz Encore
-#EXTINF:-1,USA VIP  TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4248.ts;name=USA VIP  TBS
-#EXTINF:-1,USA VIP  TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4233.ts;name=USA VIP  TLC
-#EXTINF:-1,USA VIP  WWE Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4237.ts;name=USA VIP  WWE Network
+
 
