@@ -86,8 +86,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupipt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4260.ts;name=USA VIP  Discovery Science
 #EXTINF:-1,USA VIP  Discovery Velocity
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4268.ts;name=USA VIP  Discovery Velocity
-#EXTINF:-1,USA VIP  E! Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4216.ts;name=USA VIP  E! Network
+#EXTINF:-1,USA VIP  E Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4216.ts;name=USA VIP  E Network
 #EXTINF:-1,USA VIP  ESPN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4228.ts;name=USA VIP  ESPN
 #EXTINF:-1,USA VIP  ESPN 2
