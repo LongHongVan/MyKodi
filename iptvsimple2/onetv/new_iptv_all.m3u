@@ -2,8 +2,8 @@
 
 #EXTINF:-1,USA  ABC News
 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4181.ts;name=USA  ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4181.ts
 #EXTINF:-1,USA  Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4182.ts;name=USA  Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4182.ts
 
 
