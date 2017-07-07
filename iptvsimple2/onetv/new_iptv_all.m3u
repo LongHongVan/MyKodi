@@ -1,392 +1,538 @@
 #EXTM3U 
-#EXTINF:-1,USA  ABC News
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4181.ts
-;name=USA  ABC News
-
-#EXTINF:-1,USA  Animal Planet
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4182.ts
-;name=USA  Animal Planet
-
-#EXTINF:-1,USA  Bein USA
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4183.ts
-;name=USA  Bein USA
-
-#EXTINF:-1,USA  Bloomberg
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4184.ts
-;name=USA  Bloomberg
-
-#EXTINF:-1,USA  CBS
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4197.ts
-;name=USA  CBS
-
-#EXTINF:-1,USA  CBSN
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4202.ts
-;name=USA  CBSN
-
-#EXTINF:-1,USA  CNBC
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4185.ts
-;name=USA  CNBC
-
-#EXTINF:-1,USA  CNN
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4186.ts
-;name=USA  CNN
-
-#EXTINF:-1,USA  ESPN USA
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4187.ts
-;name=USA  ESPN USA
-
-#EXTINF:-1,USA  Fox Sports 1
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4188.ts
-;name=USA  Fox Sports 1
-
-#EXTINF:-1,USA  FOX Sports 2
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4189.ts
-;name=USA  FOX Sports 2
-
-#EXTINF:-1,USA  NBA TV
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4190.ts
-;name=USA  NBA TV
-
-#EXTINF:-1,USA  NDTV
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4199.ts
-;name=USA  NDTV
-
-#EXTINF:-1,USA  NFL
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4200.ts
-;name=USA  NFL
-
-#EXTINF:-1,USA  PAG
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4201.ts
-;name=USA  PAG
-
-#EXTINF:-1,USA  TSN 1
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4192.ts
-;name=USA  TSN 1
-
-#EXTINF:-1,USA  TSN 2
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4193.ts
-;name=USA  TSN 2
-
-#EXTINF:-1,USA  TSN 3
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4194.ts
-;name=USA  TSN 3
-
-#EXTINF:-1,USA  TSN 4
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4195.ts
-;name=USA  TSN 4
-
-#EXTINF:-1,USA  TSN 5
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4196.ts
-;name=USA  TSN 5
-
-#EXTINF:-1,USA  WWE
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4198.ts
-;name=USA  WWE
-
-#EXTINF:-1,USA VIP  360 North
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4206.ts
-;name=USA VIP  360 North
-
-#EXTINF:-1,USA VIP  A&E
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4207.ts
-;name=USA VIP  A&E
-
-#EXTINF:-1,USA VIP  AFN Sports
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4230.ts
-;name=USA VIP  AFN Sports
-
-#EXTINF:-1,USA VIP  AFN Sports 2
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4231.ts
-;name=USA VIP  AFN Sports 2
-
-#EXTINF:-1,USA VIP  AMC
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4209.ts
-;name=USA VIP  AMC
-
-#EXTINF:-1,USA VIP  Bein Sports
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4254.ts
-;name=USA VIP  Bein Sports
-
-#EXTINF:-1,USA VIP  Bloomberg
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4225.ts
-;name=USA VIP  Bloomberg
-
-#EXTINF:-1,USA VIP  BYU Sports TV
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4246.ts
-;name=USA VIP  BYU Sports TV
-
-#EXTINF:-1,USA VIP  Cartoon Network
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4261.ts
-;name=USA VIP  Cartoon Network
-
-#EXTINF:-1,USA VIP  CBS
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4262.ts
-;name=USA VIP  CBS
-
-#EXTINF:-1,USA VIP  CBSN-US
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4226.ts
-;name=USA VIP  CBSN-US
-
-#EXTINF:-1,USA VIP  Cinemax 5 Starmax
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4245.ts
-;name=USA VIP  Cinemax 5 Starmax
-
-#EXTINF:-1,USA VIP  Cinemax East
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4244.ts
-;name=USA VIP  Cinemax East
-
-#EXTINF:-1,USA VIP  Cinemax Moremax
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4243.ts
-;name=USA VIP  Cinemax Moremax
-
-#EXTINF:-1,USA VIP  CityTV Toronto
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4210.ts
-;name=USA VIP  CityTV Toronto
-
-#EXTINF:-1,USA VIP  CNBC
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4211.ts
-;name=USA VIP  CNBC
-
-#EXTINF:-1,USA VIP  CNN
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4239.ts
-;name=USA VIP  CNN
-
-#EXTINF:-1,USA VIP  Crime and Investigation
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4266.ts
-;name=USA VIP  Crime and Investigation
-
-#EXTINF:-1,USA VIP  CW
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4212.ts
-;name=USA VIP  CW
-
-#EXTINF:-1,USA VIP  Discovery
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4238.ts
-;name=USA VIP  Discovery
-
-#EXTINF:-1,USA VIP  Discovery Science
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4260.ts
-;name=USA VIP  Discovery Science
-
-#EXTINF:-1,USA VIP  Discovery Velocity
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4268.ts
-;name=USA VIP  Discovery Velocity
-
-#EXTINF:-1,USA VIP  E! Network
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4216.ts
-;name=USA VIP  E! Network
-
-#EXTINF:-1,USA VIP  ESPN
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4228.ts
-;name=USA VIP  ESPN
-
-#EXTINF:-1,USA VIP  ESPN 2
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4229.ts
-;name=USA VIP  ESPN 2
-
-#EXTINF:-1,USA VIP  Food Network
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4218.ts
-;name=USA VIP  Food Network
-
-#EXTINF:-1,USA VIP  FOX
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4219.ts
-;name=USA VIP  FOX
-
-#EXTINF:-1,USA VIP  Fox Sports 1
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4220.ts
-;name=USA VIP  Fox Sports 1
-
-#EXTINF:-1,USA VIP  Fox Sports 2
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4221.ts
-;name=USA VIP  Fox Sports 2
-
-#EXTINF:-1,USA VIP  Fox Sports 506
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4222.ts
-;name=USA VIP  Fox Sports 506
-
-#EXTINF:-1,USA VIP  FreeRom
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4217.ts
-;name=USA VIP  FreeRom
-
-#EXTINF:-1,USA VIP  FX
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4223.ts
-;name=USA VIP  FX
-
-#EXTINF:-1,USA VIP  Hallmark
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4259.ts
-;name=USA VIP  Hallmark
-
-#EXTINF:-1,USA VIP  HBO
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4234.ts
-;name=USA VIP  HBO
-
-#EXTINF:-1,USA VIP  HBO Comedy
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4236.ts
-;name=USA VIP  HBO Comedy
-
-#EXTINF:-1,USA VIP  HBO Signature
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4235.ts
-;name=USA VIP  HBO Signature
-
-#EXTINF:-1,USA VIP  History
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4265.ts
-;name=USA VIP  History
-
-#EXTINF:-1,USA VIP  Music
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4267.ts
-;name=USA VIP  Music
-
-#EXTINF:-1,USA VIP  NASA
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4224.ts
-;name=USA VIP  NASA
-
-#EXTINF:-1,USA VIP  National Geographic
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4264.ts
-;name=USA VIP  National Geographic
-
-#EXTINF:-1,USA VIP  NBA
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4250.ts
-;name=USA VIP  NBA
-
-#EXTINF:-1,USA VIP  NBA Versus
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4251.ts
-;name=USA VIP  NBA Versus
-
-#EXTINF:-1,USA VIP  NBC
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4213.ts
-;name=USA VIP  NBC
-
-#EXTINF:-1,USA VIP  NBC Golf
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4214.ts
-;name=USA VIP  NBC Golf
-
-#EXTINF:-1,USA VIP  NBC Sport
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4215.ts
-;name=USA VIP  NBC Sport
-
-#EXTINF:-1,USA VIP  NFL
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4240.ts
-;name=USA VIP  NFL
-
-#EXTINF:-1,USA VIP  RT Documentary
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4249.ts
-;name=USA VIP  RT Documentary
-
-#EXTINF:-1,USA VIP  Showtime
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4232.ts
-;name=USA VIP  Showtime
-
-#EXTINF:-1,USA VIP  Sports Net 360
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4242.ts
-;name=USA VIP  Sports Net 360
-
-#EXTINF:-1,USA VIP  Sports Net One
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4241.ts
-;name=USA VIP  Sports Net One
-
-#EXTINF:-1,USA VIP  Starz Cinema
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4255.ts
-;name=USA VIP  Starz Cinema
-
-#EXTINF:-1,USA VIP  Starz East
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4258.ts
-;name=USA VIP  Starz East
-
-#EXTINF:-1,USA VIP  Starz Edge
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4256.ts
-;name=USA VIP  Starz Edge
-
-#EXTINF:-1,USA VIP  Starz Encore
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4257.ts
-;name=USA VIP  Starz Encore
-
-#EXTINF:-1,USA VIP  TBS
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4248.ts
-;name=USA VIP  TBS
-
-#EXTINF:-1,USA VIP  TLC
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4233.ts
-;name=USA VIP  TLC
-
-#EXTINF:-1,USA VIP  WWE Network
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/stephen/stephen/4237.ts
-;name=USA VIP  WWE Network
-
+#EXTINF:-1,CA   ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17540.ts;name=CA   ABC HD
+#EXTINF:-1,CA   abc spark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17489.ts;name=CA   abc spark
+#EXTINF:-1,CA   BET -  black entertainment television
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17490.ts;name=CA   BET -  black entertainment television
+#EXTINF:-1,CA   bnn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17492.ts;name=CA   bnn
+#EXTINF:-1,CA   bravo hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17491.ts;name=CA   bravo hd
+#EXTINF:-1,CA   cbc toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17494.ts;name=CA   cbc toronto
+#EXTINF:-1,CA   chch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17495.ts;name=CA   chch
+#EXTINF:-1,CA   city vancouver
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17496.ts;name=CA   city vancouver
+#EXTINF:-1,CA   comedy gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17497.ts;name=CA   comedy gold
+#EXTINF:-1,CA   cp24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17500.ts;name=CA   cp24
+#EXTINF:-1,CA   ctv toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17501.ts;name=CA   ctv toronto
+#EXTINF:-1,CA   e!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17503.ts;name=CA   e!
+#EXTINF:-1,CA   fox 25 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17504.ts;name=CA   fox 25 hd
+#EXTINF:-1,CA   fxx hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17506.ts;name=CA   fxx hd
+#EXTINF:-1,CA   golf channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17509.ts;name=CA   golf channel
+#EXTINF:-1,CA   HBO 2_CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17541.ts;name=CA   HBO 2_CA
+#EXTINF:-1,CA   HBO_CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17542.ts;name=CA   HBO_CA
+#EXTINF:-1,CA   History_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17511.ts;name=CA   History_HD
+#EXTINF:-1,CA   movie time
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17514.ts;name=CA   movie time
+#EXTINF:-1,CA   mtv canada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17515.ts;name=CA   mtv canada
+#EXTINF:-1,CA   NBA TV_CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17544.ts;name=CA   NBA TV_CA
+#EXTINF:-1,CA   nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17517.ts;name=CA   nick
+#EXTINF:-1,CA   own (oprah winfrew network)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17520.ts;name=CA   own (oprah winfrew network)
+#EXTINF:-1,CA   spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17527.ts;name=CA   spike
+#EXTINF:-1,CA   Sportnet Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17528.ts;name=CA   Sportnet Ontario HD
+#EXTINF:-1,CA   Sportsnet One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17529.ts;name=CA   Sportsnet One HD
+#EXTINF:-1,CA   Sportsnet West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17530.ts;name=CA   Sportsnet West HD
+#EXTINF:-1,CA   sportsnet world hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17531.ts;name=CA   sportsnet world hd
+#EXTINF:-1,CA   teletoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17532.ts;name=CA   teletoon
+#EXTINF:-1,CA   travel channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17534.ts;name=CA   travel channel
+#EXTINF:-1,CA Sportnet Pacific HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/17545.ts;name=CA Sportnet Pacific HD
+#EXTINF:-1,US  ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15755.ts;name=US  ABC
+#EXTINF:-1,US  ESPN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16357.ts;name=US  ESPN 1
+#EXTINF:-1,USA  24/7 SOUTHPARK HD SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15473.ts;name=USA  24/7 SOUTHPARK HD SERIES
+#EXTINF:-1,USA  24/7 THE WALKING DEAD SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15472.ts;name=USA  24/7 THE WALKING DEAD SERIES
+#EXTINF:-1,USA  5 STAR MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15500.ts;name=USA  5 STAR MAX
+#EXTINF:-1,USA  A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15499.ts;name=USA  A&E HD
+#EXTINF:-1,USA  ABC Action News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15447.ts;name=USA  ABC Action News
+#EXTINF:-1,USA  ABC FAMILY/SPARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15449.ts;name=USA  ABC FAMILY/SPARK
+#EXTINF:-1,USA  ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15446.ts;name=USA  ABC HD
+#EXTINF:-1,USA  ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15448.ts;name=USA  ABC News
+#EXTINF:-1,USA  AFN Family Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15450.ts;name=USA  AFN Family Movie
+#EXTINF:-1,USA  AFN Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15451.ts;name=USA  AFN Movie
+#EXTINF:-1,USA  AFN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15452.ts;name=USA  AFN News
+#EXTINF:-1,USA  AFN Prime Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15453.ts;name=USA  AFN Prime Atlantic
+#EXTINF:-1,USA  AFN Prime Pacific
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15454.ts;name=USA  AFN Prime Pacific
+#EXTINF:-1,USA  AFN Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16360.ts;name=USA  AFN Sports
+#EXTINF:-1,USA  AFN Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16359.ts;name=USA  AFN Sports 2
+#EXTINF:-1,USA  AFN Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16361.ts;name=USA  AFN Sports HD
+#EXTINF:-1,USA  AL JAZEERA U.S HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15498.ts;name=USA  AL JAZEERA U.S HD
+#EXTINF:-1,USA  AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15570.ts;name=USA  AMC
+#EXTINF:-1,USA  ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15586.ts;name=USA  ANIMAL PLANET
+#EXTINF:-1,USA  Astro Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15558.ts;name=USA  Astro Sports 3
+#EXTINF:-1,USA  Astro Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15559.ts;name=USA  Astro Sports 4
+#EXTINF:-1,USA  BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15497.ts;name=USA  BBC WORLD NEWS
+#EXTINF:-1,USA  BEIN SPORTS U.S.A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15496.ts;name=USA  BEIN SPORTS U.S.A
+#EXTINF:-1,USA  Big Ten Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15481.ts;name=USA  Big Ten Network HD
+#EXTINF:-1,USA  BLOOMBERG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15560.ts;name=USA  BLOOMBERG TV
+#EXTINF:-1,USA  Bravo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15501.ts;name=USA  Bravo HD
+#EXTINF:-1,USA  BT SPORT  ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15590.ts;name=USA  BT SPORT  ESPN
+#EXTINF:-1,USA  C-SPAN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15512.ts;name=USA  C-SPAN 1 HD
+#EXTINF:-1,USA  C-SPAN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15511.ts;name=USA  C-SPAN 2 HD
+#EXTINF:-1,USA  C-SPAN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15510.ts;name=USA  C-SPAN 3 HD
+#EXTINF:-1,USA  CAPITAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15514.ts;name=USA  CAPITAL TV
+#EXTINF:-1,USA  CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15494.ts;name=USA  CARTOON NETWORK
+#EXTINF:-1,USA  CBS HD-US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15584.ts;name=USA  CBS HD-US
+#EXTINF:-1,USA  CBS News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15571.ts;name=USA  CBS News
+#EXTINF:-1,USA  CBSN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15517.ts;name=USA  CBSN News
+#EXTINF:-1,USA  Cinemax 5 Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15477.ts;name=USA  Cinemax 5 Max
+#EXTINF:-1,USA  Cinemax ActionMax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15520.ts;name=USA  Cinemax ActionMax
+#EXTINF:-1,USA  Cinemax East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15521.ts;name=USA  Cinemax East
+#EXTINF:-1,USA  Cinemax Moremax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15493.ts;name=USA  Cinemax Moremax
+#EXTINF:-1,USA  CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15522.ts;name=USA  CITY HD
+#EXTINF:-1,USA  CNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15476.ts;name=USA  CNBC HD
+#EXTINF:-1,USA  CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15564.ts;name=USA  CNN
+#EXTINF:-1,USA  CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15565.ts;name=USA  CNN HD
+#EXTINF:-1,USA  CNN HD INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15563.ts;name=USA  CNN HD INTERNATIONAL
+#EXTINF:-1,USA  COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15492.ts;name=USA  COMEDY CENTRAL
+#EXTINF:-1,USA  Crime & Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15491.ts;name=USA  Crime & Investigation
+#EXTINF:-1,USA  CW 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15568.ts;name=USA  CW 11 HD
+#EXTINF:-1,USA  CW Channel 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15518.ts;name=USA  CW Channel 11
+#EXTINF:-1,USA  DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15577.ts;name=USA  DISCOVERY CHANNEL HD
+#EXTINF:-1,USA  DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15589.ts;name=USA  DISCOVERY SCIENCE HD
+#EXTINF:-1,USA  DISCOVERY SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15588.ts;name=USA  DISCOVERY SHOWCASE
+#EXTINF:-1,USA  DISCOVERY VELOCITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15490.ts;name=USA  DISCOVERY VELOCITY
+#EXTINF:-1,USA  DISNEY JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15535.ts;name=USA  DISNEY JR HD
+#EXTINF:-1,USA  E! Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15489.ts;name=USA  E! Network HD
+#EXTINF:-1,USA  ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15594.ts;name=USA  ESPN
+#EXTINF:-1,USA  ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15593.ts;name=USA  ESPN 2 HD
+#EXTINF:-1,USA  ESPN 3 TRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15592.ts;name=USA  ESPN 3 TRE
+#EXTINF:-1,USA  ESPN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15591.ts;name=USA  ESPN NEWS
+#EXTINF:-1,USA  EURO NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15562.ts;name=USA  EURO NEWS
+#EXTINF:-1,USA  Fight Network / MMA Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15538.ts;name=USA  Fight Network / MMA Network
+#EXTINF:-1,USA  Fight Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15526.ts;name=USA  Fight Sport 1
+#EXTINF:-1,USA  Fight Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15523.ts;name=USA  Fight Sport 2
+#EXTINF:-1,USA  FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15488.ts;name=USA  FOOD NETWORK
+#EXTINF:-1,USA  FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15561.ts;name=USA  FOX
+#EXTINF:-1,USA  FOX DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15471.ts;name=USA  FOX DEPORTES HD
+#EXTINF:-1,USA  Fox News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15527.ts;name=USA  Fox News
+#EXTINF:-1,USA  FOX SOCCER PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15470.ts;name=USA  FOX SOCCER PLUS HD
+#EXTINF:-1,USA  FOX Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16358.ts;name=USA  FOX Sport 1
+#EXTINF:-1,USA  FOX SPORTS ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15587.ts;name=USA  FOX SPORTS ONE
+#EXTINF:-1,USA  FOX SPORTS TWO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15516.ts;name=USA  FOX SPORTS TWO HD
+#EXTINF:-1,USA  FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15528.ts;name=USA  FX HD
+#EXTINF:-1,USA  GRIT TV MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15555.ts;name=USA  GRIT TV MOVIES
+#EXTINF:-1,USA  GSN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15475.ts;name=USA  GSN TV
+#EXTINF:-1,USA  HALLMARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15530.ts;name=USA  HALLMARK
+#EXTINF:-1,USA  HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15474.ts;name=USA  HBO Family HD
+#EXTINF:-1,USA  HBO SIGNATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15533.ts;name=USA  HBO SIGNATURE
+#EXTINF:-1,USA  HBO ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15534.ts;name=USA  HBO ZONE
+#EXTINF:-1,USA  HEART TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15513.ts;name=USA  HEART TV
+#EXTINF:-1,USA  HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15468.ts;name=USA  HGTV HD
+#EXTINF:-1,USA  HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15578.ts;name=USA  HISTORY
+#EXTINF:-1,USA  HSN YT LIVE 1080p HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15442.ts;name=USA  HSN YT LIVE 1080p HD
+#EXTINF:-1,USA  LIFE TIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15536.ts;name=USA  LIFE TIME
+#EXTINF:-1,USA  LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15515.ts;name=USA  LIFETIME HD
+#EXTINF:-1,USA  LMN HDTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15466.ts;name=USA  LMN HDTV
+#EXTINF:-1,USA  MLB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15537.ts;name=USA  MLB HD
+#EXTINF:-1,USA  MOVIETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15519.ts;name=USA  MOVIETIME
+#EXTINF:-1,USA  MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15469.ts;name=USA  MSNBC HD
+#EXTINF:-1,USA  MTV HITS LA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16564.ts;name=USA  MTV HITS LA
+#EXTINF:-1,USA  MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15576.ts;name=USA  MTV LIVE HD
+#EXTINF:-1,USA  MTV LIVE USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15574.ts;name=USA  MTV LIVE USA
+#EXTINF:-1,USA  NASA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15444.ts;name=USA  NASA TV HD
+#EXTINF:-1,USA  NASA TV MEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15443.ts;name=USA  NASA TV MEDIA HD
+#EXTINF:-1,USA  NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15575.ts;name=USA  NAT GEO HD
+#EXTINF:-1,USA  NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15529.ts;name=USA  NBA TV
+#EXTINF:-1,USA  NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15539.ts;name=USA  NBC HD
+#EXTINF:-1,USA  NBCSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15547.ts;name=USA  NBCSN HD
+#EXTINF:-1,USA  NFL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15596.ts;name=USA  NFL Network HD
+#EXTINF:-1,USA  NFL Network HDTV 1080i
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15464.ts;name=USA  NFL Network HDTV 1080i
+#EXTINF:-1,USA  NFL Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15597.ts;name=USA  NFL Now
+#EXTINF:-1,USA  NHL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15486.ts;name=USA  NHL NETWORK
+#EXTINF:-1,USA  NHLTV NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15467.ts;name=USA  NHLTV NETWORK HD
+#EXTINF:-1,USA  NICK HD (kids)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15463.ts;name=USA  NICK HD (kids)
+#EXTINF:-1,USA  NICKELODEON KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15495.ts;name=USA  NICKELODEON KIDS
+#EXTINF:-1,USA  NICKTOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15462.ts;name=USA  NICKTOONS
+#EXTINF:-1,USA  Nursery Rhymes (Baby Songs)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15479.ts;name=USA  Nursery Rhymes (Baby Songs)
+#EXTINF:-1,USA  OWN HD (Oprah Winfrey TV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15461.ts;name=USA  OWN HD (Oprah Winfrey TV)
+#EXTINF:-1,USA  QVC Beauty IQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15439.ts;name=USA  QVC Beauty IQ
+#EXTINF:-1,USA  QVC Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15438.ts;name=USA  QVC Live
+#EXTINF:-1,USA  QVC Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15437.ts;name=USA  QVC Plus
+#EXTINF:-1,USA  RT DOCUMENTARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15485.ts;name=USA  RT DOCUMENTARY
+#EXTINF:-1,USA  Showtime 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15549.ts;name=USA  Showtime 2 HD
+#EXTINF:-1,USA  Showtime Extreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15460.ts;name=USA  Showtime Extreme HD
+#EXTINF:-1,USA  Showtime HDTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15548.ts;name=USA  Showtime HDTV
+#EXTINF:-1,USA  Showtime Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15459.ts;name=USA  Showtime Showcase
+#EXTINF:-1,USA  SPIKE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15572.ts;name=USA  SPIKE TV
+#EXTINF:-1,USA  SportsNet One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15550.ts;name=USA  SportsNet One HD
+#EXTINF:-1,USA  Starz Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15551.ts;name=USA  Starz Cinema
+#EXTINF:-1,USA  Starz Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15552.ts;name=USA  Starz Comedy
+#EXTINF:-1,USA  Starz East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15553.ts;name=USA  Starz East
+#EXTINF:-1,USA  Starz Edge HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15554.ts;name=USA  Starz Edge HD
+#EXTINF:-1,USA  Starz Encore East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15525.ts;name=USA  Starz Encore East
+#EXTINF:-1,USA  Starz Encore HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15524.ts;name=USA  Starz Encore HD
+#EXTINF:-1,USA  Starz West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15556.ts;name=USA  Starz West
+#EXTINF:-1,USA  SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15484.ts;name=USA  SYFY HD
+#EXTINF:-1,USA  T.N.T
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15567.ts;name=USA  T.N.T
+#EXTINF:-1,USA  TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15566.ts;name=USA  TBS
+#EXTINF:-1,USA  TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15579.ts;name=USA  TBS HD
+#EXTINF:-1,USA  TENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15458.ts;name=USA  TENNIS HD
+#EXTINF:-1,USA  The Weather Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15509.ts;name=USA  The Weather Channel
+#EXTINF:-1,USA  TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15580.ts;name=USA  TLC
+#EXTINF:-1,USA  TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15582.ts;name=USA  TRAVEL CHANNEL
+#EXTINF:-1,USA  TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15457.ts;name=USA  TRU TV
+#EXTINF:-1,USA  TRUE MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15483.ts;name=USA  TRUE MOVIES
+#EXTINF:-1,USA  Tsn-Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16366.ts;name=USA  Tsn-Sport 1 HD
+#EXTINF:-1,USA  Tsn-Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16365.ts;name=USA  Tsn-Sport 2 HD
+#EXTINF:-1,USA  Tsn-Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16364.ts;name=USA  Tsn-Sport 3 HD
+#EXTINF:-1,USA  Tsn-Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16363.ts;name=USA  Tsn-Sport 4 HD
+#EXTINF:-1,USA  Tsn-Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16362.ts;name=USA  Tsn-Sport 5 HD
+#EXTINF:-1,USA  TV ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15456.ts;name=USA  TV ONE
+#EXTINF:-1,USA  TV SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15482.ts;name=USA  TV SERIES
+#EXTINF:-1,USA  University of California TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15502.ts;name=USA  University of California TV
+#EXTINF:-1,USA  USA Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15569.ts;name=USA  USA Network
+#EXTINF:-1,USA  Versus  NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15581.ts;name=USA  Versus  NBA
+#EXTINF:-1,USA  VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15455.ts;name=USA  VH1 HD
+#EXTINF:-1,USA  WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/15583.ts;name=USA  WWE Network
+#EXTINF:-1,XXX  Adult 4K  VOD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16560.ts;name=XXX  Adult 4K  VOD1
+#EXTINF:-1,XXX  Adult 4K  VOD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16551.ts;name=XXX  Adult 4K  VOD10
+#EXTINF:-1,XXX  Adult 4K  VOD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16550.ts;name=XXX  Adult 4K  VOD11
+#EXTINF:-1,XXX  Adult 4K  VOD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16559.ts;name=XXX  Adult 4K  VOD2
+#EXTINF:-1,XXX  Adult 4K  VOD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16558.ts;name=XXX  Adult 4K  VOD3
+#EXTINF:-1,XXX  Adult 4K  VOD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16557.ts;name=XXX  Adult 4K  VOD4
+#EXTINF:-1,XXX  Adult 4K  VOD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16556.ts;name=XXX  Adult 4K  VOD5
+#EXTINF:-1,XXX  Adult 4K  VOD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16555.ts;name=XXX  Adult 4K  VOD6
+#EXTINF:-1,XXX  Adult 4K  VOD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16554.ts;name=XXX  Adult 4K  VOD7
+#EXTINF:-1,XXX  Adult 4K  VOD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16553.ts;name=XXX  Adult 4K  VOD8
+#EXTINF:-1,XXX  Adult 4K  VOD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16552.ts;name=XXX  Adult 4K  VOD9
+#EXTINF:-1,XXX  ADULT HOTCLUB 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16548.ts;name=XXX  ADULT HOTCLUB 1 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16539.ts;name=XXX  ADULT HOTCLUB 10 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16547.ts;name=XXX  ADULT HOTCLUB 2 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16546.ts;name=XXX  ADULT HOTCLUB 3 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16545.ts;name=XXX  ADULT HOTCLUB 4 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16544.ts;name=XXX  ADULT HOTCLUB 5 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16543.ts;name=XXX  ADULT HOTCLUB 6 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16542.ts;name=XXX  ADULT HOTCLUB 7 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16541.ts;name=XXX  ADULT HOTCLUB 8 HD
+#EXTINF:-1,XXX  ADULT HOTCLUB 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16540.ts;name=XXX  ADULT HOTCLUB 9 HD
+#EXTINF:-1,XXX  Babes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16535.ts;name=XXX  Babes 1
+#EXTINF:-1,XXX  Babes 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16526.ts;name=XXX  Babes 10
+#EXTINF:-1,XXX  Babes 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16525.ts;name=XXX  Babes 11
+#EXTINF:-1,XXX  Babes 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16524.ts;name=XXX  Babes 12
+#EXTINF:-1,XXX  Babes 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16523.ts;name=XXX  Babes 14
+#EXTINF:-1,XXX  Babes 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16522.ts;name=XXX  Babes 15
+#EXTINF:-1,XXX  Babes 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16521.ts;name=XXX  Babes 16
+#EXTINF:-1,XXX  Babes 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16520.ts;name=XXX  Babes 17
+#EXTINF:-1,XXX  Babes 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16519.ts;name=XXX  Babes 18
+#EXTINF:-1,XXX  Babes 19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16518.ts;name=XXX  Babes 19
+#EXTINF:-1,XXX  Babes 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16534.ts;name=XXX  Babes 2
+#EXTINF:-1,XXX  Babes 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16517.ts;name=XXX  Babes 20
+#EXTINF:-1,XXX  Babes 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16533.ts;name=XXX  Babes 3
+#EXTINF:-1,XXX  Babes 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16532.ts;name=XXX  Babes 4
+#EXTINF:-1,XXX  Babes 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16531.ts;name=XXX  Babes 5
+#EXTINF:-1,XXX  Babes 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16530.ts;name=XXX  Babes 6
+#EXTINF:-1,XXX  Babes 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16529.ts;name=XXX  Babes 7
+#EXTINF:-1,XXX  Babes 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16528.ts;name=XXX  Babes 8
+#EXTINF:-1,XXX  Babes 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16527.ts;name=XXX  Babes 9
+#EXTINF:-1,XXX  BIZARE TRING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16508.ts;name=XXX  BIZARE TRING
+#EXTINF:-1,XXX  BRAZZERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16515.ts;name=XXX  BRAZZERS
+#EXTINF:-1,XXX  BRAZZERS TV EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16514.ts;name=XXX  BRAZZERS TV EUROPE
+#EXTINF:-1,XXX  CENTOXCENTO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16512.ts;name=XXX  CENTOXCENTO TV
+#EXTINF:-1,XXX  CHANNEL X 2 (digitalb)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16510.ts;name=XXX  CHANNEL X 2 (digitalb)
+#EXTINF:-1,XXX  CHANNEL X 3 (digitalb)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16509.ts;name=XXX  CHANNEL X 3 (digitalb)
+#EXTINF:-1,XXX  DAUGHTER SWAP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16507.ts;name=XXX  DAUGHTER SWAP
+#EXTINF:-1,XXX  DORCEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16506.ts;name=XXX  DORCEL
+#EXTINF:-1,XXX  DUSK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16505.ts;name=XXX  DUSK
+#EXTINF:-1,XXX  ENJOY PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16504.ts;name=XXX  ENJOY PREMIUM
+#EXTINF:-1,XXX  ENNDYTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16503.ts;name=XXX  ENNDYTV
+#EXTINF:-1,XXX  EROTIC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16502.ts;name=XXX  EROTIC 1
+#EXTINF:-1,XXX  EROTIC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16501.ts;name=XXX  EROTIC 2
+#EXTINF:-1,XXX  EROTIC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16499.ts;name=XXX  EROTIC 4
+#EXTINF:-1,XXX  EROTIC 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16498.ts;name=XXX  EROTIC 5
+#EXTINF:-1,XXX  EROTIC 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16495.ts;name=XXX  EROTIC 8
+#EXTINF:-1,XXX  EROXXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16494.ts;name=XXX  EROXXX
+#EXTINF:-1,XXX  EXOTICA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16493.ts;name=XXX  EXOTICA TV
+#EXTINF:-1,XXX  HARDX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16492.ts;name=XXX  HARDX
+#EXTINF:-1,XXX  HONEY HOT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16490.ts;name=XXX  HONEY HOT HD
+#EXTINF:-1,XXX  HUSTLER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16489.ts;name=XXX  HUSTLER TV
+#EXTINF:-1,XXX  HUSTLERXXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16488.ts;name=XXX  HUSTLERXXX
+#EXTINF:-1,XXX  JASMIN.TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16487.ts;name=XXX  JASMIN.TV HD
+#EXTINF:-1,XXX  Lethal Hardcore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16486.ts;name=XXX  Lethal Hardcore
+#EXTINF:-1,XXX  MOXXX GAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16538.ts;name=XXX  MOXXX GAY
+#EXTINF:-1,XXX  MY FIRST PUBLIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16483.ts;name=XXX  MY FIRST PUBLIC
+#EXTINF:-1,XXX  PASSIEXXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16482.ts;name=XXX  PASSIEXXX
+#EXTINF:-1,XXX  PENTHOUSE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16481.ts;name=XXX  PENTHOUSE HD
+#EXTINF:-1,XXX  PENTHOUSEX1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16480.ts;name=XXX  PENTHOUSEX1
+#EXTINF:-1,XXX  PINK O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16464.ts;name=XXX  PINK O
+#EXTINF:-1,XXX  PlayBoy TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16479.ts;name=XXX  PlayBoy TV
+#EXTINF:-1,XXX  PLAYBOY TV HD  18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16478.ts;name=XXX  PLAYBOY TV HD  18
+#EXTINF:-1,XXX  PLEASURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16477.ts;name=XXX  PLEASURE
+#EXTINF:-1,XXX  PRIVATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16549.ts;name=XXX  PRIVATE HD
+#EXTINF:-1,XXX  Reality Sex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16474.ts;name=XXX  Reality Sex
+#EXTINF:-1,XXX  RETRO X
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16472.ts;name=XXX  RETRO X
+#EXTINF:-1,XXX  RK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16471.ts;name=XXX  RK HD
+#EXTINF:-1,XXX  SCT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16537.ts;name=XXX  SCT
+#EXTINF:-1,XXX  SESTO SENSO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16469.ts;name=XXX  SESTO SENSO
+#EXTINF:-1,XXX  Sex Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16468.ts;name=XXX  Sex Channel
+#EXTINF:-1,XXX  SEX SEX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16467.ts;name=XXX  SEX SEX HD
+#EXTINF:-1,XXX  SIRINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16465.ts;name=XXX  SIRINA
+#EXTINF:-1,XXX  SPICE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16463.ts;name=XXX  SPICE TV
+#EXTINF:-1,XXX  SUPERONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16473.ts;name=XXX  SUPERONE
+#EXTINF:-1,XXX  VENUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16462.ts;name=XXX  VENUS HD
+#EXTINF:-1,XXX  VIKI XXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16476.ts;name=XXX  VIKI XXX
+#EXTINF:-1,XXX  XXL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16461.ts;name=XXX  XXL HD
+#EXTINF:-1,XXX  YOGA HOT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16459.ts;name=XXX  YOGA HOT HD
+#EXTINF:-1,XXX  YOGA HOT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16458.ts;name=XXX  YOGA HOT1 HD
+#EXTINF:-1,XXX  YOGA HOT2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptvfullhd.info:8000/live/usiptv/z2p7XEU9JS/16457.ts;name=XXX  YOGA HOT2 HD
 
