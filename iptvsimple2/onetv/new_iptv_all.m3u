@@ -15,8 +15,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/6263.ts;name=ABC News AL
 #EXTINF:-1,News 24 HD AL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3795.ts;name=News 24 HD AL
-#EXTINF:-1,E! AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/7072.ts;name=E! AL
+#EXTINF:-1,E AL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/7072.ts;name=E AL
 #EXTINF:-1,Fox Crime AL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3814.ts;name=Fox Crime AL
 #EXTINF:-1,MTV Kosova AL
@@ -57,8 +57,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11150.ts;name=HBO BG
 #EXTINF:-1,Animal Planet HD BG
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11137.ts;name=Animal Planet HD BG
-#EXTINF:-1,CITY Radio&TV BG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11135.ts;name=CITY Radio&TV BG
+#EXTINF:-1,CITY RadioTV BG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11135.ts;name=CITY RadioTV BG
 #EXTINF:-1,F + BG
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11133.ts;name=F + BG
 #EXTINF:-1,action + HD BG
@@ -75,8 +75,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14275.ts;name=HBO HD CZ
 #EXTINF:-1,Fishing and Hunting CZ
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14277.ts;name=Fishing and Hunting CZ
-#EXTINF:-1,E! Entertainment CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14283.ts;name=E! Entertainment CZ
+#EXTINF:-1,E Entertainment CZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14283.ts;name=E Entertainment CZ
 #EXTINF:-1,Discovery CZ
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14286.ts;name=Discovery CZ
 #EXTINF:-1,Cinemax CZ
@@ -145,8 +145,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/1454.ts;name=History (HR) ex-Yu
 #EXTINF:-1,TLC (RS) ex-Yu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13820.ts;name=TLC (RS) ex-Yu
-#EXTINF:-1,E! (HR) ex-Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/1467.ts;name=E! (HR) ex-Yu
+#EXTINF:-1,E (HR) ex-Yu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/1467.ts;name=E (HR) ex-Yu
 #EXTINF:-1,FightBox (HR) ex-Yu
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13803.ts;name=FightBox (HR) ex-Yu
 #EXTINF:-1,Cartoon Network (RS) ex-Yu
@@ -185,10 +185,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/7579.ts;name=Discovery Channel HD FR
 #EXTINF:-1,Discovery Science HD FR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/7578.ts;name=Discovery Science HD FR
-#EXTINF:-1,E! HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/2229.ts;name=E! HD FR
-#EXTINF:-1,Nick Jr. FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13173.ts;name=Nick Jr. FR
+#EXTINF:-1,E HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/2229.ts;name=E HD FR
+#EXTINF:-1,Nick Jr FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13173.ts;name=Nick Jr FR
 #EXTINF:-1,Nickelodeon 4Teen FR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15638.ts;name=Nickelodeon 4Teen FR
 #EXTINF:-1,Nickelodeon HD FR
@@ -197,10 +197,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/2228.ts;name=Syfy HD FR
 #EXTINF:-1,Ushuaïa TV HD FR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/4491.ts;name=Ushuaïa TV HD FR
-#EXTINF:-1,A&E DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13109.ts;name=A&E DE
-#EXTINF:-1,A&E FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14059.ts;name=A&E FHD DE
 #EXTINF:-1,Animal Planet FHD DE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14058.ts;name=Animal Planet FHD DE
 #EXTINF:-1,Animal Planet HD DE
@@ -215,8 +211,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14063.ts;name=Discovery Channel FHD DE
 #EXTINF:-1,Discovery Channel HD DE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3426.ts;name=Discovery Channel HD DE
-#EXTINF:-1,E! Entertainment HD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15567.ts;name=E! Entertainment HD DE
+#EXTINF:-1,E Entertainment HD DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15567.ts;name=E Entertainment HD DE
 #EXTINF:-1,FOX FHD DE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14055.ts;name=FOX FHD DE
 #EXTINF:-1,FOX HD DE
@@ -231,8 +227,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15759.ts;name=MTV HD DE
 #EXTINF:-1,Nickelodeon FHD DE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14571.ts;name=Nickelodeon FHD DE
-#EXTINF:-1,E! DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16502.ts;name=E! DE
+#EXTINF:-1,E DE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16502.ts;name=E DE
 #EXTINF:-1,Syfy DE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3204.ts;name=Syfy DE
 #EXTINF:-1,Syfy FHD DE
@@ -261,8 +257,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9947.ts;name=Discovery History GR
 #EXTINF:-1,Discovery Investigation GR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/6383.ts;name=Discovery Investigation GR
-#EXTINF:-1,E! GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/6356.ts;name=E! GR
+#EXTINF:-1,E GR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/6356.ts;name=E GR
 #EXTINF:-1,FOX Sports 1 GR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9986.ts;name=FOX Sports 1 GR
 #EXTINF:-1,Nickelodeon GR
@@ -273,8 +269,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13365.ts;name=Nickelodeon HU
 #EXTINF:-1,History HU
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13380.ts;name=History HU
-#EXTINF:-1,HBO CZ/HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13383.ts;name=HBO CZ/HU
+#EXTINF:-1,HBO CZHU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13383.ts;name=HBO CZHU
 #EXTINF:-1,HBO 2 HU
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13382.ts;name=HBO 2 HU
 #EXTINF:-1,HBO 1 HU
@@ -291,18 +287,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13415.ts;name=Cartoon Network HU
 #EXTINF:-1,AXN White HU
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13418.ts;name=AXN White HU
-#EXTINF:-1,AXN RO/HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13419.ts;name=AXN RO/HU
-#EXTINF:-1,AXN CZ/HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13420.ts;name=AXN CZ/HU
+#EXTINF:-1,AXN ROHU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13419.ts;name=AXN ROHU
+#EXTINF:-1,AXN CZHU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13420.ts;name=AXN CZHU
 #EXTINF:-1,AXN Black HU
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13421.ts;name=AXN Black HU
 #EXTINF:-1,Animal Planet HU
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13424.ts;name=Animal Planet HU
 #EXTINF:-1,AMC HU
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13425.ts;name=AMC HU
-#EXTINF:-1,AMC CZ/HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13426.ts;name=AMC CZ/HU
+#EXTINF:-1,AMC CZHU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13426.ts;name=AMC CZHU
 #EXTINF:-1,U Toon IR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/12788.ts;name=U Toon IR
 #EXTINF:-1,Nick IL
@@ -313,6 +309,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14184.ts;name=AXN Black IT
 #EXTINF:-1,AXN  IT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/4081.ts;name=AXN  IT
+#EXTINF:-1,Animal Planet IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/8985.ts;name=Animal Planet IT
 #EXTINF:-1,Cartoon Network IT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14176.ts;name=Cartoon Network IT
 #EXTINF:-1,Cartoonito IT
@@ -321,10 +319,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14171.ts;name=Discovery Channel IT
 #EXTINF:-1,Discovery Science HD IT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/8980.ts;name=Discovery Science HD IT
-#EXTINF:-1,Discovery Travel & Living HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14172.ts;name=Discovery Travel & Living HD IT
-#EXTINF:-1,E! IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14154.ts;name=E! IT
+#EXTINF:-1,Discovery Travel  Living HD IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14172.ts;name=Discovery Travel  Living HD IT
+#EXTINF:-1,E IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14154.ts;name=E IT
 #EXTINF:-1,FOX Comedy HD IT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/4082.ts;name=FOX Comedy HD IT
 #EXTINF:-1,FOX HD IT
@@ -349,8 +347,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16566.ts;name=Investigation Discovery IT
 #EXTINF:-1,Food Network IT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16565.ts;name=Food Network IT
-#EXTINF:-1,A&E LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16013.ts;name=A&E LAM
 #EXTINF:-1,AMC LAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15994.ts;name=AMC LAM
 #EXTINF:-1,Animal Planet LAM
@@ -359,6 +355,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16015.ts;name=AXN LAM
 #EXTINF:-1,CARTOON NETWORK LAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15988.ts;name=CARTOON NETWORK LAM
+#EXTINF:-1,Discovery Channel LAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16018.ts;name=Discovery Channel LAM
+#EXTINF:-1,Discovery Civilization LAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16019.ts;name=Discovery Civilization LAM
 #EXTINF:-1,Discovery ID LAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16020.ts;name=Discovery ID LAM
 #EXTINF:-1,Discovery Kids LAM
@@ -369,8 +369,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16023.ts;name=Discovery TLC LAM
 #EXTINF:-1,Discovery Turbo LAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16024.ts;name=Discovery Turbo LAM
-#EXTINF:-1,E! LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15980.ts;name=E! LAM
+#EXTINF:-1,E LAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15980.ts;name=E LAM
 #EXTINF:-1,ESPN LAM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16025.ts;name=ESPN LAM
 #EXTINF:-1,ESPN 2 LAM
@@ -459,8 +459,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11244.ts;name=Animal Planet NL
 #EXTINF:-1,TLC NL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11204.ts;name=TLC NL
-#EXTINF:-1,Nick Jr. NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11223.ts;name=Nick Jr. NL
+#EXTINF:-1,Nick Jr NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11223.ts;name=Nick Jr NL
 #EXTINF:-1,Discovery Channel HD NO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15494.ts;name=Discovery Channel HD NO
 #EXTINF:-1,FOX HD NO
@@ -475,6 +475,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/6232.ts;name=A One Punjabi (IN) SAC
 #EXTINF:-1,Nick JR (IN) SAC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10147.ts;name=Nick JR (IN) SAC
+#EXTINF:-1,Life OK India (IN) SAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10179.ts;name=Life OK India (IN) SAC
 #EXTINF:-1,M Tunes (IN) SAC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10178.ts;name=M Tunes (IN) SAC
 #EXTINF:-1,MTV India (IN) SAC
@@ -497,6 +499,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11513.ts;name=AXN White PL
 #EXTINF:-1,Animal Planet HD PL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13540.ts;name=Animal Planet HD PL
+#EXTINF:-1,CBS Drama PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11517.ts;name=CBS Drama PL
 #EXTINF:-1,CBS Europa HD PL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15202.ts;name=CBS Europa HD PL
 #EXTINF:-1,CBS Reality PL
@@ -593,8 +597,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9489.ts;name=FOX Comedy PT
 #EXTINF:-1,FOX Movies PT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/5550.ts;name=FOX Movies PT
-#EXTINF:-1,E! PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3257.ts;name=E! PT
+#EXTINF:-1,E PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3257.ts;name=E PT
 #EXTINF:-1,CBS Reality PT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3215.ts;name=CBS Reality PT
 #EXTINF:-1,Discovery Channel PT
@@ -635,8 +639,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14629.ts;name=Cinemax RO
 #EXTINF:-1,TLC RO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14616.ts;name=TLC RO
-#EXTINF:-1,Fishing & Hunting RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14650.ts;name=Fishing & Hunting RO
+#EXTINF:-1,Fishing  Hunting RO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14650.ts;name=Fishing  Hunting RO
 #EXTINF:-1,HBO 1 RO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14604.ts;name=HBO 1 RO
 #EXTINF:-1,HBO 3 RO
@@ -675,8 +679,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15242.ts;name=OUTDOOR CHANNEL RU
 #EXTINF:-1,Traveler HD RU
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15234.ts;name=Traveler HD RU
-#EXTINF:-1,A&E ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/5474.ts;name=A&E ES
 #EXTINF:-1,AMC ES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9438.ts;name=AMC ES
 #EXTINF:-1,AMC HD ES
@@ -707,8 +709,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9448.ts;name=MTV ES
 #EXTINF:-1,MTV ROCKS ES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9444.ts;name=MTV ROCKS ES
-#EXTINF:-1,Nick Jr. ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14247.ts;name=Nick Jr. ES
+#EXTINF:-1,Nick Jr ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14247.ts;name=Nick Jr ES
 #EXTINF:-1,Nickelodeon ES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14248.ts;name=Nickelodeon ES
 #EXTINF:-1,Nickelodeon HD ES
@@ -723,8 +725,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/12693.ts;name=TNT HD ES
 #EXTINF:-1,Cartoon Network SE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11551.ts;name=Cartoon Network SE
-#EXTINF:-1,Nick Jr. SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/12364.ts;name=Nick Jr. SE
+#EXTINF:-1,Nick Jr SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/12364.ts;name=Nick Jr SE
 #EXTINF:-1,Nickelodeon SE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/12077.ts;name=Nickelodeon SE
 #EXTINF:-1,Nickelodeon HD SE
@@ -753,8 +755,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15503.ts;name=TLC FHD SE
 #EXTINF:-1,Travel Channel HD SE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14428.ts;name=Travel Channel HD SE
-#EXTINF:-1,E! SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/12079.ts;name=E! SE
+#EXTINF:-1,E SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/12079.ts;name=E SE
 #EXTINF:-1,FOX  SE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15555.ts;name=FOX  SE
 #EXTINF:-1,MTV SE
@@ -859,8 +861,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14843.ts;name=Discovery History +1 UK
 #EXTINF:-1,Discovery History UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/1985.ts;name=Discovery History UK
-#EXTINF:-1,Discovery Home&Health UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14833.ts;name=Discovery Home&Health UK
+#EXTINF:-1,Discovery HomeHealth UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14833.ts;name=Discovery HomeHealth UK
+#EXTINF:-1,Discovery Investigation UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3982.ts;name=Discovery Investigation UK
 #EXTINF:-1,Discovery Ireland UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14769.ts;name=Discovery Ireland UK
 #EXTINF:-1,Discovery Science UK
@@ -871,12 +875,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3978.ts;name=Discovery Turbo UK
 #EXTINF:-1,Discovery World UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/2678.ts;name=Discovery World UK
-#EXTINF:-1,E! +1  UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14802.ts;name=E! +1  UK
-#EXTINF:-1,E! Ireland UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14801.ts;name=E! Ireland UK
-#EXTINF:-1,E! UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3966.ts;name=E! UK
+#EXTINF:-1,E +1  UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14802.ts;name=E +1  UK
+#EXTINF:-1,E Ireland UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14801.ts;name=E Ireland UK
+#EXTINF:-1,E UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3966.ts;name=E UK
 #EXTINF:-1,FOX HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/2656.ts;name=FOX HD UK
 #EXTINF:-1,FOX News UK
@@ -933,8 +937,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14829.ts;name=Nick Jr +1 UK
 #EXTINF:-1,Nick Jr Peppa UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14828.ts;name=Nick Jr Peppa UK
-#EXTINF:-1,Nick Jr. UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/2669.ts;name=Nick Jr. UK
+#EXTINF:-1,Nick Jr UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/2669.ts;name=Nick Jr UK
 #EXTINF:-1,Nickelodeon UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14825.ts;name=Nickelodeon UK
 #EXTINF:-1,Nicktoons UK
@@ -1043,8 +1047,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13673.ts;name=Starz In Black US
 #EXTINF:-1,Starz West US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13678.ts;name=Starz West US
-#EXTINF:-1,A&E US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10350.ts;name=A&E US
 #EXTINF:-1,ABC HD US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9026.ts;name=ABC HD US
 #EXTINF:-1,AMC HD US
@@ -1073,8 +1075,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9029.ts;name=CNN US
 #EXTINF:-1,DIY Network HD US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13101.ts;name=DIY Network HD US
-#EXTINF:-1,E! US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9021.ts;name=E! US
+#EXTINF:-1,E US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9021.ts;name=E US
 #EXTINF:-1,ESPN 1 US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9023.ts;name=ESPN 1 US
 #EXTINF:-1,ESPN 2 US
@@ -1139,6 +1141,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13094.ts;name=TNT HD US
 #EXTINF:-1,TSN1 US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9032.ts;name=TSN1 US
+#EXTINF:-1,TSN2 US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9033.ts;name=TSN2 US
 #EXTINF:-1,TSN3 US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9034.ts;name=TSN3 US
 #EXTINF:-1,TSN4 US
