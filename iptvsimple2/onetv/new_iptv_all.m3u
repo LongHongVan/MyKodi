@@ -39,8 +39,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/8043.ts;name=M Tunisia (TN) ARB
 #EXTINF:-1,MTV Lebanon (LB) ARB
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/5781.ts;name=MTV Lebanon (LB) ARB
-#EXTINF:-1,Discovery Family Channel ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/5747.ts;name=Discovery Family Channel ARB
 #EXTINF:-1,Investigation Discovery Xtra HD ARB
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13722.ts;name=Investigation Discovery Xtra HD ARB
 #EXTINF:-1,Space Toon 1 ARB
@@ -59,10 +57,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11137.ts;name=Animal Planet HD BG
 #EXTINF:-1,CITY RadioTV BG
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11135.ts;name=CITY RadioTV BG
-#EXTINF:-1,F + BG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11133.ts;name=F + BG
-#EXTINF:-1,action + HD BG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11115.ts;name=action + HD BG
+#EXTINF:-1,F  BG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11133.ts;name=F  BG
+#EXTINF:-1,action  HD BG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11115.ts;name=action  HD BG
 #EXTINF:-1,Nickelodeon CZ
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14265.ts;name=Nickelodeon CZ
 #EXTINF:-1,MTV Europe CZ
@@ -453,8 +451,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11229.ts;name=Investigation Discovery NL
 #EXTINF:-1,History HD NL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11230.ts;name=History HD NL
-#EXTINF:-1,Travel Channel HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/12490.ts;name=Travel Channel HD NL
 #EXTINF:-1,Animal Planet NL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11244.ts;name=Animal Planet NL
 #EXTINF:-1,TLC NL
@@ -565,8 +561,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15184.ts;name=TNT HD PL
 #EXTINF:-1,Universal Channel HD PL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15073.ts;name=Universal Channel HD PL
-#EXTINF:-1,N Sport + HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15209.ts;name=N Sport + HD PL
+#EXTINF:-1,N Sport  HD PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15209.ts;name=N Sport  HD PL
 #EXTINF:-1,4 Fun Dance PL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16291.ts;name=4 Fun Dance PL
 #EXTINF:-1,4 Fun Gold Hits PL
@@ -821,14 +817,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14224.ts;name=FOX FHD TR
 #EXTINF:-1,S Sport TR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15733.ts;name=S Sport TR
-#EXTINF:-1,5 STAR+1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14732.ts;name=5 STAR+1 UK
-#EXTINF:-1,5 USA+1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14731.ts;name=5 USA+1 UK
+#EXTINF:-1,5 STAR1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14732.ts;name=5 STAR1 UK
+#EXTINF:-1,5 USA1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14731.ts;name=5 USA1 UK
 #EXTINF:-1,AMC from BT UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14779.ts;name=AMC from BT UK
-#EXTINF:-1,Animal Planet +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14850.ts;name=Animal Planet +1 UK
+#EXTINF:-1,Animal Planet 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14850.ts;name=Animal Planet 1 UK
 #EXTINF:-1,Animal Planet HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/8010.ts;name=Animal Planet HD UK
 #EXTINF:-1,Animal Planet UK
@@ -837,8 +833,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3944.ts;name=CBS Action UK
 #EXTINF:-1,CBS Drama UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3945.ts;name=CBS Drama UK
-#EXTINF:-1,CBS Reality +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14776.ts;name=CBS Reality +1 UK
+#EXTINF:-1,CBS Reality 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14776.ts;name=CBS Reality 1 UK
 #EXTINF:-1,CBS Reality UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3946.ts;name=CBS Reality UK
 #EXTINF:-1,CNBC UK
@@ -851,14 +847,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3967.ts;name=Cartoon Network HD UK
 #EXTINF:-1,Cartoonito UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14763.ts;name=Cartoonito UK
-#EXTINF:-1,Discovery +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14770.ts;name=Discovery +1 UK
+#EXTINF:-1,Discovery 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14770.ts;name=Discovery 1 UK
 #EXTINF:-1,Discovery Channel HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14863.ts;name=Discovery Channel HD UK
 #EXTINF:-1,Discovery Channel UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/1986.ts;name=Discovery Channel UK
-#EXTINF:-1,Discovery History +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14843.ts;name=Discovery History +1 UK
+#EXTINF:-1,Discovery History 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14843.ts;name=Discovery History 1 UK
 #EXTINF:-1,Discovery History UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/1985.ts;name=Discovery History UK
 #EXTINF:-1,Discovery HomeHealth UK
@@ -875,8 +871,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3978.ts;name=Discovery Turbo UK
 #EXTINF:-1,Discovery World UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/2678.ts;name=Discovery World UK
-#EXTINF:-1,E +1  UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14802.ts;name=E +1  UK
+#EXTINF:-1,E 1  UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14802.ts;name=E 1  UK
 #EXTINF:-1,E Ireland UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14801.ts;name=E Ireland UK
 #EXTINF:-1,E UK
@@ -889,20 +885,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14449.ts;name=Fight Sports UK
 #EXTINF:-1,Food Network UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3991.ts;name=Food Network UK
-#EXTINF:-1,Food Netwrk +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14878.ts;name=Food Netwrk +1 UK
+#EXTINF:-1,Food Netwrk 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14878.ts;name=Food Netwrk 1 UK
 #EXTINF:-1,H2 HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3569.ts;name=H2 HD UK
-#EXTINF:-1,History +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14941.ts;name=History +1 UK
+#EXTINF:-1,History 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14941.ts;name=History 1 UK
 #EXTINF:-1,History UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3976.ts;name=History UK
 #EXTINF:-1,Lifetime HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14938.ts;name=Lifetime HD UK
 #EXTINF:-1,Lifetime UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14759.ts;name=Lifetime UK
-#EXTINF:-1,MTV +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14768.ts;name=MTV +1 UK
+#EXTINF:-1,MTV 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14768.ts;name=MTV 1 UK
 #EXTINF:-1,MTV Base HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13087.ts;name=MTV Base HD UK
 #EXTINF:-1,MTV Base UK
@@ -921,8 +917,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14956.ts;name=MTV Ireland UK
 #EXTINF:-1,MTV Live HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13090.ts;name=MTV Live HD UK
-#EXTINF:-1,MTV Music +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14767.ts;name=MTV Music +1 UK
+#EXTINF:-1,MTV Music 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14767.ts;name=MTV Music 1 UK
 #EXTINF:-1,MTV Music UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/7316.ts;name=MTV Music UK
 #EXTINF:-1,MTV Rocks UK
@@ -933,8 +929,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15026.ts;name=News18 UK
 #EXTINF:-1,Nick HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16719.ts;name=Nick HD UK
-#EXTINF:-1,Nick Jr +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14829.ts;name=Nick Jr +1 UK
+#EXTINF:-1,Nick Jr 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14829.ts;name=Nick Jr 1 UK
 #EXTINF:-1,Nick Jr Peppa UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14828.ts;name=Nick Jr Peppa UK
 #EXTINF:-1,Nick Jr UK
@@ -949,34 +945,34 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/11428.ts;name=Spike UK
 #EXTINF:-1,Starz TV UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14865.ts;name=Starz TV UK
-#EXTINF:-1,Syfy +1  UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14786.ts;name=Syfy +1  UK
+#EXTINF:-1,Syfy 1  UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14786.ts;name=Syfy 1  UK
 #EXTINF:-1,Syfy HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16727.ts;name=Syfy HD UK
 #EXTINF:-1,Syfy UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/3939.ts;name=Syfy UK
-#EXTINF:-1,TLC +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14819.ts;name=TLC +1 UK
+#EXTINF:-1,TLC 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14819.ts;name=TLC 1 UK
 #EXTINF:-1,TLC Europe UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15501.ts;name=TLC Europe UK
 #EXTINF:-1,TLC Ireland UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14764.ts;name=TLC Ireland UK
 #EXTINF:-1,TLC UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/4027.ts;name=TLC UK
-#EXTINF:-1,Travel Channel +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14784.ts;name=Travel Channel +1 UK
+#EXTINF:-1,Travel Channel 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14784.ts;name=Travel Channel 1 UK
 #EXTINF:-1,Travel Channel UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14818.ts;name=Travel Channel UK
-#EXTINF:-1,Universal +1  UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14782.ts;name=Universal +1  UK
+#EXTINF:-1,Universal 1  UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14782.ts;name=Universal 1  UK
 #EXTINF:-1,Universal HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16725.ts;name=Universal HD UK
 #EXTINF:-1,Universal Ireland UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14781.ts;name=Universal Ireland UK
 #EXTINF:-1,Universal UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14783.ts;name=Universal UK
-#EXTINF:-1,W +1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14815.ts;name=W +1 UK
+#EXTINF:-1,W 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/14815.ts;name=W 1 UK
 #EXTINF:-1,W HD UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16726.ts;name=W HD UK
 #EXTINF:-1,W Ireland UK
@@ -1103,12 +1099,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9017.ts;name=HBO Comedy US
 #EXTINF:-1,HBO Signature US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9016.ts;name=HBO Signature US
-#EXTINF:-1,HBO Zone US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9015.ts;name=HBO Zone US
 #EXTINF:-1,Lifetime US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/9078.ts;name=Lifetime US
-#EXTINF:-1,Lifetime HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/13096.ts;name=Lifetime HD US
 #EXTINF:-1,MLB Network US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10699.ts;name=MLB Network US
 #EXTINF:-1,NBA TV US
@@ -1129,8 +1121,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10700.ts;name=Sportsnet 360 US
 #EXTINF:-1,Sportsnet One US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10344.ts;name=Sportsnet One US
-#EXTINF:-1,Sportsnet World US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10342.ts;name=Sportsnet World US
 #EXTINF:-1,Sportsnet Ontario US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/10345.ts;name=Sportsnet Ontario US
 #EXTINF:-1,Syfy HD US
@@ -1177,8 +1167,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/16295.ts;name=OWN US
 #EXTINF:-1,TNT US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15366.ts;name=TNT US
-#EXTINF:-1,Playboy TV (18+) ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15911.ts;name=Playboy TV (18+) ES
-#EXTINF:-1,Playboy TV HD (18+) ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15912.ts;name=Playboy TV HD (18+) ES
+#EXTINF:-1,Playboy TV (18) ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15911.ts;name=Playboy TV (18) ES
+#EXTINF:-1,Playboy TV HD (18) ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clients.clientportal.link:8080/live/kZFCap9ON0/cls9va4s8J/15912.ts;name=Playboy TV HD (18) ES
 
