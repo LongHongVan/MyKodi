@@ -2235,32 +2235,37 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32972
 
 ################### End USA UK UHDTV ####################################################
 
-
 #### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
 
 #EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTV1 HD
-http://127.0.0.1:19096/vntvnetproxy/vtv1
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",VTV2 HD
-http://127.0.0.1:19096/vntvnetproxy/vtv2
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTV3 HD
-http://127.0.0.1:19096/vntvnetproxy/vtv3
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV4 HD
-http://127.0.0.1:19096/vntvnetproxy/vtv4
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ttx_vn.jpg",TTXVN HD
-http://127.0.0.1:19096/vntvnetproxy/ttxvn
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/htv_9.jpg",HTV9 HD
-http://127.0.0.1:19096/vntvnetproxy/htv9
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_1.jpg",VTC1 HD
-http://127.0.0.1:19096/vntvnetproxy/vtc1
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_10.jpg",VTC10 HD
-http://127.0.0.1:19096/vntvnetproxy/vtc10
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_16_vn.jpg",VTC16 HD
-http://127.0.0.1:19096/vntvnetproxy/vtc16
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hanoi_tv1.jpg",HN1 HD
-http://127.0.0.1:19096/vntvnetproxy/hn1
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMTMtYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djEtaGlnaC5tM3U4
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/09/01/767560-HTV7_FullHD.png", HTV7 HD (Bonus)
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2N2hkLmlzbWwvaHR2N2hkLTIwOTZrLm0zdTg=
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",VTV2 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMjg5LWFtem9iai5iNTY5NWNkZS5jZG52aWV0LmNvbS9saXZlL19kZWZpbnN0Xy92dHYyLWhpZ2gubTN1OA==
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTV3 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMTMtYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djMtaGlnaC5tM3U4
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV4 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNDUtYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djQtaGlnaC5tM3U4
+
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv5_vn.jpg",VTV5 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNDUtYW16b2JqLmI1Njk1Y2RlLmNkbnZpZXQuY29tL2xpdmUvX2RlZmluc3RfL3Z0djUtaGlnaC5tM3U4
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv6_vn.jpg",VTV6 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNjctYW16b2JqLmI1Njk1Y2RlLmNkbnZpZXQuY29tL2xpdmUvX2RlZmluc3RfL3Z0djYtaGlnaC5tM3U4
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv7_vn.jpg",VTV7 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNjctYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djctaGlnaC5tM3U4
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv8_vn.jpg",VTV8 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMjg5LWFtem9iai5iNTY5NWNkZS5jZG52aWV0LmNvbS9saXZlL19kZWZpbnN0Xy92dHY4LWhpZ2gubTN1OA==
+
+#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv9_vn.jpg",VTV9 HD
+http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMjg5LWFtem9iai5iNTY5NWNkZS5jZG52aWV0LmNvbS9saXZlL19kZWZpbnN0Xy92dHY4LWhpZ2gubTN1OA==
+
+
 
 #### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
 
