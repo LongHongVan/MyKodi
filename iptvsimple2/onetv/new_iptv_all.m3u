@@ -1,1148 +1,156 @@
 #EXTM3U 
-#EXTINF:-1,Universal TV (SO) AFR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16587.ts;name=Universal TV (SO) AFR
-#EXTINF:-1,T HD AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7055.ts;name=T HD AL
-#EXTINF:-1,T AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4197.ts;name=T AL
-#EXTINF:-1,Discovery HD AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11291.ts;name=Discovery HD AL
-#EXTINF:-1,Travel Channel AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7060.ts;name=Travel Channel AL
-#EXTINF:-1,Fox AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9392.ts;name=Fox AL
-#EXTINF:-1,ABC News AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6263.ts;name=ABC News AL
-#EXTINF:-1,News 24 HD AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3795.ts;name=News 24 HD AL
-#EXTINF:-1,E AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7072.ts;name=E AL
-#EXTINF:-1,Fox Crime AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3814.ts;name=Fox Crime AL
-#EXTINF:-1,MTV Kosova AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12051.ts;name=MTV Kosova AL
-#EXTINF:-1,K Sport 1 HD AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9150.ts;name=K Sport 1 HD AL
-#EXTINF:-1,K Sport 2 HD AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9151.ts;name=K Sport 2 HD AL
-#EXTINF:-1,K Sport 3 HD AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9152.ts;name=K Sport 3 HD AL
-#EXTINF:-1,K Sport 4 HD AL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9153.ts;name=K Sport 4 HD AL
-#EXTINF:-1,CBC (EG) ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5760.ts;name=CBC (EG) ARB
-#EXTINF:-1,CBC Drama (EG) ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5763.ts;name=CBC Drama (EG) ARB
-#EXTINF:-1,CBC Extra (EG) ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5761.ts;name=CBC Extra (EG) ARB
-#EXTINF:-1,CBC Sofra (EG) ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5762.ts;name=CBC Sofra (EG) ARB
-#EXTINF:-1,Cartoon Network ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5771.ts;name=Cartoon Network ARB
-#EXTINF:-1,Fox Action Movies HD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15114.ts;name=Fox Action Movies HD ARB
-#EXTINF:-1,Fox Family Movies HD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15115.ts;name=Fox Family Movies HD ARB
-#EXTINF:-1,M Tunisia (TN) ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8043.ts;name=M Tunisia (TN) ARB
-#EXTINF:-1,MTV Lebanon (LB) ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5781.ts;name=MTV Lebanon (LB) ARB
-#EXTINF:-1,Discovery Family Channel ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5747.ts;name=Discovery Family Channel ARB
-#EXTINF:-1,Investigation Discovery Xtra HD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13722.ts;name=Investigation Discovery Xtra HD ARB
-#EXTINF:-1,Space Toon 1 ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10398.ts;name=Space Toon 1 ARB
-#EXTINF:-1,Nickelodeon HD AT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14570.ts;name=Nickelodeon HD AT
-#EXTINF:-1,TLC HD AT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15758.ts;name=TLC HD AT
-#EXTINF:-1,Cartoon Network BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12503.ts;name=Cartoon Network BE
-#EXTINF:-1,HBO BG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11150.ts;name=HBO BG
-#EXTINF:-1,Animal Planet HD BG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11137.ts;name=Animal Planet HD BG
-#EXTINF:-1,CITY RadioTV BG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11135.ts;name=CITY RadioTV BG
-#EXTINF:-1,F  BG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11133.ts;name=F  BG
-#EXTINF:-1,action  HD BG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11115.ts;name=action  HD BG
-#EXTINF:-1,Nickelodeon CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14265.ts;name=Nickelodeon CZ
-#EXTINF:-1,MTV Europe CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14269.ts;name=MTV Europe CZ
-#EXTINF:-1,HBO3 CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14273.ts;name=HBO3 CZ
-#EXTINF:-1,HBO2 CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14274.ts;name=HBO2 CZ
-#EXTINF:-1,HBO HD CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14275.ts;name=HBO HD CZ
-#EXTINF:-1,Fishing and Hunting CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14277.ts;name=Fishing and Hunting CZ
-#EXTINF:-1,E Entertainment CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14283.ts;name=E Entertainment CZ
-#EXTINF:-1,Discovery CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14286.ts;name=Discovery CZ
-#EXTINF:-1,Cinemax CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14287.ts;name=Cinemax CZ
-#EXTINF:-1,AXN CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14289.ts;name=AXN CZ
-#EXTINF:-1,AMC CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14290.ts;name=AMC CZ
-#EXTINF:-1,Discovery HD DK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15493.ts;name=Discovery HD DK
-#EXTINF:-1,TLC Danmark DK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15500.ts;name=TLC Danmark DK
-#EXTINF:-1,MTV HD DK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11599.ts;name=MTV HD DK
-#EXTINF:-1,Animal Planet FHD DK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16601.ts;name=Animal Planet FHD DK
-#EXTINF:-1,Cartoon Network DK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16599.ts;name=Cartoon Network DK
-#EXTINF:-1,Discovery Channel FHD DK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16603.ts;name=Discovery Channel FHD DK
-#EXTINF:-1,TNT FHD DK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16595.ts;name=TNT FHD DK
-#EXTINF:-1,Discovery ID XTRA EE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10279.ts;name=Discovery ID XTRA EE
-#EXTINF:-1,History EE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10280.ts;name=History EE
-#EXTINF:-1,FOX Life EE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10272.ts;name=FOX Life EE
-#EXTINF:-1,FOX EE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10271.ts;name=FOX EE
-#EXTINF:-1,Discovery Channel EE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10278.ts;name=Discovery Channel EE
-#EXTINF:-1,Animal Planet EE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10281.ts;name=Animal Planet EE
-#EXTINF:-1,MTV Igman (BH) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3195.ts;name=MTV Igman (BH) ex Yu
-#EXTINF:-1,AXN (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13764.ts;name=AXN (RS) ex Yu
-#EXTINF:-1,Fox TV (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1448.ts;name=Fox TV (HR) ex Yu
-#EXTINF:-1,Fox Movies (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1451.ts;name=Fox Movies (HR) ex Yu
-#EXTINF:-1,Fox Life (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1450.ts;name=Fox Life (HR) ex Yu
-#EXTINF:-1,Fox Crime (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1449.ts;name=Fox Crime (HR) ex Yu
-#EXTINF:-1,HBO (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1452.ts;name=HBO (RS) ex Yu
-#EXTINF:-1,HBO 2 (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1453.ts;name=HBO 2 (RS) ex Yu
-#EXTINF:-1,HBO 3 (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13806.ts;name=HBO 3 (RS) ex Yu
-#EXTINF:-1,CineMax 1 (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2022.ts;name=CineMax 1 (HR) ex Yu
-#EXTINF:-1,CineMax 2 (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2023.ts;name=CineMax 2 (HR) ex Yu
-#EXTINF:-1,Investigation Discovery (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13783.ts;name=Investigation Discovery (HR) ex Yu
-#EXTINF:-1,Animal Planet (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3178.ts;name=Animal Planet (RS) ex Yu
-#EXTINF:-1,Discovery Channel (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1445.ts;name=Discovery Channel (HR) ex Yu
-#EXTINF:-1,History (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1454.ts;name=History (HR) ex Yu
-#EXTINF:-1,TLC (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13820.ts;name=TLC (RS) ex Yu
-#EXTINF:-1,E (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1467.ts;name=E (HR) ex Yu
-#EXTINF:-1,FightBox (HR) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13803.ts;name=FightBox (HR) ex Yu
-#EXTINF:-1,Nickelodeon (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6083.ts;name=Nickelodeon (RS) ex Yu
-#EXTINF:-1,K CN 1 (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13809.ts;name=K CN 1 (RS) ex Yu
-#EXTINF:-1,K CN 2 (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13810.ts;name=K CN 2 (RS) ex Yu
-#EXTINF:-1,K CN Music 3 (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13811.ts;name=K CN Music 3 (RS) ex Yu
-#EXTINF:-1,MTV Adria (RS) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13813.ts;name=MTV Adria (RS) ex Yu
-#EXTINF:-1,City TV (BH) ex Yu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11289.ts;name=City TV (BH) ex Yu
-#EXTINF:-1,C More Juniori FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15066.ts;name=C More Juniori FI
-#EXTINF:-1,C More Max HD FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15513.ts;name=C More Max HD FI
-#EXTINF:-1,C More Sport 1 HD FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14460.ts;name=C More Sport 1 HD FI
-#EXTINF:-1,C More Sport 2 FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14459.ts;name=C More Sport 2 FI
-#EXTINF:-1,Discovery Channel FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15492.ts;name=Discovery Channel FI
-#EXTINF:-1,MTV3 FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14440.ts;name=MTV3 FI
-#EXTINF:-1,MTV3 HD FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15514.ts;name=MTV3 HD FI
-#EXTINF:-1,Action HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4507.ts;name=Action HD FR
-#EXTINF:-1,Cartoon Network HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2246.ts;name=Cartoon Network HD FR
-#EXTINF:-1,Discovery Channel HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7579.ts;name=Discovery Channel HD FR
-#EXTINF:-1,Discovery Science HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7578.ts;name=Discovery Science HD FR
-#EXTINF:-1,E HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2229.ts;name=E HD FR
-#EXTINF:-1,Nick Jr FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13173.ts;name=Nick Jr FR
-#EXTINF:-1,Nickelodeon 4Teen FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15638.ts;name=Nickelodeon 4Teen FR
-#EXTINF:-1,Nickelodeon HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13172.ts;name=Nickelodeon HD FR
-#EXTINF:-1,Syfy HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2228.ts;name=Syfy HD FR
-#EXTINF:-1,Ushuaïa TV HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4491.ts;name=Ushuaïa TV HD FR
-#EXTINF:-1,Animal Planet FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14058.ts;name=Animal Planet FHD DE
-#EXTINF:-1,Animal Planet HD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9561.ts;name=Animal Planet HD DE
-#EXTINF:-1,Astro TV DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12339.ts;name=Astro TV DE
-#EXTINF:-1,AXN DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9562.ts;name=AXN DE
-#EXTINF:-1,Cartoon Network DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15565.ts;name=Cartoon Network DE
-#EXTINF:-1,Discovery Channel FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14063.ts;name=Discovery Channel FHD DE
-#EXTINF:-1,Discovery Channel HD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3426.ts;name=Discovery Channel HD DE
-#EXTINF:-1,E Entertainment HD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15567.ts;name=E Entertainment HD DE
-#EXTINF:-1,FOX FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14055.ts;name=FOX FHD DE
-#EXTINF:-1,FOX HD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3425.ts;name=FOX HD DE
-#EXTINF:-1,Fox Series DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12294.ts;name=Fox Series DE
-#EXTINF:-1,History DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3424.ts;name=History DE
-#EXTINF:-1,History FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14311.ts;name=History FHD DE
-#EXTINF:-1,MTV HD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15759.ts;name=MTV HD DE
-#EXTINF:-1,n tv DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3449.ts;name=n tv DE
-#EXTINF:-1,n tv FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14054.ts;name=n tv FHD DE
-#EXTINF:-1,Nickelodeon FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14571.ts;name=Nickelodeon FHD DE
-#EXTINF:-1,E DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16502.ts;name=E DE
-#EXTINF:-1,Syfy DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3204.ts;name=Syfy DE
-#EXTINF:-1,Syfy FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14043.ts;name=Syfy FHD DE
-#EXTINF:-1,TLC DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12324.ts;name=TLC DE
-#EXTINF:-1,TLC FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15757.ts;name=TLC FHD DE
-#EXTINF:-1,TNT Comedy HD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15577.ts;name=TNT Comedy HD DE
-#EXTINF:-1,TNT Film DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3422.ts;name=TNT Film DE
-#EXTINF:-1,TNT Serie DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3421.ts;name=TNT Serie DE
-#EXTINF:-1,TNT Serie FHD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14303.ts;name=TNT Serie FHD DE
-#EXTINF:-1,Universal Channel HD DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3439.ts;name=Universal Channel HD DE
-#EXTINF:-1,Action 24 GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9996.ts;name=Action 24 GR
-#EXTINF:-1,CNN GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9982.ts;name=CNN GR
-#EXTINF:-1,Discovery Channel GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9976.ts;name=Discovery Channel GR
-#EXTINF:-1,Discovery History GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9947.ts;name=Discovery History GR
-#EXTINF:-1,Discovery Investigation GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6383.ts;name=Discovery Investigation GR
-#EXTINF:-1,E GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6356.ts;name=E GR
-#EXTINF:-1,FOX Sports 1 GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9986.ts;name=FOX Sports 1 GR
-#EXTINF:-1,Nickelodeon GR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9958.ts;name=Nickelodeon GR
-#EXTINF:-1,Travel Channel HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13342.ts;name=Travel Channel HU
-#EXTINF:-1,Nickelodeon HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13365.ts;name=Nickelodeon HU
-#EXTINF:-1,History HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13380.ts;name=History HU
-#EXTINF:-1,HBO CZ HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13383.ts;name=HBO CZ HU
-#EXTINF:-1,HBO 2 HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13382.ts;name=HBO 2 HU
-#EXTINF:-1,HBO 1 HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13384.ts;name=HBO 1 HU
-#EXTINF:-1,Food Network HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13388.ts;name=Food Network HU
-#EXTINF:-1,Discovery World HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13405.ts;name=Discovery World HU
-#EXTINF:-1,Discovery Science HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13406.ts;name=Discovery Science HU
-#EXTINF:-1,Cinemax HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13414.ts;name=Cinemax HU
-#EXTINF:-1,Cartoon Network HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13415.ts;name=Cartoon Network HU
-#EXTINF:-1,AXN White HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13418.ts;name=AXN White HU
-#EXTINF:-1,AXN RO HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13419.ts;name=AXN RO HU
-#EXTINF:-1,AXN CZ HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13420.ts;name=AXN CZ HU
-#EXTINF:-1,AXN Black HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13421.ts;name=AXN Black HU
-#EXTINF:-1,Animal Planet HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13424.ts;name=Animal Planet HU
-#EXTINF:-1,AMC HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13425.ts;name=AMC HU
-#EXTINF:-1,AMC CZ HU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13426.ts;name=AMC CZ HU
-#EXTINF:-1,U Toon IR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12788.ts;name=U Toon IR
-#EXTINF:-1,Nick IL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16189.ts;name=Nick IL
-#EXTINF:-1,Nick Jr IL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16190.ts;name=Nick Jr IL
-#EXTINF:-1,AXN Black IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14184.ts;name=AXN Black IT
-#EXTINF:-1,AXN  IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4081.ts;name=AXN  IT
-#EXTINF:-1,Animal Planet IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8985.ts;name=Animal Planet IT
-#EXTINF:-1,Cartoon Network IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14176.ts;name=Cartoon Network IT
-#EXTINF:-1,Cartoonito IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7030.ts;name=Cartoonito IT
-#EXTINF:-1,Discovery Channel IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14171.ts;name=Discovery Channel IT
-#EXTINF:-1,Discovery Science HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8980.ts;name=Discovery Science HD IT
-#EXTINF:-1,Discovery Travel  Living HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14172.ts;name=Discovery Travel  Living HD IT
-#EXTINF:-1,E IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14154.ts;name=E IT
-#EXTINF:-1,FOX Comedy HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4082.ts;name=FOX Comedy HD IT
-#EXTINF:-1,FOX HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3713.ts;name=FOX HD IT
-#EXTINF:-1,Fox Animation HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7862.ts;name=Fox Animation HD IT
-#EXTINF:-1,Fox Crime HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14163.ts;name=Fox Crime HD IT
-#EXTINF:-1,Fox Life IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7868.ts;name=Fox Life IT
-#EXTINF:-1,Fox Sports HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5223.ts;name=Fox Sports HD IT
-#EXTINF:-1,History HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4089.ts;name=History HD IT
-#EXTINF:-1,MTV Music IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9000.ts;name=MTV Music IT
-#EXTINF:-1,MTV Dance IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14143.ts;name=MTV Dance IT
-#EXTINF:-1,Fox Sports HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14069.ts;name=Fox Sports HD IT
-#EXTINF:-1,Investigation Discovery IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16566.ts;name=Investigation Discovery IT
-#EXTINF:-1,Food Network IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16565.ts;name=Food Network IT
-#EXTINF:-1,AMC LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15994.ts;name=AMC LAM
-#EXTINF:-1,Animal Planet LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16014.ts;name=Animal Planet LAM
-#EXTINF:-1,AXN LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16015.ts;name=AXN LAM
-#EXTINF:-1,CARTOON NETWORK LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15988.ts;name=CARTOON NETWORK LAM
-#EXTINF:-1,Discovery Channel LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16018.ts;name=Discovery Channel LAM
-#EXTINF:-1,Discovery Civilization LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16019.ts;name=Discovery Civilization LAM
-#EXTINF:-1,Discovery ID LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16020.ts;name=Discovery ID LAM
-#EXTINF:-1,Discovery Kids LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16021.ts;name=Discovery Kids LAM
-#EXTINF:-1,Discovery Theater LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16022.ts;name=Discovery Theater LAM
-#EXTINF:-1,Discovery TLC LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16023.ts;name=Discovery TLC LAM
-#EXTINF:-1,Discovery Turbo LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16024.ts;name=Discovery Turbo LAM
-#EXTINF:-1,E LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15980.ts;name=E LAM
-#EXTINF:-1,ESPN LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16025.ts;name=ESPN LAM
-#EXTINF:-1,ESPN 2 LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16026.ts;name=ESPN 2 LAM
-#EXTINF:-1,Fox Premium Series LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16029.ts;name=Fox Premium Series LAM
-#EXTINF:-1,Fox Action HD LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16030.ts;name=Fox Action HD LAM
-#EXTINF:-1,Fox Cinema HD LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16031.ts;name=Fox Cinema HD LAM
-#EXTINF:-1,Fox HD LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16032.ts;name=Fox HD LAM
-#EXTINF:-1,FOX LIFE LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15976.ts;name=FOX LIFE LAM
-#EXTINF:-1,FOX PREMIUM MOVIES LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16033.ts;name=FOX PREMIUM MOVIES LAM
-#EXTINF:-1,Fox Sports LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16034.ts;name=Fox Sports LAM
-#EXTINF:-1,Fox Sports 2 HD LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16035.ts;name=Fox Sports 2 HD LAM
-#EXTINF:-1,FOX SPORT 3 LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15975.ts;name=FOX SPORT 3 LAM
-#EXTINF:-1,FX LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15974.ts;name=FX LAM
-#EXTINF:-1,H2 LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15973.ts;name=H2 LAM
-#EXTINF:-1,HBO LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15972.ts;name=HBO LAM
-#EXTINF:-1,HBO 2 LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15971.ts;name=HBO 2 LAM
-#EXTINF:-1,HBO Signature LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15970.ts;name=HBO Signature LAM
-#EXTINF:-1,History LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16001.ts;name=History LAM
-#EXTINF:-1,Investigation Discovery LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15969.ts;name=Investigation Discovery LAM
-#EXTINF:-1,MTV LATINO HITS LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15964.ts;name=MTV LATINO HITS LAM
-#EXTINF:-1,MTV LATINO LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15965.ts;name=MTV LATINO LAM
-#EXTINF:-1,NICK Jr LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15960.ts;name=NICK Jr LAM
-#EXTINF:-1,NICKELODEON LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15959.ts;name=NICKELODEON LAM
-#EXTINF:-1,Space HD LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15999.ts;name=Space HD LAM
-#EXTINF:-1,TLC LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15951.ts;name=TLC LAM
-#EXTINF:-1,TNT LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15950.ts;name=TNT LAM
-#EXTINF:-1,TNT series LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16038.ts;name=TNT series LAM
-#EXTINF:-1,Universal LAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15996.ts;name=Universal LAM
-#EXTINF:-1,FOX NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4134.ts;name=FOX NL
-#EXTINF:-1,Nickelodeon NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2461.ts;name=Nickelodeon NL
-#EXTINF:-1,MTV Music 24 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4136.ts;name=MTV Music 24 NL
-#EXTINF:-1,FOX Sports 1 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4169.ts;name=FOX Sports 1 HD NL
-#EXTINF:-1,FOX Sports 2 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4170.ts;name=FOX Sports 2 NL
-#EXTINF:-1,FOX Sports 2 HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12530.ts;name=FOX Sports 2 HD NL
-#EXTINF:-1,FOX Sports 3 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4171.ts;name=FOX Sports 3 NL
-#EXTINF:-1,FOX Sports 4 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4172.ts;name=FOX Sports 4 NL
-#EXTINF:-1,FOX Sports 5 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4173.ts;name=FOX Sports 5 NL
-#EXTINF:-1,FOX Sports 6 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11231.ts;name=FOX Sports 6 NL
-#EXTINF:-1,Discovery Channel NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4176.ts;name=Discovery Channel NL
-#EXTINF:-1,Investigation Discovery NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11229.ts;name=Investigation Discovery NL
-#EXTINF:-1,History HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11230.ts;name=History HD NL
-#EXTINF:-1,Travel Channel HD NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12490.ts;name=Travel Channel HD NL
-#EXTINF:-1,Animal Planet NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11244.ts;name=Animal Planet NL
-#EXTINF:-1,TLC NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11204.ts;name=TLC NL
-#EXTINF:-1,Nick Jr NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11223.ts;name=Nick Jr NL
-#EXTINF:-1,Discovery Channel HD NO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15494.ts;name=Discovery Channel HD NO
-#EXTINF:-1,FOX HD NO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15544.ts;name=FOX HD NO
-#EXTINF:-1,FOX NO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14448.ts;name=FOX NO
-#EXTINF:-1,Nickelodeon NO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15549.ts;name=Nickelodeon NO
-#EXTINF:-1,TLC HD NO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15502.ts;name=TLC HD NO
-#EXTINF:-1,A One Punjabi (IN) SAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6232.ts;name=A One Punjabi (IN) SAC
-#EXTINF:-1,Nick JR (IN) SAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10147.ts;name=Nick JR (IN) SAC
-#EXTINF:-1,M Tunes (IN) SAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10178.ts;name=M Tunes (IN) SAC
-#EXTINF:-1,MTV India (IN) SAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6219.ts;name=MTV India (IN) SAC
-#EXTINF:-1,Nick (IN) SAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10192.ts;name=Nick (IN) SAC
-#EXTINF:-1,WE TV (IN) SAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10187.ts;name=WE TV (IN) SAC
-#EXTINF:-1,AMC Polska PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15218.ts;name=AMC Polska PL
-#EXTINF:-1,AXN Black PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11512.ts;name=AXN Black PL
-#EXTINF:-1,AXN Polska HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11699.ts;name=AXN Polska HD PL
-#EXTINF:-1,AXN Polska PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11511.ts;name=AXN Polska PL
-#EXTINF:-1,AXN Spin HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11629.ts;name=AXN Spin HD PL
-#EXTINF:-1,AXN White PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11513.ts;name=AXN White PL
-#EXTINF:-1,Animal Planet HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13540.ts;name=Animal Planet HD PL
-#EXTINF:-1,CBS Drama PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11517.ts;name=CBS Drama PL
-#EXTINF:-1,CBS Europa HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15202.ts;name=CBS Europa HD PL
-#EXTINF:-1,CBS Reality PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11518.ts;name=CBS Reality PL
-#EXTINF:-1,Cartoon Network HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15203.ts;name=Cartoon Network HD PL
-#EXTINF:-1,Cinemax HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15710.ts;name=Cinemax HD PL
-#EXTINF:-1,Cinemax 2 HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15099.ts;name=Cinemax 2 HD PL
-#EXTINF:-1,Discovery Channel HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15213.ts;name=Discovery Channel HD PL
-#EXTINF:-1,Discovery Historia PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15098.ts;name=Discovery Historia PL
-#EXTINF:-1,Discovery Life PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11520.ts;name=Discovery Life PL
-#EXTINF:-1,Discovery Science HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15201.ts;name=Discovery Science HD PL
-#EXTINF:-1,Discovery Science PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11521.ts;name=Discovery Science PL
-#EXTINF:-1,Fight Klub HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15193.ts;name=Fight Klub HD PL
-#EXTINF:-1,Fox Comedy Polska HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11698.ts;name=Fox Comedy Polska HD PL
-#EXTINF:-1,Fox Comedy Polska PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11634.ts;name=Fox Comedy Polska PL
-#EXTINF:-1,Fox Polska HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11697.ts;name=Fox Polska HD PL
-#EXTINF:-1,H2 Polska HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15093.ts;name=H2 Polska HD PL
-#EXTINF:-1,HBO HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13526.ts;name=HBO HD PL
-#EXTINF:-1,HBO 2 HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13527.ts;name=HBO 2 HD PL
-#EXTINF:-1,HBO 3 HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15092.ts;name=HBO 3 HD PL
-#EXTINF:-1,History HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15091.ts;name=History HD PL
-#EXTINF:-1,Investigation Discovery HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15211.ts;name=Investigation Discovery HD PL
-#EXTINF:-1,MTV Live HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11703.ts;name=MTV Live HD PL
-#EXTINF:-1,MTV Polska PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11702.ts;name=MTV Polska PL
-#EXTINF:-1,Nick Jr PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11706.ts;name=Nick Jr PL
-#EXTINF:-1,Nickelodeon PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11705.ts;name=Nickelodeon PL
-#EXTINF:-1,HGTV HD  PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11188.ts;name=HGTV HD  PL
-#EXTINF:-1,HGTV PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11184.ts;name=HGTV PL
-#EXTINF:-1,TLC HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15080.ts;name=TLC HD PL
-#EXTINF:-1,TLC PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11632.ts;name=TLC PL
-#EXTINF:-1,TNT HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15184.ts;name=TNT HD PL
-#EXTINF:-1,Universal Channel HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15073.ts;name=Universal Channel HD PL
-#EXTINF:-1,N Sport  HD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15209.ts;name=N Sport  HD PL
-#EXTINF:-1,4 Fun Dance PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16291.ts;name=4 Fun Dance PL
-#EXTINF:-1,4 Fun Gold Hits PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16290.ts;name=4 Fun Gold Hits PL
-#EXTINF:-1,4 Fun TV PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16289.ts;name=4 Fun TV PL
-#EXTINF:-1,CBS Action PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16288.ts;name=CBS Action PL
-#EXTINF:-1,History PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16286.ts;name=History PL
-#EXTINF:-1,AMC HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9487.ts;name=AMC HD PT
-#EXTINF:-1,AXN HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3255.ts;name=AXN HD PT
-#EXTINF:-1,AXN Black HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5551.ts;name=AXN Black HD PT
-#EXTINF:-1,AXN White HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3242.ts;name=AXN White HD PT
-#EXTINF:-1,FOX HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3232.ts;name=FOX HD PT
-#EXTINF:-1,FOX Crime HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5549.ts;name=FOX Crime HD PT
-#EXTINF:-1,FOX Life HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3233.ts;name=FOX Life HD PT
-#EXTINF:-1,Syfy PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3226.ts;name=Syfy PT
-#EXTINF:-1,FOX Comedy PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9489.ts;name=FOX Comedy PT
-#EXTINF:-1,FOX Movies PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5550.ts;name=FOX Movies PT
-#EXTINF:-1,E PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3257.ts;name=E PT
-#EXTINF:-1,CBS Reality PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3215.ts;name=CBS Reality PT
-#EXTINF:-1,Discovery Channel PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3247.ts;name=Discovery Channel PT
-#EXTINF:-1,Discovery Showcase HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3253.ts;name=Discovery Showcase HD PT
-#EXTINF:-1,TLC PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9496.ts;name=TLC PT
-#EXTINF:-1,MTV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9478.ts;name=MTV PT
-#EXTINF:-1,Travel Channel HD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9497.ts;name=Travel Channel HD PT
-#EXTINF:-1,Nickelodeon PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3240.ts;name=Nickelodeon PT
-#EXTINF:-1,Cartoon Network PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5554.ts;name=Cartoon Network PT
-#EXTINF:-1,C Music TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3259.ts;name=C Music TV PT
-#EXTINF:-1,FOX News PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9476.ts;name=FOX News PT
-#EXTINF:-1,A Bola TV PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5540.ts;name=A Bola TV PT
-#EXTINF:-1,1 Music Channel RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14597.ts;name=1 Music Channel RO
-#EXTINF:-1,AMC RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14647.ts;name=AMC RO
-#EXTINF:-1,AXN Black RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14661.ts;name=AXN Black RO
-#EXTINF:-1,AXN RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14634.ts;name=AXN RO
-#EXTINF:-1,AXN White RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14660.ts;name=AXN White RO
-#EXTINF:-1,CBS Reality RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14630.ts;name=CBS Reality RO
-#EXTINF:-1,Cartoon Network RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14631.ts;name=Cartoon Network RO
-#EXTINF:-1,Cinemax RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14629.ts;name=Cinemax RO
-#EXTINF:-1,TLC RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14616.ts;name=TLC RO
-#EXTINF:-1,Fishing  Hunting RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14650.ts;name=Fishing  Hunting RO
-#EXTINF:-1,HBO 1 RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14604.ts;name=HBO 1 RO
-#EXTINF:-1,HBO 3 RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14605.ts;name=HBO 3 RO
-#EXTINF:-1,History RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14603.ts;name=History RO
-#EXTINF:-1,Travel Channel RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14583.ts;name=Travel Channel RO
-#EXTINF:-1,U TV RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14579.ts;name=U TV RO
-#EXTINF:-1,Cinemax 2 RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16558.ts;name=Cinemax 2 RO
-#EXTINF:-1,HBO 2 RO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16559.ts;name=HBO 2 RO
-#EXTINF:-1,Animal Family HD RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15280.ts;name=Animal Family HD RU
-#EXTINF:-1,Animal Planet HD RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15279.ts;name=Animal Planet HD RU
-#EXTINF:-1,Animal Planet RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12014.ts;name=Animal Planet RU
-#EXTINF:-1,Cartoon Network RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11996.ts;name=Cartoon Network RU
-#EXTINF:-1,Discovery CHANNEL HD RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15273.ts;name=Discovery CHANNEL HD RU
-#EXTINF:-1,Discovery RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15272.ts;name=Discovery RU
-#EXTINF:-1,Life News RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12006.ts;name=Life News RU
-#EXTINF:-1,MTV Live RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12003.ts;name=MTV Live RU
-#EXTINF:-1,MTV RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15255.ts;name=MTV RU
-#EXTINF:-1,MTV Rocks RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12001.ts;name=MTV Rocks RU
-#EXTINF:-1,OUTDOOR CHANNEL RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15242.ts;name=OUTDOOR CHANNEL RU
-#EXTINF:-1,Traveler HD RU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15234.ts;name=Traveler HD RU
-#EXTINF:-1,AMC ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9438.ts;name=AMC ES
-#EXTINF:-1,AMC HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12733.ts;name=AMC HD ES
-#EXTINF:-1,AXN ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5471.ts;name=AXN ES
-#EXTINF:-1,AXN HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12731.ts;name=AXN HD ES
-#EXTINF:-1,AXN White ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5470.ts;name=AXN White ES
-#EXTINF:-1,AXN White HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12730.ts;name=AXN White HD ES
-#EXTINF:-1,Animal Planet ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11606.ts;name=Animal Planet ES
-#EXTINF:-1,Discovery Channel ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5448.ts;name=Discovery Channel ES
-#EXTINF:-1,FOX ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5442.ts;name=FOX ES
-#EXTINF:-1,FOX HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13661.ts;name=FOX HD ES
-#EXTINF:-1,FOX Life ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5439.ts;name=FOX Life ES
-#EXTINF:-1,FOX News ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9443.ts;name=FOX News ES
-#EXTINF:-1,Fox Life HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12706.ts;name=Fox Life HD ES
-#EXTINF:-1,MTV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9448.ts;name=MTV ES
-#EXTINF:-1,MTV ROCKS ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9444.ts;name=MTV ROCKS ES
-#EXTINF:-1,Nick Jr ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14247.ts;name=Nick Jr ES
-#EXTINF:-1,Nickelodeon ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14248.ts;name=Nickelodeon ES
-#EXTINF:-1,Nickelodeon HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12697.ts;name=Nickelodeon HD ES
-#EXTINF:-1,Syfy ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5417.ts;name=Syfy ES
-#EXTINF:-1,Syfy HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12696.ts;name=Syfy HD ES
-#EXTINF:-1,TNT ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9423.ts;name=TNT ES
-#EXTINF:-1,TNT HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12693.ts;name=TNT HD ES
-#EXTINF:-1,Cartoon Network SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11551.ts;name=Cartoon Network SE
-#EXTINF:-1,Nick Jr SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12364.ts;name=Nick Jr SE
-#EXTINF:-1,Nickelodeon SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12077.ts;name=Nickelodeon SE
-#EXTINF:-1,Nickelodeon HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15559.ts;name=Nickelodeon HD SE
-#EXTINF:-1,Discovery HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14451.ts;name=Discovery HD SE
-#EXTINF:-1,Discovery Channel SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11580.ts;name=Discovery Channel SE
-#EXTINF:-1,Discovery Channel FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15495.ts;name=Discovery Channel FHD SE
-#EXTINF:-1,Discovery Science SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11618.ts;name=Discovery Science SE
-#EXTINF:-1,Discovery World SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11619.ts;name=Discovery World SE
-#EXTINF:-1,Investigation Discovery SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15497.ts;name=Investigation Discovery SE
-#EXTINF:-1,Animal Planet FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15551.ts;name=Animal Planet FHD SE
-#EXTINF:-1,H2 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14447.ts;name=H2 HD SE
-#EXTINF:-1,History HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14446.ts;name=History HD SE
-#EXTINF:-1,TLC HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14430.ts;name=TLC HD SE
-#EXTINF:-1,TLC FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15503.ts;name=TLC FHD SE
-#EXTINF:-1,Travel Channel HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14428.ts;name=Travel Channel HD SE
-#EXTINF:-1,E SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12079.ts;name=E SE
-#EXTINF:-1,FOX  SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15555.ts;name=FOX  SE
-#EXTINF:-1,MTV SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14668.ts;name=MTV SE
-#EXTINF:-1,C More Stars HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15556.ts;name=C More Stars HD SE
-#EXTINF:-1,C More First HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11558.ts;name=C More First HD SE
-#EXTINF:-1,C More Series HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11561.ts;name=C More Series HD SE
-#EXTINF:-1,C More Hits HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11559.ts;name=C More Hits HD SE
-#EXTINF:-1,C More Fotboll SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11571.ts;name=C More Fotboll SE
-#EXTINF:-1,C More Fotboll HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14455.ts;name=C More Fotboll HD SE
-#EXTINF:-1,C More Golf HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11573.ts;name=C More Golf HD SE
-#EXTINF:-1,C More Hockey HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14454.ts;name=C More Hockey HD SE
-#EXTINF:-1,C More Hockey FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15552.ts;name=C More Hockey FHD SE
-#EXTINF:-1,C More Live HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15530.ts;name=C More Live HD SE
-#EXTINF:-1,C More Sport SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11570.ts;name=C More Sport SE
-#EXTINF:-1,C More Sport HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14453.ts;name=C More Sport HD SE
-#EXTINF:-1,C More Live 2 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15531.ts;name=C More Live 2 HD SE
-#EXTINF:-1,C More Live 3 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11610.ts;name=C More Live 3 SE
-#EXTINF:-1,C More Live 3 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15532.ts;name=C More Live 3 HD SE
-#EXTINF:-1,C More Live 4 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11609.ts;name=C More Live 4 SE
-#EXTINF:-1,C More Live 4 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15533.ts;name=C More Live 4 HD SE
-#EXTINF:-1,Fox TV HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5128.ts;name=Fox TV HD TR
-#EXTINF:-1,CNN TURK TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5149.ts;name=CNN TURK TR
-#EXTINF:-1,A Haber HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5150.ts;name=A Haber HD TR
-#EXTINF:-1,Animal Planet HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5152.ts;name=Animal Planet HD TR
-#EXTINF:-1,Discovery Science TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5163.ts;name=Discovery Science TR
-#EXTINF:-1,Discovery Channel TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5164.ts;name=Discovery Channel TR
-#EXTINF:-1,Cartoon Network TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5138.ts;name=Cartoon Network TR
-#EXTINF:-1,A Spor HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5133.ts;name=A Spor HD TR
-#EXTINF:-1,A Haber FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14232.ts;name=A Haber FHD TR
-#EXTINF:-1,A Spor FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14239.ts;name=A Spor FHD TR
-#EXTINF:-1,CNN TÜRK HD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14234.ts;name=CNN TÜRK HD TR
-#EXTINF:-1,FOX FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14224.ts;name=FOX FHD TR
-#EXTINF:-1,S Sport TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15733.ts;name=S Sport TR
-#EXTINF:-1,5 STAR1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14732.ts;name=5 STAR1 UK
-#EXTINF:-1,5 USA1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14731.ts;name=5 USA1 UK
-#EXTINF:-1,AMC from BT UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14779.ts;name=AMC from BT UK
-#EXTINF:-1,Animal Planet 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14850.ts;name=Animal Planet 1 UK
-#EXTINF:-1,Animal Planet HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8010.ts;name=Animal Planet HD UK
-#EXTINF:-1,Animal Planet UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2683.ts;name=Animal Planet UK
-#EXTINF:-1,CBS Action UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3944.ts;name=CBS Action UK
-#EXTINF:-1,CBS Drama UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3945.ts;name=CBS Drama UK
-#EXTINF:-1,CBS Reality 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14776.ts;name=CBS Reality 1 UK
-#EXTINF:-1,CBS Reality UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3946.ts;name=CBS Reality UK
-#EXTINF:-1,CNBC UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14968.ts;name=CNBC UK
-#EXTINF:-1,CNN HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14726.ts;name=CNN HD UK
-#EXTINF:-1,CNN UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3995.ts;name=CNN UK
-#EXTINF:-1,Cartoon Network HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3967.ts;name=Cartoon Network HD UK
-#EXTINF:-1,Cartoonito UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14763.ts;name=Cartoonito UK
-#EXTINF:-1,Discovery 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14770.ts;name=Discovery 1 UK
-#EXTINF:-1,Discovery Channel HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14863.ts;name=Discovery Channel HD UK
-#EXTINF:-1,Discovery Channel UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1986.ts;name=Discovery Channel UK
-#EXTINF:-1,Discovery History 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14843.ts;name=Discovery History 1 UK
-#EXTINF:-1,Discovery History UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1985.ts;name=Discovery History UK
-#EXTINF:-1,Discovery HomeHealth UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14833.ts;name=Discovery HomeHealth UK
-#EXTINF:-1,Discovery Investigation UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3982.ts;name=Discovery Investigation UK
-#EXTINF:-1,Discovery Ireland UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14769.ts;name=Discovery Ireland UK
-#EXTINF:-1,Discovery Science UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2679.ts;name=Discovery Science UK
-#EXTINF:-1,Discovery Shed UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14841.ts;name=Discovery Shed UK
-#EXTINF:-1,Discovery Turbo UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3978.ts;name=Discovery Turbo UK
-#EXTINF:-1,Discovery World UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2678.ts;name=Discovery World UK
-#EXTINF:-1,E 1  UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14802.ts;name=E 1  UK
-#EXTINF:-1,E Ireland UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14801.ts;name=E Ireland UK
-#EXTINF:-1,E UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3966.ts;name=E UK
-#EXTINF:-1,FOX HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2656.ts;name=FOX HD UK
-#EXTINF:-1,FOX News UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11429.ts;name=FOX News UK
-#EXTINF:-1,Fight Sports UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14449.ts;name=Fight Sports UK
-#EXTINF:-1,Food Network UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3991.ts;name=Food Network UK
-#EXTINF:-1,Food Netwrk 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14878.ts;name=Food Netwrk 1 UK
-#EXTINF:-1,H2 HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3569.ts;name=H2 HD UK
-#EXTINF:-1,History 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14941.ts;name=History 1 UK
-#EXTINF:-1,History UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3976.ts;name=History UK
-#EXTINF:-1,Lifetime HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14938.ts;name=Lifetime HD UK
-#EXTINF:-1,Lifetime UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14759.ts;name=Lifetime UK
-#EXTINF:-1,MTV 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14768.ts;name=MTV 1 UK
-#EXTINF:-1,MTV Base HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13087.ts;name=MTV Base HD UK
-#EXTINF:-1,MTV Base UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7319.ts;name=MTV Base UK
-#EXTINF:-1,MTV Classic UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7320.ts;name=MTV Classic UK
-#EXTINF:-1,MTV Dance HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13088.ts;name=MTV Dance HD UK
-#EXTINF:-1,MTV Dance UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7318.ts;name=MTV Dance UK
-#EXTINF:-1,MTV Hits HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13089.ts;name=MTV Hits HD UK
-#EXTINF:-1,MTV Hits UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7317.ts;name=MTV Hits UK
-#EXTINF:-1,MTV Ireland UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14956.ts;name=MTV Ireland UK
-#EXTINF:-1,MTV Live HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13090.ts;name=MTV Live HD UK
-#EXTINF:-1,MTV Music 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14767.ts;name=MTV Music 1 UK
-#EXTINF:-1,MTV Music UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7316.ts;name=MTV Music UK
-#EXTINF:-1,MTV Rocks UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7315.ts;name=MTV Rocks UK
-#EXTINF:-1,MTV UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2670.ts;name=MTV UK
-#EXTINF:-1,News18 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15026.ts;name=News18 UK
-#EXTINF:-1,Nick HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16719.ts;name=Nick HD UK
-#EXTINF:-1,Nick Jr 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14829.ts;name=Nick Jr 1 UK
-#EXTINF:-1,Nick Jr Peppa UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14828.ts;name=Nick Jr Peppa UK
-#EXTINF:-1,Nick Jr UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2669.ts;name=Nick Jr UK
-#EXTINF:-1,Nickelodeon UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14825.ts;name=Nickelodeon UK
-#EXTINF:-1,Nicktoons UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14824.ts;name=Nicktoons UK
-#EXTINF:-1,PBS America UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14870.ts;name=PBS America UK
-#EXTINF:-1,Spike UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11428.ts;name=Spike UK
-#EXTINF:-1,Starz TV UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14865.ts;name=Starz TV UK
-#EXTINF:-1,Syfy 1  UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14786.ts;name=Syfy 1  UK
-#EXTINF:-1,Syfy HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16727.ts;name=Syfy HD UK
-#EXTINF:-1,Syfy UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3939.ts;name=Syfy UK
-#EXTINF:-1,TLC 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14819.ts;name=TLC 1 UK
-#EXTINF:-1,TLC Europe UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15501.ts;name=TLC Europe UK
-#EXTINF:-1,TLC Ireland UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14764.ts;name=TLC Ireland UK
-#EXTINF:-1,TLC UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4027.ts;name=TLC UK
-#EXTINF:-1,Travel Channel 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14784.ts;name=Travel Channel 1 UK
-#EXTINF:-1,Travel Channel UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14818.ts;name=Travel Channel UK
-#EXTINF:-1,Universal 1  UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14782.ts;name=Universal 1  UK
-#EXTINF:-1,Universal HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16725.ts;name=Universal HD UK
-#EXTINF:-1,Universal Ireland UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14781.ts;name=Universal Ireland UK
-#EXTINF:-1,Universal UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14783.ts;name=Universal UK
-#EXTINF:-1,W 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14815.ts;name=W 1 UK
-#EXTINF:-1,W HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16726.ts;name=W HD UK
-#EXTINF:-1,W Ireland UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11427.ts;name=W Ireland UK
-#EXTINF:-1,W UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14946.ts;name=W UK
-#EXTINF:-1,NBC Sports Extra 1 (Live During EPL) UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8403.ts;name=NBC Sports Extra 1 (Live During EPL) UK
-#EXTINF:-1,NBC Sports Extra 2 (Live During EPL) UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8404.ts;name=NBC Sports Extra 2 (Live During EPL) UK
-#EXTINF:-1,NBC Sports Extra 3 (Live During EPL) UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8405.ts;name=NBC Sports Extra 3 (Live During EPL) UK
-#EXTINF:-1,NBC Sports Extra 4 (Live During EPL) UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8406.ts;name=NBC Sports Extra 4 (Live During EPL) UK
-#EXTINF:-1,NBC Sports Extra 5 (Live During EPL) UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8407.ts;name=NBC Sports Extra 5 (Live During EPL) UK
-#EXTINF:-1,NBC Sports Extra 6 (Live During EPL) UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8408.ts;name=NBC Sports Extra 6 (Live During EPL) UK
-#EXTINF:-1,NBC Sports Extra 7 (Live During EPL) UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8409.ts;name=NBC Sports Extra 7 (Live During EPL) UK
-#EXTINF:-1,WWE US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16572.ts;name=WWE US
-#EXTINF:-1,Fox Sports South US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13693.ts;name=Fox Sports South US
-#EXTINF:-1,ActionMAX US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13682.ts;name=ActionMAX US
-#EXTINF:-1,Cinemax East US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13680.ts;name=Cinemax East US
-#EXTINF:-1,Ion US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13683.ts;name=Ion US
-#EXTINF:-1,HBO HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13685.ts;name=HBO HD US
-#EXTINF:-1,HGTV US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13835.ts;name=HGTV US
-#EXTINF:-1,NBCSN Golf Channel US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13687.ts;name=NBCSN Golf Channel US
-#EXTINF:-1,MSNBC HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16841.ts;name=MSNBC HD US
-#EXTINF:-1,NFL Network Now US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13690.ts;name=NFL Network Now US
-#EXTINF:-1,NHL Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13688.ts;name=NHL Network US
-#EXTINF:-1,Fox Sports West US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13692.ts;name=Fox Sports West US
-#EXTINF:-1,Ion Life US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13671.ts;name=Ion Life US
-#EXTINF:-1,Showtime US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13666.ts;name=Showtime US
-#EXTINF:-1,Starz Cinema US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13676.ts;name=Starz Cinema US
-#EXTINF:-1,Starz Edge US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13677.ts;name=Starz Edge US
-#EXTINF:-1,Starz West US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13678.ts;name=Starz West US
-#EXTINF:-1,ABC US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9026.ts;name=ABC US
-#EXTINF:-1,AMC HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13104.ts;name=AMC HD US
-#EXTINF:-1,Bravo US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10704.ts;name=Bravo US
-#EXTINF:-1,C SPAN 1 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10701.ts;name=C SPAN 1 US
-#EXTINF:-1,C SPAN 2 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10702.ts;name=C SPAN 2 US
-#EXTINF:-1,C SPAN 3 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10703.ts;name=C SPAN 3 US
-#EXTINF:-1,Cartoon Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13103.ts;name=Cartoon Network HD US
-#EXTINF:-1,CBS HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10347.ts;name=CBS HD US
-#EXTINF:-1,CBS Reality US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10346.ts;name=CBS Reality US
-#EXTINF:-1,CNBC US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9028.ts;name=CNBC US
-#EXTINF:-1,CNN US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9029.ts;name=CNN US
-#EXTINF:-1,DIY Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13101.ts;name=DIY Network HD US
-#EXTINF:-1,E US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9021.ts;name=E US
-#EXTINF:-1,ESPN 1 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9023.ts;name=ESPN 1 US
-#EXTINF:-1,ESPN 2 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9022.ts;name=ESPN 2 US
-#EXTINF:-1,FOX News US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13100.ts;name=FOX News US
-#EXTINF:-1,FOX Sports 1 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9031.ts;name=FOX Sports 1 US
-#EXTINF:-1,FOX Sports 2 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9030.ts;name=FOX Sports 2 US
-#EXTINF:-1,FX HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13098.ts;name=FX HD US
-#EXTINF:-1,FXX HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13097.ts;name=FXX HD US
-#EXTINF:-1,H2 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9019.ts;name=H2 US
-#EXTINF:-1,Hallmark Channel US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9025.ts;name=Hallmark Channel US
-#EXTINF:-1,HBO Comedy US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9017.ts;name=HBO Comedy US
-#EXTINF:-1,HBO Signature US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9016.ts;name=HBO Signature US
-#EXTINF:-1,Lifetime US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9078.ts;name=Lifetime US
-#EXTINF:-1,Lifetime Movie Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13096.ts;name=Lifetime Movie Network US
-#EXTINF:-1,MLB Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10699.ts;name=MLB Network US
-#EXTINF:-1,NBA TV US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9010.ts;name=NBA TV US
-#EXTINF:-1,NBC US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9009.ts;name=NBC US
-#EXTINF:-1,NBC Sports Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9008.ts;name=NBC Sports Network US
-#EXTINF:-1,NFL Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9077.ts;name=NFL Network US
-#EXTINF:-1,Nick US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9012.ts;name=Nick US
-#EXTINF:-1,Spike US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13107.ts;name=Spike US
-#EXTINF:-1,Sportsnet 360 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10700.ts;name=Sportsnet 360 US
-#EXTINF:-1,Sportsnet One US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10344.ts;name=Sportsnet One US
-#EXTINF:-1,Sportsnet World US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10342.ts;name=Sportsnet World US
-#EXTINF:-1,Sportsnet Ontario US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10345.ts;name=Sportsnet Ontario US
-#EXTINF:-1,Syfy HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13095.ts;name=Syfy HD US
-#EXTINF:-1,TBS US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13106.ts;name=TBS US
-#EXTINF:-1,TSN1 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9032.ts;name=TSN1 US
-#EXTINF:-1,TSN2 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9033.ts;name=TSN2 US
-#EXTINF:-1,TSN3 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9034.ts;name=TSN3 US
-#EXTINF:-1,TSN4 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9035.ts;name=TSN4 US
-#EXTINF:-1,TSN5 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9036.ts;name=TSN5 US
-#EXTINF:-1,USA Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13105.ts;name=USA Network HD US
-#EXTINF:-1,Animal Planet HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12060.ts;name=Animal Planet HD US
-#EXTINF:-1,MTV Rocks US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12062.ts;name=MTV Rocks US
-#EXTINF:-1,MTV Hits US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12063.ts;name=MTV Hits US
-#EXTINF:-1,MTV Dance US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12064.ts;name=MTV Dance US
-#EXTINF:-1,Discovery Channel US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15717.ts;name=Discovery Channel US
-#EXTINF:-1,FOX HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15716.ts;name=FOX HD US
-#EXTINF:-1,History HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15712.ts;name=History HD US
-#EXTINF:-1,PBS US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15715.ts;name=PBS US
-#EXTINF:-1,FreeForm HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14294.ts;name=FreeForm HD US
-#EXTINF:-1,OWN US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16295.ts;name=OWN US
-#EXTINF:-1,TNT US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15366.ts;name=TNT US
-#EXTINF:-1,Playboy TV (18) ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15911.ts;name=Playboy TV (18) ES
-#EXTINF:-1,Playboy TV HD (18) ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15912.ts;name=Playboy TV HD (18) ES
+#EXTINF:-1,USA  ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4181.ts;name=USA  ABC News
+#EXTINF:-1,USA  Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4182.ts;name=USA  Animal Planet
+#EXTINF:-1,USA  Bein USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4183.ts;name=USA  Bein USA
+#EXTINF:-1,USA  Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4184.ts;name=USA  Bloomberg
+#EXTINF:-1,USA  CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4197.ts;name=USA  CBS
+#EXTINF:-1,USA  CBSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4202.ts;name=USA  CBSN
+#EXTINF:-1,USA  CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4185.ts;name=USA  CNBC
+#EXTINF:-1,USA  CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4186.ts;name=USA  CNN
+#EXTINF:-1,USA  ESPN USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4187.ts;name=USA  ESPN USA
+#EXTINF:-1,USA  Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4188.ts;name=USA  Fox Sports 1
+#EXTINF:-1,USA  FOX Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4189.ts;name=USA  FOX Sports 2
+#EXTINF:-1,USA  NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4190.ts;name=USA  NBA TV
+#EXTINF:-1,USA  NDTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4199.ts;name=USA  NDTV
+#EXTINF:-1,USA  NFL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4200.ts;name=USA  NFL
+#EXTINF:-1,USA  PAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4201.ts;name=USA  PAG
+#EXTINF:-1,USA  TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4192.ts;name=USA  TSN 1
+#EXTINF:-1,USA  TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4193.ts;name=USA  TSN 2
+#EXTINF:-1,USA  TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4194.ts;name=USA  TSN 3
+#EXTINF:-1,USA  TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4195.ts;name=USA  TSN 4
+#EXTINF:-1,USA  TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4196.ts;name=USA  TSN 5
+#EXTINF:-1,USA  WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4198.ts;name=USA  WWE
+#EXTINF:-1,USA VIP  360 North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4206.ts;name=USA VIP  360 North
+#EXTINF:-1,USA VIP  AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4207.ts;name=USA VIP  AE
+#EXTINF:-1,USA VIP  AFN Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4230.ts;name=USA VIP  AFN Sports
+#EXTINF:-1,USA VIP  AFN Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4231.ts;name=USA VIP  AFN Sports 2
+#EXTINF:-1,USA VIP  AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4209.ts;name=USA VIP  AMC
+#EXTINF:-1,USA VIP  Bein Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4254.ts;name=USA VIP  Bein Sports
+#EXTINF:-1,USA VIP  Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4225.ts;name=USA VIP  Bloomberg
+#EXTINF:-1,USA VIP  BYU Sports TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4246.ts;name=USA VIP  BYU Sports TV
+#EXTINF:-1,USA VIP  Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4261.ts;name=USA VIP  Cartoon Network
+#EXTINF:-1,USA VIP  CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4262.ts;name=USA VIP  CBS
+#EXTINF:-1,USA VIP  CBSN US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4226.ts;name=USA VIP  CBSN US
+#EXTINF:-1,USA VIP  Cinemax 5 Starmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4245.ts;name=USA VIP  Cinemax 5 Starmax
+#EXTINF:-1,USA VIP  Cinemax East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4244.ts;name=USA VIP  Cinemax East
+#EXTINF:-1,USA VIP  Cinemax Moremax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4243.ts;name=USA VIP  Cinemax Moremax
+#EXTINF:-1,USA VIP  CityTV Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4210.ts;name=USA VIP  CityTV Toronto
+#EXTINF:-1,USA VIP  CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4211.ts;name=USA VIP  CNBC
+#EXTINF:-1,USA VIP  CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4239.ts;name=USA VIP  CNN
+#EXTINF:-1,USA VIP  Crime and Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4266.ts;name=USA VIP  Crime and Investigation
+#EXTINF:-1,USA VIP  CW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4212.ts;name=USA VIP  CW
+#EXTINF:-1,USA VIP  Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4238.ts;name=USA VIP  Discovery
+#EXTINF:-1,USA VIP  Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4260.ts;name=USA VIP  Discovery Science
+#EXTINF:-1,USA VIP  Discovery Velocity
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4268.ts;name=USA VIP  Discovery Velocity
+#EXTINF:-1,USA VIP  E Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4216.ts;name=USA VIP  E Network
+#EXTINF:-1,USA VIP  ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4228.ts;name=USA VIP  ESPN
+#EXTINF:-1,USA VIP  ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4229.ts;name=USA VIP  ESPN 2
+#EXTINF:-1,USA VIP  Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4218.ts;name=USA VIP  Food Network
+#EXTINF:-1,USA VIP  FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4219.ts;name=USA VIP  FOX
+#EXTINF:-1,USA VIP  Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4220.ts;name=USA VIP  Fox Sports 1
+#EXTINF:-1,USA VIP  Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4221.ts;name=USA VIP  Fox Sports 2
+#EXTINF:-1,USA VIP  Fox Sports 506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4222.ts;name=USA VIP  Fox Sports 506
+#EXTINF:-1,USA VIP  FreeRom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4217.ts;name=USA VIP  FreeRom
+#EXTINF:-1,USA VIP  FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4223.ts;name=USA VIP  FX
+#EXTINF:-1,USA VIP  Hallmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4259.ts;name=USA VIP  Hallmark
+#EXTINF:-1,USA VIP  HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4234.ts;name=USA VIP  HBO
+#EXTINF:-1,USA VIP  HBO Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4236.ts;name=USA VIP  HBO Comedy
+#EXTINF:-1,USA VIP  HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4235.ts;name=USA VIP  HBO Signature
+#EXTINF:-1,USA VIP  History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4265.ts;name=USA VIP  History
+#EXTINF:-1,USA VIP  Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4267.ts;name=USA VIP  Music
+#EXTINF:-1,USA VIP  NASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4224.ts;name=USA VIP  NASA
+#EXTINF:-1,USA VIP  National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4264.ts;name=USA VIP  National Geographic
+#EXTINF:-1,USA VIP  NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4250.ts;name=USA VIP  NBA
+#EXTINF:-1,USA VIP  NBA Versus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4251.ts;name=USA VIP  NBA Versus
+#EXTINF:-1,USA VIP  NBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4213.ts;name=USA VIP  NBC
+#EXTINF:-1,USA VIP  NBC Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4214.ts;name=USA VIP  NBC Golf
+#EXTINF:-1,USA VIP  NBC Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4215.ts;name=USA VIP  NBC Sport
+#EXTINF:-1,USA VIP  NFL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4240.ts;name=USA VIP  NFL
+#EXTINF:-1,USA VIP  RT Documentary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4249.ts;name=USA VIP  RT Documentary
+#EXTINF:-1,USA VIP  Showtime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4232.ts;name=USA VIP  Showtime
+#EXTINF:-1,USA VIP  Sports Net 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4242.ts;name=USA VIP  Sports Net 360
+#EXTINF:-1,USA VIP  Sports Net One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4241.ts;name=USA VIP  Sports Net One
+#EXTINF:-1,USA VIP  Starz East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4258.ts;name=USA VIP  Starz East
+#EXTINF:-1,USA VIP  Starz Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4256.ts;name=USA VIP  Starz Edge
+#EXTINF:-1,USA VIP  Starz Encore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4257.ts;name=USA VIP  Starz Encore
+#EXTINF:-1,USA VIP  TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4248.ts;name=USA VIP  TBS
+#EXTINF:-1,USA VIP  TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4233.ts;name=USA VIP  TLC
+#EXTINF:-1,USA VIP  WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vip.groupiptv.com:7000/live/mohamed/mohamed/4237.ts;name=USA VIP  WWE Network
 
