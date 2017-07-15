@@ -1,698 +1,180 @@
 #EXTM3U 
-#EXTINF:-1,US ABC HD Philadelphia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3684.ts;name=US ABC HD Philadelphia
-#EXTINF:-1,US NBC HD Philadelphia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1420.ts;name=US NBC HD Philadelphia
-#EXTINF:-1,US CBS HD Philadelphia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3682.ts;name=US CBS HD Philadelphia
-#EXTINF:-1,US CW HD Philadelphia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3677.ts;name=US CW HD Philadelphia
-#EXTINF:-1,US FOX HD Philadelphia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2956.ts;name=US FOX HD Philadelphia
-#EXTINF:-1,US CBS HD New York
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5964.ts;name=US CBS HD New York
-#EXTINF:-1,US ABC HD New York
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5960.ts;name=US ABC HD New York
-#EXTINF:-1,US FOX HD New York
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5951.ts;name=US FOX HD New York
-#EXTINF:-1,US NBC HD New York
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6095.ts;name=US NBC HD New York
-#EXTINF:-1,US My9 HD New York
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6096.ts;name=US My9 HD New York
-#EXTINF:-1,US NBC HD Boston
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5947.ts;name=US NBC HD Boston
-#EXTINF:-1,US NBC HD Los Angeles
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5950.ts;name=US NBC HD Los Angeles
-#EXTINF:-1,US CBS HD Los Angeles
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5963.ts;name=US CBS HD Los Angeles
-#EXTINF:-1,US ABC HD Los Angeles
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5961.ts;name=US ABC HD Los Angeles
-#EXTINF:-1,US NBC HD San Francisco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5949.ts;name=US NBC HD San Francisco
-#EXTINF:-1,US CBS HD San Franciso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5962.ts;name=US CBS HD San Franciso
-#EXTINF:-1,US FOX HD San Francisco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6097.ts;name=US FOX HD San Francisco
-#EXTINF:-1,US MY20 HD DC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5959.ts;name=US MY20 HD DC
-#EXTINF:-1,US My20 Houston
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5948.ts;name=US My20 Houston
-#EXTINF:-1,US MY27 HD Dallas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5956.ts;name=US MY27 HD Dallas
-#EXTINF:-1,US My50 HD Chicago
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5955.ts;name=US My50 HD Chicago
-#EXTINF:-1,US CBS HD Milwaukee
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5952.ts;name=US CBS HD Milwaukee
-#EXTINF:-1,US Channel 7 HD Miami
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5953.ts;name=US Channel 7 HD Miami
-#EXTINF:-1,US EPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5874.ts;name=US EPIX HD
-#EXTINF:-1,US EPIX2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5875.ts;name=US EPIX2 HD
-#EXTINF:-1,US EPIX 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3671.ts;name=US EPIX 3 HD
-#EXTINF:-1,US Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1394.ts;name=US Cinemax HD
-#EXTINF:-1,US Cinemax Moremax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5870.ts;name=US Cinemax Moremax HD
-#EXTINF:-1,US Cinemax Thrillermax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3679.ts;name=US Cinemax Thrillermax HD
-#EXTINF:-1,US Showtime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3670.ts;name=US Showtime HD
-#EXTINF:-1,US Showtime 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5883.ts;name=US Showtime 2 HD
-#EXTINF:-1,US Showtime Family Zone HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5884.ts;name=US Showtime Family Zone HD
-#EXTINF:-1,US HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1464.ts;name=US HBO HD
-#EXTINF:-1,US HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2444.ts;name=US HBO 2 HD
-#EXTINF:-1,US HBO Zone HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1412.ts;name=US HBO Zone HD
-#EXTINF:-1,US HBO Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5879.ts;name=US HBO Comedy HD
-#EXTINF:-1,US HBO 2 Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2437.ts;name=US HBO 2 Comedy
-#EXTINF:-1,US HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5880.ts;name=US HBO Signature HD
-#EXTINF:-1,US HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1411.ts;name=US HBO Family HD
-#EXTINF:-1,CA HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1261.ts;name=CA HBO HD
-#EXTINF:-1,CA HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1260.ts;name=CA HBO 2 HD
-#EXTINF:-1,US Starz HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1434.ts;name=US Starz HD
-#EXTINF:-1,US Starz Edge HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1433.ts;name=US Starz Edge HD
-#EXTINF:-1,US Sony Movie Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1415.ts;name=US Sony Movie Channel HD
-#EXTINF:-1,US Chiller HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3664.ts;name=US Chiller HD
-#EXTINF:-1,US MGM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1393.ts;name=US MGM HD
-#EXTINF:-1,US Impact HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2443.ts;name=US Impact HD
-#EXTINF:-1,US Starz Kids  Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6852.ts;name=US Starz Kids  Family HD
-#EXTINF:-1,CA Slice HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1268.ts;name=CA Slice HD
-#EXTINF:-1,CA PBS Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1286.ts;name=CA PBS Kids
-#EXTINF:-1,CA Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1267.ts;name=CA Animal Planet HD
-#EXTINF:-1,CA NBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1265.ts;name=CA NBC HD
-#EXTINF:-1,CA Golf Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3721.ts;name=CA Golf Channel HD
-#EXTINF:-1,CA YTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3686.ts;name=CA YTV HD
-#EXTINF:-1,CA HLN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1262.ts;name=CA HLN HD
-#EXTINF:-1,CA GSN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1259.ts;name=CA GSN HD
-#EXTINF:-1,CA Global HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1258.ts;name=CA Global HD
-#EXTINF:-1,CA FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1257.ts;name=CA FOX HD
-#EXTINF:-1,CA CW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1253.ts;name=CA CW HD
-#EXTINF:-1,CA CTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1252.ts;name=CA CTV HD
-#EXTINF:-1,CA Create HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1251.ts;name=CA Create HD
-#EXTINF:-1,CA CITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1249.ts;name=CA CITY HD
-#EXTINF:-1,CA CBC News Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1247.ts;name=CA CBC News Network HD
-#EXTINF:-1,CA Bravo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1245.ts;name=CA Bravo HD
-#EXTINF:-1,CA CP 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1250.ts;name=CA CP 24 HD
-#EXTINF:-1,CA Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2963.ts;name=CA Comedy HD
-#EXTINF:-1,CA FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1462.ts;name=CA FX HD
-#EXTINF:-1,CA FXX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1463.ts;name=CA FXX HD
-#EXTINF:-1,CA FYI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2967.ts;name=CA FYI
-#EXTINF:-1,CA History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2968.ts;name=CA History HD
-#EXTINF:-1,CA Much
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2972.ts;name=CA Much
-#EXTINF:-1,CA TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1473.ts;name=CA TLC HD
-#EXTINF:-1,CA DejaView
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2966.ts;name=CA DejaView
-#EXTINF:-1,CA CBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1246.ts;name=CA CBC HD
-#EXTINF:-1,CA E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2103.ts;name=CA E HD
-#EXTINF:-1,CA AMI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3709.ts;name=CA AMI
-#EXTINF:-1,CA Book Television
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3707.ts;name=CA Book Television
-#EXTINF:-1,CA OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1471.ts;name=CA OWN HD
-#EXTINF:-1,CA Crime Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3705.ts;name=CA Crime Investigation
-#EXTINF:-1,CA CTV News Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3704.ts;name=CA CTV News Channel
-#EXTINF:-1,CA Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3702.ts;name=CA Discovery HD
-#EXTINF:-1,CA Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3701.ts;name=CA Discovery Science
-#EXTINF:-1,CA DIY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3699.ts;name=CA DIY
-#EXTINF:-1,CA DTOUR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3698.ts;name=CA DTOUR HD
-#EXTINF:-1,CA Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3696.ts;name=CA Food Network HD
-#EXTINF:-1,CA G4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3695.ts;name=CA G4
-#EXTINF:-1,CA Gusto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3694.ts;name=CA Gusto
-#EXTINF:-1,CA Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3718.ts;name=CA Lifetime HD
-#EXTINF:-1,CA MTV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3693.ts;name=CA MTV2
-#EXTINF:-1,CA Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3716.ts;name=CA Nat Geo HD
-#EXTINF:-1,CA Nick
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3692.ts;name=CA Nick
-#EXTINF:-1,CA OLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3691.ts;name=CA OLN
-#EXTINF:-1,CA OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3690.ts;name=CA OWN
-#EXTINF:-1,CA Showcase HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3714.ts;name=CA Showcase HD
-#EXTINF:-1,CA Super Channel 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3713.ts;name=CA Super Channel 2 HD
-#EXTINF:-1,CA Fashion TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3689.ts;name=CA Fashion TV
-#EXTINF:-1,CA TV Encore
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3688.ts;name=CA TV Encore
-#EXTINF:-1,CA IFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3723.ts;name=CA IFC
-#EXTINF:-1,CA Cpac
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3706.ts;name=CA Cpac
-#EXTINF:-1,CA AUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3708.ts;name=CA AUX
-#EXTINF:-1,CA D HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3703.ts;name=CA D HD
-#EXTINF:-1,CA HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3720.ts;name=CA HGTV HD
-#EXTINF:-1,CA MovieTime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3717.ts;name=CA MovieTime HD
-#EXTINF:-1,CA Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3715.ts;name=CA Nat Geo Wild HD
-#EXTINF:-1,CA K HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3719.ts;name=CA K HD
-#EXTINF:-1,CA TWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3710.ts;name=CA TWN HD
-#EXTINF:-1,CA Viceland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3687.ts;name=CA Viceland
-#EXTINF:-1,CA Cooking HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2962.ts;name=CA Cooking HD
-#EXTINF:-1,CA Documentary HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1255.ts;name=CA Documentary HD
-#EXTINF:-1,CA CBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1248.ts;name=CA CBS HD
-#EXTINF:-1,CA ABC Spark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2959.ts;name=CA ABC Spark
-#EXTINF:-1,CA BNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2960.ts;name=CA BNN
-#EXTINF:-1,CA CMT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2964.ts;name=CA CMT
-#EXTINF:-1,CA CHRGD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2965.ts;name=CA CHRGD HD
-#EXTINF:-1,CA ICI RDI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2969.ts;name=CA ICI RDI HD
-#EXTINF:-1,CA MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2971.ts;name=CA MTV
-#EXTINF:-1,CA TMN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3712.ts;name=CA TMN 1 HD
-#EXTINF:-1,CA TMN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3711.ts;name=CA TMN 4 HD
-#EXTINF:-1,CA MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1264.ts;name=CA MOVIES HD
-#EXTINF:-1,CA AE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5456.ts;name=CA AE HD
-#EXTINF:-1,CA ABC Spark HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5455.ts;name=CA ABC Spark HD
-#EXTINF:-1,CA BNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5438.ts;name=CA BNN HD
-#EXTINF:-1,CA CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5440.ts;name=CA CNBC
-#EXTINF:-1,CA Documentary Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5442.ts;name=CA Documentary Channel HD
-#EXTINF:-1,CA Game TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5444.ts;name=CA Game TV
-#EXTINF:-1,CA HIFI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5445.ts;name=CA HIFI HD
-#EXTINF:-1,CA Omni
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5447.ts;name=CA Omni
-#EXTINF:-1,CA Omni2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5448.ts;name=CA Omni2 HD
-#EXTINF:-1,CA Omni HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5449.ts;name=CA Omni HD
-#EXTINF:-1,CA Smithsonian HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5450.ts;name=CA Smithsonian HD
-#EXTINF:-1,CA Sundance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5451.ts;name=CA Sundance
-#EXTINF:-1,CA TVBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5452.ts;name=CA TVBS
-#EXTINF:-1,CA TVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5453.ts;name=CA TVA HD
-#EXTINF:-1,CA TVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5454.ts;name=CA TVO
-#EXTINF:-1,CA Unis TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5437.ts;name=CA Unis TV
-#EXTINF:-1,US Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5724.ts;name=US Disney XD HD
-#EXTINF:-1,US Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1456.ts;name=US Disney Channel HD
-#EXTINF:-1,US Disney Jr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2427.ts;name=US Disney Jr HD
-#EXTINF:-1,US Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1391.ts;name=US Cartoon Network HD
-#EXTINF:-1,US Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2425.ts;name=US Boomerang HD
-#EXTINF:-1,US Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1425.ts;name=US Nickelodeon HD
-#EXTINF:-1,US Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1426.ts;name=US Nick Jr HD
-#EXTINF:-1,US Nicktoons HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1427.ts;name=US Nicktoons HD
-#EXTINF:-1,US SPROUT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3658.ts;name=US SPROUT HD
-#EXTINF:-1,CA Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1254.ts;name=CA Disney XD HD
-#EXTINF:-1,CA Disney Channel West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2961.ts;name=CA Disney Channel West HD
-#EXTINF:-1,CA Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3700.ts;name=CA Family HD
-#EXTINF:-1,US AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1448.ts;name=US AMC HD
-#EXTINF:-1,US AE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1378.ts;name=US AE HD
-#EXTINF:-1,US American Heroes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5893.ts;name=US American Heroes HD
-#EXTINF:-1,US Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1449.ts;name=US Animal Planet HD
-#EXTINF:-1,US BET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6201.ts;name=US BET HD
-#EXTINF:-1,US BBC America HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3683.ts;name=US BBC America HD
-#EXTINF:-1,US Bravo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1390.ts;name=US Bravo HD
-#EXTINF:-1,US CMT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5871.ts;name=US CMT HD
-#EXTINF:-1,US Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2105.ts;name=US Comedy Central HD
-#EXTINF:-1,US Cooking Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3678.ts;name=US Cooking Channel HD
-#EXTINF:-1,US Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1455.ts;name=US Discovery Science HD
-#EXTINF:-1,US Discovery Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3676.ts;name=US Discovery Family HD
-#EXTINF:-1,US Destination America HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5259.ts;name=US Destination America HD
-#EXTINF:-1,US DIY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3673.ts;name=US DIY HD
-#EXTINF:-1,US Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1454.ts;name=US Discovery HD
-#EXTINF:-1,US El Rey Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5873.ts;name=US El Rey Network HD
-#EXTINF:-1,US E Entertainment HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3680.ts;name=US E Entertainment HD
-#EXTINF:-1,US Crime and Investigation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5872.ts;name=US Crime and Investigation HD
-#EXTINF:-1,US Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1377.ts;name=US Nat Geo HD
-#EXTINF:-1,US OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3660.ts;name=US OWN HD
-#EXTINF:-1,US IFC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3663.ts;name=US IFC HD
-#EXTINF:-1,US Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1467.ts;name=US Lifetime HD
-#EXTINF:-1,US Hallmark HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1410.ts;name=US Hallmark HD
-#EXTINF:-1,US SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2948.ts;name=US SYFY HD
-#EXTINF:-1,US Oxygen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3672.ts;name=US Oxygen HD
-#EXTINF:-1,US NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1469.ts;name=US NAT GEO WILD HD
-#EXTINF:-1,US POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5896.ts;name=US POP HD
-#EXTINF:-1,US MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3662.ts;name=US MTV HD
-#EXTINF:-1,US MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1417.ts;name=US MTV Live HD
-#EXTINF:-1,US TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5892.ts;name=US TLC HD
-#EXTINF:-1,US FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3668.ts;name=US FX HD
-#EXTINF:-1,US FXX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3667.ts;name=US FXX HD
-#EXTINF:-1,US FX Movie Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5888.ts;name=US FX Movie Channel
-#EXTINF:-1,US FYI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5876.ts;name=US FYI HD
-#EXTINF:-1,US Fusion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3666.ts;name=US Fusion HD
-#EXTINF:-1,US FreeForm HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1407.ts;name=US FreeForm HD
-#EXTINF:-1,US Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1948.ts;name=US Food Network HD
-#EXTINF:-1,US HSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5429.ts;name=US HSN
-#EXTINF:-1,US HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5881.ts;name=US HGTV HD
-#EXTINF:-1,US Hallmark Movies  Mysteries HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5878.ts;name=US Hallmark Movies  Mysteries HD
-#EXTINF:-1,US ID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1414.ts;name=US ID HD
-#EXTINF:-1,US GSN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5877.ts;name=US GSN HD
-#EXTINF:-1,US LMN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5882.ts;name=US LMN HD
-#EXTINF:-1,US History Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1466.ts;name=US History Channel HD
-#EXTINF:-1,US Mello TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2946.ts;name=US Mello TV
+#EXTINF:-1,US Sport TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1451.ts;name=US Sport TSN 1
+#EXTINF:-1,US Sport TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1452.ts;name=US Sport TSN 2
+#EXTINF:-1,US Sport TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1453.ts;name=US Sport TSN 3
+#EXTINF:-1,US Sport TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1454.ts;name=US Sport TSN 4
+#EXTINF:-1,US Sport TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1455.ts;name=US Sport TSN 5
+#EXTINF:-1,US Skynet Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1431.ts;name=US Skynet Sports 1
+#EXTINF:-1,US Skynet Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1436.ts;name=US Skynet Sports 2
+#EXTINF:-1,US Skynet Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1472.ts;name=US Skynet Sports 3
+#EXTINF:-1,US Skynet Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1473.ts;name=US Skynet Sports 4
+#EXTINF:-1,US Skynet Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1474.ts;name=US Skynet Sports 5
+#EXTINF:-1,US Skynet Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1475.ts;name=US Skynet Sports 6
+#EXTINF:-1,US Sports NET 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1497.ts;name=US Sports NET 360 HD
+#EXTINF:-1,US Sports NET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1502.ts;name=US Sports NET PACIFIC
+#EXTINF:-1,US Sports NET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1508.ts;name=US Sports NET ONE HD
+#EXTINF:-1,US Sports NET WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1526.ts;name=US Sports NET WORLD
+#EXTINF:-1,US Sports NET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1503.ts;name=US Sports NET ONTARIO
+#EXTINF:-1,US Sports NET WEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1525.ts;name=US Sports NET WEST HD
+#EXTINF:-1,US Sport LTVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1496.ts;name=US Sport LTVE HD
+#EXTINF:-1,US USA Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1498.ts;name=US USA Network
+#EXTINF:-1,US BeIN Sports US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1486.ts;name=US BeIN Sports US
 #EXTINF:-1,US Spike HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1432.ts;name=US Spike HD
-#EXTINF:-1,US Turner Classic Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5894.ts;name=US Turner Classic Movies HD
-#EXTINF:-1,US TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2106.ts;name=US TBS HD
-#EXTINF:-1,US VELOCITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1475.ts;name=US VELOCITY HD
-#EXTINF:-1,US TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2068.ts;name=US TNT HD
-#EXTINF:-1,US USA Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2067.ts;name=US USA Network HD
-#EXTINF:-1,US WE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3654.ts;name=US WE HD
-#EXTINF:-1,US TruTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1856.ts;name=US TruTV HD
-#EXTINF:-1,US Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5487.ts;name=US Universal HD
-#EXTINF:-1,US Viceland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3734.ts;name=US Viceland
-#EXTINF:-1,US Travel Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3655.ts;name=US Travel Channel HD
-#EXTINF:-1,US Sundance HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3656.ts;name=US Sundance HD
-#EXTINF:-1,US VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1476.ts;name=US VH1 HD
-#EXTINF:-1,US Hi Yah Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5890.ts;name=US Hi Yah Network HD
-#EXTINF:-1,US Buzzr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6006.ts;name=US Buzzr
-#EXTINF:-1,US Cozi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7372.ts;name=US Cozi
-#EXTINF:-1,US Antenna TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7373.ts;name=US Antenna TV
-#EXTINF:-1,US Get TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7375.ts;name=US Get TV
-#EXTINF:-1,US Grit
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7376.ts;name=US Grit
-#EXTINF:-1,US HI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7377.ts;name=US HI
-#EXTINF:-1,US ION Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7378.ts;name=US ION Life
-#EXTINF:-1,US Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7379.ts;name=US Movies
-#EXTINF:-1,US Qubo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7380.ts;name=US Qubo
-#EXTINF:-1,US This TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7381.ts;name=US This TV
-#EXTINF:-1,US CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1452.ts;name=US CNN HD
-#EXTINF:-1,US MSNBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1468.ts;name=US MSNBC HD
-#EXTINF:-1,US Bloomberg HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1389.ts;name=US Bloomberg HD
-#EXTINF:-1,US HLN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1920.ts;name=US HLN HD
-#EXTINF:-1,US Fox News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1406.ts;name=US Fox News HD
-#EXTINF:-1,US Fox Business Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1405.ts;name=US Fox Business Network HD
-#EXTINF:-1,US BBC World News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6069.ts;name=US BBC World News HD
-#EXTINF:-1,US NECN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6068.ts;name=US NECN HD
-#EXTINF:-1,US ABC NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1380.ts;name=US ABC NEWS HD
-#EXTINF:-1,CA MSNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5446.ts;name=CA MSNBC
-#EXTINF:-1,US Newsmax TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2947.ts;name=US Newsmax TV
-#EXTINF:-1,US Al Jazeera English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2944.ts;name=US Al Jazeera English
-#EXTINF:-1,US CBS NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2938.ts;name=US CBS NEWS
-#EXTINF:-1,US The Weather Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2957.ts;name=US The Weather Channel
-#EXTINF:-1,US C Span 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2939.ts;name=US C Span 1
-#EXTINF:-1,US C Span 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2940.ts;name=US C Span 2
-#EXTINF:-1,US C Span 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2941.ts;name=US C Span 3
-#EXTINF:-1,US AFRICA NEWS NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5368.ts;name=US AFRICA NEWS NETWORK
-#EXTINF:-1,US NBC EXTRA TIME HD 6 ( MATCH TIME )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3549.ts;name=US NBC EXTRA TIME HD 6 ( MATCH TIME )
-#EXTINF:-1,US NBC EXTRA TIME HD5 ( MATCH TIME )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3544.ts;name=US NBC EXTRA TIME HD5 ( MATCH TIME )
-#EXTINF:-1,US NBC EXTRA TIME HD3 ( MATCH TIME )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3546.ts;name=US NBC EXTRA TIME HD3 ( MATCH TIME )
-#EXTINF:-1,US NBC EXTRA TIME HD 7 ( MATCH TIME )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3548.ts;name=US NBC EXTRA TIME HD 7 ( MATCH TIME )
-#EXTINF:-1,US NBC EXTRA TIME HD ( MATCH TIME )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3550.ts;name=US NBC EXTRA TIME HD ( MATCH TIME )
-#EXTINF:-1,US ESPN 720p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/7508.ts;name=US ESPN 720p
-#EXTINF:-1,US ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1401.ts;name=US ESPN HD
-#EXTINF:-1,US ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1403.ts;name=US ESPN 2 HD
-#EXTINF:-1,US ESPN News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1402.ts;name=US ESPN News HD
-#EXTINF:-1,CA ESPN Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3697.ts;name=CA ESPN Classic
-#EXTINF:-1,US ESPN U HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3735.ts;name=US ESPN U HD
-#EXTINF:-1,US ESPN Bases Loaded HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5485.ts;name=US ESPN Bases Loaded HD
-#EXTINF:-1,US Fox Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5505.ts;name=US Fox Sports 1 HD
-#EXTINF:-1,US Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5506.ts;name=US Fox Sports 2 HD
-#EXTINF:-1,US Fox Soccer Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3665.ts;name=US Fox Soccer Plus HD
-#EXTINF:-1,US Fox Sports Prime Ticket 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6030.ts;name=US Fox Sports Prime Ticket 1 HD
-#EXTINF:-1,US Fox Sports Arizona HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5944.ts;name=US Fox Sports Arizona HD
-#EXTINF:-1,US Fox Sports Carolina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6039.ts;name=US Fox Sports Carolina HD
-#EXTINF:-1,US Fox Sports College Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5939.ts;name=US Fox Sports College Central HD
-#EXTINF:-1,US Fox Sports Cincinnati HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6027.ts;name=US Fox Sports Cincinnati HD
-#EXTINF:-1,US Fox Sports Detroit HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6037.ts;name=US Fox Sports Detroit HD
-#EXTINF:-1,US Fox Sports Fl North HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6033.ts;name=US Fox Sports Fl North HD
-#EXTINF:-1,US Fox Sports Florida HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5943.ts;name=US Fox Sports Florida HD
-#EXTINF:-1,US Fox Sports Floridia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6012.ts;name=US Fox Sports Floridia HD
-#EXTINF:-1,US Fox Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6013.ts;name=US Fox Sports HD
-#EXTINF:-1,US Fox Sports HD HOU TX LA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6014.ts;name=US Fox Sports HD HOU TX LA
-#EXTINF:-1,US Fox Sports Indiana arb HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6019.ts;name=US Fox Sports Indiana arb HD
-#EXTINF:-1,US Fox Sports Inidana HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6008.ts;name=US Fox Sports Inidana HD
-#EXTINF:-1,US Fox Sports Midwest HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6031.ts;name=US Fox Sports Midwest HD
-#EXTINF:-1,US Fox Sports Net HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6028.ts;name=US Fox Sports Net HD
-#EXTINF:-1,US Fox Sports North HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5942.ts;name=US Fox Sports North HD
-#EXTINF:-1,US Fox Sports Ohio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6016.ts;name=US Fox Sports Ohio
-#EXTINF:-1,US Fox Sports Ohio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6022.ts;name=US Fox Sports Ohio HD
-#EXTINF:-1,US Fox Sports Ohio HD zlbj
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6020.ts;name=US Fox Sports Ohio HD zlbj
-#EXTINF:-1,US Fox Sports Ohio zl HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6017.ts;name=US Fox Sports Ohio zl HD
-#EXTINF:-1,US Fox Sports Prime Ticket HD Clippers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6009.ts;name=US Fox Sports Prime Ticket HD Clippers
-#EXTINF:-1,US Fox Sports Sand Diego HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6034.ts;name=US Fox Sports Sand Diego HD
-#EXTINF:-1,US Fox Sports SE HPG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6025.ts;name=US Fox Sports SE HPG HD
-#EXTINF:-1,US Fox Sports South Georgia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6024.ts;name=US Fox Sports South Georgia HD
-#EXTINF:-1,US Fox Sports South HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5941.ts;name=US Fox Sports South HD
-#EXTINF:-1,US Fox Sports Southeast HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6038.ts;name=US Fox Sports Southeast HD
-#EXTINF:-1,US Fox Sports Southeast Hornets HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6026.ts;name=US Fox Sports Southeast Hornets HD
-#EXTINF:-1,US Fox Sports Southwest 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6018.ts;name=US Fox Sports Southwest 2 HD
-#EXTINF:-1,US Fox Sports Southwest HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5940.ts;name=US Fox Sports Southwest HD
-#EXTINF:-1,US Fox Sports Sun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5945.ts;name=US Fox Sports Sun HD
-#EXTINF:-1,US Fox Sports SW HD zlb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6011.ts;name=US Fox Sports SW HD zlb
-#EXTINF:-1,US Fox Sports SW Houston HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6036.ts;name=US Fox Sports SW Houston HD
-#EXTINF:-1,US Fox Sports SW Rangers HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6035.ts;name=US Fox Sports SW Rangers HD
-#EXTINF:-1,US Fox Sports Tennessee HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6032.ts;name=US Fox Sports Tennessee HD
-#EXTINF:-1,US Fox Sports Westf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6015.ts;name=US Fox Sports Westf
-#EXTINF:-1,US Fox Sports Wisconsin HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6040.ts;name=US Fox Sports Wisconsin HD
-#EXTINF:-1,US Fox Sports WSAD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6023.ts;name=US Fox Sports WSAD HD
-#EXTINF:-1,US Fox Sports Yes Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6043.ts;name=US Fox Sports Yes Network HD
-#EXTINF:-1,US Fox SW Dallas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6042.ts;name=US Fox SW Dallas HD
-#EXTINF:-1,US Fox SW Mavericks HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6041.ts;name=US Fox SW Mavericks HD
-#EXTINF:-1,US Fox College Sports Atlantic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6010.ts;name=US Fox College Sports Atlantic HD
-#EXTINF:-1,US Fox College Sports Pacific HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6021.ts;name=US Fox College Sports Pacific HD
-#EXTINF:-1,US Suns Sports Miami HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6007.ts;name=US Suns Sports Miami HD
-#EXTINF:-1,US Fox Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6075.ts;name=US Fox Plus HD
-#EXTINF:-1,US CSN Bay Area Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6053.ts;name=US CSN Bay Area Plus HD
-#EXTINF:-1,US CSN BayArea HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6044.ts;name=US CSN BayArea HD
-#EXTINF:-1,US CSN California   HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6045.ts;name=US CSN California   HD
-#EXTINF:-1,US CSN California HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6051.ts;name=US CSN California HD
-#EXTINF:-1,US CSN Chicago Plus 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6048.ts;name=US CSN Chicago Plus 2 HD
-#EXTINF:-1,US CSN Chicago Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6047.ts;name=US CSN Chicago Plus HD
-#EXTINF:-1,US CSN Mid Atlantic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6054.ts;name=US CSN Mid Atlantic HD
-#EXTINF:-1,US CSN New England HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6049.ts;name=US CSN New England HD
-#EXTINF:-1,US CSN Northwest Alternate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6046.ts;name=US CSN Northwest Alternate HD
-#EXTINF:-1,US CSN Northwest HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6052.ts;name=US CSN Northwest HD
-#EXTINF:-1,US CSN Philly HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6050.ts;name=US CSN Philly HD
-#EXTINF:-1,US NESN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5458.ts;name=US NESN HD
-#EXTINF:-1,US NESN Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5436.ts;name=US NESN Plus HD
-#EXTINF:-1,US MLB Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1416.ts;name=US MLB Network HD
-#EXTINF:-1,US NFL Redzone HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3669.ts;name=US NFL Redzone HD
-#EXTINF:-1,US NFL Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1422.ts;name=US NFL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1442.ts;name=US Spike HD
+#EXTINF:-1,US Sports NFL Now HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1434.ts;name=US Sports NFL Now HD
 #EXTINF:-1,US NHL Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1424.ts;name=US NHL Network HD
-#EXTINF:-1,US Sec Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1472.ts;name=US Sec Network HD
-#EXTINF:-1,US Longhorn Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5310.ts;name=US Longhorn Network HD
-#EXTINF:-1,US NBA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1470.ts;name=US NBA TV HD
-#EXTINF:-1,CA NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3724.ts;name=CA NBA TV
-#EXTINF:-1,US WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3653.ts;name=US WWE HD
-#EXTINF:-1,CA TSN HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1279.ts;name=CA TSN HD 1
-#EXTINF:-1,CA TSN HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1280.ts;name=CA TSN HD 2
-#EXTINF:-1,CA TSN HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1281.ts;name=CA TSN HD 3
-#EXTINF:-1,CA TSN HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1282.ts;name=CA TSN HD 4
-#EXTINF:-1,CA TSN HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1283.ts;name=CA TSN HD 5
-#EXTINF:-1,CA SPORTS NET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3652.ts;name=CA SPORTS NET 360 HD
-#EXTINF:-1,CA SPORTS NET ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3650.ts;name=CA SPORTS NET ONE HD
-#EXTINF:-1,CA SPORTS NET CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1431.ts;name=CA SPORTS NET CENTRAL HD
-#EXTINF:-1,CA SPORTS NET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3647.ts;name=CA SPORTS NET WEST HD
-#EXTINF:-1,CA SPORTS NET WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3646.ts;name=CA SPORTS NET WORLD HD
-#EXTINF:-1,CA SPORTS NET PACIFIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3648.ts;name=CA SPORTS NET PACIFIC HD
-#EXTINF:-1,CA SPORTS NET ONTARIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3649.ts;name=CA SPORTS NET ONTARIO HD
-#EXTINF:-1,US Tennis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1862.ts;name=US Tennis HD
-#EXTINF:-1,US NBC SN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1421.ts;name=US NBC SN HD
-#EXTINF:-1,US Golf Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1408.ts;name=US Golf Channel HD
-#EXTINF:-1,CA World Fishing Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5443.ts;name=CA World Fishing Network
-#EXTINF:-1,US Bein Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1450.ts;name=US Bein Sports HD
-#EXTINF:-1,US CBS Sports Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/3681.ts;name=US CBS Sports Network HD
-#EXTINF:-1,US BTN2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6077.ts;name=US BTN2 HD
-#EXTINF:-1,US BTN3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6078.ts;name=US BTN3 HD
-#EXTINF:-1,US BTN4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/6079.ts;name=US BTN4 HD
-#EXTINF:-1,US PAC 12 Bay Area
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5256.ts;name=US PAC 12 Bay Area
-#EXTINF:-1,US PAC  National
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5258.ts;name=US PAC  National
-#EXTINF:-1,US PAC 12 Moutain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5254.ts;name=US PAC 12 Moutain
-#EXTINF:-1,US PAC 12 Los Angeles
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5255.ts;name=US PAC 12 Los Angeles
-#EXTINF:-1,US PAC 12 Arizona
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5257.ts;name=US PAC 12 Arizona
-#EXTINF:-1,US PAC 12 Oregon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5253.ts;name=US PAC 12 Oregon
-#EXTINF:-1,US PAC 12 Washington
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5252.ts;name=US PAC 12 Washington
-#EXTINF:-1,US Fight network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/2958.ts;name=US Fight network
-#EXTINF:-1,US Willow Cricket HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/1445.ts;name=US Willow Cricket HD
-#EXTINF:-1,US Eleven Sports Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5886.ts;name=US Eleven Sports Network HD
-#EXTINF:-1,US FOX 23 NEWS Tulsa OK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5362.ts;name=US FOX 23 NEWS Tulsa OK
-#EXTINF:-1,US THE FLORIDA CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://nitrotv.for-the.biz:25461/live/fern/fern/5366.ts;name=US THE FLORIDA CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1429.ts;name=US NHL Network HD
+#EXTINF:-1,US Sport Snet Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1430.ts;name=US Sport Snet Central
+#EXTINF:-1,US ShowTime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1439.ts;name=US ShowTime HD
+#EXTINF:-1,US AFN Prime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1479.ts;name=US AFN Prime HD
+#EXTINF:-1,US TMN Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1471.ts;name=US TMN Action
+#EXTINF:-1,US Animal Planet1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1467.ts;name=US Animal Planet1
+#EXTINF:-1,US TMN Movies 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1468.ts;name=US TMN Movies 2
+#EXTINF:-1,US TMN Movies 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1469.ts;name=US TMN Movies 3
+#EXTINF:-1,US TMN Movies 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1470.ts;name=US TMN Movies 4
+#EXTINF:-1,US FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1478.ts;name=US FX HD
+#EXTINF:-1,US FOX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1435.ts;name=US FOX 1
+#EXTINF:-1,US Ion US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1531.ts;name=US Ion US
+#EXTINF:-1,US FOX 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1519.ts;name=US FOX 23
+#EXTINF:-1,US Fox 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1509.ts;name=US Fox 24 HD
+#EXTINF:-1,US Fox Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1448.ts;name=US Fox Action
+#EXTINF:-1,US Fox Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1441.ts;name=US Fox Action HD
+#EXTINF:-1,US Cinemax ActionMax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1512.ts;name=US Cinemax ActionMax
+#EXTINF:-1,US HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1517.ts;name=US HBO Signature
+#EXTINF:-1,US NBCSN Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1533.ts;name=US NBCSN Golf
+#EXTINF:-1,US SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1481.ts;name=US SYFY HD
+#EXTINF:-1,US CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1485.ts;name=US CBS HD
+#EXTINF:-1,US HBO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1433.ts;name=US HBO 1
+#EXTINF:-1,US Starz Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1438.ts;name=US Starz Edge
+#EXTINF:-1,US Starz East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1450.ts;name=US Starz East
+#EXTINF:-1,US TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1506.ts;name=US TBS HD
+#EXTINF:-1,US Fight Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1457.ts;name=US Fight Network
+#EXTINF:-1,US Bravo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1507.ts;name=US Bravo HD
+#EXTINF:-1,US AE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1500.ts;name=US AE HD
+#EXTINF:-1,US Movie Time HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1499.ts;name=US Movie Time HD
+#EXTINF:-1,US RDS2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1505.ts;name=US RDS2
+#EXTINF:-1,US NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1456.ts;name=US NBCSN
+#EXTINF:-1,US London Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1494.ts;name=US London Live
+#EXTINF:-1,US Golbal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1491.ts;name=US Golbal HD
+#EXTINF:-1,US Starz Encore US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1524.ts;name=US Starz Encore US
+#EXTINF:-1,US CBSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1521.ts;name=US CBSN
+#EXTINF:-1,US Famly HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1495.ts;name=US Famly HD
+#EXTINF:-1,US AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1492.ts;name=US AMC
+#EXTINF:-1,US BBC Two Eng
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1443.ts;name=US BBC Two Eng
+#EXTINF:-1,US AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1534.ts;name=US AMC HD
+#EXTINF:-1,US C Span 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1487.ts;name=US C Span 1 HD
+#EXTINF:-1,US C Span 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1488.ts;name=US C Span 2 HD
+#EXTINF:-1,US C Span 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1489.ts;name=US C Span 3 HD
+#EXTINF:-1,US CBC Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1541.ts;name=US CBC Toronto
+#EXTINF:-1,US Comedy Central HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1540.ts;name=US Comedy Central HD US
+#EXTINF:-1,US CP24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1528.ts;name=US CP24 HD
+#EXTINF:-1,US Discovery Velocity HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1529.ts;name=US Discovery Velocity HD
+#EXTINF:-1,US CTV Toronto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1530.ts;name=US CTV Toronto HD
+#EXTINF:-1,US TWiT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1535.ts;name=US TWiT TV
+#EXTINF:-1,US HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1536.ts;name=US HBO Family
+#EXTINF:-1,US Starz Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1537.ts;name=US Starz Comedy
+#EXTINF:-1,US Starz Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1538.ts;name=US Starz Cinema
+#EXTINF:-1,US W Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1532.ts;name=US W Network HD
+#EXTINF:-1,US Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1464.ts;name=US Bloomberg
+#EXTINF:-1,US Amazing Discoveries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1465.ts;name=US Amazing Discoveries
+#EXTINF:-1,US ABC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1466.ts;name=US ABC NEWS HD
+#EXTINF:-1,US AE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1458.ts;name=US AE Network
+#EXTINF:-1,US AFN Prime Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1484.ts;name=US AFN Prime Atlantic HD
+#EXTINF:-1,US Thai CH8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1463.ts;name=US Thai CH8
+#EXTINF:-1,US World Fashion TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1432.ts;name=US World Fashion TV
+#EXTINF:-1,US TBS Channle
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1449.ts;name=US TBS Channle
+#EXTINF:-1,US Amazing Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1446.ts;name=US Amazing Music
+#EXTINF:-1,US ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1504.ts;name=US ABC
+#EXTINF:-1,US WGN 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1515.ts;name=US WGN 9 HD
+#EXTINF:-1,US Euro plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1516.ts;name=US Euro plus
+#EXTINF:-1,US TRT World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1513.ts;name=US TRT World
+#EXTINF:-1,US TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1510.ts;name=US TLC
+#EXTINF:-1,US BBC Amrica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1514.ts;name=US BBC Amrica
 
