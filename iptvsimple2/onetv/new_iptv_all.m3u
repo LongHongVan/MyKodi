@@ -1,180 +1,318 @@
 #EXTM3U 
-#EXTINF:-1,US Sport TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1451.ts;name=US Sport TSN 1
-#EXTINF:-1,US Sport TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1452.ts;name=US Sport TSN 2
-#EXTINF:-1,US Sport TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1453.ts;name=US Sport TSN 3
-#EXTINF:-1,US Sport TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1454.ts;name=US Sport TSN 4
-#EXTINF:-1,US Sport TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1455.ts;name=US Sport TSN 5
-#EXTINF:-1,US Skynet Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1431.ts;name=US Skynet Sports 1
-#EXTINF:-1,US Skynet Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1436.ts;name=US Skynet Sports 2
-#EXTINF:-1,US Skynet Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1472.ts;name=US Skynet Sports 3
-#EXTINF:-1,US Skynet Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1473.ts;name=US Skynet Sports 4
-#EXTINF:-1,US Skynet Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1474.ts;name=US Skynet Sports 5
-#EXTINF:-1,US Skynet Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1475.ts;name=US Skynet Sports 6
-#EXTINF:-1,US Sports NET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1497.ts;name=US Sports NET 360 HD
-#EXTINF:-1,US Sports NET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1502.ts;name=US Sports NET PACIFIC
-#EXTINF:-1,US Sports NET ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1508.ts;name=US Sports NET ONE HD
-#EXTINF:-1,US Sports NET WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1526.ts;name=US Sports NET WORLD
-#EXTINF:-1,US Sports NET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1503.ts;name=US Sports NET ONTARIO
-#EXTINF:-1,US Sports NET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1525.ts;name=US Sports NET WEST HD
-#EXTINF:-1,US Sport LTVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1496.ts;name=US Sport LTVE HD
-#EXTINF:-1,US USA Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1498.ts;name=US USA Network
-#EXTINF:-1,US BeIN Sports US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1486.ts;name=US BeIN Sports US
-#EXTINF:-1,US Spike HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1442.ts;name=US Spike HD
-#EXTINF:-1,US Sports NFL Now HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1434.ts;name=US Sports NFL Now HD
-#EXTINF:-1,US NHL Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1429.ts;name=US NHL Network HD
-#EXTINF:-1,US Sport Snet Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1430.ts;name=US Sport Snet Central
-#EXTINF:-1,US ShowTime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1439.ts;name=US ShowTime HD
-#EXTINF:-1,US AFN Prime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1479.ts;name=US AFN Prime HD
-#EXTINF:-1,US TMN Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1471.ts;name=US TMN Action
-#EXTINF:-1,US Animal Planet1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1467.ts;name=US Animal Planet1
-#EXTINF:-1,US TMN Movies 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1468.ts;name=US TMN Movies 2
-#EXTINF:-1,US TMN Movies 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1469.ts;name=US TMN Movies 3
-#EXTINF:-1,US TMN Movies 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1470.ts;name=US TMN Movies 4
-#EXTINF:-1,US FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1478.ts;name=US FX HD
-#EXTINF:-1,US FOX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1435.ts;name=US FOX 1
-#EXTINF:-1,US Ion US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1531.ts;name=US Ion US
-#EXTINF:-1,US FOX 23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1519.ts;name=US FOX 23
-#EXTINF:-1,US Fox 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1509.ts;name=US Fox 24 HD
-#EXTINF:-1,US Fox Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1448.ts;name=US Fox Action
-#EXTINF:-1,US Fox Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1441.ts;name=US Fox Action HD
-#EXTINF:-1,US Cinemax ActionMax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1512.ts;name=US Cinemax ActionMax
-#EXTINF:-1,US HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1517.ts;name=US HBO Signature
-#EXTINF:-1,US NBCSN Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1533.ts;name=US NBCSN Golf
-#EXTINF:-1,US SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1481.ts;name=US SYFY HD
-#EXTINF:-1,US CBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1485.ts;name=US CBS HD
-#EXTINF:-1,US HBO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1433.ts;name=US HBO 1
-#EXTINF:-1,US Starz Edge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1438.ts;name=US Starz Edge
-#EXTINF:-1,US Starz East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1450.ts;name=US Starz East
-#EXTINF:-1,US TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1506.ts;name=US TBS HD
-#EXTINF:-1,US Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1457.ts;name=US Fight Network
-#EXTINF:-1,US Bravo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1507.ts;name=US Bravo HD
-#EXTINF:-1,US AE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1500.ts;name=US AE HD
-#EXTINF:-1,US Movie Time HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1499.ts;name=US Movie Time HD
-#EXTINF:-1,US RDS2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1505.ts;name=US RDS2
-#EXTINF:-1,US NBCSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1456.ts;name=US NBCSN
-#EXTINF:-1,US London Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1494.ts;name=US London Live
-#EXTINF:-1,US Golbal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1491.ts;name=US Golbal HD
-#EXTINF:-1,US Starz Encore US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1524.ts;name=US Starz Encore US
-#EXTINF:-1,US CBSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1521.ts;name=US CBSN
-#EXTINF:-1,US Famly HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1495.ts;name=US Famly HD
-#EXTINF:-1,US AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1492.ts;name=US AMC
-#EXTINF:-1,US BBC Two Eng
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1443.ts;name=US BBC Two Eng
-#EXTINF:-1,US AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1534.ts;name=US AMC HD
-#EXTINF:-1,US C Span 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1487.ts;name=US C Span 1 HD
-#EXTINF:-1,US C Span 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1488.ts;name=US C Span 2 HD
-#EXTINF:-1,US C Span 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1489.ts;name=US C Span 3 HD
-#EXTINF:-1,US CBC Toronto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1541.ts;name=US CBC Toronto
-#EXTINF:-1,US Comedy Central HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1540.ts;name=US Comedy Central HD US
-#EXTINF:-1,US CP24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1528.ts;name=US CP24 HD
-#EXTINF:-1,US Discovery Velocity HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1529.ts;name=US Discovery Velocity HD
-#EXTINF:-1,US CTV Toronto HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1530.ts;name=US CTV Toronto HD
-#EXTINF:-1,US TWiT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1535.ts;name=US TWiT TV
-#EXTINF:-1,US HBO Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1536.ts;name=US HBO Family
-#EXTINF:-1,US Starz Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1537.ts;name=US Starz Comedy
-#EXTINF:-1,US Starz Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1538.ts;name=US Starz Cinema
-#EXTINF:-1,US W Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1532.ts;name=US W Network HD
-#EXTINF:-1,US Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1464.ts;name=US Bloomberg
-#EXTINF:-1,US Amazing Discoveries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1465.ts;name=US Amazing Discoveries
-#EXTINF:-1,US ABC NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1466.ts;name=US ABC NEWS HD
-#EXTINF:-1,US AE Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1458.ts;name=US AE Network
-#EXTINF:-1,US AFN Prime Atlantic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1484.ts;name=US AFN Prime Atlantic HD
-#EXTINF:-1,US Thai CH8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1463.ts;name=US Thai CH8
-#EXTINF:-1,US World Fashion TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1432.ts;name=US World Fashion TV
-#EXTINF:-1,US TBS Channle
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1449.ts;name=US TBS Channle
-#EXTINF:-1,US Amazing Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1446.ts;name=US Amazing Music
-#EXTINF:-1,US ABC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1504.ts;name=US ABC
-#EXTINF:-1,US WGN 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1515.ts;name=US WGN 9 HD
-#EXTINF:-1,US Euro plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1516.ts;name=US Euro plus
-#EXTINF:-1,US TRT World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1513.ts;name=US TRT World
-#EXTINF:-1,US TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1510.ts;name=US TLC
-#EXTINF:-1,US BBC Amrica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/kelvin/kelvin/1514.ts;name=US BBC Amrica
+#EXTINF:-1,FOX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4374.ts;name=FOX 1 HD
+#EXTINF:-1,Fox Crime 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9589.ts;name=Fox Crime 1
+#EXTINF:-1,Fox Comedy 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/13311.ts;name=Fox Comedy 1 HD
+#EXTINF:-1,Fox Life 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/5427.ts;name=Fox Life 1
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4394.ts;name=Cartoon Network
+#EXTINF:-1,Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4393.ts;name=Cartoonito
+#EXTINF:-1,Fox Animation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4377.ts;name=Fox Animation HD
+#EXTINF:-1,Fox Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4376.ts;name=Fox Comedy HD
+#EXTINF:-1,Fox Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4468.ts;name=Fox Crime HD
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4375.ts;name=Fox HD
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4373.ts;name=FOX LIFE HD
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/4340.ts;name=History HD
+#EXTINF:-1,Lifestyle SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/13995.ts;name=Lifestyle SE
+#EXTINF:-1,CA TSC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14969.ts;name=CA TSC HD
+#EXTINF:-1,USA AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9315.ts;name=USA AE
+#EXTINF:-1,USA ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/2931.ts;name=USA ABC News
+#EXTINF:-1,USA ABC Spark HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/15243.ts;name=USA ABC Spark HD
+#EXTINF:-1,USA AFN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9516.ts;name=USA AFN SPORTS
+#EXTINF:-1,USA AFN SPECTRUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/10166.ts;name=USA AFN SPECTRUM
+#EXTINF:-1,USA AFN Prime Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/10167.ts;name=USA AFN Prime Atlantic
+#EXTINF:-1,USA AFN MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9488.ts;name=USA AFN MOVIE
+#EXTINF:-1,USA AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9517.ts;name=USA AFN SPORTS 2
+#EXTINF:-1,USA ABC W HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/15244.ts;name=USA ABC W HD
+#EXTINF:-1,USA 360 North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/3863.ts;name=USA 360 North
+#EXTINF:-1,USA Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/15250.ts;name=USA Animal Planet
+#EXTINF:-1,USA Astro SUPERSPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9520.ts;name=USA Astro SUPERSPORT 3
+#EXTINF:-1,USA ASD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/3861.ts;name=USA ASD TV
+#EXTINF:-1,USA AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8415.ts;name=USA AMC HD
+#EXTINF:-1,USA Astro SUPERSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9518.ts;name=USA Astro SUPERSPORT 1
+#EXTINF:-1,USA Church Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9536.ts;name=USA Church Channel
+#EXTINF:-1,USA Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9546.ts;name=USA Discovery Science
+#EXTINF:-1,USA DTX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9547.ts;name=USA DTX
+#EXTINF:-1,USA FOX Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8681.ts;name=USA FOX Sport 1
+#EXTINF:-1,USA Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/15249.ts;name=USA Comedy Central
+#EXTINF:-1,USA Family CHRGD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/15246.ts;name=USA Family CHRGD
+#EXTINF:-1,USA Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9510.ts;name=USA Bloomberg
+#EXTINF:-1,USA Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14079.ts;name=USA Eurosport 1
+#EXTINF:-1,USA Family Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/15247.ts;name=USA Family Junior HD
+#EXTINF:-1,USA CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8692.ts;name=USA CNN HD
+#EXTINF:-1,USA Bravo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8691.ts;name=USA Bravo
+#EXTINF:-1,USA ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/13230.ts;name=USA ESPN 2
+#EXTINF:-1,USA Channel 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/3860.ts;name=USA Channel 11
+#EXTINF:-1,USA Country Music Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/3859.ts;name=USA Country Music Channel
+#EXTINF:-1,USA CBS News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9508.ts;name=USA CBS News HD
+#EXTINF:-1,USA Fight Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8308.ts;name=USA Fight Sport
+#EXTINF:-1,USA E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8417.ts;name=USA E
+#EXTINF:-1,USA CSPAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9319.ts;name=USA CSPAN 2
+#EXTINF:-1,USA C SPAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9320.ts;name=USA C SPAN 3
+#EXTINF:-1,USA E Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9321.ts;name=USA E Network HD
+#EXTINF:-1,USA BeIN Sports USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/13227.ts;name=USA BeIN Sports USA HD
+#EXTINF:-1,USA Astro SUPERSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9519.ts;name=USA Astro SUPERSPORT 2
+#EXTINF:-1,USA Fox Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9391.ts;name=USA Fox Sport 2
+#EXTINF:-1,USA NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8309.ts;name=USA NBA TV
+#EXTINF:-1,USA NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8393.ts;name=USA NBC HD
+#EXTINF:-1,USA Fox Sports 506 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9528.ts;name=USA Fox Sports 506 HD
+#EXTINF:-1,USA LIFE TIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8687.ts;name=USA LIFE TIME
+#EXTINF:-1,USA HBO Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9831.ts;name=USA HBO Comedy
+#EXTINF:-1,USA History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/15245.ts;name=USA History HD
+#EXTINF:-1,USA Mello TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9502.ts;name=USA Mello TV
+#EXTINF:-1,USA NBC Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9523.ts;name=USA NBC Sports Network HD
+#EXTINF:-1,USA Fox 43
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/10174.ts;name=USA Fox 43
+#EXTINF:-1,USA CBN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/3872.ts;name=USA CBN News
+#EXTINF:-1,USA Starz  Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/10171.ts;name=USA Starz  Edge
+#EXTINF:-1,USA TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9480.ts;name=USA TLC HD
+#EXTINF:-1,USA NHL Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/12479.ts;name=USA NHL Network
+#EXTINF:-1,USA RT Documentary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9497.ts;name=USA RT Documentary
+#EXTINF:-1,USA RT America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9498.ts;name=USA RT America HD
+#EXTINF:-1,USA NBCSN Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9526.ts;name=USA NBCSN Golf HD
+#EXTINF:-1,USA Nasa TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9499.ts;name=USA Nasa TV HD
+#EXTINF:-1,USA Spike HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/13179.ts;name=USA Spike HD
+#EXTINF:-1,USA NFL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8693.ts;name=USA NFL Network HD
+#EXTINF:-1,USA Sporstnet East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14035.ts;name=USA Sporstnet East HD
+#EXTINF:-1,USA Sporstnet Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14034.ts;name=USA Sporstnet Ontario HD
+#EXTINF:-1,USA Sporstnet Pacific HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14033.ts;name=USA Sporstnet Pacific HD
+#EXTINF:-1,USA Sportnet  One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14037.ts;name=USA Sportnet  One HD
+#EXTINF:-1,USA Sportsnet World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14032.ts;name=USA Sportsnet World
+#EXTINF:-1,USA TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/13180.ts;name=USA TNT HD
+#EXTINF:-1,USA PAC 12 Washington HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/10143.ts;name=USA PAC 12 Washington HD
+#EXTINF:-1,USA PAC Mountain 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14067.ts;name=USA PAC Mountain 1080P
+#EXTINF:-1,USA PAC Network National 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14068.ts;name=USA PAC Network National 720P
+#EXTINF:-1,USA PAC 12 Net (Arizona) 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14070.ts;name=USA PAC 12 Net (Arizona) 1080P
+#EXTINF:-1,USA PAC 12 Net (Arizona) 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14069.ts;name=USA PAC 12 Net (Arizona) 720P
+#EXTINF:-1,USA PAC 12 Net (Bay Area) 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14072.ts;name=USA PAC 12 Net (Bay Area) 1080P
+#EXTINF:-1,USA PAC 12 Net (Bay Area) 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14071.ts;name=USA PAC 12 Net (Bay Area) 720P
+#EXTINF:-1,USA PAC 12 Net (Encore)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14078.ts;name=USA PAC 12 Net (Encore)
+#EXTINF:-1,USA PAC 12 Net (Los Angeles) 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14073.ts;name=USA PAC 12 Net (Los Angeles) 720P
+#EXTINF:-1,USA PAC 12 Net (Oregon) 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14075.ts;name=USA PAC 12 Net (Oregon) 1080P
+#EXTINF:-1,USA PAC 12 Net (Washington) 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14077.ts;name=USA PAC 12 Net (Washington) 1080P
+#EXTINF:-1,USA PAC 12 Net (Oregon) 720P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/14074.ts;name=USA PAC 12 Net (Oregon) 720P
+#EXTINF:-1,USA Star Z Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9832.ts;name=USA Star Z Cinema
+#EXTINF:-1,USA TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8685.ts;name=USA TBS HD
+#EXTINF:-1,USA The Florida Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9495.ts;name=USA The Florida Channel
+#EXTINF:-1,USA Travel Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9476.ts;name=USA Travel Channel HD
+#EXTINF:-1,USA Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9330.ts;name=USA Tru TV HD
+#EXTINF:-1,USA WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9530.ts;name=USA WWE
+#EXTINF:-1,USA Tsn Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8293.ts;name=USA Tsn Sport 1 HD
+#EXTINF:-1,USA Tsn Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8292.ts;name=USA Tsn Sport 2 HD
+#EXTINF:-1,USA Tsn Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8290.ts;name=USA Tsn Sport 4 HD
+#EXTINF:-1,USA Tsn Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8289.ts;name=USA Tsn Sport 5 HD
+#EXTINF:-1,USA Tsn Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/12547.ts;name=USA Tsn Sport 5 HD
+#EXTINF:-1,USA WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/8410.ts;name=USA WWE Network
+#EXTINF:-1,USA UALR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/3865.ts;name=USA UALR TV
+#EXTINF:-1,USA Teletoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/15251.ts;name=USA Teletoon
+#EXTINF:-1,USA WHDH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/9491.ts;name=USA WHDH
+#EXTINF:-1,USA ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16858.ts;name=USA ABC HD
+#EXTINF:-1,USA BBC America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16857.ts;name=USA BBC America
+#EXTINF:-1,USA BNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16856.ts;name=USA BNN HD
+#EXTINF:-1,USA CBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16855.ts;name=USA CBC HD
+#EXTINF:-1,USA CBC News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16854.ts;name=USA CBC News HD
+#EXTINF:-1,USA CBC Vancover
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16853.ts;name=USA CBC Vancover
+#EXTINF:-1,USA CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16852.ts;name=USA CBS HD
+#EXTINF:-1,USA CBS Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16851.ts;name=USA CBS Sports Network HD
+#EXTINF:-1,USA CBS W HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16850.ts;name=USA CBS W HD
+#EXTINF:-1,USA CityTV Vancouver
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16815.ts;name=USA CityTV Vancouver
+#EXTINF:-1,USA CNN News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16813.ts;name=USA CNN News HD
+#EXTINF:-1,USA CP24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16821.ts;name=USA CP24 HD
+#EXTINF:-1,USA CTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16820.ts;name=USA CTV HD
+#EXTINF:-1,USA Discovery Channel CA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16823.ts;name=USA Discovery Channel CA HD
+#EXTINF:-1,USA Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16822.ts;name=USA Disney XD HD
+#EXTINF:-1,USA Fox News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16826.ts;name=USA Fox News HD
+#EXTINF:-1,USA FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16835.ts;name=USA FX HD
+#EXTINF:-1,USA Global BC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16833.ts;name=USA Global BC
+#EXTINF:-1,USA Global HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16832.ts;name=USA Global HD
+#EXTINF:-1,USA Hallmark Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16831.ts;name=USA Hallmark Channel HD
+#EXTINF:-1,USA HGTV CA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16830.ts;name=USA HGTV CA HD
+#EXTINF:-1,USA HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16829.ts;name=USA HGTV HD
+#EXTINF:-1,USA HLN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16828.ts;name=USA HLN HD
+#EXTINF:-1,USA ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16827.ts;name=USA ID HD
+#EXTINF:-1,USA NBC W HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16849.ts;name=USA NBC W HD
+#EXTINF:-1,USA OMNI 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16848.ts;name=USA OMNI 1 HD
+#EXTINF:-1,USA OMNI 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16847.ts;name=USA OMNI 2 HD
+#EXTINF:-1,USA OWN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16846.ts;name=USA OWN HD
+#EXTINF:-1,USA PBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16845.ts;name=USA PBS HD
+#EXTINF:-1,USA Slice HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16844.ts;name=USA Slice HD
+#EXTINF:-1,USA Starz Encore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16842.ts;name=USA Starz Encore
+#EXTINF:-1,USA Starz Kids  Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16841.ts;name=USA Starz Kids  Family
+#EXTINF:-1,USA Sundance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16840.ts;name=USA Sundance HD
+#EXTINF:-1,USA SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16839.ts;name=USA SYFY HD
+#EXTINF:-1,USA TLC CA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16838.ts;name=USA TLC CA HD
+#EXTINF:-1,USA Velocity HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16837.ts;name=USA Velocity HD
+#EXTINF:-1,USA YTV HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/neamtalin/neamtalin/16836.ts;name=USA YTV HD CA
+#EXTINF:-1,American Violence Hd [en][COLOR green] Streamer[/COLOR]
+http://145.239.108.17:6500/movie/neamtalin/neamtalin/16141.AG]
+#EXTINF:-1,Discovery Investigation SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/9370.ts
+#EXTINF:-1,Discovery Channel SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/9371.ts
+#EXTINF:-1,Animal Planet FHD SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17844.ts
+#EXTINF:-1,Cartoon Network SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17840.ts
+#EXTINF:-1,Discovery HD SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17839.ts
+#EXTINF:-1,Discovery Science HD
+http://145.239.108.17:6500/live/neamtalin/neamtalin/4391.ts
+#EXTINF:-1,Discovery Science SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17838.ts
+#EXTINF:-1,Discovery Travel  Living HD
+http://145.239.108.17:6500/live/neamtalin/neamtalin/4342.ts
+#EXTINF:-1,Discovery World SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17837.ts
+#EXTINF:-1,H2 HD SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17834.ts
+#EXTINF:-1,History HD SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17833.ts
+#EXTINF:-1,Nick JR SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17832.ts
+#EXTINF:-1,Nick Toons SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17831.ts
+#EXTINF:-1,Nickelodeon SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17830.ts
+#EXTINF:-1,TNT Sverige SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/17826.ts
+#EXTINF:-1,Travel Channel SE
+http://145.239.108.17:6500/live/neamtalin/neamtalin/14228.ts
 
