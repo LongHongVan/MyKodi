@@ -1,8 +1,8 @@
 [
     "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2N2hkLmlzbWwvaHR2N2hkLTIwOTZrLm0zdTg=", 
     "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzExMy4xNjAuNDkuMzkvbGl2ZXMvb3JpZ2luMDQvaHR2OXNkLmlzbWwvaHR2OXNkLTEwOTZrLm0zdTg=", 
-    "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzEyMy4yOS42OC4xNzkvdjJsaXZlLm0zdTg/Yz12c3R2MjYyJnE9aGQmZGV2aWNlVHlwZT0mdXNlcklkPSZkZXZpY2VJZD0mdHlwZT0mcD0wJnpuPW5ldCZya2V5PVl1Y2tWY0NsOFpnMWFzd1EmZ3JhbnRvcj0xJnBrZz1wa2c1JnByb2ZpbGVzPWhkJmxvY2F0aW9uPQ==", 
-    "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzEyMy4yOS42OC4xNzkvdjJsaXZlLm0zdTg/Yz12c3R2MjYzJnE9aGQmZGV2aWNlVHlwZT0mdXNlcklkPSZkZXZpY2VJZD0mdHlwZT0mcD0wJnpuPW5ldCZya2V5PWVSUGRTS01iVDNRamQ5QmImZ3JhbnRvcj0xJnBrZz1wa2c1JnByb2ZpbGVzPWhkJmxvY2F0aW9uPQ==", 
+    "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMTMtYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djMtaGlnaC5tM3U4", 
+    "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNjctYW16b2JqLmI1Njk1Y2RlLmNkbnZpZXQuY29tL2xpdmUvX2RlZmluc3RfL3Z0djYtaGlnaC5tM3U4", 
     "http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovLzEyMy4yOS42OC4xNzkvdjJsaXZlLm0zdTg/Yz12c3R2Mjc5JnE9aGQmZGV2aWNlVHlwZT0mdXNlcklkPSZkZXZpY2VJZD0mdHlwZT0mcD0wJnpuPW5ldCZya2V5PWhQcFRUN2I1TGhTV1RaSWImZ3JhbnRvcj0xJnBrZz1wa2c1JnByb2ZpbGVzPWhkJmxvY2F0aW9uPQ==", 
     "http://185.142.239.164:3135/1/FOX/index.m3u8?token=MmFiODdhN2YxNzIyMmRlOTdkMDZmN2IyMzQ0Y2NlMWQ6MTQ5MzUyNTAwNg==", 
     "http://185.142.239.164:3135/2/FOX/index.m3u8", 
