@@ -7,8 +7,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplay
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/258.ts;name=CARTOON NETWORK
 #EXTINF:-1 tvg-id="Comedy Central HDTV (East)" tvg-name="COMEDY CENTRAL" tvg-logo="http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png" group-title="USA TV",COMEDY CENTRAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/257.ts;name=COMEDY CENTRAL
-#EXTINF:-1 tvg-id="National Geographic Channel HDTV" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqstyw1433778540.png/medium" group-title="USA TV",NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/247.ts;name=NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="National Geographic Channel HDTV" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqstyw1433778540.png/medium" group-title="USA TV",NATIONAL GEOGRAPHIC CHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/247.ts;name=NATIONAL GEOGRAPHIC CHA
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium" group-title="USA TV",NICKELODEON
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/265.ts;name=NICKELODEON
 #EXTINF:-1 tvg-id="SYFY USA" tvg-name="SYFY" tvg-logo="https://www.thelogodb.com/images/media/logo/vsppsu1433438058.png/medium" group-title="USA TV",SYFY
@@ -19,8 +19,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplay
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/347.ts;name=DISNEY CHANNEL
 #EXTINF:-1 tvg-id="STARZ ENCORE HD (East)" tvg-name="STARZ ENCORE" tvg-logo="https://sc.dish.com/shared/images/station-logos/encor.png" group-title="USA TV",STARZ ENCORE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/344.ts;name=STARZ ENCORE
-#EXTINF:-1 tvg-id="LMN HDTV (East)" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/vxqtwx1434505261.png/medium" group-title="USA TV",LIFETIME MOVIE NETW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/338.ts;name=LIFETIME MOVIE NETW
+#EXTINF:-1 tvg-id="LMN HDTV (East)" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/vxqtwx1434505261.png/medium" group-title="USA TV",LIFETIME MOVIE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/338.ts;name=LIFETIME MOVIE NETWORK
 #EXTINF:-1 tvg-id="Nick Jr. HDTV" tvg-name="NICK JR" tvg-logo="https://www.thelogodb.com/images/media/logo/ttwuwy1444920780.png/medium" group-title="USA TV",NICK JR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/333.ts;name=NICK JR
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="NICK" tvg-logo="https://www.thelogodb.com/images/media/logo/uwuqux1434269251.png/medium" group-title="USA TV",NICK
@@ -33,6 +33,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplay
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/326.ts;name=TRAVEL CHANNEL
 #EXTINF:-1 tvg-id="Golf HD" tvg-name="GOLF CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/qxxpxr1476105545.png/medium" group-title="USA TV",GOLF CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/390.ts;name=GOLF CHANNEL
+#EXTINF:-1 tvg-id="VH1 HDTV (East)" tvg-name="VH1 (US)" tvg-logo="https://www.thelogodb.com/images/media/logo/xupvyu1433781173.png/medium" group-title="USA TV",VH1 (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/402.ts;name=VH1 (US)
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS  LATINO" tvg-logo="https://pbs.twimg.com/profile_images/732665354242150400/tZsCnjuh.jpg" group-title="LATINO / SPANISH TV",EURO NEWS  LATINO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/439.ts;name=EURO NEWS  LATINO
 #EXTINF:-1 tvg-id="Disney Junior HDTV East" tvg-name="Disney JR" tvg-logo="https://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="USA TV",Disney JR
@@ -41,30 +43,30 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplay
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/471.ts;name=Disney XD
 #EXTINF:-1 tvg-id="STARZ Edge HD (East)" tvg-name="Starz Edge" tvg-logo="http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png/medium" group-title="USA TV",Starz Edge
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/558.ts;name=Starz Edge
-#EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="Sky Sports Main Event 1080" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/300?cb=20170718103952" group-title="UK TV SPORTS AND MOVIES",Sky Sports Main Eve
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/598.ts;name=Sky Sports Main Eve
-#EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/300?cb=20170718103952" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS MAIN EVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/594.ts;name=SKY SPORTS MAIN EVE
-#EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="SKY SPORTS MAIN EVENT SD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/300?cb=20170718103952" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS MAIN EVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/593.ts;name=SKY SPORTS MAIN EVE
-#EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS CRICKET 1080" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/80/Sky_Sports_Cricket.svg/revision/latest/scale-to-width-down/300?cb=20170718104226" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS CRICKET 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/597.ts;name=SKY SPORTS CRICKET 
-#EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/80/Sky_Sports_Cricket.svg/revision/latest/scale-to-width-down/300?cb=20170718104226" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS CRICKET 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/592.ts;name=SKY SPORTS CRICKET 
-#EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS CRICKET SD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/80/Sky_Sports_Cricket.svg/revision/latest/scale-to-width-down/300?cb=20170718104226" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS CRICKET 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/591.ts;name=SKY SPORTS CRICKET 
-#EXTINF:-1 tvg-id="Sky Sports 3 HD" tvg-name="SKY SPORTS ACTION 1080" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/6b/Sky_Sports_Action.svg/revision/latest/scale-to-width-down/300?cb=20170718104437" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS ACTION 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/596.ts;name=SKY SPORTS ACTION 1
-#EXTINF:-1 tvg-id="Sky Sports 3 HD" tvg-name="SKY SPORTS ACTION HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/6b/Sky_Sports_Action.svg/revision/latest/scale-to-width-down/300?cb=20170718104437" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS ACTION H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/590.ts;name=SKY SPORTS ACTION H
-#EXTINF:-1 tvg-id="Sky Sports 3 HD" tvg-name="SKY SPORTS ACTION SD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/6b/Sky_Sports_Action.svg/revision/latest/scale-to-width-down/300?cb=20170718104437" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS ACTION S
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/589.ts;name=SKY SPORTS ACTION S
+#EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="Sky Sports Main Event 1080" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/300?cb=20170718103952" group-title="UK TV SPORTS AND MOVIES",Sky Sports Main Event 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/598.ts;name=Sky Sports Main Event 1
+#EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/300?cb=20170718103952" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS MAIN EVENT H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/594.ts;name=SKY SPORTS MAIN EVENT H
+#EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="SKY SPORTS MAIN EVENT SD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/300?cb=20170718103952" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS MAIN EVENT S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/593.ts;name=SKY SPORTS MAIN EVENT S
+#EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS CRICKET 1080" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/80/Sky_Sports_Cricket.svg/revision/latest/scale-to-width-down/300?cb=20170718104226" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS CRICKET 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/597.ts;name=SKY SPORTS CRICKET 1080
+#EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/80/Sky_Sports_Cricket.svg/revision/latest/scale-to-width-down/300?cb=20170718104226" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS CRICKET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/592.ts;name=SKY SPORTS CRICKET HD
+#EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS CRICKET SD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/80/Sky_Sports_Cricket.svg/revision/latest/scale-to-width-down/300?cb=20170718104226" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS CRICKET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/591.ts;name=SKY SPORTS CRICKET SD
+#EXTINF:-1 tvg-id="Sky Sports 3 HD" tvg-name="SKY SPORTS ACTION 1080" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/6b/Sky_Sports_Action.svg/revision/latest/scale-to-width-down/300?cb=20170718104437" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS ACTION 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/596.ts;name=SKY SPORTS ACTION 1080
+#EXTINF:-1 tvg-id="Sky Sports 3 HD" tvg-name="SKY SPORTS ACTION HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/6b/Sky_Sports_Action.svg/revision/latest/scale-to-width-down/300?cb=20170718104437" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/590.ts;name=SKY SPORTS ACTION HD
+#EXTINF:-1 tvg-id="Sky Sports 3 HD" tvg-name="SKY SPORTS ACTION SD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/6b/Sky_Sports_Action.svg/revision/latest/scale-to-width-down/300?cb=20170718104437" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/589.ts;name=SKY SPORTS ACTION SD
 #EXTINF:-1 tvg-id="SKY SPORTS 4 HD" tvg-name="SKY SPORTS GOLF HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/19/Sky_Sports_Golf.png/revision/latest/scale-to-width-down/300?cb=20170710120710" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS GOLF HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/588.ts;name=SKY SPORTS GOLF HD
 #EXTINF:-1 tvg-id="SKY SPORTS 4 SD" tvg-name="SKY SPORTS GOLF SD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/19/Sky_Sports_Golf.png/revision/latest/scale-to-width-down/300?cb=20170710120710" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS GOLF SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/587.ts;name=SKY SPORTS GOLF SD
-#EXTINF:-1 tvg-id="SKY SPORTS 5 HD" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Sky_Sports_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20170717173017" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS PREMIER 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/586.ts;name=SKY SPORTS PREMIER 
+#EXTINF:-1 tvg-id="SKY SPORTS 5 HD" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Sky_Sports_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20170717173017" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS PREMIER LEAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/586.ts;name=SKY SPORTS PREMIER LEAG
 #EXTINF:-1 tvg-id="Sky Spts F1 HD" tvg-name="Sky Sports F1 1080" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/8/85/Sky_Sports_F1_2017.svg/revision/latest/scale-to-width-down/350?cb=20170717173521" group-title="UK TV SPORTS AND MOVIES",Sky Sports F1 1080
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/595.ts;name=Sky Sports F1 1080
 #EXTINF:-1 tvg-id="Sky Spts F1 HD" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/8/85/Sky_Sports_F1_2017.svg/revision/latest/scale-to-width-down/350?cb=20170717173521" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS F1 HD
@@ -87,12 +89,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplay
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1132.ts;name=STARZ KIDZ  FAMILY
 #EXTINF:-1 tvg-id="BBC America HDTV (East)" tvg-name="BBC AMERICA" tvg-logo="http://www.thelogodb.com/images/media/logo/tpsvpw1477930423.png" group-title="USA TV",BBC AMERICA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1277.ts;name=BBC AMERICA
-#EXTINF:-1 tvg-id="SKY SPORTS 5 SD" tvg-name="SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Sky_Sports_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20170717173017" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS PREMIER 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1280.ts;name=SKY SPORTS PREMIER 
+#EXTINF:-1 tvg-id="SKY SPORTS 5 SD" tvg-name="SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Sky_Sports_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20170717173017" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS PREMIER LEAG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1280.ts;name=SKY SPORTS PREMIER LEAG
 #EXTINF:-1 tvg-id="VH1 HDTV (East)" tvg-name="VH1 (US) (D)" tvg-logo="http://www.theunies.com/blog/uploaded_images/vh1-703644.jpg" group-title="USA TV",VH1 (US) (D)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1689.ts;name=VH1 (US) (D)
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA 1080" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/0/07/Sky_Sports_Arena.svg/revision/latest/scale-to-width-down/300?cb=20170718104551" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS ARENA 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1924.ts;name=SKY SPORTS ARENA 10
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL 1080" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/15/Sky_Sports_Football.svg/revision/latest/scale-to-width-down/300?cb=20170718104122" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS FOOTBALL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1923.ts;name=SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA 1080" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/0/07/Sky_Sports_Arena.svg/revision/latest/scale-to-width-down/300?cb=20170718104551" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS ARENA 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1924.ts;name=SKY SPORTS ARENA 1080
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL 1080" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/15/Sky_Sports_Football.svg/revision/latest/scale-to-width-down/300?cb=20170718104122" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS FOOTBALL 108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dns1.theplayersklub.host:2095/live/lonewolf/lonewolf/1923.ts;name=SKY SPORTS FOOTBALL 108
 
