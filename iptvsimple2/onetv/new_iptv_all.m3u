@@ -71,16 +71,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/5426.ts;name=XXX Adult 12
 #EXTINF:-1,XXX Adult 14
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/5423.ts;name=XXX Adult 14
+#EXTINF:-1,XXX Adult 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/5422.ts;name=XXX Adult 13
 #EXTINF:-1,XXX Adult 17
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3847.ts;name=XXX Adult 17
 #EXTINF:-1,XXX Adult 22
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3840.ts;name=XXX Adult 22
-#EXTINF:-1,XXX Adult 23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3839.ts;name=XXX Adult 23
 #EXTINF:-1,XXX Hot Club 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7387.ts;name=XXX Hot Club 1 HD
-#EXTINF:-1,XXX Hot Club 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7389.ts;name=XXX Hot Club 3 HD
 #EXTINF:-1,XXX Hot Club 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7390.ts;name=XXX Hot Club 4 HD
 #EXTINF:-1,XXX Hot Club 5 HD
@@ -393,64 +391,66 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16838.ts;name=USA TLC CA HD
 #EXTINF:-1,USA Velocity HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16837.ts;name=USA Velocity HD
-#EXTINF:-1,American Violence Hd [en]
-http://145.239.108.17:6500/movie/vWVkgrSsuD/jAJvXsYSG5/16141.AG]
+#EXTINF:-1,USA YTV HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16836.ts;name=USA YTV HD CA
 #EXTINF:-1,Discovery Investigation S
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9370.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9370.ts;name=Discovery Investigation S
 #EXTINF:-1,Discovery Channel SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9371.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9371.ts;name=Discovery Channel SE
 #EXTINF:-1,Animal Planet FHD SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17844.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17844.ts;name=Animal Planet FHD SE
 #EXTINF:-1,C MORE Sport SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8759.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8759.ts;name=C MORE Sport SE
 #EXTINF:-1,C More Fotboll HD SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9366.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9366.ts;name=C More Fotboll HD SE
 #EXTINF:-1,C More Tennis SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9364.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9364.ts;name=C More Tennis SE
 #EXTINF:-1,C More Hockey SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9365.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9365.ts;name=C More Hockey SE
 #EXTINF:-1,C More Stars SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8764.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8764.ts;name=C More Stars SE
 #EXTINF:-1,C More First SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8763.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8763.ts;name=C More First SE
 #EXTINF:-1,C MORE HITS SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8762.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8762.ts;name=C MORE HITS SE
 #EXTINF:-1,C More Series SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8760.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8760.ts;name=C More Series SE
 #EXTINF:-1,C MORE LIVE SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8761.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8761.ts;name=C MORE LIVE SE
+#EXTINF:-1,C More Live 1 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14088.ts;name=C More Live 1 SE
 #EXTINF:-1,C More Live 2 SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14087.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14087.ts;name=C More Live 2 SE
 #EXTINF:-1,C More Live 3 SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14086.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14086.ts;name=C More Live 3 SE
 #EXTINF:-1,C More Live 4 HD SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17841.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17841.ts;name=C More Live 4 HD SE
 #EXTINF:-1,Cartoon Network SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17840.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17840.ts;name=Cartoon Network SE
 #EXTINF:-1,Discovery HD SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17839.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17839.ts;name=Discovery HD SE
 #EXTINF:-1,Discovery Science HD
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4391.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4391.ts;name=Discovery Science HD
 #EXTINF:-1,Discovery Science SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17838.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17838.ts;name=Discovery Science SE
 #EXTINF:-1,Discovery Travel  Living 
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4342.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4342.ts;name=Discovery Travel  Living 
 #EXTINF:-1,Discovery World SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17837.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17837.ts;name=Discovery World SE
 #EXTINF:-1,H2 HD SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17834.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17834.ts;name=H2 HD SE
 #EXTINF:-1,History HD SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17833.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17833.ts;name=History HD SE
 #EXTINF:-1,Nick JR SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17832.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17832.ts;name=Nick JR SE
 #EXTINF:-1,Nick Toons SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17831.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17831.ts;name=Nick Toons SE
 #EXTINF:-1,Nickelodeon SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17830.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17830.ts;name=Nickelodeon SE
 #EXTINF:-1,TLC HD SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14227.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14227.ts;name=TLC HD SE
 #EXTINF:-1,TNT Sverige SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17826.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17826.ts;name=TNT Sverige SE
 #EXTINF:-1,Travel Channel SE
-http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14228.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14228.ts;name=Travel Channel SE
 
