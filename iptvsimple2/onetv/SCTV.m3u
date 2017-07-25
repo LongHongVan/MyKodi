@@ -1,0 +1,46 @@
+#EXTM3U tvg-shift=0
+
+#EXTINF:-1, HTV1
+http://123.29.70.5/v4live.m3u8?c=vstv074&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=jp0kiH8KFUuxoI5W&grantor=1&pkg=pkg11&location=HCM
+#EXTINF:-1, HTV2 HD
+http://123.29.70.5/v4live.m3u8?c=vstv272&q=sd&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=wIOab5SvwzQQanng&grantor=1&pkg=pkg12&location=HCM
+#EXTINF:-1, HTV3
+http://123.29.70.5/v4live.m3u8?c=vstv075&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=tM68YcJfC4lhaDLC&grantor=1&pkg=pkg11&location=HCM
+#EXTINF:-1, HTV4
+http://123.29.70.3/v4live.m3u8?c=vstv089&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=Yalwo8EzPSYl3XCa&grantor=1&pkg=pkg11&location=HCM
+#EXTINF:-1, HTV7 HD
+http://123.29.70.3/v4live.m3u8?c=vstv273&q=sd&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=OjcgxtH5cYL0E4jv&grantor=1&pkg=pkg12&location=HCM
+#EXTINF:-1, HTV9 HD
+http://123.29.70.3/v4live.m3u8?c=vstv274&q=sd&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=j6UOy8BRHVJv9Vzy&grantor=1&pkg=pkg12&location=HCM
+
+#EXTINF:-1, HTV The Thao
+http://123.29.70.5/v4live.m3u8?c=vstv047&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=ljZCrilcbksfTTpC&grantor=1&pkg=pkg11&location=HCM
+#EXTINF:-1, HTV Du Lich
+http://123.29.70.3/v4live.m3u8?c=vstv069&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=DQQmFzdIVBcELgAi&grantor=1&pkg=pkg11&location=HCM
+#EXTINF:-1, HTV Thuan Viet
+http://123.29.70.3/v4live.m3u8?c=vstv048&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=5EqhtavtUXlllgyX&grantor=1&pkg=pkg11&location=HCM
+#EXTINF:-1, HTV Gia Dinh
+http://123.29.70.5/v4live.m3u8?c=vstv073&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=4Gkh70bEfx4NJ2g1&grantor=1&pkg=pkg11&location=HCM
+#EXTINF:-1, HTV Phu Nu
+http://123.29.70.3/v4live.m3u8?c=vstv070&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=M2Pncpri8LdBKHog&grantor=1&pkg=pkg11&location=HCM
+#EXTINF:-1, HTV Ca Nhac
+http://123.29.70.5/v4live.m3u8?c=vstv072&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=ASNTfGvJA6Nl8b6J&grantor=1&pkg=pkg11&location=HCM
+
+#EXTINF:-1, VTV1 HD
+http://123.29.70.5/v4live.m3u8?c=vstv261&q=sd&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=dxPUifR35U6Ly0hl&grantor=1&pkg=pkg0&location=HCM
+#EXTINF:-1, VTV2
+http://123.29.70.5/v4live.m3u8?c=vstv017&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=7WNIleeYZSitVLkM&grantor=1&pkg=pkg0&location=HCM
+#EXTINF:-1, VTV3
+http://123.29.70.5/v4live.m3u8?c=vstv004&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=MA0kUbp36H241Jf0&grantor=1&pkg=pkg0&location=HCM
+#EXTINF:-1, VTV3 HD
+http://123.29.70.3/v4live.m3u8?c=vstv262&q=sd&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=gJPB6bXuE0FyG5Hd&grantor=1&pkg=pkg12&location=HCM
+#EXTINF:-1, VTV4
+http://123.29.70.5/v4live.m3u8?c=vstv035&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=Fx4XZZLa92tpTa4p&grantor=1&pkg=pkg0&location=HCM
+#EXTINF:-1, VTV5
+http://123.29.70.5/v4live.m3u8?c=vstv045&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=dYOpFEE6dW0q5Eol&grantor=1&pkg=pkg0&location=HCM
+#EXTINF:-1, VTV6
+http://123.29.70.3/v4live.m3u8?c=vstv014&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=4rb1L4gKd3vq6ENH&grantor=1&pkg=pkg0&location=HCM
+#EXTINF:-1, VTV6 HD
+http://123.29.70.3/v4live.m3u8?c=vstv263&q=sd&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=3n0oLYWZaWvnONdq&grantor=1&pkg=pkg12&location=HCM
+#EXTINF:-1, VTV8
+http://123.29.70.5/v4live.m3u8?c=vstv214&q=medium&deviceType=0&userId=1&deviceId=&type=tv&zn=net&rkey=3gi6625UQZBPq1w1&grantor=1&pkg=pkg0&location=HCM
