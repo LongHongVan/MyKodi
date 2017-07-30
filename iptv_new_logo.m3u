@@ -664,16 +664,11 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2425
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2429
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR]HD[/COLOR]
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2433
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2433
 
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN 2 [COLOR lime]HD[/COLOR]
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR lime]HD[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2433.ts
 
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", [COLOR lime]IPTVSUBS Test FS1[/COLOR]
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/145.ts
-
-#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", [COLOR lime]IPTVSUBS Test FS2[/COLOR]
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/146.ts
 
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="tvtvtv.ru/icons/logo_5122.png", Việt Mỹ TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
@@ -1574,6 +1569,31 @@ http://xrxs.net/video/live-p12baya-4728.m3u8
 
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s23.postimg.org/uelya7dfv/VNCH.png",[COLOR cyan][B]*** Live TV Hải Ngoại ***[/B][/COLOR]       
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
+
+#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", [COLOR lime]SBTN HD (New)[/COLOR]
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2433.ts
+
+#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV 4
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2424.ts
+
+#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s24.postimg.org/umvwrvfrp/KVLA.png",VIETKVLA
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2426.ts
+
+
+#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png",VIETFACE
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2425.ts
+
+#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png",VSTAR
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2430.ts
+
+#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg",VIET PHO
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2428.ts
+
+#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",VIET IBC
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2427.ts
+
+#EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s23.postimg.org/uelya7dfv/VNCH.png",VIET DONG TRUNG
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/RosettaSBrown@teleworm.us/xmbpjqgw/2431.ts
 
 
 #EXTINF:-1 group-title="Top Viet Hai Ngoai TV" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",[COLOR cyan][B] SBTN -SET channel 2072 -2 (m3u8)[/B][/COLOR]
