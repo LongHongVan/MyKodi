@@ -1,456 +1,528 @@
 #EXTM3U 
-#EXTINF:-1,FOX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4374.ts;name=FOX 1 HD
-#EXTINF:-1,Fox Life 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/5427.ts;name=Fox Life 1
-#EXTINF:-1,Investigation Discovery H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4343.ts;name=Investigation Discovery H
-#EXTINF:-1,Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4394.ts;name=Cartoon Network
-#EXTINF:-1,Cartoonito
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4393.ts;name=Cartoonito
-#EXTINF:-1,Fox Animation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4377.ts;name=Fox Animation HD
-#EXTINF:-1,Fox Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4376.ts;name=Fox Comedy HD
-#EXTINF:-1,Fox Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4468.ts;name=Fox Crime HD
-#EXTINF:-1,Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4375.ts;name=Fox HD
-#EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4373.ts;name=FOX LIFE HD
-#EXTINF:-1,History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4340.ts;name=History HD
-#EXTINF:-1,Lifestyle SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/13995.ts;name=Lifestyle SE
-#EXTINF:-1,XXX Passiexxx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7728.ts;name=XXX Passiexxx
-#EXTINF:-1,XXX Sesto Senso TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7731.ts;name=XXX Sesto Senso TV
-#EXTINF:-1,XXX XXX STARS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7395.ts;name=XXX XXX STARS
-#EXTINF:-1,XXX EXOTICA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3845.ts;name=XXX EXOTICA TV
-#EXTINF:-1,XXX SCT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10315.ts;name=XXX SCT
-#EXTINF:-1,XXX PINK O TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10316.ts;name=XXX PINK O TV
-#EXTINF:-1,XXX EvilAngelTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10317.ts;name=XXX EvilAngelTV
-#EXTINF:-1,XXX PlayBoy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/13012.ts;name=XXX PlayBoy
-#EXTINF:-1,XXX Playy>19  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10318.ts;name=XXX Playy>19  HD
-#EXTINF:-1,XXX Adult 00
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7732.ts;name=XXX Adult 00
-#EXTINF:-1,XXX RedLight HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/5420.ts;name=XXX RedLight HD
-#EXTINF:-1,XXX Midnight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3848.ts;name=XXX Midnight
-#EXTINF:-1,XXX Holland Hard
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3842.ts;name=XXX Holland Hard
-#EXTINF:-1,XXX Hustler FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3841.ts;name=XXX Hustler FHD
-#EXTINF:-1,XXX But Go
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8316.ts;name=XXX But Go
-#EXTINF:-1,XXX Adult 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7729.ts;name=XXX Adult 2
-#EXTINF:-1,XXX Adult 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7727.ts;name=XXX Adult 4
-#EXTINF:-1,XXX Adult 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7730.ts;name=XXX Adult 6
-#EXTINF:-1,XXX Adult 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7726.ts;name=XXX Adult 7
-#EXTINF:-1,XXX Adult 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7723.ts;name=XXX Adult 8
-#EXTINF:-1,XXX Adult 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7725.ts;name=XXX Adult 9
-#EXTINF:-1,XXX Adult 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7724.ts;name=XXX Adult 10
-#EXTINF:-1,XXX Adult 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/5426.ts;name=XXX Adult 12
-#EXTINF:-1,XXX Adult 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/5423.ts;name=XXX Adult 14
-#EXTINF:-1,XXX Adult 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/5422.ts;name=XXX Adult 13
-#EXTINF:-1,XXX Adult 17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3847.ts;name=XXX Adult 17
-#EXTINF:-1,XXX Adult 22
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3840.ts;name=XXX Adult 22
-#EXTINF:-1,XXX Hot Club 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7387.ts;name=XXX Hot Club 1 HD
-#EXTINF:-1,XXX Hot Club 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7390.ts;name=XXX Hot Club 4 HD
-#EXTINF:-1,XXX Hot Club 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7391.ts;name=XXX Hot Club 5 HD
-#EXTINF:-1,XXX Hot Club 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7392.ts;name=XXX Hot Club 6 HD
-#EXTINF:-1,XXX Hot Club 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7388.ts;name=XXX Hot Club 7 HD
-#EXTINF:-1,XXX Hot Club 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7393.ts;name=XXX Hot Club 8 HD
-#EXTINF:-1,XXX Hot Club 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7394.ts;name=XXX Hot Club 9 HD
-#EXTINF:-1,XXX PINK EROTIC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7242.ts;name=XXX PINK EROTIC 1
-#EXTINF:-1,XXX PINK EROTIC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7241.ts;name=XXX PINK EROTIC 2
-#EXTINF:-1,XXX PINK EROTIC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7240.ts;name=XXX PINK EROTIC 3
-#EXTINF:-1,XXX PINK EROTIC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/7239.ts;name=XXX PINK EROTIC 4
-#EXTINF:-1,XXX Pink Erotic 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10314.ts;name=XXX Pink Erotic 5
-#EXTINF:-1,CA TSC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14969.ts;name=CA TSC HD
-#EXTINF:-1,USA AE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9315.ts;name=USA AE
-#EXTINF:-1,USA ABC News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/2931.ts;name=USA ABC News
-#EXTINF:-1,USA ABC Spark HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15243.ts;name=USA ABC Spark HD
-#EXTINF:-1,USA AFN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9516.ts;name=USA AFN SPORTS
-#EXTINF:-1,USA AFN SPECTRUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10166.ts;name=USA AFN SPECTRUM
-#EXTINF:-1,USA AFN Prime Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10167.ts;name=USA AFN Prime Atlantic
-#EXTINF:-1,USA AFN MOVIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9488.ts;name=USA AFN MOVIE
-#EXTINF:-1,USA AFN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9517.ts;name=USA AFN SPORTS 2
-#EXTINF:-1,USA ABC W HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15244.ts;name=USA ABC W HD
-#EXTINF:-1,USA 360 North
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3863.ts;name=USA 360 North
-#EXTINF:-1,USA Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15250.ts;name=USA Animal Planet
-#EXTINF:-1,USA Astro SUPERSPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9520.ts;name=USA Astro SUPERSPORT 3
-#EXTINF:-1,USA ASD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3861.ts;name=USA ASD TV
-#EXTINF:-1,USA AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8415.ts;name=USA AMC HD
-#EXTINF:-1,USA Astro SUPERSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9518.ts;name=USA Astro SUPERSPORT 1
-#EXTINF:-1,USA Church Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9536.ts;name=USA Church Channel
-#EXTINF:-1,USA Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9546.ts;name=USA Discovery Science
-#EXTINF:-1,USA DTX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9547.ts;name=USA DTX
-#EXTINF:-1,USA FOX Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8681.ts;name=USA FOX Sport 1
-#EXTINF:-1,USA Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15249.ts;name=USA Comedy Central
-#EXTINF:-1,USA Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15248.ts;name=USA Discovery Channel
-#EXTINF:-1,USA Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9337.ts;name=USA Food Network
-#EXTINF:-1,USA Family CHRGD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15246.ts;name=USA Family CHRGD
-#EXTINF:-1,USA Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9510.ts;name=USA Bloomberg
-#EXTINF:-1,USA Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14079.ts;name=USA Eurosport 1
-#EXTINF:-1,USA Family Junior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15247.ts;name=USA Family Junior HD
-#EXTINF:-1,USA CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8692.ts;name=USA CNN HD
-#EXTINF:-1,USA Bravo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8691.ts;name=USA Bravo
-#EXTINF:-1,USA ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/13230.ts;name=USA ESPN 2
-#EXTINF:-1,USA Channel 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3860.ts;name=USA Channel 11
-#EXTINF:-1,USA Country Music Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3859.ts;name=USA Country Music Channel
-#EXTINF:-1,USA CBS News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9508.ts;name=USA CBS News HD
-#EXTINF:-1,USA Fight Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8308.ts;name=USA Fight Sport
-#EXTINF:-1,USA E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8417.ts;name=USA E
-#EXTINF:-1,USA C SPAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9318.ts;name=USA C SPAN
-#EXTINF:-1,USA CSPAN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9319.ts;name=USA CSPAN 2
-#EXTINF:-1,USA C SPAN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9320.ts;name=USA C SPAN 3
-#EXTINF:-1,USA E Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9321.ts;name=USA E Network HD
-#EXTINF:-1,USA BeIN Sports USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/13227.ts;name=USA BeIN Sports USA HD
-#EXTINF:-1,USA Astro SUPERSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9519.ts;name=USA Astro SUPERSPORT 2
-#EXTINF:-1,USA Fox Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9391.ts;name=USA Fox Sport 2
-#EXTINF:-1,USA NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8309.ts;name=USA NBA TV
-#EXTINF:-1,USA HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8414.ts;name=USA HBO FAMILY
-#EXTINF:-1,USA HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8411.ts;name=USA HBO HD
-#EXTINF:-1,USA HBO ZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8412.ts;name=USA HBO ZONE
-#EXTINF:-1,USA NBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8393.ts;name=USA NBC HD
-#EXTINF:-1,USA Fox Sports 506 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9528.ts;name=USA Fox Sports 506 HD
-#EXTINF:-1,USA LIFE TIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8687.ts;name=USA LIFE TIME
-#EXTINF:-1,USA History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15245.ts;name=USA History HD
-#EXTINF:-1,USA Mello TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9502.ts;name=USA Mello TV
-#EXTINF:-1,USA NBC Sports Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9523.ts;name=USA NBC Sports Network HD
-#EXTINF:-1,USA MLB Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15239.ts;name=USA MLB Network HD
-#EXTINF:-1,USA Fox 43
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10174.ts;name=USA Fox 43
-#EXTINF:-1,USA CBN News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3872.ts;name=USA CBN News
-#EXTINF:-1,USA Starz  Edge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10171.ts;name=USA Starz  Edge
-#EXTINF:-1,USA TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9480.ts;name=USA TLC HD
-#EXTINF:-1,USA NHL Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/12479.ts;name=USA NHL Network
-#EXTINF:-1,USA RT Documentary
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9497.ts;name=USA RT Documentary
-#EXTINF:-1,USA RT America HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9498.ts;name=USA RT America HD
-#EXTINF:-1,USA Nick
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9333.ts;name=USA Nick
-#EXTINF:-1,USA NBCSN Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9526.ts;name=USA NBCSN Golf HD
-#EXTINF:-1,USA Nasa TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9499.ts;name=USA Nasa TV HD
-#EXTINF:-1,USA Spike HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/13179.ts;name=USA Spike HD
-#EXTINF:-1,USA Sportsnet West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/13232.ts;name=USA Sportsnet West HD
-#EXTINF:-1,USA NFL Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8693.ts;name=USA NFL Network HD
-#EXTINF:-1,USA Sporstnet 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14036.ts;name=USA Sporstnet 360
-#EXTINF:-1,USA Sporstnet East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14035.ts;name=USA Sporstnet East HD
-#EXTINF:-1,USA Sporstnet Ontario HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14034.ts;name=USA Sporstnet Ontario HD
-#EXTINF:-1,USA Sporstnet Pacific HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14033.ts;name=USA Sporstnet Pacific HD
-#EXTINF:-1,USA Sportnet  One HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14037.ts;name=USA Sportnet  One HD
-#EXTINF:-1,USA Sportsnet World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14032.ts;name=USA Sportsnet World
-#EXTINF:-1,USA TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/13180.ts;name=USA TNT HD
-#EXTINF:-1,USA PAC 12 Washington HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/10143.ts;name=USA PAC 12 Washington HD
-#EXTINF:-1,USA PAC Mountain 1080P
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14067.ts;name=USA PAC Mountain 1080P
-#EXTINF:-1,USA PAC Network National 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14068.ts;name=USA PAC Network National 
-#EXTINF:-1,USA PAC 12 Net (Arizona) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14070.ts;name=USA PAC 12 Net (Arizona) 
-#EXTINF:-1,USA PAC 12 Net (Arizona) 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14069.ts;name=USA PAC 12 Net (Arizona) 
-#EXTINF:-1,USA PAC 12 Net (Bay Area)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14072.ts;name=USA PAC 12 Net (Bay Area)
-#EXTINF:-1,USA PAC 12 Net (Bay Area)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14071.ts;name=USA PAC 12 Net (Bay Area)
-#EXTINF:-1,USA PAC 12 Net (Encore)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14078.ts;name=USA PAC 12 Net (Encore)
-#EXTINF:-1,USA PAC 12 Net (Los Angel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14073.ts;name=USA PAC 12 Net (Los Angel
-#EXTINF:-1,USA PAC 12 Net (Oregon) 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14075.ts;name=USA PAC 12 Net (Oregon) 1
-#EXTINF:-1,USA TBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9542.ts;name=USA TBN
-#EXTINF:-1,USA PAC 12 Net (Washingto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14077.ts;name=USA PAC 12 Net (Washingto
-#EXTINF:-1,USA PAC 12 Net (Washingto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14076.ts;name=USA PAC 12 Net (Washingto
-#EXTINF:-1,USA PAC 12 Net (Oregon) 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14074.ts;name=USA PAC 12 Net (Oregon) 7
-#EXTINF:-1,USA Star Z Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9832.ts;name=USA Star Z Cinema
-#EXTINF:-1,USA TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8685.ts;name=USA TBS HD
-#EXTINF:-1,USA The Florida Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9495.ts;name=USA The Florida Channel
-#EXTINF:-1,USA Travel Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9476.ts;name=USA Travel Channel HD
-#EXTINF:-1,USA Tru TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9330.ts;name=USA Tru TV HD
-#EXTINF:-1,USA USA Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9329.ts;name=USA USA Network HD
-#EXTINF:-1,USA Willow HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9328.ts;name=USA Willow HD
-#EXTINF:-1,USA WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9530.ts;name=USA WWE
-#EXTINF:-1,USA Tsn Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8293.ts;name=USA Tsn Sport 1 HD
-#EXTINF:-1,USA Tsn Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8292.ts;name=USA Tsn Sport 2 HD
-#EXTINF:-1,USA Tsn Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8291.ts;name=USA Tsn Sport 3 HD
-#EXTINF:-1,USA Tsn Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8290.ts;name=USA Tsn Sport 4 HD
-#EXTINF:-1,USA Tsn Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8289.ts;name=USA Tsn Sport 5 HD
-#EXTINF:-1,USA Tsn Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/12547.ts;name=USA Tsn Sport 5 HD
-#EXTINF:-1,USA WWE Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8410.ts;name=USA WWE Network
-#EXTINF:-1,USA UALR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/3865.ts;name=USA UALR TV
-#EXTINF:-1,USA Teletoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/15251.ts;name=USA Teletoon
-#EXTINF:-1,USA WHDH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9491.ts;name=USA WHDH
-#EXTINF:-1,USA ABC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16858.ts;name=USA ABC HD
-#EXTINF:-1,USA BBC America
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16857.ts;name=USA BBC America
-#EXTINF:-1,USA BNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16856.ts;name=USA BNN HD
-#EXTINF:-1,USA CBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16855.ts;name=USA CBC HD
-#EXTINF:-1,USA CBC News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16854.ts;name=USA CBC News HD
-#EXTINF:-1,USA CBC Vancover
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16853.ts;name=USA CBC Vancover
-#EXTINF:-1,USA CBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16852.ts;name=USA CBS HD
-#EXTINF:-1,USA CBS Sports Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16851.ts;name=USA CBS Sports Network HD
-#EXTINF:-1,USA CBS W HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16850.ts;name=USA CBS W HD
-#EXTINF:-1,USA CityTV Vancouver
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16815.ts;name=USA CityTV Vancouver
-#EXTINF:-1,USA CNN News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16813.ts;name=USA CNN News HD
-#EXTINF:-1,USA CP24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16821.ts;name=USA CP24 HD
-#EXTINF:-1,USA CTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16820.ts;name=USA CTV HD
-#EXTINF:-1,USA Discovery Channel CA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16823.ts;name=USA Discovery Channel CA 
-#EXTINF:-1,USA Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16822.ts;name=USA Disney XD HD
-#EXTINF:-1,USA Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16825.ts;name=USA Family HD
-#EXTINF:-1,USA FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16824.ts;name=USA FOX HD
-#EXTINF:-1,USA Fox News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16826.ts;name=USA Fox News HD
-#EXTINF:-1,USA FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16835.ts;name=USA FX HD
-#EXTINF:-1,USA FXX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16834.ts;name=USA FXX HD
-#EXTINF:-1,USA Global BC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16833.ts;name=USA Global BC
-#EXTINF:-1,USA Global HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16832.ts;name=USA Global HD
-#EXTINF:-1,USA Hallmark Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16831.ts;name=USA Hallmark Channel HD
-#EXTINF:-1,USA HGTV CA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16830.ts;name=USA HGTV CA HD
-#EXTINF:-1,USA HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16829.ts;name=USA HGTV HD
-#EXTINF:-1,USA HLN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16828.ts;name=USA HLN HD
-#EXTINF:-1,USA ID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16827.ts;name=USA ID HD
-#EXTINF:-1,USA NBC W HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16849.ts;name=USA NBC W HD
-#EXTINF:-1,USA OMNI 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16848.ts;name=USA OMNI 1 HD
-#EXTINF:-1,USA OMNI 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16847.ts;name=USA OMNI 2 HD
-#EXTINF:-1,USA OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16846.ts;name=USA OWN HD
-#EXTINF:-1,USA PBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16845.ts;name=USA PBS HD
-#EXTINF:-1,USA Slice HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16844.ts;name=USA Slice HD
-#EXTINF:-1,USA Starz Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16843.ts;name=USA Starz Comedy
-#EXTINF:-1,USA Starz Encore
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16842.ts;name=USA Starz Encore
-#EXTINF:-1,USA Starz Kids  Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16841.ts;name=USA Starz Kids  Family
-#EXTINF:-1,USA Sundance HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16840.ts;name=USA Sundance HD
-#EXTINF:-1,USA SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16839.ts;name=USA SYFY HD
-#EXTINF:-1,USA TLC CA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16838.ts;name=USA TLC CA HD
-#EXTINF:-1,USA Velocity HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16837.ts;name=USA Velocity HD
-#EXTINF:-1,USA YTV HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/16836.ts;name=USA YTV HD CA
-#EXTINF:-1,Discovery Investigation S
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9370.ts;name=Discovery Investigation S
-#EXTINF:-1,Discovery Channel SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9371.ts;name=Discovery Channel SE
-#EXTINF:-1,Animal Planet FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17844.ts;name=Animal Planet FHD SE
-#EXTINF:-1,C MORE Sport SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8759.ts;name=C MORE Sport SE
-#EXTINF:-1,C More Fotboll HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9366.ts;name=C More Fotboll HD SE
-#EXTINF:-1,C More Tennis SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9364.ts;name=C More Tennis SE
-#EXTINF:-1,C More Hockey SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9365.ts;name=C More Hockey SE
-#EXTINF:-1,C More Stars SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8764.ts;name=C More Stars SE
-#EXTINF:-1,C More First SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8763.ts;name=C More First SE
-#EXTINF:-1,C MORE HITS SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8762.ts;name=C MORE HITS SE
-#EXTINF:-1,C More Series SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8760.ts;name=C More Series SE
-#EXTINF:-1,C MORE LIVE SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/8761.ts;name=C MORE LIVE SE
-#EXTINF:-1,C More Live 1 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14088.ts;name=C More Live 1 SE
-#EXTINF:-1,C More Live 2 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14087.ts;name=C More Live 2 SE
-#EXTINF:-1,C More Live 3 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14086.ts;name=C More Live 3 SE
-#EXTINF:-1,C More Live 4 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17841.ts;name=C More Live 4 HD SE
-#EXTINF:-1,Cartoon Network SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17840.ts;name=Cartoon Network SE
-#EXTINF:-1,Discovery HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17839.ts;name=Discovery HD SE
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4391.ts;name=Discovery Science HD
-#EXTINF:-1,Discovery Science SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17838.ts;name=Discovery Science SE
-#EXTINF:-1,Discovery Travel  Living 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/4342.ts;name=Discovery Travel  Living 
-#EXTINF:-1,Discovery World SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17837.ts;name=Discovery World SE
-#EXTINF:-1,H2 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17834.ts;name=H2 HD SE
-#EXTINF:-1,History HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17833.ts;name=History HD SE
-#EXTINF:-1,Nick JR SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17832.ts;name=Nick JR SE
-#EXTINF:-1,Nick Toons SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17831.ts;name=Nick Toons SE
-#EXTINF:-1,Nickelodeon SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17830.ts;name=Nickelodeon SE
-#EXTINF:-1,TLC HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14227.ts;name=TLC HD SE
-#EXTINF:-1,TNT Sverige SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/17826.ts;name=TNT Sverige SE
-#EXTINF:-1,Travel Channel SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/14228.ts;name=Travel Channel SE
+#EXTINF:-1,US WGN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7958.ts;name=US WGN HD
+#EXTINF:-1,US ABC HD Philadelphia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3684.ts;name=US ABC HD Philadelphia
+#EXTINF:-1,US NBC HD Philadelphia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1420.ts;name=US NBC HD Philadelphia
+#EXTINF:-1,US CW HD Philadelphia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3677.ts;name=US CW HD Philadelphia
+#EXTINF:-1,US FOX HD Philadelphia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2956.ts;name=US FOX HD Philadelphia
+#EXTINF:-1,US CBS HD New York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5964.ts;name=US CBS HD New York
+#EXTINF:-1,US ABC HD New York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5960.ts;name=US ABC HD New York
+#EXTINF:-1,US FOX HD New York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5951.ts;name=US FOX HD New York
+#EXTINF:-1,US NBC HD New York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6095.ts;name=US NBC HD New York
+#EXTINF:-1,US My9 HD New York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6096.ts;name=US My9 HD New York
+#EXTINF:-1,US NBC HD Boston
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5947.ts;name=US NBC HD Boston
+#EXTINF:-1,US NBC HD Los Angeles
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5950.ts;name=US NBC HD Los Angeles
+#EXTINF:-1,US CBS HD Los Angeles
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5963.ts;name=US CBS HD Los Angeles
+#EXTINF:-1,US My13 LA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5957.ts;name=US My13 LA HD
+#EXTINF:-1,US NBC HD San Francisco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5949.ts;name=US NBC HD San Francisco
+#EXTINF:-1,US CBS HD San Franciso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5962.ts;name=US CBS HD San Franciso
+#EXTINF:-1,US FOX HD San Francisco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6097.ts;name=US FOX HD San Francisco
+#EXTINF:-1,US MY27 HD Dallas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5956.ts;name=US MY27 HD Dallas
+#EXTINF:-1,US MY29 HD Minnesota
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5958.ts;name=US MY29 HD Minnesota
+#EXTINF:-1,US My50 HD Chicago
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5955.ts;name=US My50 HD Chicago
+#EXTINF:-1,US CBS HD Milwaukee
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5952.ts;name=US CBS HD Milwaukee
+#EXTINF:-1,US Channel 7 HD Miami
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5953.ts;name=US Channel 7 HD Miami
+#EXTINF:-1,US EPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5874.ts;name=US EPIX HD
+#EXTINF:-1,US EPIX2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5875.ts;name=US EPIX2 HD
+#EXTINF:-1,US EPIX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3671.ts;name=US EPIX 3 HD
+#EXTINF:-1,US Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1394.ts;name=US Cinemax HD
+#EXTINF:-1,US Cinemax Moremax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5870.ts;name=US Cinemax Moremax HD
+#EXTINF:-1,US Cinemax Thrillermax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3679.ts;name=US Cinemax Thrillermax HD
+#EXTINF:-1,US Showtime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3670.ts;name=US Showtime HD
+#EXTINF:-1,US Showtime 720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/8186.ts;name=US Showtime 720
+#EXTINF:-1,US Showtime 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5883.ts;name=US Showtime 2 HD
+#EXTINF:-1,US Showtime Family Zone H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5884.ts;name=US Showtime Family Zone H
+#EXTINF:-1,US HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1464.ts;name=US HBO HD
+#EXTINF:-1,US HBO 720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7821.ts;name=US HBO 720
+#EXTINF:-1,US HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2444.ts;name=US HBO 2 HD
+#EXTINF:-1,US HBO Zone HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1412.ts;name=US HBO Zone HD
+#EXTINF:-1,US HBO Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5879.ts;name=US HBO Comedy HD
+#EXTINF:-1,US HBO 2 Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2437.ts;name=US HBO 2 Comedy
+#EXTINF:-1,US HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5880.ts;name=US HBO Signature HD
+#EXTINF:-1,US HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1411.ts;name=US HBO Family HD
+#EXTINF:-1,CA HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1261.ts;name=CA HBO HD
+#EXTINF:-1,CA HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1260.ts;name=CA HBO 2 HD
+#EXTINF:-1,US Starz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1434.ts;name=US Starz HD
+#EXTINF:-1,US Starz Edge HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1433.ts;name=US Starz Edge HD
+#EXTINF:-1,US Sony Movie Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1415.ts;name=US Sony Movie Channel HD
+#EXTINF:-1,US Chiller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3664.ts;name=US Chiller HD
+#EXTINF:-1,US MGM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1393.ts;name=US MGM HD
+#EXTINF:-1,US Impact HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2443.ts;name=US Impact HD
+#EXTINF:-1,US Starz Kids  Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6852.ts;name=US Starz Kids  Family HD
+#EXTINF:-1,CA Slice HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1268.ts;name=CA Slice HD
+#EXTINF:-1,CA Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1267.ts;name=CA Animal Planet HD
+#EXTINF:-1,CA NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1265.ts;name=CA NBC HD
+#EXTINF:-1,CA ME TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1263.ts;name=CA ME TV HD
+#EXTINF:-1,CA Golf Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3721.ts;name=CA Golf Channel HD
+#EXTINF:-1,CA YTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3686.ts;name=CA YTV HD
+#EXTINF:-1,CA HLN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1262.ts;name=CA HLN HD
+#EXTINF:-1,CA Global HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1258.ts;name=CA Global HD
+#EXTINF:-1,CA FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1257.ts;name=CA FOX HD
+#EXTINF:-1,CA CW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1253.ts;name=CA CW HD
+#EXTINF:-1,CA CTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1252.ts;name=CA CTV HD
+#EXTINF:-1,CA Create HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1251.ts;name=CA Create HD
+#EXTINF:-1,CA CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1249.ts;name=CA CITY HD
+#EXTINF:-1,CA CBC News Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1247.ts;name=CA CBC News Network HD
+#EXTINF:-1,CA Bravo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1245.ts;name=CA Bravo HD
+#EXTINF:-1,CA CP 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1250.ts;name=CA CP 24 HD
+#EXTINF:-1,CA Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2963.ts;name=CA Comedy HD
+#EXTINF:-1,CA FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1462.ts;name=CA FX HD
+#EXTINF:-1,CA FXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1463.ts;name=CA FXX HD
+#EXTINF:-1,CA FYI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2967.ts;name=CA FYI
+#EXTINF:-1,CA History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2968.ts;name=CA History HD
+#EXTINF:-1,CA Much
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2972.ts;name=CA Much
+#EXTINF:-1,CA TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1473.ts;name=CA TLC HD
+#EXTINF:-1,CA DejaView
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2966.ts;name=CA DejaView
+#EXTINF:-1,CA CBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1246.ts;name=CA CBC HD
+#EXTINF:-1,CA E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2103.ts;name=CA E HD
+#EXTINF:-1,CA AMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3709.ts;name=CA AMI
+#EXTINF:-1,CA Book Television
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3707.ts;name=CA Book Television
+#EXTINF:-1,CA OWN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1471.ts;name=CA OWN HD
+#EXTINF:-1,CA Crime Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3705.ts;name=CA Crime Investigation
+#EXTINF:-1,CA CTV News Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3704.ts;name=CA CTV News Channel
+#EXTINF:-1,CA Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3702.ts;name=CA Discovery HD
+#EXTINF:-1,CA Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3701.ts;name=CA Discovery Science
+#EXTINF:-1,CA DIY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3699.ts;name=CA DIY
+#EXTINF:-1,CA DTOUR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3698.ts;name=CA DTOUR HD
+#EXTINF:-1,CA Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3696.ts;name=CA Food Network HD
+#EXTINF:-1,CA G4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3695.ts;name=CA G4
+#EXTINF:-1,CA Gusto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3694.ts;name=CA Gusto
+#EXTINF:-1,CA Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3718.ts;name=CA Lifetime HD
+#EXTINF:-1,CA MTV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3693.ts;name=CA MTV2
+#EXTINF:-1,CA Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3716.ts;name=CA Nat Geo HD
+#EXTINF:-1,CA Nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3692.ts;name=CA Nick
+#EXTINF:-1,CA OLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3691.ts;name=CA OLN
+#EXTINF:-1,CA OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3690.ts;name=CA OWN
+#EXTINF:-1,CA Showcase HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3714.ts;name=CA Showcase HD
+#EXTINF:-1,CA Super Channel 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3713.ts;name=CA Super Channel 2 HD
+#EXTINF:-1,CA Fashion TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3689.ts;name=CA Fashion TV
+#EXTINF:-1,CA TV Encore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3688.ts;name=CA TV Encore
+#EXTINF:-1,CA IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3723.ts;name=CA IFC
+#EXTINF:-1,CA Cpac
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3706.ts;name=CA Cpac
+#EXTINF:-1,CA AUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3708.ts;name=CA AUX
+#EXTINF:-1,CA D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3703.ts;name=CA D HD
+#EXTINF:-1,CA HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3720.ts;name=CA HGTV HD
+#EXTINF:-1,CA MovieTime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3717.ts;name=CA MovieTime HD
+#EXTINF:-1,CA Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3715.ts;name=CA Nat Geo Wild HD
+#EXTINF:-1,CA K HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3719.ts;name=CA K HD
+#EXTINF:-1,CA TWN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3710.ts;name=CA TWN HD
+#EXTINF:-1,CA Viceland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3687.ts;name=CA Viceland
+#EXTINF:-1,CA Cooking HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2962.ts;name=CA Cooking HD
+#EXTINF:-1,CA Documentary HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1255.ts;name=CA Documentary HD
+#EXTINF:-1,CA CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1248.ts;name=CA CBS HD
+#EXTINF:-1,CA ABC Spark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2959.ts;name=CA ABC Spark
+#EXTINF:-1,CA BNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2960.ts;name=CA BNN
+#EXTINF:-1,CA CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2964.ts;name=CA CMT
+#EXTINF:-1,CA CHRGD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2965.ts;name=CA CHRGD HD
+#EXTINF:-1,CA ICI RDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2969.ts;name=CA ICI RDI HD
+#EXTINF:-1,CA MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2971.ts;name=CA MTV
+#EXTINF:-1,CA TMN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3712.ts;name=CA TMN 1 HD
+#EXTINF:-1,CA TMN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3711.ts;name=CA TMN 4 HD
+#EXTINF:-1,CA MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1264.ts;name=CA MOVIES HD
+#EXTINF:-1,CA ABC Spark HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5455.ts;name=CA ABC Spark HD
+#EXTINF:-1,CA BNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5438.ts;name=CA BNN HD
+#EXTINF:-1,CA CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5440.ts;name=CA CNBC
+#EXTINF:-1,CA Documentary Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5442.ts;name=CA Documentary Channel HD
+#EXTINF:-1,CA Game TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5444.ts;name=CA Game TV
+#EXTINF:-1,CA HIFI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5445.ts;name=CA HIFI HD
+#EXTINF:-1,CA Omni
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5447.ts;name=CA Omni
+#EXTINF:-1,CA Omni2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5448.ts;name=CA Omni2 HD
+#EXTINF:-1,CA Omni HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5449.ts;name=CA Omni HD
+#EXTINF:-1,CA Smithsonian HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5450.ts;name=CA Smithsonian HD
+#EXTINF:-1,CA Sundance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5451.ts;name=CA Sundance
+#EXTINF:-1,CA TVBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5452.ts;name=CA TVBS
+#EXTINF:-1,CA TVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5453.ts;name=CA TVA HD
+#EXTINF:-1,CA TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5454.ts;name=CA TVO
+#EXTINF:-1,CA Unis TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5437.ts;name=CA Unis TV
+#EXTINF:-1,US Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5724.ts;name=US Disney XD HD
+#EXTINF:-1,US Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1456.ts;name=US Disney Channel HD
+#EXTINF:-1,US Disney Jr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2427.ts;name=US Disney Jr HD
+#EXTINF:-1,US Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1391.ts;name=US Cartoon Network HD
+#EXTINF:-1,US Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2425.ts;name=US Boomerang HD
+#EXTINF:-1,US Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1425.ts;name=US Nickelodeon HD
+#EXTINF:-1,US Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1426.ts;name=US Nick Jr HD
+#EXTINF:-1,US Nicktoons HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1427.ts;name=US Nicktoons HD
+#EXTINF:-1,CA Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1254.ts;name=CA Disney XD HD
+#EXTINF:-1,CA Disney Channel West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2961.ts;name=CA Disney Channel West HD
+#EXTINF:-1,CA Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3700.ts;name=CA Family HD
+#EXTINF:-1,US AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1448.ts;name=US AMC HD
+#EXTINF:-1,US American Heroes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5893.ts;name=US American Heroes HD
+#EXTINF:-1,US Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1449.ts;name=US Animal Planet HD
+#EXTINF:-1,US BBC America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3683.ts;name=US BBC America HD
+#EXTINF:-1,US CMT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5871.ts;name=US CMT HD
+#EXTINF:-1,US Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2105.ts;name=US Comedy Central HD
+#EXTINF:-1,US Cooking Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3678.ts;name=US Cooking Channel HD
+#EXTINF:-1,US Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1455.ts;name=US Discovery Science HD
+#EXTINF:-1,US Discovery Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3676.ts;name=US Discovery Family HD
+#EXTINF:-1,US Destination America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5259.ts;name=US Destination America HD
+#EXTINF:-1,US DIY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3673.ts;name=US DIY HD
+#EXTINF:-1,US Discovery Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5887.ts;name=US Discovery Life HD
+#EXTINF:-1,US El Rey Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5873.ts;name=US El Rey Network HD
+#EXTINF:-1,US Crime and Investigatio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5872.ts;name=US Crime and Investigatio
+#EXTINF:-1,US Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1377.ts;name=US Nat Geo HD
+#EXTINF:-1,US OWN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3660.ts;name=US OWN HD
+#EXTINF:-1,US IFC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3663.ts;name=US IFC HD
+#EXTINF:-1,US Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1467.ts;name=US Lifetime HD
+#EXTINF:-1,US NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1469.ts;name=US NAT GEO WILD HD
+#EXTINF:-1,US POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5896.ts;name=US POP HD
+#EXTINF:-1,US MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3662.ts;name=US MTV HD
+#EXTINF:-1,US MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1417.ts;name=US MTV Live HD
+#EXTINF:-1,US TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5892.ts;name=US TLC HD
+#EXTINF:-1,US FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3668.ts;name=US FX HD
+#EXTINF:-1,US FXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3667.ts;name=US FXX HD
+#EXTINF:-1,US FX Movie Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5888.ts;name=US FX Movie Channel
+#EXTINF:-1,US FYI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5876.ts;name=US FYI HD
+#EXTINF:-1,US Fusion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3666.ts;name=US Fusion HD
+#EXTINF:-1,US FreeForm HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1407.ts;name=US FreeForm HD
+#EXTINF:-1,US Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1948.ts;name=US Food Network HD
+#EXTINF:-1,US HSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5429.ts;name=US HSN
+#EXTINF:-1,US HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5881.ts;name=US HGTV HD
+#EXTINF:-1,US Hallmark Movies  Myste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5878.ts;name=US Hallmark Movies  Myste
+#EXTINF:-1,US ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1414.ts;name=US ID HD
+#EXTINF:-1,US GSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5877.ts;name=US GSN HD
+#EXTINF:-1,US LMN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5882.ts;name=US LMN HD
+#EXTINF:-1,US History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1466.ts;name=US History Channel HD
+#EXTINF:-1,US Spike HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1432.ts;name=US Spike HD
+#EXTINF:-1,US Turner Classic Movies 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5894.ts;name=US Turner Classic Movies 
+#EXTINF:-1,US TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2106.ts;name=US TBS HD
+#EXTINF:-1,US VELOCITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1475.ts;name=US VELOCITY HD
+#EXTINF:-1,US TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2068.ts;name=US TNT HD
+#EXTINF:-1,US USA Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2067.ts;name=US USA Network HD
+#EXTINF:-1,US WE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3654.ts;name=US WE HD
+#EXTINF:-1,US TruTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1856.ts;name=US TruTV HD
+#EXTINF:-1,US Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5487.ts;name=US Universal HD
+#EXTINF:-1,US Viceland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3734.ts;name=US Viceland
+#EXTINF:-1,US Sundance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3656.ts;name=US Sundance HD
+#EXTINF:-1,US VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1476.ts;name=US VH1 HD
+#EXTINF:-1,US Hi Yah Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5890.ts;name=US Hi Yah Network HD
+#EXTINF:-1,US Buzzr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6006.ts;name=US Buzzr
+#EXTINF:-1,US Cozi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7372.ts;name=US Cozi
+#EXTINF:-1,US Antenna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7373.ts;name=US Antenna TV
+#EXTINF:-1,US Get TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7375.ts;name=US Get TV
+#EXTINF:-1,US Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7379.ts;name=US Movies
+#EXTINF:-1,US Qubo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7380.ts;name=US Qubo
+#EXTINF:-1,US This TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7381.ts;name=US This TV
+#EXTINF:-1,US Reelz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7946.ts;name=US Reelz HD
+#EXTINF:-1,US CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1452.ts;name=US CNN HD
+#EXTINF:-1,US MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1468.ts;name=US MSNBC HD
+#EXTINF:-1,US Bloomberg HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1389.ts;name=US Bloomberg HD
+#EXTINF:-1,US HLN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1920.ts;name=US HLN HD
+#EXTINF:-1,US Fox News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1406.ts;name=US Fox News HD
+#EXTINF:-1,US Fox Business Network H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1405.ts;name=US Fox Business Network H
+#EXTINF:-1,US ABC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1380.ts;name=US ABC NEWS HD
+#EXTINF:-1,CA MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5446.ts;name=CA MSNBC
+#EXTINF:-1,US Newsmax TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2947.ts;name=US Newsmax TV
+#EXTINF:-1,US Al Jazeera English
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2944.ts;name=US Al Jazeera English
+#EXTINF:-1,US CBS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2938.ts;name=US CBS NEWS
+#EXTINF:-1,US The Weather Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2957.ts;name=US The Weather Channel
+#EXTINF:-1,US C Span 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2939.ts;name=US C Span 1
+#EXTINF:-1,US C Span 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2940.ts;name=US C Span 2
+#EXTINF:-1,US C Span 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/2941.ts;name=US C Span 3
+#EXTINF:-1,US PRESS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5365.ts;name=US PRESS TV
+#EXTINF:-1,US AFRICA NEWS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5368.ts;name=US AFRICA NEWS NETWORK
+#EXTINF:-1,US NBC EXTRA TIME HD 6 ( 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3549.ts;name=US NBC EXTRA TIME HD 6 ( 
+#EXTINF:-1,US NBC EXTRA TIME HD5 ( M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3544.ts;name=US NBC EXTRA TIME HD5 ( M
+#EXTINF:-1,US NBC EXTRA TIME HD3 ( M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3546.ts;name=US NBC EXTRA TIME HD3 ( M
+#EXTINF:-1,US NBC EXTRA TIME HD 7 ( 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3548.ts;name=US NBC EXTRA TIME HD 7 ( 
+#EXTINF:-1,US NBC EXTRA TIME HD ( MA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3550.ts;name=US NBC EXTRA TIME HD ( MA
+#EXTINF:-1,US ESPN 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/7508.ts;name=US ESPN 720p
+#EXTINF:-1,US ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1401.ts;name=US ESPN HD
+#EXTINF:-1,US ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1403.ts;name=US ESPN 2 HD
+#EXTINF:-1,US ESPN News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/1402.ts;name=US ESPN News HD
+#EXTINF:-1,CA ESPN Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3697.ts;name=CA ESPN Classic
+#EXTINF:-1,US ESPN U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3735.ts;name=US ESPN U HD
+#EXTINF:-1,US ESPN Bases Loaded HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5485.ts;name=US ESPN Bases Loaded HD
+#EXTINF:-1,US Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5505.ts;name=US Fox Sports 1 HD
+#EXTINF:-1,US Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5506.ts;name=US Fox Sports 2 HD
+#EXTINF:-1,US Fox Soccer Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/3665.ts;name=US Fox Soccer Plus HD
+#EXTINF:-1,US Fox Sports Prime Ticke
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6030.ts;name=US Fox Sports Prime Ticke
+#EXTINF:-1,US Fox Sports Arizona HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5944.ts;name=US Fox Sports Arizona HD
+#EXTINF:-1,US Fox Sports Carolina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6039.ts;name=US Fox Sports Carolina HD
+#EXTINF:-1,US Fox Sports College Cen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5939.ts;name=US Fox Sports College Cen
+#EXTINF:-1,US Fox Sports Cincinnati 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6027.ts;name=US Fox Sports Cincinnati 
+#EXTINF:-1,US Fox Sports Detroit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6037.ts;name=US Fox Sports Detroit HD
+#EXTINF:-1,US Fox Sports Fl North HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6033.ts;name=US Fox Sports Fl North HD
+#EXTINF:-1,US Fox Sports Florida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5943.ts;name=US Fox Sports Florida HD
+#EXTINF:-1,US Fox Sports Floridia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6012.ts;name=US Fox Sports Floridia HD
+#EXTINF:-1,US Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6013.ts;name=US Fox Sports HD
+#EXTINF:-1,US Fox Sports HD HOU TX L
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6014.ts;name=US Fox Sports HD HOU TX L
+#EXTINF:-1,US Fox Sports Indiana arb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6019.ts;name=US Fox Sports Indiana arb
+#EXTINF:-1,US Fox Sports Inidana HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6008.ts;name=US Fox Sports Inidana HD
+#EXTINF:-1,US Fox Sports Midwest HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6031.ts;name=US Fox Sports Midwest HD
+#EXTINF:-1,US Fox Sports Net HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6028.ts;name=US Fox Sports Net HD
+#EXTINF:-1,US Fox Sports North HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5942.ts;name=US Fox Sports North HD
+#EXTINF:-1,US Fox Sports Ohio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6016.ts;name=US Fox Sports Ohio
+#EXTINF:-1,US Fox Sports Ohio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6022.ts;name=US Fox Sports Ohio HD
+#EXTINF:-1,US Fox Sports Ohio HD zlb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6020.ts;name=US Fox Sports Ohio HD zlb
+#EXTINF:-1,US Fox Sports Ohio zl HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6017.ts;name=US Fox Sports Ohio zl HD
+#EXTINF:-1,US Fox Sports Prime Ticke
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6009.ts;name=US Fox Sports Prime Ticke
+#EXTINF:-1,US Fox Sports Sand Diego 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6034.ts;name=US Fox Sports Sand Diego 
+#EXTINF:-1,US Fox Sports South Georg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6024.ts;name=US Fox Sports South Georg
+#EXTINF:-1,US Fox Sports South HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5941.ts;name=US Fox Sports South HD
+#EXTINF:-1,US Fox Sports Southeast H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6038.ts;name=US Fox Sports Southeast H
+#EXTINF:-1,US Fox Sports Southwest 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/6018.ts;name=US Fox Sports Southwest 2
+#EXTINF:-1,US Fox Sports Southwest H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5940.ts;name=US Fox Sports Southwest H
+#EXTINF:-1,US Fox Sports Sun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://149.56.240.30:25461/live/juana/juana1234/5945.ts;name=US Fox Sports Sun HD
 
