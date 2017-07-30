@@ -666,6 +666,9 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2429
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR]HD[/COLOR]
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2433
 
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN 2 [COLOR lime]HD[/COLOR]
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/AngelinaBTaylor@dayrep.com/tpjpypup/2433.ts
+
 #EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="tvtvtv.ru/icons/logo_5122.png", Việt Mỹ TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 
