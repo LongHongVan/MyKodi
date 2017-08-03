@@ -1,20 +1,32 @@
 #EXTM3U 
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/143.ts;name=ESPN HD
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/144.ts;name=ESPN 2 HD
-#EXTINF:-1,ESPN U HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/4064.ts;name=ESPN U HD
 #EXTINF:-1,FOX SPORTS 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/145.ts;name=FOX SPORTS 1 HD
 #EXTINF:-1,FOX SPORTS 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/146.ts;name=FOX SPORTS 2 HD
 #EXTINF:-1,NBC SPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/170.ts;name=NBC SPORTS
-#EXTINF:-1,CBS SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/169.ts;name=CBS SPORTS HD
+#EXTINF:-1,SPORTSNET WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/150.ts;name=SPORTSNET WORLD HD
+#EXTINF:-1,SPORTSNET ONT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/148.ts;name=SPORTSNET ONT HD
+#EXTINF:-1,SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/149.ts;name=SPORTSNET ONE HD
+#EXTINF:-1,SPORTSNET 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/147.ts;name=SPORTSNET 360 HD
+#EXTINF:-1,SPORTSNET PACIFIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/2434.ts;name=SPORTSNET PACIFIC HD
 #EXTINF:-1,TENNIS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/167.ts;name=TENNIS HD
+#EXTINF:-1,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/138.ts;name=TSN 1 HD
+#EXTINF:-1,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/139.ts;name=TSN 2 HD
+#EXTINF:-1,TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/140.ts;name=TSN 3 HD
+#EXTINF:-1,TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/141.ts;name=TSN 4 HD
+#EXTINF:-1,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/142.ts;name=TSN 5 HD
 #EXTINF:-1,NHL NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/156.ts;name=NHL NETWORK HD
 #EXTINF:-1,NFL NETWORK HD
@@ -105,6 +117,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/8.ts;name=CBS HD EAST
 #EXTINF:-1,FOX HD EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/9.ts;name=FOX HD EAST
+#EXTINF:-1,GLOBAL EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/15.ts;name=GLOBAL EAST HD
+#EXTINF:-1,CTV NORTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/17.ts;name=CTV NORTH
+#EXTINF:-1,CTV EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/16.ts;name=CTV EAST HD
+#EXTINF:-1,GLOBAL HD (MTL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/2397.ts;name=GLOBAL HD (MTL)
+#EXTINF:-1,CTV HD (MTL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/2398.ts;name=CTV HD (MTL)
 #EXTINF:-1,NBC HD WEST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/303.ts;name=NBC HD WEST
 #EXTINF:-1,ABC HD WEST
@@ -113,6 +135,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/304.ts;name=CBS HD WEST
 #EXTINF:-1,FOX HD WEST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/305.ts;name=FOX HD WEST
+#EXTINF:-1,CTV CALGARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/7338.ts;name=CTV CALGARY
+#EXTINF:-1,GLOBAL BC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/308.ts;name=GLOBAL BC HD
+#EXTINF:-1,CTV VANCOUVER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/310.ts;name=CTV VANCOUVER HD
+#EXTINF:-1,CTV 2 VANCOUVER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/2418.ts;name=CTV 2 VANCOUVER HD
+#EXTINF:-1,CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/4074.ts;name=CTV HALIFAX
 #EXTINF:-1,CNN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/360.ts;name=CNN HD
 #EXTINF:-1,FOX NEWS HD
@@ -121,6 +153,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/4600.ts;name=FOX NEWS BUSINESS
 #EXTINF:-1,CNBC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/364.ts;name=CNBC HD
+#EXTINF:-1,CTV NEWS NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/2423.ts;name=CTV NEWS NETWORK HD
 #EXTINF:-1,CBS NEWS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/3078.ts;name=CBS NEWS HD
 #EXTINF:-1,ABC NEWS HD
@@ -247,8 +281,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/6012.ts;name=ACTION  24 HD (IT)
 #EXTINF:-1,ACTION HD (IT)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/6013.ts;name=ACTION HD (IT)
-#EXTINF:-1,ANIMAL PLANET HD (IT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/5950.ts;name=ANIMAL PLANET HD (IT)
 #EXTINF:-1,CARTOONITO (IT)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/5942.ts;name=CARTOONITO (IT)
 #EXTINF:-1,CARTOON NETWORK (IT)
@@ -257,6 +289,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/5953.ts;name=DISCOVERY HD (IT)
 #EXTINF:-1,DISCOVERY ID HD (IT)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/6002.ts;name=DISCOVERY ID HD (IT)
+#EXTINF:-1,DISCOVERY SCI HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/5952.ts;name=DISCOVERY SCI HD (IT)
+#EXTINF:-1,DISCOVERY TL HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/5951.ts;name=DISCOVERY TL HD (IT)
 #EXTINF:-1,FOX ANIMATION HD (IT)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/5975.ts;name=FOX ANIMATION HD (IT)
 #EXTINF:-1,FOX COMEDY HD (IT)
@@ -275,8 +311,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/6065.ts;name=FOOD CHANNEL (IL)
 #EXTINF:-1,Nick Jr (IL)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/6079.ts;name=Nick Jr (IL)
-#EXTINF:-1,Nickelodeon (IL)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/6080.ts;name=Nickelodeon (IL)
 #EXTINF:-1,Travel Channel (IL)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/6084.ts;name=Travel Channel (IL)
 #EXTINF:-1,NBA (PT)
@@ -339,8 +373,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/8021.ts;name=DISCOVERY CIVILIZATION (B
 #EXTINF:-1,DISCOVERY HH (BR)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/8022.ts;name=DISCOVERY HH (BR)
-#EXTINF:-1,DISCOVERY KIDS (BR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/8023.ts;name=DISCOVERY KIDS (BR)
 #EXTINF:-1,DISCOVERY SCIENCE (BR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/8024.ts;name=DISCOVERY SCIENCE (BR
 #EXTINF:-1,DISCOVERY TURBO (BR)
@@ -407,8 +439,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/7187.ts;name=CBS REALITY
 #EXTINF:-1,NICK (ASIA)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/7169.ts;name=NICK (ASIA)
-#EXTINF:-1,NEWS 24 HD (BANGLA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/4223.ts;name=NEWS 24 HD (BANGLA)
 #EXTINF:-1,ACTION 24 (GR)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/miscaelkadji/753900/4114.ts;name=ACTION 24 (GR)
 #EXTINF:-1,MTV (GR)
