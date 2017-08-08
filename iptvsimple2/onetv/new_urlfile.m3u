@@ -1,0 +1,814 @@
+#EXTM3U Tue Aug  8 00:34:06 2017
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/143.ts;name=ESPN HD
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/144.ts;name=ESPN 2 HD
+#EXTINF:-1,ESPN U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4064.ts;name=ESPN U HD
+#EXTINF:-1,ESPN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4065.ts;name=ESPN NEWS HD
+#EXTINF:-1,FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/145.ts;name=FOX SPORTS 1 HD
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/146.ts;name=FOX SPORTS 2 HD
+#EXTINF:-1,NBC SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/170.ts;name=NBC SPORTS
+#EXTINF:-1,CBS SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/169.ts;name=CBS SPORTS HD
+#EXTINF:-1,SPORTSNET WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/150.ts;name=SPORTSNET WORLD HD
+#EXTINF:-1,SPORTSNET ONT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/148.ts;name=SPORTSNET ONT HD
+#EXTINF:-1,SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/149.ts;name=SPORTSNET ONE HD
+#EXTINF:-1,SPORTSNET 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/147.ts;name=SPORTSNET 360 HD
+#EXTINF:-1,SPORTSNET PACIFIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2434.ts;name=SPORTSNET PACIFIC HD
+#EXTINF:-1,TENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/167.ts;name=TENNIS HD
+#EXTINF:-1,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/138.ts;name=TSN 1 HD
+#EXTINF:-1,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/139.ts;name=TSN 2 HD
+#EXTINF:-1,TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/140.ts;name=TSN 3 HD
+#EXTINF:-1,TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/141.ts;name=TSN 4 HD
+#EXTINF:-1,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/142.ts;name=TSN 5 HD
+#EXTINF:-1,WILLOW CRICKET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/198.ts;name=WILLOW CRICKET HD
+#EXTINF:-1,NHL NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/156.ts;name=NHL NETWORK HD
+#EXTINF:-1,NFL NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/157.ts;name=NFL NETWORK HD
+#EXTINF:-1,NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/165.ts;name=NBA HD
+#EXTINF:-1,MLB NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2193.ts;name=MLB NETWORK HD
+#EXTINF:-1,SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/204.ts;name=SKY SPORTS 1 HD
+#EXTINF:-1,SKY SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/205.ts;name=SKY SPORTS 2 HD
+#EXTINF:-1,SKY SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/206.ts;name=SKY SPORTS 3 HD
+#EXTINF:-1,SKY SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/207.ts;name=SKY SPORTS 4 HD
+#EXTINF:-1,SKY SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/208.ts;name=SKY SPORTS 5 HD
+#EXTINF:-1,SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/210.ts;name=SKY SPORTS F1 HD
+#EXTINF:-1,SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/203.ts;name=SKY SPORTS NEWS
+#EXTINF:-1,SONY ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4191.ts;name=SONY ESPN
+#EXTINF:-1,SONY SIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/193.ts;name=SONY SIX HD
+#EXTINF:-1,STAR SPORTS HD ENGLISH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/199.ts;name=STAR SPORTS HD ENGLISH
+#EXTINF:-1,STAR SPORTS ENGLISH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/200.ts;name=STAR SPORTS ENGLISH
+#EXTINF:-1,STAR SPORTS HINDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/201.ts;name=STAR SPORTS HINDI
+#EXTINF:-1,STAR SPORTS TAMIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/202.ts;name=STAR SPORTS TAMIL
+#EXTINF:-1,EURO SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/211.ts;name=EURO SPORT 1 HD
+#EXTINF:-1,EURO SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/212.ts;name=EURO SPORT 2 HD
+#EXTINF:-1,BT SPORTS EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/232.ts;name=BT SPORTS EUROPE
+#EXTINF:-1,BT SPORTS ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/233.ts;name=BT SPORTS ESPN
+#EXTINF:-1,BT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/225.ts;name=BT SPORTS 1 HD
+#EXTINF:-1,BT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/226.ts;name=BT SPORTS 2 HD
+#EXTINF:-1,HUNTING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4100.ts;name=HUNTING CHANNEL
+#EXTINF:-1,SKY SPORTS MIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/194.ts;name=SKY SPORTS MIX
+#EXTINF:-1,GOL TV (ES)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/235.ts;name=GOL TV (ES)
+#EXTINF:-1,ESPN DEPORTES HD (ES)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/238.ts;name=ESPN DEPORTES HD (ES)
+#EXTINF:-1,USA NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/312.ts;name=USA NETWORK HD
+#EXTINF:-1,TV LAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/313.ts;name=TV LAND HD
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/341.ts;name=TNT HD
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/317.ts;name=TBS HD
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/339.ts;name=SYFY HD
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/314.ts;name=FX HD
+#EXTINF:-1,FXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/315.ts;name=FXX HD
+#EXTINF:-1,FOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/333.ts;name=FOOD HD
+#EXTINF:-1,COOK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6108.ts;name=COOK HD
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/338.ts;name=E! HD
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/332.ts;name=ANIMAL PLANET HD
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/350.ts;name=MTV HD
+#EXTINF:-1,LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/325.ts;name=LIFE HD
+#EXTINF:-1,LIFETIME MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/326.ts;name=LIFETIME MOVIES HD
+#EXTINF:-1,HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/322.ts;name=HISTORY HD
+#EXTINF:-1,NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/330.ts;name=NAT GEO HD
+#EXTINF:-1,NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/331.ts;name=NAT GEO WILD HD
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/335.ts;name=HGTV HD
+#EXTINF:-1,BRAVO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/353.ts;name=BRAVO HD
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/334.ts;name=AMC HD
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/347.ts;name=A&E HD
+#EXTINF:-1,PBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/356.ts;name=PBS HD
+#EXTINF:-1,HALLMARK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/321.ts;name=HALLMARK HD
+#EXTINF:-1,HALLMARK MOVIES MYSTERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4599.ts;name=HALLMARK MOVIES MYSTERY HD
+#EXTINF:-1,DIY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/329.ts;name=DIY HD
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/320.ts;name=DISCOVERY SCIENCE HD
+#EXTINF:-1,DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/319.ts;name=DISCOVERY HD
+#EXTINF:-1,COMEDY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/316.ts;name=COMEDY NETWORK HD
+#EXTINF:-1,BBC AMERICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/357.ts;name=BBC AMERICA HD
+#EXTINF:-1,SPIKE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/318.ts;name=SPIKE HD
+#EXTINF:-1,SLICE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/343.ts;name=SLICE HD
+#EXTINF:-1,TRAVEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/349.ts;name=TRAVEL HD
+#EXTINF:-1,WE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/342.ts;name=WE TV HD
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/354.ts;name=VH1 HD
+#EXTINF:-1,NBC HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7.ts;name=NBC HD EAST
+#EXTINF:-1,ABC HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/10.ts;name=ABC HD EAST
+#EXTINF:-1,CBS HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8.ts;name=CBS HD EAST
+#EXTINF:-1,FOX HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/9.ts;name=FOX HD EAST
+#EXTINF:-1,GLOBAL EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/15.ts;name=GLOBAL EAST HD
+#EXTINF:-1,CTV NORTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/17.ts;name=CTV NORTH
+#EXTINF:-1,CTV EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/16.ts;name=CTV EAST HD
+#EXTINF:-1,GLOBAL HD (MTL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2397.ts;name=GLOBAL HD (MTL)
+#EXTINF:-1,CTV HD (MTL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2398.ts;name=CTV HD (MTL)
+#EXTINF:-1,NBC HD WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/303.ts;name=NBC HD WEST
+#EXTINF:-1,ABC HD WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/306.ts;name=ABC HD WEST
+#EXTINF:-1,CBS HD WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/304.ts;name=CBS HD WEST
+#EXTINF:-1,FOX HD WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/305.ts;name=FOX HD WEST
+#EXTINF:-1,CTV CALGARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7338.ts;name=CTV CALGARY
+#EXTINF:-1,GLOBAL BC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/308.ts;name=GLOBAL BC HD
+#EXTINF:-1,CTV VANCOUVER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/310.ts;name=CTV VANCOUVER HD
+#EXTINF:-1,CTV 2 VANCOUVER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2418.ts;name=CTV 2 VANCOUVER HD
+#EXTINF:-1,CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4074.ts;name=CTV HALIFAX
+#EXTINF:-1,CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/360.ts;name=CNN HD
+#EXTINF:-1,FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/363.ts;name=FOX NEWS HD
+#EXTINF:-1,FOX NEWS BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4600.ts;name=FOX NEWS BUSINESS
+#EXTINF:-1,CNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/364.ts;name=CNBC HD
+#EXTINF:-1,CTV NEWS NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2423.ts;name=CTV NEWS NETWORK HD
+#EXTINF:-1,CBS NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3078.ts;name=CBS NEWS HD
+#EXTINF:-1,ABC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3077.ts;name=ABC NEWS HD
+#EXTINF:-1,MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/365.ts;name=MSNBC HD
+#EXTINF:-1,BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4856.ts;name=BBC WORLD NEWS
+#EXTINF:-1,RTE NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7191.ts;name=RTE NEWS
+#EXTINF:-1,BABY EINSTEIN 24X7 - NEW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8089.ts;name=BABY EINSTEIN 24X7 - NEW
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/394.ts;name=NICKELODEON HD
+#EXTINF:-1,DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/397.ts;name=DISNEY XD HD
+#EXTINF:-1,DISNEY HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/392.ts;name=DISNEY HD EAST
+#EXTINF:-1,ABC SPARK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4063.ts;name=ABC SPARK HD
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/395.ts;name=CARTOON NETWORK HD
+#EXTINF:-1,STAR WARS REBELS 24X7 - NEW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8090.ts;name=STAR WARS REBELS 24X7 - NEW
+#EXTINF:-1,STAR WARS CLONE WARS 24X7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7835.ts;name=STAR WARS CLONE WARS 24X7
+#EXTINF:-1,DISNEY ALL DAY 24X7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7804.ts;name=DISNEY ALL DAY 24X7
+#EXTINF:-1,SUPERWOMAN 24X7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6590.ts;name=SUPERWOMAN 24X7
+#EXTINF:-1,ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/370.ts;name=ACTION HD
+#EXTINF:-1,HBO EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/371.ts;name=HBO EAST HD
+#EXTINF:-1,HBO COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/373.ts;name=HBO COMEDY HD
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/372.ts;name=HBO SIGNATURE HD
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4829.ts;name=HBO FAMILY HD
+#EXTINF:-1,HBO ZONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4828.ts;name=HBO ZONE HD
+#EXTINF:-1,STARZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/374.ts;name=STARZ HD
+#EXTINF:-1,STARZ EDGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/377.ts;name=STARZ EDGE HD
+#EXTINF:-1,STARZ KIDZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/375.ts;name=STARZ KIDZ HD
+#EXTINF:-1,STARZ COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/376.ts;name=STARZ COMEDY HD
+#EXTINF:-1,STARZ BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/378.ts;name=STARZ BLACK HD
+#EXTINF:-1,ENCORE WESTERN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/379.ts;name=ENCORE WESTERN HD
+#EXTINF:-1,MOREMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/381.ts;name=MOREMAX HD
+#EXTINF:-1,CINEMAX EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/380.ts;name=CINEMAX EAST HD
+#EXTINF:-1,ACTION MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/383.ts;name=ACTION MAX HD
+#EXTINF:-1,SHOWTIME EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/385.ts;name=SHOWTIME EAST
+#EXTINF:-1,SHOWTIME SHOWCASE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/386.ts;name=SHOWTIME SHOWCASE HD
+#EXTINF:-1,SKY MOVIES SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1742.ts;name=SKY MOVIES SHOWCASE
+#EXTINF:-1,SKY MOVIES SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1734.ts;name=SKY MOVIES SELECT
+#EXTINF:-1,SKY MOVIES SCI-FI & HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1781.ts;name=SKY MOVIES SCI-FI & HORROR
+#EXTINF:-1,SKY MOVIES PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1733.ts;name=SKY MOVIES PREMIERE
+#EXTINF:-1,SKY MOVIES GREATS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1780.ts;name=SKY MOVIES GREATS
+#EXTINF:-1,SKY MOVIES FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1736.ts;name=SKY MOVIES FAMILY
+#EXTINF:-1,SKY MOVIES DRAMA & ROMANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1779.ts;name=SKY MOVIES DRAMA & ROMANCE
+#EXTINF:-1,SKY MOVIES DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1743.ts;name=SKY MOVIES DISNEY
+#EXTINF:-1,SKY MOVIES CRIME & THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1735.ts;name=SKY MOVIES CRIME & THRILLER
+#EXTINF:-1,SKY MOVIES COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1737.ts;name=SKY MOVIES COMEDY
+#EXTINF:-1,SKY MOVIES ACTION & ADVENTURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1738.ts;name=SKY MOVIES ACTION & ADVENTURE
+#EXTINF:-1,SKY MOVIES 4 MEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1771.ts;name=SKY MOVIES 4 MEN
+#EXTINF:-1,TRUE MOVIES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1786.ts;name=TRUE MOVIES 1
+#EXTINF:-1,TRUE MOVIES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7152.ts;name=TRUE MOVIES 2
+#EXTINF:-1,NBC UNIVSERO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/417.ts;name=NBC UNIVSERO HD
+#EXTINF:-1,HBO EAST HD (ES)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/420.ts;name=HBO EAST HD (ES)
+#EXTINF:-1,CINEMAX HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/419.ts;name=CINEMAX HD ES
+#EXTINF:-1,GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/424.ts;name=GOL TV
+#EXTINF:-1,CNN ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/429.ts;name=CNN ES
+#EXTINF:-1,DISCOVERY HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/430.ts;name=DISCOVERY HD ES
+#EXTINF:-1,HISTORY ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/431.ts;name=HISTORY ES
+#EXTINF:-1,ESPN HD DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/432.ts;name=ESPN HD DEPORTES
+#EXTINF:-1,A&E (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6323.ts;name=A&E (MX) (BONUS)
+#EXTINF:-1,AMC (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6324.ts;name=AMC (MX) (BONUS)
+#EXTINF:-1,AXN (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6325.ts;name=AXN (MX) (BONUS)
+#EXTINF:-1,BOOMERANG (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6331.ts;name=BOOMERANG (MX) (BONUS)
+#EXTINF:-1,CARTOON NETWORK (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6335.ts;name=CARTOON NETWORK (MX) (BONUS)
+#EXTINF:-1,CINEMAX (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6337.ts;name=CINEMAX (MX) (BONUS)
+#EXTINF:-1,COMEDY CENTRAL (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6338.ts;name=COMEDY CENTRAL (MX) (BONUS)
+#EXTINF:-1,DISCOVERY CHANNEL (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6340.ts;name=DISCOVERY CHANNEL (MX) (BONUS)
+#EXTINF:-1,DISCOVERY HOME AND HEALTH (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6342.ts;name=DISCOVERY HOME AND HEALTH (MX) (BONUS)
+#EXTINF:-1,DISCOVERY KIDS (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6343.ts;name=DISCOVERY KIDS (MX) (BONUS)
+#EXTINF:-1,DISCOVERY SCIENCE (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6344.ts;name=DISCOVERY SCIENCE (MX) (BONUS)
+#EXTINF:-1,DISCOVERY TURBO (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6345.ts;name=DISCOVERY TURBO (MX) (BONUS)
+#EXTINF:-1,DISCOVERY WORLD (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6346.ts;name=DISCOVERY WORLD (MX) (BONUS)
+#EXTINF:-1,DISNEY CHANNEL (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6347.ts;name=DISNEY CHANNEL (MX) (BONUS)
+#EXTINF:-1,DISNEY JNR (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6348.ts;name=DISNEY JNR (MX) (BONUS)
+#EXTINF:-1,DISNEY XD (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6349.ts;name=DISNEY XD (MX) (BONUS)
+#EXTINF:-1,E! (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6351.ts;name=E! (MX) (BONUS)
+#EXTINF:-1,ESPN (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6352.ts;name=ESPN (MX) (BONUS)
+#EXTINF:-1,ESPN 2 (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6353.ts;name=ESPN 2 (MX) (BONUS)
+#EXTINF:-1,ESPN 3 (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6354.ts;name=ESPN 3 (MX) (BONUS)
+#EXTINF:-1,FOX SPORTS 1 (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6363.ts;name=FOX SPORTS 1 (MX) (BONUS)
+#EXTINF:-1,FOX SPORTS 2 (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6362.ts;name=FOX SPORTS 2 (MX) (BONUS)
+#EXTINF:-1,FX (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6365.ts;name=FX (MX) (BONUS)
+#EXTINF:-1,HISTORY (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6369.ts;name=HISTORY (MX) (BONUS)
+#EXTINF:-1,LIFETIME (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6372.ts;name=LIFETIME (MX) (BONUS)
+#EXTINF:-1,MTV LIVE(MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6373.ts;name=MTV LIVE(MX) (BONUS)
+#EXTINF:-1,NAT GEO (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6376.ts;name=NAT GEO (MX) (BONUS)
+#EXTINF:-1,NAT GEO WILD (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6375.ts;name=NAT GEO WILD (MX) (BONUS)
+#EXTINF:-1,NICK JR (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6377.ts;name=NICK JR (MX) (BONUS)
+#EXTINF:-1,NICKELODEON (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6378.ts;name=NICKELODEON (MX) (BONUS)
+#EXTINF:-1,NICKTOONS (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6379.ts;name=NICKTOONS (MX) (BONUS)
+#EXTINF:-1,SYFY(MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6384.ts;name=SYFY(MX) (BONUS)
+#EXTINF:-1,TBS (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6385.ts;name=TBS (MX) (BONUS)
+#EXTINF:-1,TNT (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6391.ts;name=TNT (MX) (BONUS)
+#EXTINF:-1,TNT SERIES (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6392.ts;name=TNT SERIES (MX) (BONUS)
+#EXTINF:-1,UNIVERSAL CHANNEL (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6397.ts;name=UNIVERSAL CHANNEL (MX) (BONUS)
+#EXTINF:-1,WARNER TV (MX) (BONUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6398.ts;name=WARNER TV (MX) (BONUS)
+#EXTINF:-1,ACTION  24 HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6012.ts;name=ACTION  24 HD (IT)
+#EXTINF:-1,ACTION HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6013.ts;name=ACTION HD (IT)
+#EXTINF:-1,ANIMAL PLANET HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5950.ts;name=ANIMAL PLANET HD (IT)
+#EXTINF:-1,CARTOON NETWORK (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5943.ts;name=CARTOON NETWORK (IT)
+#EXTINF:-1,COMEDY CENTRAL (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5974.ts;name=COMEDY CENTRAL (IT)
+#EXTINF:-1,COMEDY HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6009.ts;name=COMEDY HD (IT)
+#EXTINF:-1,DISCOVERY HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5953.ts;name=DISCOVERY HD (IT)
+#EXTINF:-1,DISCOVERY ID HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6002.ts;name=DISCOVERY ID HD (IT)
+#EXTINF:-1,DISCOVERY SCI HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5952.ts;name=DISCOVERY SCI HD (IT)
+#EXTINF:-1,DISCOVERY T&L HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5951.ts;name=DISCOVERY T&L HD (IT)
+#EXTINF:-1,DISNEY XD HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5940.ts;name=DISNEY XD HD (IT)
+#EXTINF:-1,FOX HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5979.ts;name=FOX HD (IT)
+#EXTINF:-1,FOX SPORT (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5968.ts;name=FOX SPORT (IT)
+#EXTINF:-1,HISTORY HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5949.ts;name=HISTORY HD (IT)
+#EXTINF:-1,NATGEO PEOPLE HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5954.ts;name=NATGEO PEOPLE HD (IT)
+#EXTINF:-1,NATGEO WILD HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5955.ts;name=NATGEO WILD HD (IT)
+#EXTINF:-1,NATIONAL GEO HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5956.ts;name=NATIONAL GEO HD (IT)
+#EXTINF:-1,SUPER ! (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5941.ts;name=SUPER ! (IT)
+#EXTINF:-1,SUPER TENIS HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5965.ts;name=SUPER TENIS HD (IT)
+#EXTINF:-1,SUPERCALCIO HD (IT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5962.ts;name=SUPERCALCIO HD (IT)
+#EXTINF:-1,BABY TV (IL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6058.ts;name=BABY TV (IL)
+#EXTINF:-1,COMEDY CENTRAL HD (IL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6064.ts;name=COMEDY CENTRAL HD (IL)
+#EXTINF:-1,FOOD CHANNEL (IL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6065.ts;name=FOOD CHANNEL (IL)
+#EXTINF:-1,FOX SPORTS HD (IL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6066.ts;name=FOX SPORTS HD (IL)
+#EXTINF:-1,National Geo Wild (IL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6078.ts;name=National Geo Wild (IL)
+#EXTINF:-1,Nick Jr (IL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6079.ts;name=Nick Jr (IL)
+#EXTINF:-1,Nickelodeon (IL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6080.ts;name=Nickelodeon (IL)
+#EXTINF:-1,Travel Channel (IL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6084.ts;name=Travel Channel (IL)
+#EXTINF:-1,NBA (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/611.ts;name=NBA (PT)
+#EXTINF:-1,ESPN (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7972.ts;name=ESPN (BR)
+#EXTINF:-1,ESPN BRASIL (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7973.ts;name=ESPN BRASIL (BR)
+#EXTINF:-1,FOX SPORT 1 (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7971.ts;name=FOX SPORT 1 (BR)
+#EXTINF:-1,FOX SPORT 2 (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7970.ts;name=FOX SPORT 2 (BR)
+#EXTINF:-1,BABY FIRST (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4789.ts;name=BABY FIRST (PT)
+#EXTINF:-1,CARTOON NETWORK (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/560.ts;name=CARTOON NETWORK (PT)
+#EXTINF:-1,EURO NEWS (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/612.ts;name=EURO NEWS (PT)
+#EXTINF:-1,SYFY (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/585.ts;name=SYFY (PT)
+#EXTINF:-1,NICKELODEON (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/561.ts;name=NICKELODEON (PT)
+#EXTINF:-1,NAT GEO HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/582.ts;name=NAT GEO HD (PT)
+#EXTINF:-1,NAT GEO WILD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/581.ts;name=NAT GEO WILD (PT)
+#EXTINF:-1,VH1 ClASSIC (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/569.ts;name=VH1 ClASSIC (PT)
+#EXTINF:-1,VH1 (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/570.ts;name=VH1 (PT)
+#EXTINF:-1,MTV (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/567.ts;name=MTV (PT)
+#EXTINF:-1,TRAVEL CHANNEL HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/577.ts;name=TRAVEL CHANNEL HD (PT)
+#EXTINF:-1,AXN HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/588.ts;name=AXN HD (PT)
+#EXTINF:-1,AXN WHITE HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/587.ts;name=AXN WHITE HD (PT)
+#EXTINF:-1,AXN BLACK HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/586.ts;name=AXN BLACK HD (PT)
+#EXTINF:-1,AMC (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/542.ts;name=AMC (PT)
+#EXTINF:-1,A&E (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/575.ts;name=A&E (PT)
+#EXTINF:-1,FOX HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/593.ts;name=FOX HD (PT)
+#EXTINF:-1,E! (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/584.ts;name=E! (PT)
+#EXTINF:-1,DISNEY JR (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/562.ts;name=DISNEY JR (PT)
+#EXTINF:-1,DISNEY (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/563.ts;name=DISNEY (PT)
+#EXTINF:-1,DISCOVERY SHOWCASE HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/580.ts;name=DISCOVERY SHOWCASE HD (PT)
+#EXTINF:-1,DISCOVERY (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/583.ts;name=DISCOVERY (PT)
+#EXTINF:-1,CBS REALITY (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/576.ts;name=CBS REALITY (PT)
+#EXTINF:-1,EURO SPORT 1 HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4707.ts;name=EURO SPORT 1 HD (PT)
+#EXTINF:-1,EURO SPORT 2 XTRA HD (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4708.ts;name=EURO SPORT 2 XTRA HD (PT)
+#EXTINF:-1,EURO SPORT NEWS (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4785.ts;name=EURO SPORT NEWS (PT)
+#EXTINF:-1,FOX NEWS (PT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4791.ts;name=FOX NEWS (PT)
+#EXTINF:-1,ANIMAL PLANET (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8009.ts;name=ANIMAL PLANET (BR)
+#EXTINF:-1,AXN (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8010.ts;name=AXN (BR)
+#EXTINF:-1,BOOMERANG (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8015.ts;name=BOOMERANG (BR)
+#EXTINF:-1,CINEMAX (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8019.ts;name=CINEMAX (BR)
+#EXTINF:-1,DISCOVERY (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8079.ts;name=DISCOVERY (BR)
+#EXTINF:-1,DISCOVERY CIVILIZATION (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8021.ts;name=DISCOVERY CIVILIZATION (BR)
+#EXTINF:-1,DISCOVERY HH (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8022.ts;name=DISCOVERY HH (BR)
+#EXTINF:-1,DISCOVERY KIDS (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8023.ts;name=DISCOVERY KIDS (BR)
+#EXTINF:-1,DISCOVERY SCIENCE (BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8024.ts;name=DISCOVERY SCIENCE (BR
+#EXTINF:-1,DISCOVERY TURBO (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8025.ts;name=DISCOVERY TURBO (BR)
+#EXTINF:-1,DISNEY CHANNEL (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8026.ts;name=DISNEY CHANNEL (BR)
+#EXTINF:-1,DISNEY JR (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8027.ts;name=DISNEY JR (BR)
+#EXTINF:-1,DISNEY XD (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8028.ts;name=DISNEY XD (BR)
+#EXTINF:-1,E! (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8029.ts;name=E! (BR)
+#EXTINF:-1,FX (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8033.ts;name=FX (BR)
+#EXTINF:-1,H2 (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8036.ts;name=H2 (BR)
+#EXTINF:-1,HBO (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8041.ts;name=HBO (BR)
+#EXTINF:-1,HBO 2 (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8040.ts;name=HBO 2 (BR)
+#EXTINF:-1,HBO FAMILY (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8039.ts;name=HBO FAMILY (BR)
+#EXTINF:-1,HBO PLUS (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8038.ts;name=HBO PLUS (BR)
+#EXTINF:-1,HBO SIGNATURE (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8037.ts;name=HBO SIGNATURE (BR)
+#EXTINF:-1,HISTORY (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8069.ts;name=HISTORY (BR)
+#EXTINF:-1,NATGEO (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8048.ts;name=NATGEO (BR)
+#EXTINF:-1,NICK JR (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8049.ts;name=NICK JR (BR)
+#EXTINF:-1,NICKELODEON (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8050.ts;name=NICKELODEON (BR)
+#EXTINF:-1,PARAMOUNT (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8051.ts;name=PARAMOUNT (BR)
+#EXTINF:-1,SYFY (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8061.ts;name=SYFY (BR)
+#EXTINF:-1,TNT (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8070.ts;name=TNT (BR)
+#EXTINF:-1,UNIVERSAL (BR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8075.ts;name=UNIVERSAL (BR)
+#EXTINF:-1,SUPER ECRAN 1 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2414.ts;name=SUPER ECRAN 1 (FR)
+#EXTINF:-1,SUPER ECRAN 2 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2415.ts;name=SUPER ECRAN 2 (FR)
+#EXTINF:-1,SUPER ECRAN 3 (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/2416.ts;name=SUPER ECRAN 3 (FR)
+#EXTINF:-1,DISCOVERY SCIENCE (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5915.ts;name=DISCOVERY SCIENCE (FR)
+#EXTINF:-1,SYFY (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5904.ts;name=SYFY (FR)
+#EXTINF:-1,SONY HD (NA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/407.ts;name=SONY HD (NA)
+#EXTINF:-1,SONY (UK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1180.ts;name=SONY (UK)
+#EXTINF:-1,SONY (INDIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7320.ts;name=SONY (INDIA)
+#EXTINF:-1,STAR LIFE OK (NA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3878.ts;name=STAR LIFE OK (NA)
+#EXTINF:-1,STAR LIFE OK (UK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1187.ts;name=STAR LIFE OK (UK)
+#EXTINF:-1,STAR LIFE OK (INDIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6927.ts;name=STAR LIFE OK (INDIA)
+#EXTINF:-1,STAR GOLD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6932.ts;name=STAR GOLD (US)
+#EXTINF:-1,STAR GOLD (UK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1186.ts;name=STAR GOLD (UK)
+#EXTINF:-1,STAR GOLD (INDIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6897.ts;name=STAR GOLD (INDIA)
+#EXTINF:-1,SONY SAB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7321.ts;name=SONY SAB HD
+#EXTINF:-1,DISCOVERY (HINDI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6930.ts;name=DISCOVERY (HINDI)
+#EXTINF:-1,NAT GEO (HINDI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4374.ts;name=NAT GEO (HINDI)
+#EXTINF:-1,FOOD FOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3869.ts;name=FOOD FOOD
+#EXTINF:-1,CNBC AWAAZ NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6919.ts;name=CNBC AWAAZ NEWS
+#EXTINF:-1,NEWS XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3810.ts;name=NEWS XD
+#EXTINF:-1,NATIONAL VOICE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6920.ts;name=NATIONAL VOICE
+#EXTINF:-1,NEWS 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6917.ts;name=NEWS 18
+#EXTINF:-1,NEWS 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6903.ts;name=NEWS 24
+#EXTINF:-1,SONY MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7322.ts;name=SONY MAX HD
+#EXTINF:-1,SONY MAX (INDIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7323.ts;name=SONY MAX (INDIA)
+#EXTINF:-1,SONY MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4241.ts;name=SONY MAX 2
+#EXTINF:-1,SONY PAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1199.ts;name=SONY PAL
+#EXTINF:-1,SONY ROX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3868.ts;name=SONY ROX HD
+#EXTINF:-1,UTV MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3881.ts;name=UTV MOVIES
+#EXTINF:-1,UTV ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6899.ts;name=UTV ACTION
+#EXTINF:-1,UTV BINDASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6935.ts;name=UTV BINDASS
+#EXTINF:-1,MTV INDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3826.ts;name=MTV INDIA
+#EXTINF:-1,STAR UTSAV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6898.ts;name=STAR UTSAV HD
+#EXTINF:-1,NICK (CHILDREN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7317.ts;name=NICK (CHILDREN)
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7185.ts;name=AXN HD
+#EXTINF:-1,CARTOON NETWORK (ASIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7167.ts;name=CARTOON NETWORK (ASIA)
+#EXTINF:-1,CBS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7184.ts;name=CBS ACTION
+#EXTINF:-1,CBS DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7186.ts;name=CBS DRAMA
+#EXTINF:-1,CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7187.ts;name=CBS REALITY
+#EXTINF:-1,STAR ASIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6945.ts;name=STAR ASIA
+#EXTINF:-1,NEWS24 (BANGLA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/3871.ts;name=NEWS24 (BANGLA)
+#EXTINF:-1,ITV US ISLAMIC (BANGLA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7164.ts;name=ITV US ISLAMIC (BANGLA)
+#EXTINF:-1,NEWS 9 (KAN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7066.ts;name=NEWS 9 (KAN)
+#EXTINF:-1,NICK+ (ASIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7169.ts;name=NICK+ (ASIA)
+#EXTINF:-1,ITV MOVIE (BANGLA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4212.ts;name=ITV MOVIE (BANGLA)
+#EXTINF:-1,NEWS 24 HD (BANGLA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4223.ts;name=NEWS 24 HD (BANGLA)
+#EXTINF:-1,SONY 8(BANGLA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4218.ts;name=SONY 8(BANGLA)
+#EXTINF:-1,STAR JALSHA HD (BANGLA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4216.ts;name=STAR JALSHA HD (BANGLA)
+#EXTINF:-1,STAR (NA) (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4083.ts;name=STAR (NA) (GR)
+#EXTINF:-1,STAR HD (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4120.ts;name=STAR HD (GR)
+#EXTINF:-1,ACTION 24 (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4114.ts;name=ACTION 24 (GR)
+#EXTINF:-1,EURO NEWS (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4124.ts;name=EURO NEWS (GR)
+#EXTINF:-1,MTV (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4093.ts;name=MTV (GR)
+#EXTINF:-1,NICKELELODEON (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4092.ts;name=NICKELELODEON (GR)
+#EXTINF:-1,STAR (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4086.ts;name=STAR (GR)
+#EXTINF:-1,TRAVEL (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4132.ts;name=TRAVEL (GR)
+#EXTINF:-1,AXN (SLO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6670.ts;name=AXN (SLO)
+#EXTINF:-1,HBO (SLO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6678.ts;name=HBO (SLO)
+#EXTINF:-1,HISTORY CHANEL (SLO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6667.ts;name=HISTORY CHANEL (SLO)
+#EXTINF:-1,NAT GEO (SLO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6666.ts;name=NAT GEO (SLO)
+#EXTINF:-1,AXN ADRIA (MOVIE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6831.ts;name=AXN ADRIA (MOVIE)
+#EXTINF:-1,AXN SPIN (MOVIE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6830.ts;name=AXN SPIN (MOVIE)
+#EXTINF:-1,CINEMAX 1 HD (MOVIE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6825.ts;name=CINEMAX 1 HD (MOVIE)
+#EXTINF:-1,CINEMAX 2 HD (MOVIE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6824.ts;name=CINEMAX 2 HD (MOVIE)
+#EXTINF:-1,Comedy Central Extra (MOVIE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6827.ts;name=Comedy Central Extra (MOVIE)
+#EXTINF:-1,HBO 2 HD (MOVIE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6817.ts;name=HBO 2 HD (MOVIE)
+#EXTINF:-1,HBO 3 HD (MOVIE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6816.ts;name=HBO 3 HD (MOVIE)
+#EXTINF:-1,HBO HD (MOVIE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6818.ts;name=HBO HD (MOVIE)
+#EXTINF:-1,EUROSPORT 1 HD SR (BALKAN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6703.ts;name=EUROSPORT 1 HD SR (BALKAN)
+#EXTINF:-1,EUROSPORT 2 HD SR (BALKAN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6702.ts;name=EUROSPORT 2 HD SR (BALKAN)
+#EXTINF:-1,ANIMAL PLANET (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6795.ts;name=ANIMAL PLANET (DOCUMENTARNI)
+#EXTINF:-1,DISCOVERY CHANNEL (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6801.ts;name=DISCOVERY CHANNEL (DOCUMENTARNI)
+#EXTINF:-1,DISCOVERY ID (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6800.ts;name=DISCOVERY ID (DOCUMENTARNI)
+#EXTINF:-1,DISCOVERY ID Xtra HD (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6798.ts;name=DISCOVERY ID Xtra HD (DOCUMENTARNI)
+#EXTINF:-1,DISCOVERY Science HD (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6797.ts;name=DISCOVERY Science HD (DOCUMENTARNI)
+#EXTINF:-1,DISCOVERY TLC (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6802.ts;name=DISCOVERY TLC (DOCUMENTARNI)
+#EXTINF:-1,Discovery Turbo Xtra (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6799.ts;name=Discovery Turbo Xtra (DOCUMENTARNI)
+#EXTINF:-1,E! (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6788.ts;name=E! (DOCUMENTARNI)
+#EXTINF:-1,FIGHT BOX HD (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6786.ts;name=FIGHT BOX HD (DOCUMENTARNI)
+#EXTINF:-1,HISTORY 2 (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6803.ts;name=HISTORY 2 (DOCUMENTARNI)
+#EXTINF:-1,HISTORY CHANEL (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6792.ts;name=HISTORY CHANEL (DOCUMENTARNI)
+#EXTINF:-1,NAT GEO WILD (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6793.ts;name=NAT GEO WILD (DOCUMENTARNI)
+#EXTINF:-1,NATIONAL GEOGRAPHIC (DOCUMENTARNI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6794.ts;name=NATIONAL GEOGRAPHIC (DOCUMENTARNI)
+#EXTINF:-1,MTV ADRIA (MUZIKA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6755.ts;name=MTV ADRIA (MUZIKA)
+#EXTINF:-1,MTV DANCE (MUZIKA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6735.ts;name=MTV DANCE (MUZIKA)
+#EXTINF:-1,MTV HITS (MUZIKA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6734.ts;name=MTV HITS (MUZIKA)
+#EXTINF:-1,MTV MUSIC (MUZIKA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6733.ts;name=MTV MUSIC (MUZIKA)
+#EXTINF:-1,MTV ROCKS (MUZIKA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6732.ts;name=MTV ROCKS (MUZIKA)
+#EXTINF:-1,VH1 (MUZIKA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6745.ts;name=VH1 (MUZIKA)
+#EXTINF:-1,VH1 CLASSIC TV (MUZIKA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6739.ts;name=VH1 CLASSIC TV (MUZIKA)
+#EXTINF:-1,BABY TV (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6779.ts;name=BABY TV (DJECIJI)
+#EXTINF:-1,BOOMERANG (DE) (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6767.ts;name=BOOMERANG (DE) (DJECIJI)
+#EXTINF:-1,CARTOON NETWORK (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6777.ts;name=CARTOON NETWORK (DJECIJI)
+#EXTINF:-1,DISNEY CHANNEL (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6776.ts;name=DISNEY CHANNEL (DJECIJI)
+#EXTINF:-1,DISNEY JUNIOR (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6775.ts;name=DISNEY JUNIOR (DJECIJI)
+#EXTINF:-1,DISNEY XD (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6774.ts;name=DISNEY XD (DJECIJI)
+#EXTINF:-1,NICKELODEON (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6770.ts;name=NICKELODEON (DJECIJI)
+#EXTINF:-1,NickJr (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6769.ts;name=NickJr (DJECIJI)
+#EXTINF:-1,SUPER KIDS (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6765.ts;name=SUPER KIDS (DJECIJI)
+#EXTINF:-1,TNT KIDS (DJECIJI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6768.ts;name=TNT KIDS (DJECIJI)
+#EXTINF:-1,CNN (PH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4398.ts;name=CNN (PH)
+#EXTINF:-1,LIFESTYLE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/8105.ts;name=LIFESTYLE TV
+#EXTINF:-1,USTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1237.ts;name=USTV
+#EXTINF:-1,NEWS ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/1224.ts;name=NEWS ONE
+#EXTINF:-1,ANIMAL PLANET (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4726.ts;name=ANIMAL PLANET (GR)
+#EXTINF:-1,BABY TV (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4720.ts;name=BABY TV (GR)
+#EXTINF:-1,CNBCARABIYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5652.ts;name=CNBCARABIYA
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/5506.ts;name=CNN
+#EXTINF:-1,DISCOVERY (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4729.ts;name=DISCOVERY (GR)
+#EXTINF:-1,DISCOVERY SHOWCASE (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4727.ts;name=DISCOVERY SHOWCASE (GR)
+#EXTINF:-1,DISNEY CHANNEL (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4732.ts;name=DISNEY CHANNEL (GR)
+#EXTINF:-1,DISNEY JR (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4731.ts;name=DISNEY JR (GR)
+#EXTINF:-1,DISNEY XD (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4730.ts;name=DISNEY XD (GR)
+#EXTINF:-1,E! (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4721.ts;name=E! (GR)
+#EXTINF:-1,NAT GEO (GR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4734.ts;name=NAT GEO (GR)
+#EXTINF:-1,SONY PIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4855.ts;name=SONY PIX
+#EXTINF:-1,STAR MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/4853.ts;name=STAR MOVIES HD
+#EXTINF:-1,NEWS 18 (TAMIL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7102.ts;name=NEWS 18 (TAMIL)
+#EXTINF:-1,NEWS 7 (TAMIL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7106.ts;name=NEWS 7 (TAMIL)
+#EXTINF:-1,STAR VIJAY HD (TAMIL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7090.ts;name=STAR VIJAY HD (TAMIL)
+#EXTINF:-1,SUPER TV (TAMIL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/7126.ts;name=SUPER TV (TAMIL)
+#EXTINF:-1,WORLDON TV (MALYM)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/BobbyATannehill@teleworm.us/kjgcfwbd/6996.ts;name=WORLDON TV (MALYM)
+
