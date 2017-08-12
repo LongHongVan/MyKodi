@@ -645,11 +645,501 @@ http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
 #EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 莲花卫视
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8 
 
+#<!-------------------------------- VIETNAM TV24 ------------------------->
+
+#####################################TV24.VN New TV CH###########################################
+#EXTINF:-1, tvg-id="9972" tvg-name="VIETNAM TV24" group-title="VIETNAM TV24", tvg-logo="a463.phobos.apple.com/us/r30/Purple4/v4/0f/93/1a/0f931af3-2463-a0fe-7803-cb49848cf4f1/mzl.emgthxqw.png", VIETNAM TV24
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png", VietFace CA[COLOR yellow] HD[/COLOR]
+http://64.71.129.2:8080/hls/ius_000114.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png", VietFace 57.2[COLOR yellow] HD[/COLOR]
+http://vftv.saigon.ns01.us:1935/vf572caliisai/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png", VietFace LA
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2425
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.latetfest.net/wp-content/uploads/2012/05/VNA-TV-Logo.png", VBS
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2429
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR]HD[/COLOR]
+#http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2433
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", SBTN [COLOR lime]HD[/COLOR]
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2433.ts
+
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="tvtvtv.ru/icons/logo_5122.png", Việt Mỹ TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="tvtvtv.ru/icons/logo_5122.png", Việt Sóng TV 47.7 WKTB – Atlanta-Georgia
+http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8 
+
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="tvtvtv.ru/icons/logo_5122.png", VietToday San Jose [COLOR teal]Local Channel[/COLOR]
+#rtsp://212-123.livestream.com:8080/livestreamiphone/11617763_3768543_15152f99_1_446@363134
+
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.vietbay.tv/images/file/tplyBIXp0QgBAikO/vietbay-television-logo.png", VIET BAY San Jose - 720p
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg", VStar TV [COLOR teal]LA TV[/COLOR]
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2430
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg", Viet Pho TV
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2428
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="yt3.ggpht.com/-NTEw5Vvn_pA/AAAAAAAAAAI/AAAAAAAAAAA/l4_jd0MiVhY/s88-c-k-no/photo.jpg", VietTV Show [COLOR yellow]HD[/COLOR]
+http://api.new.livestream.com/accounts/11617763/events/3711057/videos/75928742.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", KTLA
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2426
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="fs01.androidpit.info/a/22/2f/vbs-television-vietnamese-tv-222fac-w192.png", VBS TV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="img.vietview.tv/1180x665/2014/07/28/livetv_sgn_banner.jpg", SGN TV Houston TX 51.3
+#http://origin.onworldtv.com:1935/liveorigin/sgn/chunklist_w1449626630.m3u8?
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="pbs.twimg.com/profile_images/572417953690157056/DxVzXJZV.png", BYN TV Channel[COLOR yellow] 720p[/COLOR]
+http://origin.onworldtv.com:1935/liveorigin/byn/index.m3u8
+
+
+
+
+##################################################################################
+
+#EXTINF:-1 group-title="VIETNAM TV24", [B][COLOR mediumspringgreen] >>> Vietnam TV <<<[/COLOR][/B]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="rongbay2.vcmedia.vn/thumb_max/up_new/2012/05/31/0/201205182155_logo HD1.jpg", K+1
+http://5.39.70.216/live/louis/louis/1031.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV1.jpg", VTV1 HD
+http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/vtv2.jpg", VTV2 HD 
+http://103.21.148.45:81/icomchannelvtc/vtc12_576/chunklist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV3.jpg",VTV3 HD 
+http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV4.jpg",VTV4 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.mediafire.com/download/p5a4dng0qm4ypb2/VTV3.jpg",VTV5 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24",VTV6 HD 
+http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24",VTV8 HD
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="VIETNAM TV24",VTC1 HD
+http://45.121.26.49:1935/live/_definst_/smil:vtc1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24",VTC1
+http://117.103.224.222:1935/live/_definst_/VTC1HD_2016.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24",VTC2
+http://45.121.26.49:1935/live/_definst_/smil:vtc2.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24",VTC3
+http://117.103.224.222:1935/live/_definst_/VTC3HD_2016.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24",VTC4
+http://45.121.26.49:1935/live/_definst_/smil:vtc4.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24",VTC5
+http://45.121.26.49:1935/live/_definst_/smil:vtc5.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24",VTC6
+http://45.121.26.49:1935/live/_definst_/smil:vtc6.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24",VTC7
+http://45.121.26.49:1935/live/_definst_/smil:vtc7.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24",VTC8
+http://103.21.148.45:81/icomchannelvtc/vtc8_576/chunklist.m3u8
+#EXTINF:-1 group-title="VIETNAM TV24",VTC9
+http://45.121.26.49:1935/live/_definst_/smil:vtc9.smil/chunklist_b900000.m3u8
+
+
+#EXTINF:-1 group-title="VIETNAM TV24",HTV7
+#http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w520143836_b1000000.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24",HTV9
+#http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w520143836_b1000000.m3u8
+
+
+#EXTINF:-1 group-title="VIETNAM TV24", Vinh long 1
+#http://live.cdn.mobifonetv.vn/motv/vinhlong1_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV24", Vinh long 2
+#http://live.cdn.mobifonetv.vn/motv2/vinhlong2_hls.smil/chunklist_b1200000.m3u8
+
+
+
+###################################################################################################
+
+#EXTINF:-1 group-title="VIETNAM TV24", [B][COLOR mediumspringgreen] >>> VAN SON <<<[/COLOR][/B]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24", VanSon 51 in HaNoi-2015 D1
+http://www.mediafire.com/download/as6ffavwwbj2l8k/VanSon-51DVD01.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24", VanSon 51 in HaNoi-2015 D2
+http://www.mediafire.com/download/0uk743bx8n0sia3/VanSon-51DVD02.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24", VanSon 51 in HaNoi-2015 D3
+http://www.mediafire.com/download/gc12wb5dnv8e6q2/VanSon-51DVD03.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24", VanSon 50 in Saigon-2014 BDRip 720p
+http://www.mediafire.com/download/obj86hhao3ptozq/Van.Son.50.Bluray.720p.x264.AC3.2.0.mkv
+
+###################### PBN Video #########################################
+
+#EXTINF:-1 group-title="VIETNAM TV24", tvg-logo="",[COLOR mediumspringgreen][I][B] >>> PBN Video <<<[/B][/I][/COLOR]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 119 [COLOR aqua]BDRip720p[/COLOR]
+http://www.mediafire.com/download/31mkm6z59d5p76q/PBN119_720p.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 118 [COLOR aqua]HDTV01[/COLOR]
+http://www.mediafire.com/download/dyjh57z9umv9zbb/PBN_118_DISC_1.mp4
+
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 118 [COLOR aqua]HDTV02[/COLOR]
+http://www.mediafire.com/download/xdu4k67b2b7mk72/PBN_118_DISC_2.mp4
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 115 [COLOR aqua]HDTV01[/COLOR]
+http://www.mediafire.com/download/aw2finvt2i31h8n/Mot.Tram.Muoi.Lam.Buray.720p.x264.DD5.1-001.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 115 [COLOR aqua]HDTV02[/COLOR]
+http://www.mediafire.com/download/2eilz68z1c4b32g/Mot.Tram.Muoi.Lam.Buray.720p.x264.DD5.1-002.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 115 [COLOR aqua]HDTV03[/COLOR]
+http://www.mediafire.com/download/ifah0pbrl4fskrr/Mot.Tram.Muoi.Lam.Buray.720p.x264.DD5.1-003.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 114 [COLOR aqua]HDTV01[/COLOR]
+http://www.mediafire.com/download/z4wq5p9o111x1qm/PBN.114.HDTV01.mp4
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 114 [COLOR aqua]HDTV02[/COLOR]
+http://www.mediafire.com/download/ikg0wpg0b5svci3/PBN.114.HDTV02.mp4
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 114 [COLOR aqua]HDTV03[/COLOR]
+http://www.mediafire.com/download/076c9fkdyywyugd/PBN.114.HDTV03.mp4
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 114 [COLOR aqua]HDTV04[/COLOR]
+http://www.mediafire.com/download/xv894yri6bit8dc/PBN.114.HDTV04.BehindTheC.mp4
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 113 [COLOR aqua]HDTV01[/COLOR]
+http://www.mediafire.com/download/m1435e1p3d338jd/TN113-Part1.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 113 [COLOR aqua]HDTV02[/COLOR]
+http://www.mediafire.com/download/4ukpavn9e37vvc5/TN113-Part2.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 113 [COLOR aqua]HDTV03[/COLOR]
+http://www.mediafire.com/download/68ddqmdl2qy7mce/TN113-Part3.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 112 [COLOR aqua]BDRip 1080p[/COLOR]
+http://www.mediafire.com/download/qeywi8a8spexjlc/PBN112.2014.Bluray.1080p.x264.AC3.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 111 [COLOR aqua]DVD01[/COLOR]
+http://www.mediafire.com/download/y4x21yfts87i7zg/PBN_111_DVD01.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 111 [COLOR aqua]DVD02[/COLOR]
+http://www.mediafire.com/download/bcv8dmvg6h97vzw/PBN_111_DVD02.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 111 [COLOR aqua]DVD03[/COLOR]
+http://www.mediafire.com/download/r86mnrat3fidu63/PBN_111_DVD03.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="upload.wikimedia.org/wikipedia/en/2/2d/Thuynga_logo_from_2011.png", PARIS BY NIGHT 110 [COLOR aqua]BDRip 720p[/COLOR]
+http://www.mediafire.com/download/6ir89zc04zbiurc/Phat.Loc.Dau.Nam.PROPER.Bluray.720p.x264.AC3-J4F.mp4
+
+###################### End PBN Video #########################################
+
+
+
+
+###################### ASIA Video #########################################
+
+#EXTINF:-1 group-title="VIETNAM TV24", tvg-logo="",[COLOR mediumspringgreen][I][B] >>> ASIA Video <<<[/B][/I][/COLOR]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="http://image.wikifoundry.com/image/3/bb491e76ab5ec5595b08bb15085393c7/GW312H230", ASIA 78 [COLOR yellow]Tình Yêu và Thân Phận[/COLOR]
+http://www.mediafire.com/download/blm2tdzcw99mdep/Asia78 HD1080p.mp4
+
+#EXTINF:-1 group-title="VIETNAM TV24", ASIA DanNguyen [COLOR yellow]NhoVeMienTrung[/COLOR]
+http://www.mediafire.com/download/92u6g1zb78w5z0b/Dan_Nguyen-Live_Show_Nho_Ve_Mien_Trung.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24", Tinh 20Nam [COLOR yellow]KyNiemYeuThuong[/COLOR]
+http://www.mediafire.com/download/83ee3e6bmhdxohd/Trung_Tam_Bang_Nhac_Rang_Dong.mp4
+
+#EXTINF:-1 group-title="VIETNAM TV24", ASIA Golden 4 [COLOR yellow]BDRip 1080p[/COLOR]
+http://www.mediafire.com/download/m45ft5q85r6v3s6/Asia.Golden.4.Bluray.10800p.x264.AC3-just4Fun.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24", ASIA 76 [COLOR aqua]BDRip 1080p[/COLOR]
+http://www.mediafire.com/download/4as426nq9sqpr9a/A76.Journey.to.A.Dream.Bluray.x264.AC3-just4FUN.mkv
+#EXTINF:-1 group-title="VIETNAM TV24", ASIA 75 [COLOR aqua]BDRip 720p[/COLOR]
+http://www.mediafire.com/download/7sztwp28781kppa/ASIA75_NhungGiongCaHuyenThoai_720p.mp4
+#EXTINF:-1 group-title="VIETNAM TV24", ASIA 74 [COLOR aqua]BDRip 720p[/COLOR]
+http://www.mediafire.com/download/cy4nq43ll5yeh8s/A74.2014.1080p.Bluray.DD2.0.x264.mkv
+
+
+#EXTINF:-1 group-title="VIETNAM TV24", LIVESHOW [COLOR aqua]Nguyen Hong Nhung[/COLOR]
+http://www.mediafire.com/download/0us1egr0tag2abk/LiveShowNgyenHongNhung_2014.mp4
+
+#EXTINF:-1 group-title="VIETNAM TV24",TinhKhucVuotThoiGian [COLOR aqua]Le Quyen D01[/COLOR]
+http://www.mediafire.com/download/1cdsrgcqkckuo08/Le.Quyen.TinhKhucVuotThoiGian.D01.mkv
+#EXTINF:-1 group-title="VIETNAM TV24",TinhKhucVuotThoiGian [COLOR aqua]Le Quyen D01[/COLOR]
+http://www.mediafire.com/download/thac72o6gy7urre/Le.Quyen.TinhKhucVuotThoiGian.D02.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24", LIVESHOW [COLOR aqua]Le Quyen D01[/COLOR]
+http://www.mediafire.com/download/0aa3zlrr6ttb81v/LQuyenLievShow2014_D01.mp4
+#EXTINF:-1 group-title="VIETNAM TV24", LIVESHOW [COLOR aqua]Le Quyen D02[/COLOR]
+http://www.mediafire.com/download/o33bt4y31402ea0/LQuyenLievShow2014_D02.mp4
+#EXTINF:-1 group-title="VIETNAM TV24", LIVESHOW [COLOR aqua]Le Quyen D03[/COLOR]
+http://www.mediafire.com/download/slpuij1ggqg5gbp/LQuyenLievShow2014_D03.mp4
+
+#EXTINF:-1 group-title="VIETNAM TV24", LIVESHOW [COLOR aqua]My Tam[/COLOR]
+http://www.mediafire.com/download/iej1pwliupn617o/MyTamLiveConcertGoiTinhYeuCuaEm.mp4
+
+#EXTINF:-1 group-title="VIETNAM TV24", HatChoNguoiTinh [COLOR aqua]Cam Ly[/COLOR]
+http://www.mediafire.com/download/yjdbs7suipn9fc8/CamLy_HatChoNguoiTinh.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24", Thuong-nho-nguoi-dung [COLOR aqua]Phi Nhung D1[/COLOR]
+http://www.mediafire.com/download/nf8447s72ar971d/PhiNhung_Thuong-nho-nguoi-dung-D01.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24", Thuong-nho-nguoi-dung [COLOR aqua]Phi Nhung D2[/COLOR]
+http://www.mediafire.com/download/slap8dpns55vh0k/PhiNhung_Thuong-nho-nguoi-dung-D02.mkv
+
+
+###################### KARAOKE Video #########################################
+
+#EXTINF:-1 group-title="VIETNAM TV24", tvg-logo="www.boardwalk11.com/wp-content/uploads/2011/01/karaoke1_1271119874.jpg",[COLOR deeppink][I][B] >>> KARAOKE <<<[/B][/I][/COLOR]
+http://google.com/
+
+
+
+######## Hồ Hoàng Yến #######################
+
+#EXTINF:-1 group-title="VIETNAM TV24", tvg-logo="t.imgbox.com/acfpsYnT.jpg",[COLOR yellow][I][B] >>> Hồ Hoàng Yến <<<[/B][/I][/COLOR]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="data.chiasenhac.com/data/cover/31/30252.jpg", Cho Đến Cuối Cuộc Đời
+http://www.mediafire.com/download/qdw7cqdqh9qsdpv/YouSing_-_Quoc_Khanh_%26_Ho_Hoang_Yen_%26_4_Audio_Tracks_-_Cho_Den_Cuoi_Cuoc_Doi.avi
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="t.imgbox.com/acfpsYnT.jpg", LK Mắt Lệ Cho Người - Tình Lỡ
+http://www.mediafire.com/download/acqssgaewfiskgw/AsiaK_59_07_-_Le_Anh_Quan_%26_Ho_Hoang_Yen_-_LK_Mat_Le_Cho_Nguoi%2C_Tinh_Lo.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="t.imgbox.com/acfpsYnT.jpg", Xin Hãy Rời Xa
+http://www.mediafire.com/download/8ka5zazj7hqhmpo/AsiaK_60_04_-_Le_Quoc_Tuan%2C_Ho_Hoang_Yen_-_Medley_Xin_Hay_Roi_Xa%2C_Toi_Khong_Con_Yeu_Em.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="t.imgbox.com/acfpsYnT.jpg", Buồn Trong Kỷ Niệm
+http://www.mediafire.com/download/oigaycf97oisdru/AsiaK_61_08_-_Ho_Hoang_Yen_-_Buon_Trong_Ky_Niem.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="t.imgbox.com/acfpsYnT.jpg", Tôi Đi Tìm Lại Một Mùa Xuân
+http://www.mediafire.com/download/vrbd0de8br70zm4/AsiaK_S_41_17_-_Ho_Hoang_Yen_-_Toi_Di_Tim_Lai_Mot_Mua_Xuan.vob
+
+
+####### Ngọc Anh ##############################
+
+#EXTINF:-1 group-title="VIETNAM TV24", tvg-logo="m.f9.img.vnecdn.net/2011/04/25/ngoc-anh-5-1345756904_480x0.jpg",[COLOR yellow][I][B] >>> Ngọc Anh <<<[/B][/I][/COLOR]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Giet_Nguoi_Trong_Mong
+http://www.mediafire.com/download/5xy1z010o96v6he/01__Giet_Nguoi_Trong_Mong_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", SamBa_Cho_Em
+http://www.mediafire.com/download/duxf24vqbciod6f/02__SamBa_Cho_Em_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Bai_Khong_Ten_So_4
+http://www.mediafire.com/download/g1l54h7d7i799c4/03__Bai_Khong_Ten_So_4_-_Ngoc_Anh.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Thang_Sau_Troi_Mua
+http://www.mediafire.com/watch/3tzd2pl4x1gfhbm/04__Thang_Sau_Troi_Mua_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Nua_Hon_Thuong_Dau
+http://www.mediafire.com/watch/byas6vm59wazmcg/05__Nua_Hon_Thuong_Dau_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Xuan_Voi_Doi_Song_Moi
+http://www.mediafire.com/watch/b8e88am5eo8xao3/06__Xuan_Voi_Doi_Song_Moi_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Em_Di_Roi
+http://www.mediafire.com/watch/54dmf0y6y06rvfq/07__Em_Di_Roi_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Bai_Khong_Ten_Cuoi_Cung
+http://www.mediafire.com/watch/2d26v6o82ee104g/08__Bai_Khong_Ten_Cuoi_Cung_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Neu_Mot_Mai_Em_Se_Qua_Doi
+http://www.mediafire.com/watch/9yr7g7i3e9iu5a2/09__Neu_Mot_Mai_Em_Se_Qua_Doi_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Nu_Hong_Valentine
+http://www.mediafire.com/watch/ahhrwfw54536h75/10__Nu_Hong_Valentine_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Dang_Em_Lua_La
+http://www.mediafire.com/watch/ioigwa5lqktbt2a/11__Dang_Em_Lua_La_-_Ngoc_Anh.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Cam_On_Nguoi_Tinh
+http://www.mediafire.com/watch/za05qu1yl7daid1/12__Cam_On_Nguoi_Tinh_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Nha_Trang_Ngay_Ve
+http://www.mediafire.com/watch/t14z74sds6cb9x5/13__Nha_Trang_Ngay_Ve_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", LK._Mot_Thoang_Tay
+http://www.mediafire.com/watch/4gj8su0d104suiu/14__LK._Mot_Thoang_Tay_Ho%2C_Chieu_Phu_Tay_Ho_-_Ngoc_Anh_%26_Thu_Phuong.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Mua_Xuan_Khong_Con_Nua
+http://www.mediafire.com/watch/vqr2xi2c9axnnuk/15__Mua_Xuan_Khong_Con_Nua_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Mua_Thu_Chet
+http://www.mediafire.com/watch/t1on7jyn4917ure/16__Mua_Thu_Chet_-_Ngoc_Anh.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="vietnamnews.vn/ImageHandler.ashx?ThumbnailID=125159", Khi_Nguoi_Xa_Toi
+http://www.mediafire.com/watch/h6bcnaq2mn1ajwg/17__Khi_Nguoi_Xa_Toi_-_Ngoc_Anh.mkv
+ 
+
+####### Như Quỳnh ##############################
+
+#EXTINF:-1 group-title="VIETNAM TV24", tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg",[COLOR yellow][I][B] >>> Như Quỳnh <<<[/B][/I][/COLOR]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg", Thuyen_Khong_Ben_Do
+http://www.mediafire.com/download/664urbqlje6rsj3/PBNK_71_10_-_Nhu_Quynh_-_Thuyen_Khong_Ben_Do.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg", Mo_Mot_Tinh_Yeu
+http://www.mediafire.com/download/46zu2glbo9rtt58/TBO_MT3_11_-_Minh_Tuyet_%26_Nhu_Quynh_-_Mo_Mot_Tinh_Yeu.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg", Nguoi_tinh_mua_dong
+http://www.mediafire.com/download/l3tj5e95mca8fcj/TTMD_03_-_Nhu_Quynh_-_Nguoi_tinh_mua_dong.VOB
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg", Cau_Chuyen_Dau_Nam
+http://www.mediafire.com/download/yneufgxyye6yhrn/YSHD_C_103_-_Nhu_Quynh_-_Cau_Chuyen_Dau_Nam.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg", Cho_Hoi_Vi_Sao_Toi_Buon
+http://www.mediafire.com/download/3n9e37mn97a32hm/YSHD_C_354_-_Manh_Dinh_ft_Nhu_Quynh_-_Cho_Hoi_Vi_Sao_Toi_Buon.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg", Chut_Ky_Niem_Buon
+http://www.mediafire.com/download/sd0dm9hgrxne12s/YSHD_C_444_-_Nhu_Quynh_-_Chut_Ky_Niem_Buon.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg", Con_Thuong_Rau_Dang_Moc_Sau_He
+http://www.mediafire.com/download/10x6uvqp9p62i4u/YSHD_10872_-_Nhu_Quynh_-_Con_Thuong_Rau_Dang_Moc_Sau_He.mkv
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="image.mp3.zdn.vn/avatars/5/2/5259a64cde9fc5da20f93ba10706dc10_1358310319.jpg", Hai_mua_Noel
+http://www.mediafire.com/download/jz2n82ap6meepic/TTMD_15_-_Manh_Dinh_%26_Nhu_Quynh_-_Hai_mua_Noel.VOB
+
+
+####### Quang Lê ##############################
+
+#EXTINF:-1 group-title="VIETNAM TV24", tvg-logo="avatar.nct.nixcdn.com/playlist/2014/06/10/d/a/b/4/1402376450209_500.jpg",[COLOR yellow][I][B] >>> Quang Lê <<<[/B][/I][/COLOR]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="avatar.nct.nixcdn.com/playlist/2014/06/10/d/a/b/4/1402376450209_500.jpg", Ve_dau_mai_toc_nguoi_thuong
+http://f.vp9.tv/music/nhac_vang/Ve_dau_mai_toc_nguoi_thuong-Quang_Le/mv.mp4
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="avatar.nct.nixcdn.com/playlist/2014/06/10/d/a/b/4/1402376450209_500.jpg", Doi_mat_nguoi_xua
+http://f.vp9.tv/music/nhac_vang/Doi_mat_nguoi_xua-Quang_Le/mv.mp4
+
+
+####### LệQuyên ##############################
+
+#EXTINF:-1 group-title="VIETNAM TV24", tvg-logo="media.thethaovanhoa.vn/2012/06/07/11/16/Le-Quyen_w_550.jpg",[COLOR yellow][I][B] >>> Lệ Quyên <<<[/B][/I][/COLOR]
+http://google.com/
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Ben Em La Bien Rong
+http://www.mediafire.com/download/n67sk4btrk4bhkr/BenEmLaBienRong.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Bien Can
+http://www.mediafire.com/download/desy1p5gzxm52wj/BienCan.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Biet Den Bao Gio
+http://www.mediafire.com/download/q4a1756wo65313m/BietDenBaoGio.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Can Phong
+http://www.mediafire.com/download/994fhnhakwyybk6/CanPhong.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Chiec La Cuoi Cung
+http://www.mediafire.com/download/6b9enditcu9bb5o/ChiecLaCuoiCung.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Con Duong Mau Xanh
+http://www.mediafire.com/download/868wl7aaegk63on/ConDuongMauXanh.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="media.thethaovanhoa.vn/2012/06/07/11/16/Le-Quyen_w_550.jpg", Da Khuc
+http://www.mediafire.com/download/i5awish3165pvuq/DaKhuc.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Dem Vu Truong
+http://www.mediafire.com/download/ivhahr37p4lcvv9/DemVuTruong.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Doi Thong Hai Mo
+http://www.mediafire.com/download/bvvdidr8nb50wti/DoiThongHaiMo.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Giac Mo Co That
+http://www.mediafire.com/download/62kf6ou5x5nvkar/GiacMoCoThat.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Hoa Sua
+http://www.mediafire.com/download/182c4mrsk1mv4s2/HoaSua.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Khoc Tham Dem Mua
+http://www.mediafire.com/download/j8xkx0dpvd5r54r/KhocThamDemMua.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Lam Lo
+http://www.mediafire.com/download/vmool9xhwdlwzdf/LamLo.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Lang Thang Chieu Dong Ha Noi
+http://www.mediafire.com/download/f3fhsckfku03cxm/LangThangChieuDongHaNoi.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Noi Dau Ngu Tri
+http://www.mediafire.com/download/xv3vdi673kv3s4g/NoiDauNguTri.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Sau Le Bong
+http://www.mediafire.com/download/nggg3zoc9htjmxy/SauLeBong.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Thoi Dung Chiem Bao
+http://www.mediafire.com/download/qqrbr3hup4d3e7d/ThoiDungChiemBao.mkv
+
+#EXTINF:-1 group-title="VIETNAM TV24" tvg-logo="www.thammyvieneva.com/wp-content/uploads/2014/09/le-uyen-sua-mui-500x272.jpg", Trai Tim Khong Ngu Yen
+http://www.mediafire.com/download/z273q3kyw6ciarr/TraiTimKhongNguYen.mkv
+
+
+
+
+#<!-------------------------------- End VIETNAM TV24 ------------------------->
+
 
 ####################################### Others ##########################################
 
+#<!--------------------------------CANADA ------------------------->
+
+#EXTINF:-1, tvg-name="" tvg-logo="http://www.drodd.com/images15/canada-flag2.jpg" group-title="CANADA", [COLOR teal]Canada 22-CH 2017[/COLOR]
+http://google.com
+
+#EXTINF:-1, tvg-id="8154" tvg-name="WeatherNation" tvg-logo="www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0002/2390/brand.gif?itok=jU1s1wrp" group-title="CANADA", WeatherNation
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3079
+
+#EXTINF:-1 group-title="CANADA" tvg-logo="http://88888.se:8000/stalker_portal/misc/logos/kodi/8.png", CTV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34918
+
+#EXTINF:-1 group-title="CANADA" tvg-logo="", AMI
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34912
+XTINF:-1 group-title="CANADA" tvg-logo="", Animal Planet HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34908
+XTINF:-1 group-title="CANADA" tvg-logo="", AUX
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34913
+XTINF:-1 group-title="CANADA" tvg-logo="", BNN HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34911
+XTINF:-1 group-title="CANADA" tvg-logo="", Book Television
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34915
+XTINF:-1 group-title="CANADA" tvg-logo="", CBS SPORTS HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34909
+XTINF:-1 group-title="CANADA" tvg-logo="", CMT
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34916
+XTINF:-1 group-title="CANADA" tvg-logo="", Cpac
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34917
+XTINF:-1 group-title="CANADA" tvg-logo="", Documentary Channel HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34923
+XTINF:-1 group-title="CANADA" tvg-logo="", Discovery HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34910
+XTINF:-1 group-title="CANADA" tvg-logo="", Discovery Science
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34921
+XTINF:-1 group-title="CANADA" tvg-logo="", DISNEY HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34926
+XTINF:-1 group-title="CANADA" tvg-logo="", DIY
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34922
+XTINF:-1 group-title="CANADA" tvg-logo="", Deja View
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34919
+XTINF:-1 group-title="CANADA" tvg-logo="", DTOUR HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34924
+XTINF:-1 group-title="CANADA" tvg-logo="", ESPN Classic
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34925
+XTINF:-1 group-title="CANADA" tvg-logo="", FX HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34928
+XTINF:-1 group-title="CANADA" tvg-logo="", FYI
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34929
+XTINF:-1 group-title="CANADA" tvg-logo="", G4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34930
+XTINF:-1 group-title="CANADA" tvg-logo="", Telemundo
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34927
+XTINF:-1 group-title="CANADA" tvg-logo="",  Viceland
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34914
+
+
+
+#<!--------------------------------End CANADA ------------------------->
+
+
+
+
+
 
 #<!-------------------------------- Other Sports New 2017 ------------------------->
+
 
 #EXTINF:-1, tvg-id="409" tvg-name="Boxnation" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="TOP SPORT TV", Boxnation
 http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35608
@@ -724,6 +1214,82 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35584
 #EXTINF:-1, tvg-id="154" tvg-name="SKY SPORTS MIX HD" tvg-logo="" group-title="TOP SPORT TV", SKY SPORTS MIX HD
 http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35575
 
+
+######### MTV Music TV ########################################
+
+#EXTINF:-1 group-title="Music Channels", MTV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8926
+#EXTINF:-1 group-title="Music Channels", MTVLive HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8505
+
+
+#EXTINF:-1 group-title="Music Channels", MTV Music
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34994
+#EXTINF:-1 group-title="Music Channels", 4Music
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35490
+#EXTINF:-1 group-title="Music Channels", MTV Base UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35497
+#EXTINF:-1 group-title="Music Channels", MTV Classic UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35494
+#EXTINF:-1 group-title="Music Channels", MTV Dance UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35495
+#EXTINF:-1 group-title="Music Channels", MTV Hits! UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35498
+#EXTINF:-1 group-title="Music Channels", MTV Rocks UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35496
+#EXTINF:-1 group-title="Music Channels", VH1 Classic UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35492
+#EXTINF:-1 group-title="Music Channels", VH1 UK
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35493
+#EXTINF:-1 group-title="Music Channels", VIVA the Hits!
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35491
+
+#EXTINF:-1,ES: MTV ROCKS
+http://s1.ukhdtv.com:7860/live/z0B8IUq2p5/yBKzKIi7hj/2700.ts
+
+
+#EXTINF:-1 group-title="Music Channels", Kiss MTV[COLOR yellow] HD[/COLOR]
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live_450.stream/chunklist_w.m3u8
+
+#EXTINF:-1 group-title="Music Channels", RMC TV 
+rtmp://fms.105.net:1935/live/rmc1 timeout=10
+
+#EXTINF:0 group-title="Music Channels", A-One
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Music Channels", Eska Wawa TV Polska
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p?b?b*t$ timeout=10
+
+#EXTINF:0 group-title="Music Channels" tvg-id="VH1 c" tvg-name="VH1 c" tvg-logo="5847740.png", VH-1 Classic
+http://gogo.jksw.cz:8024
+
+#EXTINF:0 group-title="Music Channels" tvg-id="Channel AKA" tvg-name="Channel AKA UK" tvg-logo="4812145.png", Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:0 group-title="Music Channels" tvg-id="" tvg-name="" tvg-logo="5300774.png", CineStream
+http://68.71.42.179/live/livestream1/playlist.m3u8
+
+#EXTINF:0 group-title="Music Channels" tvg-id="" tvg-name="" tvg-logo="1496032.png", Eska Best Music 
+rtmp://stream.smcloud.net/live2/best/best_720p  timeout=10
+
+#EXTINF:0 group-title="Music Channels" tvg-id="" tvg-name="" tvg-logo="1496032.png", Eska Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p  timeout=10
+
+#EXTINF:0 group-title="Music Channels" tvg-id="" tvg-name="" tvg-logo="1496032.png", Eska Polo
+rtmp://stream.smcloud.net/live/polotv  timeout=10
+
+#EXTINF:0 group-title="Music Channels" tvg-id="" tvg-name="" tvg-logo="1496032.png", Eska Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p  timeout=10
+
+#EXTINF:0 group-title="Music Channels" tvg-id="" tvg-name="" tvg-logo="1496032.png", Eska Tv
+rtmp://stream.smcloud.net/live/eskatv  timeout=10
+
+#EXTINF:0 group-title="Music Channels" tvg-id="" tvg-name="" tvg-logo="1496032.png", Eska Wawa TV Polska
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p  timeout=10
+
+#EXTINF:0 group-title="Music Channels" tvg-id="Virgin" tvg-name="Virgin" tvg-logo="9944642.png", Virgin 1
+rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin 1  timeout=10
 
 
 ##################### NEWS TV 2017 ##################################
@@ -2187,47 +2753,7 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4853.ts
 
 
-#EXTM3U For LSV Last updated: Fri Aug 11 23:59:22 2017
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SPORTSNET WORLD HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/150.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SPORTSNET ONT HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/148.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SPORTSNET ONE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/149.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SPORTSNET 360 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/147.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SPORTSNET PACIFIC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2434.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TSN 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/138.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TSN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/139.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TSN 3 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/140.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TSN 4 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/141.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TSN 5 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/142.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HGTV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/335.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", GLOBAL EAST HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/15.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV NORTH
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/17.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV EAST HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/16.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV CALGARY
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7338.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", GLOBAL BC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/308.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV VANCOUVER HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/310.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV 2 VANCOUVER HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2418.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV HALIFAX
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4074.ts
-#EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV NEWS NETWORK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2423.ts
+
 
 
 
