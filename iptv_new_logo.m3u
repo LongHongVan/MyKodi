@@ -2416,202 +2416,201 @@ http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMjg5LWFtem9iai5iNTY5
 #### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
 
 
-#Last updated: Fri Aug 11 22:38:20 2017
-#EXTM3U For LSV Last updated: Fri Aug 11 22:38:20 2017
+#EXTM3U For LSV Last updated: Fri Aug 11 23:07:13 2017
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/143.ts;name=ESPN HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/143.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/144.ts;name=ESPN 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/144.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN U HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4064.ts;name=ESPN U HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4064.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN NEWS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4065.ts;name=ESPN NEWS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4065.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FOX SPORTS 1 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/145.ts;name=FOX SPORTS 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/145.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FOX SPORTS 2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/146.ts;name=FOX SPORTS 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/146.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NBC SPORTS
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/170.ts;name=NBC SPORTS
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/170.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBS SPORTS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/169.ts;name=CBS SPORTS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/169.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TENNIS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/167.ts;name=TENNIS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/167.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NHL NETWORK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/156.ts;name=NHL NETWORK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/156.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NFL NETWORK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/157.ts;name=NFL NETWORK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/157.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NBA HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/165.ts;name=NBA HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/165.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", MLB NETWORK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2193.ts;name=MLB NETWORK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2193.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HUNTING CHANNEL
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4100.ts;name=HUNTING CHANNEL
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4100.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", USA NETWORK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/312.ts;name=USA NETWORK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/312.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TV LAND HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/313.ts;name=TV LAND HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/313.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TNT HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/341.ts;name=TNT HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/341.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TBS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/317.ts;name=TBS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/317.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SYFY HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/339.ts;name=SYFY HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/339.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/314.ts;name=FX HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/314.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FXX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/315.ts;name=FXX HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/315.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FOOD HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/333.ts;name=FOOD HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/333.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", COOK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6108.ts;name=COOK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6108.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", E HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/338.ts;name=E! HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/338.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ANIMAL PLANET HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/332.ts;name=ANIMAL PLANET HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/332.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", MTV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/350.ts;name=MTV HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/350.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", LIFE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/325.ts;name=LIFE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/325.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", LIFETIME MOVIES HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/326.ts;name=LIFETIME MOVIES HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/326.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HISTORY HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/322.ts;name=HISTORY HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/322.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HGTV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/335.ts;name=HGTV HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/335.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", BRAVO HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/353.ts;name=BRAVO HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/353.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", AMC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/334.ts;name=AMC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/334.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", PBS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/356.ts;name=PBS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/356.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HALLMARK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/321.ts;name=HALLMARK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/321.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HALLMARK MOVIES MYSTERY H
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4599.ts;name=HALLMARK MOVIES MYSTERY HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4599.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", DIY HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/329.ts;name=DIY HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/329.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", DISCOVERY SCIENCE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/320.ts;name=DISCOVERY SCIENCE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/320.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", DISCOVERY HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/319.ts;name=DISCOVERY HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/319.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SPIKE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/318.ts;name=SPIKE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/318.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TRAVEL HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/349.ts;name=TRAVEL HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/349.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", WE TV HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/342.ts;name=WE TV HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/342.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NBC HD EAST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7.ts;name=NBC HD EAST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ABC HD EAST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/10.ts;name=ABC HD EAST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/10.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBS HD EAST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/8.ts;name=CBS HD EAST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/8.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FOX HD EAST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/9.ts;name=FOX HD EAST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/9.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NBC HD WEST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/303.ts;name=NBC HD WEST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/303.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ABC HD WEST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/306.ts;name=ABC HD WEST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/306.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBS HD WEST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/304.ts;name=CBS HD WEST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/304.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FOX HD WEST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/305.ts;name=FOX HD WEST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/305.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CNN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/360.ts;name=CNN HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/360.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FOX NEWS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/363.ts;name=FOX NEWS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/363.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FOX NEWS BUSINESS
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4600.ts;name=FOX NEWS BUSINESS
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4600.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CNBC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/364.ts;name=CNBC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/364.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBS NEWS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3078.ts;name=CBS NEWS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3078.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ABC NEWS HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3077.ts;name=ABC NEWS HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3077.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", MSNBC HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/365.ts;name=MSNBC HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/365.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NICKELODEON HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/394.ts;name=NICKELODEON HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/394.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ABC SPARK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4063.ts;name=ABC SPARK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4063.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CARTOON NETWORK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/395.ts;name=CARTOON NETWORK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/395.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ACTION HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/370.ts;name=ACTION HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/370.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HBO EAST HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/371.ts;name=HBO EAST HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/371.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HBO COMEDY HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/373.ts;name=HBO COMEDY HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/373.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HBO SIGNATURE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/372.ts;name=HBO SIGNATURE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/372.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HBO FAMILY HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4829.ts;name=HBO FAMILY HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4829.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HBO ZONE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4828.ts;name=HBO ZONE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4828.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", STARZ HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/374.ts;name=STARZ HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/374.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", STARZ EDGE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/377.ts;name=STARZ EDGE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/377.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", STARZ KIDZ HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/375.ts;name=STARZ KIDZ HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/375.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", STARZ COMEDY HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/376.ts;name=STARZ COMEDY HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/376.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", STARZ BLACK HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/378.ts;name=STARZ BLACK HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/378.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ENCORE WESTERN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/379.ts;name=ENCORE WESTERN HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/379.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", MOREMAX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/381.ts;name=MOREMAX HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/381.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CINEMAX EAST HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/380.ts;name=CINEMAX EAST HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/380.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ACTION MAX HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/383.ts;name=ACTION MAX HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/383.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SHOWTIME EAST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/385.ts;name=SHOWTIME EAST
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/385.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SHOWTIME SHOWCASE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/386.ts;name=SHOWTIME SHOWCASE HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/386.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NBC UNIVSERO HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/417.ts;name=NBC UNIVSERO HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/417.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CINEMAX HD ES
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/419.ts;name=CINEMAX HD ES
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/419.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CNN ES
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/429.ts;name=CNN ES
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/429.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", DISCOVERY HD ES
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/430.ts;name=DISCOVERY HD ES
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/430.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HISTORY ES
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/431.ts;name=HISTORY ES
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/431.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN HD DEPORTES
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/432.ts;name=ESPN HD DEPORTES
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/432.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FOOD FOOD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3869.ts;name=FOOD FOOD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3869.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CNBC AWAAZ NEWS
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6919.ts;name=CNBC AWAAZ NEWS
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6919.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NEWS XD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3810.ts;name=NEWS XD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3810.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NEWS 18
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6917.ts;name=NEWS 18
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6917.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NEWS 24
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6903.ts;name=NEWS 24
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6903.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", MTV INDIA
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3826.ts;name=MTV INDIA
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3826.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", AXN HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7185.ts;name=AXN HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7185.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBS ACTION
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7184.ts;name=CBS ACTION
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7184.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBS DRAMA
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7186.ts;name=CBS DRAMA
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7186.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBS REALITY
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7187.ts;name=CBS REALITY
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/7187.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", LIFESTYLE TV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/8105.ts;name=LIFESTYLE TV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/8105.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", USTV
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/1237.ts;name=USTV
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/1237.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", NEWS ONE
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/1224.ts;name=NEWS ONE
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/1224.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CNBCARABIYA
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/5652.ts;name=CNBCARABIYA
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/5652.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CNN
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/5506.ts;name=CNN
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/5506.ts
 
 
 
