@@ -101,8 +101,6 @@ http://127.0.0.1:19098/livestreamer/ac36a3696ec781ba88e1469447723040.m3u8
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", HISTORY
 http://127.0.0.1:19098/livestreamer/d722293bb9bbf20cc112924ef000a225.m3u8
 
-#EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/yyqrvu1433940918.png", BBC One
-http://127.0.0.1:19098/livestreamer/a8f14a834d2d09054715803924e798b2.m3u8
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/ysqvyr1433945409.png", BBC Two
 http://127.0.0.1:19098/livestreamer/d6b64a19b548bf941f57cdd4c5d71904.m3u8
 #EXTINF:-1 group-title="[COLOR teal]OneTV[/COLOR] USA",  tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/urytuu1433945420.png", BBC Three
