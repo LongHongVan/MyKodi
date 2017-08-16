@@ -1,6 +1,6 @@
 [
-    "US Asia GOLDEN 5 DVD1 [COLOR lime]Bonus[/COLOR]", 
-    "US Asia GOLDEN 5 DVV2 [COLOR lime]Bonus[/COLOR]", 
+    "US BONUS ASIA GOLDEN 5 DVD1", 
+    "US BONUS ASIA GOLDEN 5 DVV2", 
     "ESPN HD", 
     "ESPN 2 HD", 
     "ESPN U HD", 

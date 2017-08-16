@@ -1,6 +1,6 @@
 [
     "http://www.mediafire.com/download/qakb2bi9x6cm3a5/Golden_SaiGon_Cua_Toi_5a.mp4", 
-    "http://www.mediafire.com/file/mxs8uap15588rw4/Golden_SaiGon_Cua_Toi_5b.mp4", 
+    "http://www.mediafire.com/download/mxs8uap15588rw4/Golden_SaiGon_Cua_Toi_5b.mp4", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/VirgilGPayne@armyspy.com/ftjfeqzg/143.ts;name=ESPN HD", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/VirgilGPayne@armyspy.com/ftjfeqzg/144.ts;name=ESPN 2 HD", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ok2.se:8000/live/VirgilGPayne@armyspy.com/ftjfeqzg/4064.ts;name=ESPN U HD", 
