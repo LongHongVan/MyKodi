@@ -2229,11 +2229,14 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV NEWS NETWORK HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2423.ts
 
-#EXTINF: group-title="TEST Youtube" tvg-logo="https://i.ytimg.com/vi/jN89KtdTkhs/hqdefault.jpg",Nhạc Xuân 2017 Mới
+#EXTINF: group-title="TEST" tvg-logo="https://i.ytimg.com/vi/jN89KtdTkhs/hqdefault.jpg",Nhạc Xuân 2017 Mới
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=jN89KtdTkhs
 
-#EXTINF: group-title="TEST Youtube" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
+#EXTINF: group-title="TEST" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
+
+#EXTINF: group-title="TEST" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/39/29272DBF7-A92D-DD2C-DC4E1F6248A2D9FE.jpg/revision/latest/scale-to-width-down/185?cb=20150824211833",[COLOR yellow]NBCSN (F4M)[/COLOR]
+http://localhost:62555/?plugin://plugin.video.Pac-12/?url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/25280.ts
 
 
 
