@@ -2232,8 +2232,8 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF: group-title="TEST Youtube" tvg-logo="https://i.ytimg.com/vi/jN89KtdTkhs/hqdefault.jpg",Nhạc Xuân 2017 Mới
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=jN89KtdTkhs
 
-#EXTINF: group-title="TEST Youtube" tvg-logo="https://i.ytimg.com/vi/lkI7QurMHAE/hqdefault.jpg",Thuy Nga Phát Lộc Đầu Năm
-http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=lkI7QurMHAE
+#EXTINF: group-title="TEST Youtube" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
 
 
 
