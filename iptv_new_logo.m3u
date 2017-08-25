@@ -2238,6 +2238,12 @@ http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
 #EXTINF: group-title="TEST" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/39/29272DBF7-A92D-DD2C-DC4E1F6248A2D9FE.jpg/revision/latest/scale-to-width-down/185?cb=20150824211833",[COLOR yellow]NBCSN (F4M)[/COLOR]
 http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/25280.ts
 
+#EXTINF: group-title="TEST" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
+
+#EXTINF: group-title="TEST" tvg-logo="http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo1.png",XXX RETURN OF XANDER CAGE 2017
+http://localhost:62555/?http://ok2.se:8000/movie/32273thuyvo174/00253/5858.mkv
+
 
 
 
