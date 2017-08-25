@@ -2236,7 +2236,7 @@ http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=jN89KtdTkhs
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
 
 #EXTINF: group-title="TEST" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/39/29272DBF7-A92D-DD2C-DC4E1F6248A2D9FE.jpg/revision/latest/scale-to-width-down/185?cb=20150824211833",[COLOR yellow]NBCSN (F4M)[/COLOR]
-http://localhost:62555/?plugin://plugin.video.Pac-12/?url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/25280.ts
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/25280.ts
 
 
 
