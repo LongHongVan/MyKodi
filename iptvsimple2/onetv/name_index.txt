@@ -131,7 +131,7 @@
     "US FOX SPORTS 2 HD 2", 
     "FOX Sports 3", 
     "FIGHT SPORT", 
-    "FIGHT NETWORK", 
+    "FIGHT NETWORK (Showtime)", 
     "FIGHT BOX", 
     "US Food Network HD", 
     "US Food Network HD 2", 
