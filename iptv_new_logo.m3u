@@ -2248,6 +2248,6 @@ http://localhost:62555/?http://ok2.se:8000/movie/32273thuyvo174/00253/5858.mkv
 http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
 
 #EXTINF: group-title="TEST" tvg-logo="http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo1.png",XXX RETURN OF XANDER CAGE 2017 TEST
-http://127.0.0.1:19098/movietreamer/http://ok2.se:8000/movie/32273thuyvo174/00253/5858.mkv
+http://127.0.0.1:19098/vodstreamers/http://ok2.se:8000/movie/32273thuyvo174/00253/5858.mkv
 
 
