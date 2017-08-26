@@ -314,7 +314,7 @@
     "FOOD NETWORK (2)", 
     "SKY Sports Football Special", 
     "PPV Fights 1080", 
-    "PPV Fights 720", 
+    "PPV Skysports Post Office", 
     "PPV Fights hd", 
     "PPV Fights", 
     "PPV FIGHTS", 
