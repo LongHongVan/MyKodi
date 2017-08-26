@@ -2256,6 +2256,9 @@ http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=
 #EXTINF:-1, HGTV HD
 http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/8943.ts;name=HGTV%20HD
 
+#EXTINF:-1 group-title="TEST" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",Fox Sports 2 SP
+http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/20810.ts;name=Fox%20Sports%202%20SP
+
 #++++++++++++++++++++++++++++++++++++++++++
 
 #EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg", PPV1 HD BOXING MAYWEATHER VS MCGREGOR 8/26 9PM EST
