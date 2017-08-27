@@ -1931,20 +1931,23 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 	</extension>
 </addon>
 
-<addon id="plugin.video.youtube" name="YouTube" version="5.3.13" provider-name="jdf76, bromix">
+<addon id="plugin.video.youtube" name="YouTube" version="10.2.0" provider-name="bromix">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
         <import addon="script.module.requests" version="2.12.4"/>
 	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
+	<extension point="xbmc.python.pluginsource" library="resources/lib/default.py">
 		<provides>video</provides>
 	</extension>
-    <extension point="xbmc.service" library="startup.py" start="startup" />
+    <extension point="xbmc.service" library="resources/lib/startup.py" start="startup" />
+	<extension point="xbmc.python.module" library="resources/lib/" />
 	<extension point="xbmc.addon.metadata">
         <news>
-[fix/upd] replace custom simple_requests with script.module.requests to resolve ssl and cross-platform issues
-[add] 'Reset access manager' added to Maintenance section, sign out process(available when logged out) to clean up tokens in settings.xml
-[upd] set default for SSL certificate verification to 'true'
+[add] mpeg-dash support for live content (requires inputstream.adaptive >= 2.0.12)
+[fix/upd] auto subtitles to include auto-generated
+[fix/upd] add My Subscriptions (Filtered) to dual login requirements
+[fix/upd] only show Browse Channels when logged in
+[upd] Greek strings [Twilight0]
         </news>
         <assets>
             <icon>icon.png</icon>
@@ -1959,7 +1962,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 		<summary lang="hu">Kiegészítő  a YouTube-hoz</summary>
         <description lang="hu">A YouTube világ egyik legnagyobb videómegosztó weboldala.</description>
         <summary lang="es">Plugin para YouTube</summary>
-        <description lang="es">YouTube es un uno de los mayores sitios web de intercambio de vídeos del mundo.</description>
+        <description lang="es">YouTube es uno de los mayores sitios web de intercambio de vídeos del mundo.</description>
         <summary lang="ru">Видеодополнение YouTube</summary>
         <description lang="ru">Данное дополнение позволяет находить и смотреть видео на всеми любимом сайте.</description>
         <summary lang="fr">Plugin pour YouTube</summary>
