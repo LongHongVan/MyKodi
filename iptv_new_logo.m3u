@@ -2295,6 +2295,9 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg", PPV2 HD BOXING MAYWEATHER VS MCGREGOR 8/26 9PM EST
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/8563.ts
 
+#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",1080(US) [COLOR aqua]Showtime[/COLOR] HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://amiptv.ddns.net:25461/live/jake1/jake1/10068.ts
+
 #EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg", PPV3 HD BOXING MAYWEATHER VS MCGREGOR 8/26 9PM EST
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/8577.ts
 
