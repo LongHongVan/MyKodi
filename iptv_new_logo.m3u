@@ -2231,20 +2231,26 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 
 #+++++++++++++++++++++TEST++++++++++++++++++++++++++++++
 
-#EXTINF: group-title="TEST" tvg-logo="https://i.ytimg.com/vi/jN89KtdTkhs/hqdefault.jpg",Nhạc Xuân 2017 Mới
+#EXTINF: group-title="TEST2" tvg-logo="https://i.ytimg.com/vi/jN89KtdTkhs/hqdefault.jpg",Nhạc Xuân 2017 Mới
 http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=jN89KtdTkhs
 
-#EXTINF: group-title="TEST" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
+#EXTINF: group-title="TEST2" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
 http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
 
-#EXTINF: group-title="TEST" tvg-logo="",[COLOR yellow]HGTV HD (F4M)[/COLOR]
+#EXTINF: group-title="TEST2" tvg-logo="",[COLOR yellow]FOX SP HD (F4M)[/COLOR]
 http://127.0.0.1:8898/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/20810.ts;name=Fox%20Sports%202%20SP
 
-#EXTINF: group-title="TEST" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
+#EXTINF: group-title="TEST2" tvg-logo="",[COLOR yellow]HGTV HD (F4M)[/COLOR]
+http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/8943.ts;name=HGTV%20HD
+
+#EXTINF: group-title="TEST2" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
 http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
 
-#EXTINF: group-title="TEST" tvg-logo="http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo1.png",XXX RETURN OF XANDER CAGE 2017
+#EXTINF: group-title="TEST2" tvg-logo="http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo1.png",XXX RETURN OF XANDER CAGE 2017
 http://127.0.0.1:8898/vodstreamers/http://ok2.se:8000/movie/32273thuyvo174/00253/5858.mkv
+
+#EXTINF: group-title="TEST2" tvg-logo="",[COLOR green]VTV1 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-1.html&mode=100
 
 
 
