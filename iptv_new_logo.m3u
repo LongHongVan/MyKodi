@@ -2267,11 +2267,11 @@ http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtv
 
 
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD1 1-2 (dailymotion)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxfjl&amp;mode=playVideo
+http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxfjl&mode=playVideo
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD1 2-2 (dailymotion)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxg87&amp;mode=playVideo
+http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxg87&mode=playVideo
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD2 Full (dailymotion)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rd3zd&amp;mode=playVideo
+http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rd3zd&mode=playVideo
 
 #EXTINF: group-title="TEST" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - TEST 19098[/B][/COLOR]
 http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
