@@ -2266,6 +2266,12 @@ http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtv
 http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV9-39.html&mode=100&name=VTV9
 
 
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD1 1-2 (dailymotion)[/COLOR]
+http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxfjl&amp;mode=playVideo
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD1 2-2 (dailymotion)[/COLOR]
+http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxg87&amp;mode=playVideo
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD2 Full (dailymotion)[/COLOR]
+http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rd3zd&amp;mode=playVideo
 
 #EXTINF: group-title="TEST" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - TEST 19098[/B][/COLOR]
 http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
@@ -2289,77 +2295,7 @@ http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=
 
 
 
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",1080(UK) [COLOR lime]FOX[/COLOR] MAYWEATHER VS McGREGOR 9:00PM ET
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/33955.ts
 
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",1080(USA) [COLOR lime]FOX[/COLOR] MAYWEATHER VS McGREGOR 9:00PM ET
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/33288.ts
-
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",1080(USA) [COLOR lime]FOX[/COLOR] MAYWEATHER+VS+McGREGOR+9:00PM+ET
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/33287.ts
-
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",720(UK) [COLOR lime]FOX[/COLOR] MAYWEATHER+VS+McGREGOR+9:00PM+ET
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/33956.ts
-
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",720(USA) [COLOR lime]FOX[/COLOR] MAYWEATHER+VS+McGREGOR+9:00PM+ET
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/35399.ts
-
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",1080(UK) [COLOR lime]SkysportsX[/COLOR] Box Office
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://amiptv.ddns.net:25461/live/jake1/jake1/10066.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg", PPV1 HD BOXING MAYWEATHER VS MCGREGOR 8/26 9PM EST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/3240.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg", PPV2 HD BOXING MAYWEATHER VS MCGREGOR 8/26 9PM EST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/8563.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",1080(US) [COLOR aqua]Showtime[/COLOR] HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://amiptv.ddns.net:25461/live/jake1/jake1/10068.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg", PPV3 HD BOXING MAYWEATHER VS MCGREGOR 8/26 9PM EST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/8577.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",PPV FOX SPORTS 2 (Mexico)
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/6362.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",PPV FOX DEPORTES (ES)
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/237.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",PPV FOX DEPORTES HD ES
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/436.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",Sky Sports HD Main Event
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://amiptv.ddns.net:25461/live/jake1/jake1/25315.ts
-
-#EXTINF:-1,SKY SPORTS HD Prem League
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/25311.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",Fox Sports 2 SP
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://amiptv.ddns.net:25461/live/jake1/jake1/20810.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",FIGHT NETWORK MMA NETWORK
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://amiptv.ddns.net:25461/live/jake1/jake1/25192.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",Showtime HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/25581.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",Showtime2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/35503.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",Showtime2 HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/35500.ts
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",SHOWTIME EAST
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/385.ts
-
-
-#EXTINF:-1 group-title="[COLOR red]PPV UFC-BOXING[/COLOR]" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",SHOWTIME SHOWCASE HD
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/386.ts
 
 
 
