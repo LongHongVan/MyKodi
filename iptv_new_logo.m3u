@@ -2237,6 +2237,9 @@ http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=
 #EXTINF: group-title="TEST2" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
 http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
 
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/tug1qABlQ-M/hqdefault.jpg" group-title="TEST2", Youtube MegaTV Live Event
+http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M
+
 #EXTINF: group-title="TEST2" tvg-logo="",[COLOR yellow]FOX SP HD (F4M)[/COLOR]
 http://127.0.0.1:8898/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/20810.ts;name=Fox%20Sports%202%20SP
 
