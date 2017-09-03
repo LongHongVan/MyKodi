@@ -2294,6 +2294,10 @@ http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=
 
 #EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" radio="" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg" group-title="TEST3",Lệ Quyên 2017 Port 50165
 http://127.0.0.1:50165/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgGeNUDW2Kmk
+
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" radio="" tvg-logo="https://i.ytimg.com/vi/jN89KtdTkhs/hqdefault.jpg" group-title="TEST3",Nhạc Xuân 2017 Mới
+http://127.0.0.1:50165/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3DjN89KtdTkhs
+
 #++++++++++++++++++++++++++++++++++++++++++
 
 
