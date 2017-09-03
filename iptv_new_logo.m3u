@@ -2292,8 +2292,8 @@ http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=
 #EXTINF:-1 group-title="TEST" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",1080(UK) PPV Skysports Box Office
 http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/10066.ts;name=Skysports%20Box%20Office
 
-#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" radio="" tvg-logo="example.png" group-title="TEST3",Lệ Quyên 2017 Port 50165
-http://127.0.0.1:50165/?url=https://www.youtube.com/watch?v=gGeNUDW2Kmk
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" radio="" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg" group-title="TEST3",Lệ Quyên 2017 Port 50165
+http://127.0.0.1:50165/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgGeNUDW2Kmk
 #++++++++++++++++++++++++++++++++++++++++++
 
 
