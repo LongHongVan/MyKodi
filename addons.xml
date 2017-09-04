@@ -1558,18 +1558,20 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 
 <addon
   id="plugin.video.xomgiaitri"
-  version="1.4"
+  version="1.6"
   name="*[COLOR lime]XomGiaiTri.com[/COLOR]"
-  provider-name="V24">
+  provider-name="thongld">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" version="1" />
+    <import addon="script.module.urlresolver" version="0.0.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>xomgiaitri.com</summary>
-    <description>Watch free xomgiaitri.com (Vietnamese) Videos - upadted 02.09.17 (LH)</description>
+    <description>Watch free xomgiaitri.com (Vietnamese) Videos - upadted 09.04.17 (ViETViP)</description>
     <platform>all</platform>
   </extension>
 </addon>
