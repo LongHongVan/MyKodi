@@ -164,7 +164,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 
 <addon id="plugin.video.live.streams"
        name="LiveStreams"
-       version="3.0.2"
+       version="3.1.0"
        provider-name="Shani_HME">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -187,6 +187,11 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
   <extension point="xbmc.addon.metadata">
     <summary>livestreamspro- shamelessly forked from livestreams but added many thinks</summary>
     <description>
+        Modified by Long Hong (10.01.2017): added sublinks.
+         example 3 sublinks xml:
+         sublink:LISTSOURCE:https://www.youtube.com/watch?v=AafCYLK5HIA::LISTNAME:[COLOR yellow]link1[/COLOR]::#
+         sublink:LISTSOURCE:https://www.youtube.com/watch?v=AafCYLK5HIA::LISTNAME:[COLOR yellow]link2[/COLOR]::#
+         sublink:LISTSOURCE:https://www.youtube.com/watch?v=AafCYLK5HIA::LISTNAME:[COLOR yellow]link3[/COLOR]::#
         In addition to what livestreams allowed you to do, you can now,
         1. call regex in regex,
         2. multiple regex in page, regex in session, also htmlunescape responses
