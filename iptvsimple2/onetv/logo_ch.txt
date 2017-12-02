@@ -1,6 +1,6 @@
 [
-    "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/18514099_1363903837011699_2857503391989366784_n.jpg?ig_cache_key=MTUxOTczOTU2MzU4Mzc2MDIwNw%3D%3D.2", 
-    "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/18514099_1363903837011699_2857503391989366784_n.jpg?ig_cache_key=MTUxOTczOTU2MzU4Mzc2MDIwNw%3D%3D.2", 
+    "https://i.imgur.com/jU5KMCK.jpg", 
+    "http://i68.tinypic.com/14si16d.jpg", 
     "http://www.thelogodb.com/images/media/logo/xuprrx1472105225.png", 
     "https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png", 
     "http://www.thelogodb.com/images/media/logo/twvwtx1464553130.png", 

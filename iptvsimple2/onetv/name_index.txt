@@ -1,6 +1,6 @@
 [
-    "US BONUS ASIA GOLDEN 5 DVD1", 
-    "US BONUS ASIA GOLDEN 5 DVV2", 
+    "US BONUS SBTN ThuoHocTro 720p", 
+    "US BONUS PBN 123 720p", 
     "ESPN", 
     "ESPN 2", 
     "Fox Sports 1", 
