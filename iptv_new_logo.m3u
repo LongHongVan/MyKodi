@@ -2284,8 +2284,11 @@ http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id
 #EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/MYFf_UaeD3Y/hqdefault.jpg",[COLOR yellow][B] [Live 24/7] Nonstop Sến Nhảy[/B][/COLOR]
 http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=MYFf_UaeD3Y
 
+#EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/qYWpt-UKDfs/hqdefault.jpg",[COLOR yellow][B] Tổng Hợp Giọng Hát Bolero[/B][/COLOR]
+http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=qYWpt-UKDfs
 
-
+#EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/DAtvswlCU9E&list=PL7iNlLnIWpA9Q4lz-3FTo1h3N70xR1xkO/hqdefault.jpg",[COLOR yellow][B] Phim Đặc Nhiệm Quyến Rũ[/B][/COLOR]
+http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=DAtvswlCU9E&list=PL7iNlLnIWpA9Q4lz-3FTo1h3N70xR1xkO
 
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
