@@ -1010,6 +1010,34 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2424.ts
 
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Quê Hương TV (UNOIPTV-103)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
+	
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png", Bolero (UNOIPTV-112) http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu2N2SIB4yGcw
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/cosmotv.png", CosmoTV (UNOIPTV-101)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1sOng5kMYdU
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/catholic.png", CTV (UNOIPTV-94)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2Fwtav6MBYPXaY
+	
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Film24h.jpg", Film 24h (UNOIPTV-107)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu0f9C4l86Hqm
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.viettv24.com/main/images/vietfaceTV_logo.jpg", Việt Face TV 57.2
+
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_SAN_JOSE.jpg", VIETV San Jose (UNOIPTV-141)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuzeHeiLSRpP%2B
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vlife_1.jpg", VLife (UNOIPTV-108)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu7UBHqOmukag
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vnews.jpg", Vnews (UNOIPTV-100)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu9uTovzKkHwc
+
+
+
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="https://s24.postimg.org/umvwrvfrp/KVLA.png",VIETKVLA
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2426.ts
 
