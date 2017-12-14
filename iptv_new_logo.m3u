@@ -2290,6 +2290,9 @@ http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id
 #EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/DAtvswlCU9E&list=PL7iNlLnIWpA9Q4lz-3FTo1h3N70xR1xkO/hqdefault.jpg",[COLOR yellow][B] Phim Đặc Nhiệm Quyến Rũ[/B][/COLOR]
 http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=DAtvswlCU9E&list=PL7iNlLnIWpA9Q4lz-3FTo1h3N70xR1xkO
 
+#EXTINF: group-title="YOUTUBE" tvg-logo="http://www.alyx-yeyi.com/uploads/images/references/qhra.gif",[COLOR aqua][B] Que Huong UNOIPTV[/B][/COLOR]
+http://127.0.0.1:19098/vodstreamer/plugin://plugin.video.kodi4vn.launcher/play/http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
+
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 #EXTINF: group-title="TEST" tvg-logo="http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo1.png",XXX RETURN OF XANDER CAGE 2017 TEST
