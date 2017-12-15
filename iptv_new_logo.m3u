@@ -1010,6 +1010,18 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg", VTV 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2424.ts
 
+#EXTINF: group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.viettv24.com/main/images/skcd.jpg",[COLOR green]Sân Khấu Cuộc Đời[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.kodi4vn.launcher/play/cailuong
+
+#EXTINF: group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.viettv24.com/main/images/Hai%2024-7.jpg",[COLOR green]Hài 24-7[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.kodi4vn.launcher/play/hai
+
+#EXTINF: group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.viettv24.com/main/images/VpopTV_logo.jpg",[COLOR green]VPopTV[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.kodi4vn.launcher/play/vpoptv
+
+#EXTINF: group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.viettv24.com/main/images/VietMediaTV_logo.jpg",[COLOR green]Việt Media TV[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.kodi4vn.launcher/play/vietmediatv
+
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Quê Hương TV (UNOIPTV-103)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
 	
@@ -2311,15 +2323,6 @@ http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vt
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]VTV9 HD (ITVPlus)[/COLOR]
 http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV9-39.html&mode=100&name=VTV9
 
-
-#EXTINF: group-title="TEST2" tvg-logo="http://www.viettv24.com/main/images/skcd.jpg",[COLOR green]Sân Khấu Cuộc Đời[/COLOR]
-http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.kodi4vn.launcher/play/cailuong
-
-#EXTINF: group-title="TEST2" tvg-logo="http://www.viettv24.com/main/images/Hai%2024-7.jpg",[COLOR green]Hài 24-7[/COLOR]
-http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.kodi4vn.launcher/play/hai
-
-#EXTINF: group-title="TEST2" tvg-logo="http://www.viettv24.com/main/images/VpopTV_logo.jpg",[COLOR green]VPopTV[/COLOR]
-http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.kodi4vn.launcher/play/vpoptv
 
 # +++++++++++++++++++TEST YOUTUBE++++++++++++++++++++++++++++++++++
 
