@@ -1013,19 +1013,17 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Quê Hương TV (UNOIPTV-103)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
 	
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png", Bolero (UNOIPTV-112) http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu2N2SIB4yGcw
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png", Bolero (UNOIPTV-112) 
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu2N2SIB4yGcw
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/cosmotv.png", CosmoTV (UNOIPTV-101)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1sOng5kMYdU
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/catholic.png", CTV (UNOIPTV-94)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2Fwtav6MBYPXaY
-	
+
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Film24h.jpg", Film 24h (UNOIPTV-107)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu0f9C4l86Hqm
-
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.viettv24.com/main/images/vietfaceTV_logo.jpg", Việt Face TV 57.2
-
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_SAN_JOSE.jpg", VIETV San Jose (UNOIPTV-141)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuzeHeiLSRpP%2B
@@ -1036,6 +1034,21 @@ http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu7UBHqOmukag
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vnews.jpg", Vnews (UNOIPTV-100)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu9uTovzKkHwc
 
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vietglobal.png", VGM TV (UNOIPTV-109)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu%2BrLZM7aT1Un
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/phatgiao.png", Phật Giáo (UNOIPTV-92)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwtZn4HigOpU7
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VANTV2.png", VANTV (UNOIPTV-102)http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1omi7Bv0Hsp
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_LOS_ANGELES.jpg", VIETV Los Angeles (UNOIPTV-131)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6TfO0D%2FS8QI
+    
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_HOUSTON.jpg", VIETV Houston (UNOIPTV-125)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu77li16%2B5lMH
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_CANADA.jpg", VIETV Canada (UNOIPTV-111)http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6o6WzI7QWZY
 
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="https://s24.postimg.org/umvwrvfrp/KVLA.png",VIETKVLA
@@ -2318,8 +2331,6 @@ http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id
 #EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/DAtvswlCU9E&list=PL7iNlLnIWpA9Q4lz-3FTo1h3N70xR1xkO/hqdefault.jpg",[COLOR yellow][B] Phim Đặc Nhiệm Quyến Rũ[/B][/COLOR]
 http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=DAtvswlCU9E&list=PL7iNlLnIWpA9Q4lz-3FTo1h3N70xR1xkO
 
-#EXTINF: group-title="YOUTUBE" tvg-logo="http://www.alyx-yeyi.com/uploads/images/references/qhra.gif",[COLOR orange][B] Que Huong UNOIPTV[/B][/COLOR]
-http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
 
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
