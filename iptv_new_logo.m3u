@@ -1004,10 +1004,10 @@ http://xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="https://s23.postimg.org/uelya7dfv/VNCH.png",[COLOR cyan][B]*** Live TV Hải Ngoại ***[/B][/COLOR]       
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
 
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", [COLOR lime]SBTN HD (New)[/COLOR]
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", [COLOR lime]SBTN HD[/COLOR]
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2433.ts
 
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV 4
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg", VTV 4
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2424.ts
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Quê Hương TV (UNOIPTV-103)
@@ -1040,7 +1040,8 @@ http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu%2BrLZM7aT1Un
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/phatgiao.png", Phật Giáo (UNOIPTV-92)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwtZn4HigOpU7
 
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VANTV2.png", VANTV (UNOIPTV-102)http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1omi7Bv0Hsp
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VANTV2.png", VANTV (UNOIPTV-102)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1omi7Bv0Hsp
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_LOS_ANGELES.jpg", VIETV Los Angeles (UNOIPTV-131)
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6TfO0D%2FS8QI
