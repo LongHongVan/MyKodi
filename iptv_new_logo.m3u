@@ -2296,28 +2296,28 @@ http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=
 http://127.0.0.1:8898/vodstreamers/http://ok2.se:8000/movie/32273thuyvo174/00253/5858.mkv
 
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png",[COLOR green]VTV1 HD (ITVPlus)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-1.html&mode=100&name=VTV1
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-1.html&mode=100&name=VTV1
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",[COLOR green]VTV2 HD (ITVPlus)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-2.html&mode=100&name=VTV2
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-2.html&mode=100&name=VTV2
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV3.png",[COLOR green]VTV3 HD (ITVPlus)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-3.html&mode=100&name=VTV3
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-3.html&mode=100&name=VTV3
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV6.png",[COLOR green]VTV6 HD (ITVPlus)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-6.html&mode=100&name=VTV6
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-6.html&mode=100&name=VTV6
 
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",[COLOR green]VTV7 HD (ITVPlus)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV7-27.html&mode=100&name=VTV7
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV7-27.html&mode=100&name=VTV7
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",[COLOR green]VTV8 HD (ITVPlus)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV8-36.html&mode=100&name=VTV8
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV8-36.html&mode=100&name=VTV8
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]VTV9 HD (ITVPlus)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV9-39.html&mode=100&name=VTV9
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV9-39.html&mode=100&name=VTV9
 
 
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD1 1-2 (dailymotion)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxfjl&mode=playVideo
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxfjl&mode=playVideo
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD1 2-2 (dailymotion)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxg87&mode=playVideo
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rxg87&mode=playVideo
 #EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]Asia Golden 5 HD DVD2 Full (dailymotion)[/COLOR]
-http://127.0.0.1:8898/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rd3zd&mode=playVideo
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.dailymotion_com/?url=x5rd3zd&mode=playVideo
 
 # +++++++++++++++++++TEST YOUTUBE++++++++++++++++++++++++++++++++++
 
