@@ -979,24 +979,23 @@ http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
 
 ################### Pac-12T #####################################
-
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Test New Pac-12 
-http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 Plus FHD
+http://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8
 
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National FHD
-http://xrxs.net/video/live-p12netw-4728.m3u8
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona FHD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles FHD
-http://xrxs.net/video/live-p12losa-4728.m3u8
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain FHD
-http://xrxs.net/video/live-p12moun-4728.m3u8
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon FHD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington FHD
-http://xrxs.net/video/live-p12wash-4728.m3u8
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area FHD
-http://xrxs.net/video/live-p12baya-4728.m3u8
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 
 ################### End Pac-12 #####################################
 
