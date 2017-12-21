@@ -980,6 +980,9 @@ http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
 ################### Pac-12T #####################################
 
+#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Test New Pac-12 
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National FHD
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona FHD
