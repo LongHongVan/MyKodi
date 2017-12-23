@@ -2381,34 +2381,15 @@ http://127.0.0.1:50165/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Dtug1qABlQ-M
 #http://127.0.0.1:50165/?url=http%3A%2F%2Fiptv.genius-stream.com%3A6204%2Flive%2Fonline%2Ftv%2F1507.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VTV1 (new)
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1011/vtv1
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VTV2
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1010/vtv2
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VTV3
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1013/vtv3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VTV4
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1009/vtv4
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VTC1
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1007/vtc1
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VTC10
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1006/netviet
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VTC16
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1018/vtc16
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", HN1
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1008/hn
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", HTV9
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1012/htv9
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", TTXVN
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1019/ttxvn
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VOV1
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1014/vov1
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VOV2
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1015/vov2
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VOV3
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1016/vov3
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="VN TVNET", VOV5
-http://vn.tvnet.gov.vn:8084/kenh-truyen-hinh/1017/vov5
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg" group-title="VN TVNET", VTV1 HD VTVGo
+http://localhost:5001/?url=vtvgo-VTV1-1
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg" group-title="VN TVNET", VTV2 HD VTVGo
+http://localhost:5001/?url=vtvgo-VTV1-2
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg" group-title="VN TVNET", VTV3 HD VTVGo
+http://localhost:5001/?url=vtvgo-VTV1-3
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg" group-title="VN TVNET", VTV4 HD VTVGo
+http://localhost:5001/?url=vtvgo-VTV1-4
+
 
 #++++++++++++++++++++++++++++++++++++++++++
 
