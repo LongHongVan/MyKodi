@@ -2382,13 +2382,13 @@ http://127.0.0.1:50165/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Dtug1qABlQ-M
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg" group-title="VN TVNET", VTV1 HD VTVGo
-http://localhost:5001/?url=vtvgo-VTV1-1
+http://localhost:5001/play.m3u8?url=vtvgo-VTV1-1
 #EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg" group-title="VN TVNET", VTV2 HD VTVGo
-http://localhost:5001/?url=vtvgo-VTV1-2
+http://localhost:5001/play.m3u8?url=vtvgo-VTV1-2
 #EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg" group-title="VN TVNET", VTV3 HD VTVGo
-http://localhost:5001/?url=vtvgo-VTV1-3
+http://localhost:5001/play.m3u8?url=vtvgo-VTV1-3
 #EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg" group-title="VN TVNET", VTV4 HD VTVGo
-http://localhost:5001/?url=vtvgo-VTV1-4
+http://localhost:5001/play.m3u8?url=vtvgo-VTV1-4
 
 
 #++++++++++++++++++++++++++++++++++++++++++
