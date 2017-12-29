@@ -979,22 +979,22 @@ http://127.0.0.1:19099/livestreamer/3baf7db0d8f1d400816fb6166b297f46.m3u8
 
 
 ################### Pac-12T #####################################
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 Plus FHD
+#EXTINF:-1 group-title="Pac-12" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 Plus FHD
 http://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8
 
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National FHD
+#EXTINF:-1 group-title="Pac-12" tvg-logo="x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National FHD
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona FHD
+#EXTINF:-1 group-title="Pac-12" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona FHD
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles FHD
+#EXTINF:-1 group-title="Pac-12" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles FHD
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain FHD
+#EXTINF:-1 group-title="Pac-12" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain FHD
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon FHD
+#EXTINF:-1 group-title="Pac-12" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon FHD
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington FHD
+#EXTINF:-1 group-title="Pac-12" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington FHD
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1 group-title="Pac-12",  tvg-id="" tvg-name="" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area FHD
+#EXTINF:-1 group-title="Pac-12" tvg-logo="x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area FHD
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 
 ################### End Pac-12 #####################################
@@ -1161,17 +1161,17 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 
 
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="http://sbtn.co/images/set-sbtn-logo2.png", SET TV
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://sbtn.co/images/set-sbtn-logo2.png", SET TV
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", Saigon TV
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="lh3.googleusercontent.com/-OL4LIWM9P34/AAAAAAAAAAI/AAAAAAAAACU/jSPrj-8eR6c/photo.jpg", Saigon TV
 http://saigontvtv.saigon.ns01.us:1935/Lstv577/myStream/chunklist_w1229536511.m3u8
 
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="https://unoipbox.com/develop/webprojects/projects/uno/skins/uno/images/channel/channel_schannel.png", SChannel
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="https://unoipbox.com/develop/webprojects/projects/uno/skins/uno/images/channel/channel_schannel.png", SChannel
 http://schannel.saigon.ns01.us:1935/schannel/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg", VStar
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg", VStar
 http://saigontvtv.saigon.ns01.us:1935/VietStarTV/myStream/chunklist_w36065371.m3u8
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]",  tvg-id="" tvg-name="" tvg-logo="yt3.ggpht.com/-NTEw5Vvn_pA/AAAAAAAAAAI/AAAAAAAAAAA/l4_jd0MiVhY/s88-c-k-no/photo.jpg", Viet News
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="yt3.ggpht.com/-NTEw5Vvn_pA/AAAAAAAAAAI/AAAAAAAAAAA/l4_jd0MiVhY/s88-c-k-no/photo.jpg", Viet News
 http://saigontvtv.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
 
 
@@ -1874,33 +1874,37 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32972
 
 #### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
 
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTV1 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMTMtYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djEtaGlnaC5tM3U4
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTV1 HD
+http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
 
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",VTV2 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMjg5LWFtem9iai5iNTY5NWNkZS5jZG52aWV0LmNvbS9saXZlL19kZWZpbnN0Xy92dHYyLWhpZ2gubTN1OA==
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",VTV2 HD
+http://127.0.0.1:19098/vntvnetproxy/1010/vtv2
 
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTV3 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMTMtYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djMtaGlnaC5tM3U4
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTV3 HD
+http://127.0.0.1:19098/vntvnetproxy/1013/vtv3
 
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV4 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNDUtYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djQtaGlnaC5tM3U4
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV4 HD
+http://127.0.0.1:19098/vntvnetproxy/1009/vtv4
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTC1 HD
+http://127.0.0.1:19098/vntvnetproxy/1007/vtc1
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",NetViet HD
+http://127.0.0.1:19098/vntvnetproxy/1006/netviet
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTC16 HD
+http://127.0.0.1:19098/vntvnetproxy/1018/vtc16
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",HTV9 HD
+http://127.0.0.1:19098/vntvnetproxy/1012/htv9
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",TTXVN HD
+http://127.0.0.1:19098/vntvnetproxy/1019/ttxvn
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",Ha Noi HD
+http://127.0.0.1:19098/vntvnetproxy/1008/hn
 
 
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv5_vn.jpg",VTV5 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNDUtYW16b2JqLmI1Njk1Y2RlLmNkbnZpZXQuY29tL2xpdmUvX2RlZmluc3RfL3Z0djUtaGlnaC5tM3U4
-
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv6_vn.jpg",VTV6 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNjctYW16b2JqLmI1Njk1Y2RlLmNkbnZpZXQuY29tL2xpdmUvX2RlZmluc3RfL3Z0djYtaGlnaC5tM3U4
-
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv7_vn.jpg",VTV7 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvNjctYW16b2JqLjg5Y2IxMDM5LnZpZXR0ZWwtY2RuLnZuL2xpdmUvX2RlZmluc3RfL3Z0djctaGlnaC5tM3U4
-
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv8_vn.jpg",VTV8 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMjg5LWFtem9iai5iNTY5NWNkZS5jZG52aWV0LmNvbS9saXZlL19kZWZpbnN0Xy92dHY4LWhpZ2gubTN1OA==
-
-#EXTINF:-1 group-title="VTVGoVN Live",  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv9_vn.jpg",VTV9 HD
-http://127.0.0.1:19098/livestreamer/aGxzOi8vaHR0cDovL3Z0dmdvMjg5LWFtem9iai5iNTY5NWNkZS5jZG52aWV0LmNvbS9saXZlL19kZWZpbnN0Xy92dHY4LWhpZ2gubTN1OA==
 
 
 
