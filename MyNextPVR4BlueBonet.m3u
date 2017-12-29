@@ -1,7 +1,4 @@
 #EXTM3U tvg-shift=0
-# Updated 12.28.17 12:00 PM - by Long Hong for NextPVR Recording
-
-#Top USA Channels
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/143.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN 2 HD
@@ -377,10 +374,6 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV NEWS NETWORK HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2423.ts
 
-
-
-
-#### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
 
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTV1 HD
 http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
