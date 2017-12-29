@@ -1,0 +1,35 @@
+#EXTM3U tvg-shift=0
+# Updated 12.28.17 12:00 PM - by Long Hong for NextPVR Recording
+#EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
+http://google.com
+#### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTV1 HD
+http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",VTV2 HD
+http://127.0.0.1:19098/vntvnetproxy/1010/vtv2
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTV3 HD
+http://127.0.0.1:19098/vntvnetproxy/1013/vtv3
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV4 HD
+http://127.0.0.1:19098/vntvnetproxy/1009/vtv4
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTC1 HD
+http://127.0.0.1:19098/vntvnetproxy/1007/vtc1
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",NetViet HD
+http://127.0.0.1:19098/vntvnetproxy/1006/netviet
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTC16 HD
+http://127.0.0.1:19098/vntvnetproxy/1018/vtc16
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",HTV9 HD
+http://127.0.0.1:19098/vntvnetproxy/1012/htv9
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",TTXVN HD
+http://127.0.0.1:19098/vntvnetproxy/1019/ttxvn
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",Ha Noi HD
+http://127.0.0.1:19098/vntvnetproxy/1008/hn
