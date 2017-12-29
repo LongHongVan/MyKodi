@@ -1,4 +1,90 @@
 #EXTM3U tvg-shift=0
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/ABC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]", ABC
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ABC
+
+#EXTINF:-1 tvg-name="CBS New York" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CBS New York
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CBS
+
+#EXTINF:-1 tvg-name="CW" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CW.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CW HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CW
+
+#EXTINF:-1 tvg-name="Fox New York" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/FOX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FOX HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FOX
+
+#EXTINF:-1 tvg-name="NBC New York" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/NBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",NBC HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=NBC
+
+#EXTINF:-1 tvg-name="PBS" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/PBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",PBS HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=PBS
+
+#EXTINF:-1 tvg-name="MY9" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/MY9.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",MY9
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=My9
+
+#EXTINF:-1 tvg-name="A and E" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/AE.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AE HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AE
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/AMC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",AMC HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=AMC
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Animal%20Planet.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Animal Planet HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Animal%20Planet
+
+#EXTINF:-1 tvg-name="Bravo" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Bravo.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Bravo HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Bravo
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Cartoon%20Network.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Cartoon Network HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Cartoon%20Network
+
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CNBC.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNBC HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNBC
+
+#EXTINF:-1 tvg-name="CNN News" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/CNN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",CNN News HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=CNN
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Comedy%20Central.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Comedy Central HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Comedy%20Central
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Discovery.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Discovery Channel HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Discovery
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/ESPN.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",ESPN HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=ESPN
+
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Fox%20News.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Fox News HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Fox%20News
+
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/FX.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",FX HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=FX
+
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/HISTORY.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",HISTORY HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=HISTORY
+
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Lifetime.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Lifetime HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Lifetime
+
+#EXTINF:-1 tvg-name="National Geographic Channel HD" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/National%20Geographic.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",National Geographic HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=National%20Geographic
+
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Nickelodeon.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Nickelodeon
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Nickelodeon
+
+#EXTINF:-1 tvg-name="Spike" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/SPIKE%20TV.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Spike HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=SPIKE%20V
+
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/Syfy.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",Syfy
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=Syfy
+
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/TBS.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TBS HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=TBS
+
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/TNT.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",TNT HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=TNT
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://github.com/LongHongVan/MyKodi/raw/master/images/logos/USA%20Network.png" group-title="[COLOR lime]USTVNow Local East Channels[/COLOR]",USA Network HD
+http://localhost:8898/ustvnowtv.m3u?&pkid=0&tmp=1&portal=1&channel=USA%20Network
+
+
+
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/143.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN 2 HD
