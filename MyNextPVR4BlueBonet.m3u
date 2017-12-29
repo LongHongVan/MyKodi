@@ -12,11 +12,6 @@ http://127.0.0.1:19098/vntvnetproxy/1013/vtv3
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4 HD
 http://127.0.0.1:19098/vntvnetproxy/1009/vtv4
 
-addLink("[COLOR green]VTV5 HD [/COLOR]", "VTV1-5", 2, vtvlogo + "vtv5_vn.jpg", fanart, "NoSort", isFolder=False)
-	addLink("[COLOR green]VTV6 HD [/COLOR]", "VTV1-6", 2, vtvlogo + "vtv6_vn.jpg", fanart, "NoSort", isFolder=False)
-	addLink("[COLOR green]VTV7 HD [/COLOR]", "VTV1-27", 2, "http://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png", fanart, "NoSort", isFolder=False)
-	addLink("[COLOR green]VTV8 HD [/COLOR]", "VTV1-36", 2, "http://tv.vietbao.vn/images/tv2015/channels/-vtv8.jpg", fanart, "No
-
 
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://wap.vtvgo.vn/lalala/public/images/logo.png",VTVGo5 HD
 http://127.0.0.1:19098/vtvgovnProxy/VTV1-5
