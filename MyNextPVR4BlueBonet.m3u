@@ -2,9 +2,6 @@
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/VTV1.png", VTV1 HD
 http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/VTV1.png", VTV1Go HD
-http://127.0.0.1:19098/vtvgovnProxy/VTV1-1
-
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png", VTV2 HD
 http://127.0.0.1:19098/vntvnetproxy/1010/vtv2
 
@@ -31,6 +28,49 @@ http://127.0.0.1:19098/vntvnetproxy/1019/ttxvn
 
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Hanoitv.png", Ha Noi HD
 http://127.0.0.1:19098/vntvnetproxy/1008/hn
+
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Quê Hương TV (UNOIPTV-103)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
+    
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png", Bolero (UNOIPTV-112) 
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu2N2SIB4yGcw
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/cosmotv.png", CosmoTV (UNOIPTV-101)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1sOng5kMYdU
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/catholic.png", CTV (UNOIPTV-94)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2Fwtav6MBYPXaY
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Film24h.jpg", Film 24h (UNOIPTV-107)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu0f9C4l86Hqm
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_SAN_JOSE.jpg", VIETV San Jose (UNOIPTV-141)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuzeHeiLSRpP%2B
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vlife_1.jpg", VLife (UNOIPTV-108)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu7UBHqOmukag
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vnews.jpg", Vnews (UNOIPTV-100)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu9uTovzKkHwc
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vietglobal.png", VGM TV (UNOIPTV-109)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu%2BrLZM7aT1Un
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/phatgiao.png", Phật Giáo (UNOIPTV-92)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwtZn4HigOpU7
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VANTV2.png", VANTV (UNOIPTV-102)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1omi7Bv0Hsp
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_LOS_ANGELES.jpg", VIETV Los Angeles (UNOIPTV-131)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6TfO0D%2FS8QI
+    
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_HOUSTON.jpg", VIETV Houston (UNOIPTV-125)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu77li16%2B5lMH
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_CANADA.jpg", VIETV Canada (UNOIPTV-111)
+http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6o6WzI7QWZY
 
 
 
