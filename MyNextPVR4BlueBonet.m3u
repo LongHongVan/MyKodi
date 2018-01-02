@@ -1,7 +1,9 @@
 #EXTM3U tvg-shift=0
-
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/VTV1.png", VTV1 HD
 http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/VTV1.png", VTV1Go HD
+http://127.0.0.1:19098/vtvgovnProxy/VTV1-1
 
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png", VTV2 HD
 http://127.0.0.1:19098/vntvnetproxy/1010/vtv2
@@ -11,8 +13,6 @@ http://127.0.0.1:19098/vntvnetproxy/1013/vtv3
 
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png", VTV4 HD
 http://127.0.0.1:19098/vntvnetproxy/1009/vtv4
-
-
 
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/Logo_VTC1.png", VTC1 HD
 http://127.0.0.1:19098/vntvnetproxy/1007/vtc1

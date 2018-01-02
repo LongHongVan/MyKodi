@@ -1911,7 +1911,7 @@ http://127.0.0.1:19098/vntvnetproxy/1008/hn
 #### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
 
 
-#EXTM3U For LSV Last updated: Fri Aug 11 23:07:13 2017
+#Top USA Channels
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/143.ts
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN 2 HD
@@ -2107,7 +2107,6 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CNN
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/5506.ts
 
-#EXTM3U For LSV Last updated: Fri Aug 11 23:50:24 2017
 #EXTINF:-1 group-title="Top UK Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SKY SPORTS 1 HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/204.ts
 #EXTINF:-1 group-title="Top UK Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SKY SPORTS 2 HD
@@ -2248,7 +2247,6 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/4853.ts
 
 
-#EXTM3U For LSV Last updated: Fri Aug 11 23:59:22 2017
 #EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SPORTSNET WORLD HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/150.ts
 #EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SPORTSNET ONT HD
