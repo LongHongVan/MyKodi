@@ -1,36 +1,59 @@
 #EXTM3U tvg-shift=0
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/VTV1.png", VTV1 HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/VTV1.png", VTV1 HD
 http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png", VTV2 HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png", VTV2 HD
 http://127.0.0.1:19098/vntvnetproxy/1010/vtv2
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6e/Vtv3_logo.png", VTV3 HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6e/Vtv3_logo.png", VTV3 HD
 http://127.0.0.1:19098/vntvnetproxy/1013/vtv3
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png", VTV4 HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png", VTV4 HD
 http://127.0.0.1:19098/vntvnetproxy/1009/vtv4
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/Logo_VTC1.png", VTC1 HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/Logo_VTC1.png", VTC1 HD
 http://127.0.0.1:19098/vntvnetproxy/1007/vtc1
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://cdn-006.mobile2morrow.com/wp-content/uploads/2017/06/netvietvtc10.png", NetViet HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="https://cdn-006.mobile2morrow.com/wp-content/uploads/2017/06/netvietvtc10.png", NetViet HD
 http://127.0.0.1:19098/vntvnetproxy/1006/netviet
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://img.hplus.com.vn/728x409/banner/2016/07/13/949335-vtc16.png", VTC16 HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="http://img.hplus.com.vn/728x409/banner/2016/07/13/949335-vtc16.png", VTC16 HD
 http://127.0.0.1:19098/vntvnetproxy/1018/vtc16
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://i.imgur.com/DUhJcZK.png", HTV9 HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="http://i.imgur.com/DUhJcZK.png", HTV9 HD
 http://127.0.0.1:19098/vntvnetproxy/1012/htv9
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://i.imgur.com/Lcsp6Yd.png", TTXVN HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="http://i.imgur.com/Lcsp6Yd.png", TTXVN HD
 http://127.0.0.1:19098/vntvnetproxy/1019/ttxvn
 
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Hanoitv.png", Ha Noi HD
+#EXTINF:-1 group-title="VTVNet Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Hanoitv.png", Ha Noi HD
 http://127.0.0.1:19098/vntvnetproxy/1008/hn
 
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV6.png",VTV6 HD (ITVPlus)
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-6.html&mode=100&name=VTV6
 
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Quê Hương TV (UNOIPTV-103)
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png", VTV7 HD (ITVPlus)
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV7-27.html&mode=100&name=VTV7
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png", VTV8 HD (ITVPlus)
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV8-36.html&mode=100&name=VTV8
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png", VTV9 HD (ITVPlus)
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV9-39.html&mode=100&name=VTV9
+
+
+#EXTINF: group-title="VTVGo" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV6.png", VTV6 HD (VTVGo)
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/%3Fxem-truc-tuyen-kenh-vtv6-6.html
+
+#EXTINF: group-title="VTVGo" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png", VTV7 HD (VTVGo)
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/%3Fxem-truc-tuyen-kenh-vtv7-27.html
+
+#EXTINF: group-title="VTVGo" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png", VTV8 HD (VTVGo)
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/%3Fxem-truc-tuyen-kenh-vtv8-36.html
+
+#EXTINF: group-title="VTVGo" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png", VTV9 HD (VTVGo)
+http://127.0.0.1:19098/vtvgovnProxy/http://vtvgo.vn/%3Fxem-truc-tuyen-kenh-vtv-39.html
+
+
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Que Huong TV (UNOIPTV-103)
 http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
     
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png", Bolero (UNOIPTV-112) 
@@ -57,7 +80,7 @@ http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu9uTovzKkHwc
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vietglobal.png", VGM TV (UNOIPTV-109)
 http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu%2BrLZM7aT1Un
 
-#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/phatgiao.png", Phật Giáo (UNOIPTV-92)
+#EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/phatgiao.png", Phat Giao (UNOIPTV-92)
 http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwtZn4HigOpU7
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VANTV2.png", VANTV (UNOIPTV-102)
@@ -71,6 +94,9 @@ http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu77li16%2B5lMH
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_CANADA.jpg", VIETV Canada (UNOIPTV-111)
 http://127.0.0.1:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6o6WzI7QWZY
+
+
+
 
 
 
