@@ -41,6 +41,12 @@ http://127.0.0.1:19098/vntvnetproxy/1055/thanh-hoa
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png", nghe-an HD
 http://127.0.0.1:19098/vntvnetproxy/1056/nghe-an
 
+#EXTINF: group-title="VTVGoVN Live" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",[COLOR green]VTV7 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV7-27.html&mode=100&name=VTV7
+
+#EXTINF: group-title="VTVGoVN Live" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",[COLOR green]HTV7 HD (VietMediaF)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.vietmediaF?action=play&thread_id=5890&url=wWCD6Oe8vFYArmTMrLOdlcxOn0V%2B5h977tCQJ2d0do3qDuV%2BgD8kZmv5P69iDpsjeAAXj%2FtzwrSpI%2FNYHyQ%2B9w%3D%3D
+
 
 
 
