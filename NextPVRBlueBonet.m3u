@@ -41,67 +41,67 @@ http://127.0.0.1:19098/vntvnetproxy/1055/thanh-hoa
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png", nghe-an HD
 http://127.0.0.1:19098/vntvnetproxy/1056/nghe-an
 
-#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/htv1-online.jpg",[COLOR green]HTV1 HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/htv1-online.jpg",HTV1
 http://27.67.80.6:18080/53_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrLWwpiHEjKhTbSTNLlRKKDg==
 
-#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/htv1-online.jpg",[COLOR green]HTV2 HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/htv2-online.jpg",HTV2
 http://27.67.80.6:18080/54_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr/dcedLZXMzZlgVqKBNcEvA==
 
-#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/htv3-online.jpg",[COLOR green]HTV3 HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/htv3-online.jpg",HTV3
 http://27.67.80.6:18080/71_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrLWwpiHEjKhTbSTNLlRKKDg==
 
-#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/htv4-online.jpg",[COLOR green]HTV4 HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/htv4-online.jpg",HTV4
 http://27.67.80.6:18080/204_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrLWwpiHEjKhTbSTNLlRKKDg==
 
-#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/HTV7-HD.png",[COLOR green]HTV7 HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/HTV7-HD.png",HTV7
 http://27.67.80.6:18080/157_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrLWwpiHEjKhTbSTNLlRKKDg==
 
-#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/HTV9-HD.png",[COLOR green]HTV9 HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="http://tv3s.net/img/HTV9-HD.png",HTV9
 http://27.67.80.6:18080/158_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]HTV Phim HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Phim
 http://27.67.80.6:18080/31_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]HTV Nhac HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Nhac
 http://27.67.80.6:18080/58_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]HTV Gia Dinh HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Gia Dinh
 http://27.67.80.6:18080/59_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]HTV The Thao HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV The Thao
 http://27.67.80.6:18080/37_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]HTV Phu Nu HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Phu Nu
 http://27.67.80.6:18080/56_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]HTV Thuan Viet HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Thuan Viet
 http://27.67.80.6:18080/160_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr50G8IlGIJYIofcxdJX443w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]HTV Du Lich HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Du Lich
 http://27.67.80.6:18080/60_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr50G8IlGIJYIofcxdJX443w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]THVL2 HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",THVL2
 http://27.67.80.6:18080/134_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr50G8IlGIJYIofcxdJX443w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]THVL1 HD[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",THVL1
 http://27.67.80.6:18080/133_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr50G8IlGIJYIofcxdJX443w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]VTV5[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV5
 http://27.67.80.6:18080/194_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]VTV6[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV6
 http://27.67.80.6:18080/156_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]VTV7[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV7
 http://27.67.80.6:18080/195_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]VTV8[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV8
 http://27.67.80.6:18080/196_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",[COLOR green]VTV9[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV9
 http://27.67.80.6:18080/197_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
 
-#EXTINF: group-title="HTV Live" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",[COLOR green]HTV7 HD (VietMediaF)[/COLOR]
+#EXTINF: group-title="HTV Live" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",HTV7 HD (VietMediaF)
 http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.vietmediaF?action=play&thread_id=5890&url=wWCD6Oe8vFYArmTMrLOdlcxOn0V%2B5h977tCQJ2d0do3qDuV%2BgD8kZmv5P69iDpsjeAAXj%2FtzwrSpI%2FNYHyQ%2B9w%3D%3D
 
 
