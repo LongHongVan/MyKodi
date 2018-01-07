@@ -41,44 +41,51 @@ http://127.0.0.1:19098/vntvnetproxy/1055/thanh-hoa
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png", nghe-an HD
 http://127.0.0.1:19098/vntvnetproxy/1056/nghe-an
 
-#EXTINF: group-title="VTVGoVN Live" tvg-logo="http://tv3s.net/img/htv1-online.jpg",HTV1
-http://27.67.80.6:18080/53_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrLWwpiHEjKhTbSTNLlRKKDg==
+#EXTINF: group-title="VTVGoVN Live" tvg-logo="http://tv3s.net/img/htv1-online.jpg",HTV1 4NextPVR
+http://127.0.0.1:19098/htviptvproxy/htv1
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="http://tv3s.net/img/htv2-online.jpg",HTV2
-http://27.67.80.6:18080/54_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr/dcedLZXMzZlgVqKBNcEvA==
+http://127.0.0.1:19098/htviptvproxy/htv2
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="http://tv3s.net/img/htv3-online.jpg",HTV3
-http://27.67.80.6:18080/71_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrLWwpiHEjKhTbSTNLlRKKDg==
+http://127.0.0.1:19098/htviptvproxy/htv3
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="http://tv3s.net/img/htv4-online.jpg",HTV4
-http://27.67.80.6:18080/204_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrLWwpiHEjKhTbSTNLlRKKDg==
+http://127.0.0.1:19098/htviptvproxy/htv4
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="http://tv3s.net/img/HTV7-HD.png",HTV7
-http://27.67.80.6:18080/157_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrLWwpiHEjKhTbSTNLlRKKDg==
+http://127.0.0.1:19098/htviptvproxy/htv7
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="http://tv3s.net/img/HTV9-HD.png",HTV9
-http://27.67.80.6:18080/158_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
+http://127.0.0.1:19098/htviptvproxy/htv9
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Phim
-http://27.67.80.6:18080/31_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
+http://127.0.0.1:19098/htviptvproxy/htvc-phim
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Nhac
-http://27.67.80.6:18080/58_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
+http://127.0.0.1:19098/htviptvproxy/htvc-canhac
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Gia Dinh
-http://27.67.80.6:18080/59_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
+http://127.0.0.1:19098/htviptvproxy/htvc-giadinh
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV The Thao
-http://27.67.80.6:18080/37_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
+http://127.0.0.1:19098/htviptvproxy/htvc-thethao
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Phu Nu
-http://27.67.80.6:18080/56_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrHE88R+ttWTY3BVqYLCe7+A==
+http://127.0.0.1:19098/htviptvproxy/htvc-phunu
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Thuan Viet
-http://27.67.80.6:18080/160_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr50G8IlGIJYIofcxdJX443w==
+http://127.0.0.1:19098/htviptvproxy/htvc-thuanviethd
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",HTV Du Lich
-http://27.67.80.6:18080/60_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr50G8IlGIJYIofcxdJX443w==
+http://127.0.0.1:19098/htviptvproxy/htvc-dulich
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",THVL2
-http://27.67.80.6:18080/134_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr50G8IlGIJYIofcxdJX443w==
+http://127.0.0.1:19098/htviptvproxy/vinhlong2
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",THVL1
-http://27.67.80.6:18080/133_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqr50G8IlGIJYIofcxdJX443w==
+http://127.0.0.1:19098/htviptvproxy/vinhlong1
+#EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV1
+http://127.0.0.1:19098/htviptvproxy/vtv1
+#EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV2
+http://127.0.0.1:19098/htviptvproxy/vtv2
+#EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV3
+http://127.0.0.1:19098/htviptvproxy/vtv3
+#EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV4
+http://127.0.0.1:19098/htviptvproxy/vtv4
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV5
-http://27.67.80.6:18080/194_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
+http://127.0.0.1:19098/htviptvproxy/vtv5
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV6
-http://27.67.80.6:18080/156_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
+http://127.0.0.1:19098/htviptvproxy/vtv6
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV7
-http://27.67.80.6:18080/195_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
+http://127.0.0.1:19098/htviptvproxy/vtv7
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV8
-http://27.67.80.6:18080/196_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
+http://127.0.0.1:19098/htviptvproxy/vtv8
 #EXTINF: group-title="VTVGoVN Live" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.itv.htvonline.png.pagespeed.ic.vrreJoD6D_.png",VTV9
-http://27.67.80.6:18080/197_2.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqGtBzTHQv4Gy2FLNUqNfYjzEawl5JuOh6+qXOun1pKqrl2LORfmArQSPxKgvVEuI9w==
-
+http://127.0.0.1:19098/htviptvproxy/vtv9
