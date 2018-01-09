@@ -1,5 +1,5 @@
 #EXTM3U tvg-shift=0
-#EXTINF:-1 group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/VTV1.png", VTV1 HD
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Vtv1hd.png", VTV1 HD
 http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png", VTV2 HD
 http://127.0.0.1:19098/vntvnetproxy/1010/vtv2
@@ -42,9 +42,9 @@ http://127.0.0.1:19098/vntvnetproxy/1041/hai-phong
 http://127.0.0.1:19098/vntvnetproxy/1055/thanh-hoa
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png", nghe-an HD
 http://127.0.0.1:19098/vntvnetproxy/1056/nghe-an
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png", Da Nang 1 HD
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="http://rgb.vn/ideas/wp-content/uploads/2013/12/rgb.vn_logo_danang_02.jpg", Da Nang 1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png", Da Nang 2 HD
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="http://rgb.vn/ideas/wp-content/uploads/2013/12/rgb.vn_logo_danang_02.jpg", Da Nang 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #EXTINF: group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="http://tv3s.net/img/htv1-online.jpg",HTV1 4NextPVR
