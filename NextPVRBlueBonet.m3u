@@ -7,7 +7,7 @@ http://127.0.0.1:19098/vntvnetproxy/1010/vtv2
 http://127.0.0.1:19098/vntvnetproxy/1013/vtv3
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png", VTV4 HD
 http://127.0.0.1:19098/vntvnetproxy/1009/vtv4
-#EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/Logo_VTC1.png", VTC1 HD
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc1.png", VTC1 HD
 http://127.0.0.1:19098/vntvnetproxy/1007/vtc1
 #EXTINF:-1 group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="https://cdn-006.mobile2morrow.com/wp-content/uploads/2017/06/netvietvtc10.png", NetViet HD
 http://127.0.0.1:19098/vntvnetproxy/1006/netviet
