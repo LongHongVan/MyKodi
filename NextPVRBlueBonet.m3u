@@ -91,5 +91,35 @@ http://127.0.0.1:19098/htviptvproxy/vtv6
 http://127.0.0.1:19098/htviptvproxy/vtv7
 #EXTINF: group-title="VTVGoVN Live" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/VTV8_Logo.png/revision/latest?cb=20160116125609",VTV8
 http://127.0.0.1:19098/htviptvproxy/vtv8
-#EXTINF: group-title="VTVGoVN Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png",VTV9
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png",VTV9
 http://127.0.0.1:19098/htviptvproxy/vtv9
+
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC1
+http://127.0.0.1:19098/htviptvproxy/vtc1
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC2
+http://127.0.0.1:19098/htviptvproxy/vtc2
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC3
+http://127.0.0.1:19098/htviptvproxy/vtc3
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC4
+http://127.0.0.1:19098/htviptvproxy/vtc4
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC5
+http://127.0.0.1:19098/htviptvproxy/vtc5
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC6
+http://127.0.0.1:19098/htviptvproxy/vtc6
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC7
+http://127.0.0.1:19098/htviptvproxy/vtc7
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC8
+http://127.0.0.1:19098/htviptvproxy/vtc8
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC9
+http://127.0.0.1:19098/htviptvproxy/vtc9
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC10
+http://127.0.0.1:19098/htviptvproxy/vtc10
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC11
+http://127.0.0.1:19098/htviptvproxy/vtc11
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC12
+http://127.0.0.1:19098/htviptvproxy/vtc12
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC14
+http://127.0.0.1:19098/htviptvproxy/vtc14
+#EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC16
+http://127.0.0.1:19098/htviptvproxy/vtc16
+
