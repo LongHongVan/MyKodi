@@ -118,7 +118,7 @@ http://127.0.0.1:19098/htviptvproxy/vtc10
 http://127.0.0.1:19098/htviptvproxy/vtc11
 #EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_14.jpg",VTC14
 http://127.0.0.1:19098/htviptvproxy/vtc14
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_16.jpg",VTC16
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTC16.jpg",VTC16
 http://127.0.0.1:19098/htviptvproxy/vtc16
 
 
