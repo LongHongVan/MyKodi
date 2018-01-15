@@ -123,7 +123,10 @@ http://127.0.0.1:19098/htviptvproxy/vtc14
 #EXTINF: group-title="VTVGoVN Live"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC16
 http://127.0.0.1:19098/htviptvproxy/vtc16
 
-#EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Que Hưuog TV (UNOIPTV-103)
+#EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Schedule_TV.jpg", Schedule (UNOIPTV-99)
+http://127.0.0.1:19098/unoiptvproxy/DUnEMQ52bb3AG5HUO5c%2FwrBUTcumfiSF
+
+#EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Que Huong TV (UNOIPTV-103)
 http://127.0.0.1:19098/unoiptvproxy/DUnEMQ52bb04ayU908vwu5U30oydMmrs
 
 #EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png", Bolero (UNOIPTV-112) 
@@ -162,8 +165,15 @@ http://127.0.0.1:19098/unoiptvproxy/DUnEMQ52bb04ayU908vwu6TfO0D%2FS8QI
 #EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_HOUSTON.jpg", VIETV Houston (UNOIPTV-125)
 http://127.0.0.1:19098/unoiptvproxy/DUnEMQ52bb04ayU908vwu77li16%2B5lMH
 
+#EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_DALLAS.png", VIETV Dallas (UNOIPTV-122)
+http://127.0.0.1:19098/unoiptvproxy/DUnEMQ52bb04ayU908vwuzFABwfy1iVB
+
 #EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_CANADA.jpg", VIETV Canada (UNOIPTV-111)
 http://127.0.0.1:19098/unoiptvproxy/DUnEMQ52bb04ayU908vwu6o6WzI7QWZY
+
+#EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vinashop.png", VinaShop (UNOIPTV-110)
+http://127.0.0.1:19098/unoiptvproxy/DUnEMQ52bb04ayU908vwu7Y9QkuzvR8k
+
 
 
 
