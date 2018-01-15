@@ -40,9 +40,9 @@ http://127.0.0.1:19098/vntvnetproxy/1041/hai-phong
 http://127.0.0.1:19098/vntvnetproxy/1055/thanh-hoa
 #EXTINF:-1 group-title="VN-TVNET" tvg-id="" tvg-name="" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/2I5O7V7FV6.png", nghe-an HD
 http://127.0.0.1:19098/vntvnetproxy/1056/nghe-an
-#EXTINF:-1 group-title="VN-TVNET" tvg-id="" tvg-name="" tvg-logo="http://rgb.vn/ideas/wp-content/uploads/2013/12/rgb.vn_logo_danang_02.jpg", Da Nang 1 HD
+#EXTINF:-1 group-title="VN-TVNET" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/da_nang_tv1.jpg", Da Nang 1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="VN-TVNET" tvg-id="" tvg-name="" tvg-logo="http://rgb.vn/ideas/wp-content/uploads/2013/12/rgb.vn_logo_danang_02.jpg", Da Nang 2 HD
+#EXTINF:-1 group-title="VN-TVNET" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/da_nang_tv1.jpg", Da Nang 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://tv3s.net/img/htv1-online.jpg",HTV1
@@ -57,71 +57,71 @@ http://127.0.0.1:19098/htviptvproxy/htv4
 http://127.0.0.1:19098/htviptvproxy/htv7
 #EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://tv3s.net/img/HTV9-HD.png",HTV9
 http://127.0.0.1:19098/htviptvproxy/htv9
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_htvc-movie_14187000160.png",HTV Phim
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/htvc_phim.jpg",HTVC Phim
 http://127.0.0.1:19098/htviptvproxy/htvc-phim
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://htvc.vn/uploads/editor/images/Ca%20nhac-01.png",HTV Ca Nhac
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/htvc_ca_nhac.jpg",HTVC Ca Nhac
 http://127.0.0.1:19098/htviptvproxy/htvc-canhac
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.mytv.com.vn/upload/news/2013/07//603_549_995_127_700_985_605_157_934_295_690_HTV_gia_dinh.png",HTV Gia Dinh
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/htvc_gia_dinh.jpg",HTVC Gia Dinh
 http://127.0.0.1:19098/htviptvproxy/htvc-giadinh
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://tv.vietbao.vn/images/tv2015/channels/909-htv-the-thao.jpg",HTV The Thao
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/htvc_the_thao.jpg",HTVC The Thao
 http://127.0.0.1:19098/htviptvproxy/htvc-thethao
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/728x409/banner/2016/10/20/706221-phu_nu_hd.png",HTV Phu Nu
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/htvc_phu_nu.jpg",HTVC Phu Nu
 http://127.0.0.1:19098/htviptvproxy/htvc-phunu
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logoThuanVietHD_422x278.png",HTV Thuan Viet
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/htvc_thuan_viet.jpg",HTVC Thuan Viet
 http://127.0.0.1:19098/htviptvproxy/htvc-thuanviethd
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logoDL%26CS_422x278.png",HTV Du Lich
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/htvc_du_lich_va_cuoc_song.jpg",HTVC Du Lich
 http://127.0.0.1:19098/htviptvproxy/htvc-dulich
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/460x260/poster/2016/08/24/482704-thvl.png", THVL2
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vinh_long_tv2.jpg", THVL2
 http://127.0.0.1:19098/htviptvproxy/vinhlong2
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://img.hplus.com.vn/728x409/banner/2016/08/24/410558-thvl1.png",THVL1
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vinh_long_tv1.jpg",THVL1
 http://127.0.0.1:19098/htviptvproxy/vinhlong1
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://bookingquangcao.com.vn/upload/images/VTV1.jpg",VTV1
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTV1
 http://127.0.0.1:19098/htviptvproxy/vtv1
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/VTV2_Logo_2005.png/revision/latest?cb=20160117125048",VTV2
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",VTV2
 http://127.0.0.1:19098/htviptvproxy/vtv2
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6e/Vtv3_logo.png",VTV3
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTV3
 http://127.0.0.1:19098/htviptvproxy/vtv3
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV4
 http://127.0.0.1:19098/htviptvproxy/vtv4
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d4/VTV5.png",VTV5
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv5_vn.jpg",VTV5
 http://127.0.0.1:19098/htviptvproxy/vtv5
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/VTV6-01.jpg/revision/latest?cb=20150322175615",VTV6
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv6_vn.jpg",VTV6
 http://127.0.0.1:19098/htviptvproxy/vtv6
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/VTV7_Logo.png/revision/latest?cb=20160116123557",VTV7
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/VTV7_Logo.png",VTV7
 http://127.0.0.1:19098/htviptvproxy/vtv7
-#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/VTV8_Logo.png/revision/latest?cb=20160116125609",VTV8
+#EXTINF: group-title="HTV-PLUS" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/VTV8_Logo.png",VTV8
 http://127.0.0.1:19098/htviptvproxy/vtv8
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png",VTV9
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv9_vn.jpg",VTV9
 http://127.0.0.1:19098/htviptvproxy/vtv9
 
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC1
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_1.jpg",VTC1
 http://127.0.0.1:19098/htviptvproxy/vtc1
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC2
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_2.jpg",VTC2
 http://127.0.0.1:19098/htviptvproxy/vtc2
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC3
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_3.jpg",VTC3
 http://127.0.0.1:19098/htviptvproxy/vtc3
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC4
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_4.jpg",VTC4
 http://127.0.0.1:19098/htviptvproxy/vtc4
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC5
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_5.jpg",VTC5
 http://127.0.0.1:19098/htviptvproxy/vtc5
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC6
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_6.jpg",VTC6
 http://127.0.0.1:19098/htviptvproxy/vtc6
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC7
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_7.jpg",VTC7
 http://127.0.0.1:19098/htviptvproxy/vtc7
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC8
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_8.jpg",VTC8
 http://127.0.0.1:19098/htviptvproxy/vtc8
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC9
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_9.jpg",VTC9
 http://127.0.0.1:19098/htviptvproxy/vtc9
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC10
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_10.jpg",VTC10
 http://127.0.0.1:19098/htviptvproxy/vtc10
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC11
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_11.jpg",VTC11
 http://127.0.0.1:19098/htviptvproxy/vtc11
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC12
-http://127.0.0.1:19098/htviptvproxy/vtc12
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC14
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_14.jpg",VTC14
 http://127.0.0.1:19098/htviptvproxy/vtc14
-#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://china-screen-news.com/wp-content/uploads/2013/06/vtc.png",VTC16
+#EXTINF: group-title="HTV-PLUS"  tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtc_16.jpg",VTC16
 http://127.0.0.1:19098/htviptvproxy/vtc16
+
+
 
 #EXTINF:-1 group-title="UNO-IPTV" tvg-id="" tvg-name=""  tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Schedule_TV.jpg", Schedule (UNOIPTV-99)
 http://127.0.0.1:19098/unoiptvproxy/DUnEMQ52bb3AG5HUO5c%2FwrBUTcumfiSF
