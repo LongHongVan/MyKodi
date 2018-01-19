@@ -5,21 +5,23 @@ http://google.com
 
 
 ###################### Kid TV ######################################
-#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="orig08.deviantart.net/307e/f/2012/068/0/c/nickelodeon_logo_by_urbinator17-d4s8zzx.png", Nickelodeon HD
-http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=30761
 
-#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="images.all-free-download.com/images/graphicthumb/family_64721.jpg", Family HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=171
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="Kid TV", Nick HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=938
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="Kid TV", Nick Jr. HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8288
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="Kid TV", Nicktoons HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8420
 
-#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="upload.wikimedia.org/wikipedia/it/9/93/Disney_Channel_logo_2014.svg", Disney East HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=172
-
-#EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="www.vannas.se/Sve/Filarkiv/IT-kontoret/Disney_XD.png", Disney XD HD
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=174
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/it/9/93/Disney_Channel_logo_2014.svg" group-title="[COLOR lime]USA UK UHDTV[/COLOR]", Disney HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=6140
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[COLOR lime]USA UK UHDTV[/COLOR]", Disney Jr. HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=8191
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[COLOR lime]USA UK UHDTV[/COLOR]", Disney XD HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=25587
 
 #EXTINF:-1, tvg-logo="" group-title="Kid TV"  tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/176.png", Cartoon Network
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
-
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=482
 
 
 
