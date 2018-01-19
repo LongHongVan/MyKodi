@@ -21,6 +21,30 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=174
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=176
 
 
+###################### French TV ######################################
+
+
+###################### French TS Channels
+
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 24 FHD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=33519
+
+
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/70.ts%7CUser-Agent%3Ddell
+
+
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 4 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/69.ts%7CUser-Agent%3Ddell
+
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France 5 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/68.ts%7CUser-Agent%3Ddell
+
+#EXTINF:-1, group-title="French TV" tvg-logo="www.epictimes.com/wp-content/uploads/2016/03/france-24-logo.png", France O HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/67.ts%7CUser-Agent%3Ddell
+
+###################### End French TS Channels
+
 
 
 ###################### TOP Movies ######################################
@@ -445,6 +469,67 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=34506
 ###################### END TOP SPORT TV #################################
 
 
+#<!-------------------------------- Music HD ------------------------->
+
+#EXTINF:-1, tvg-id="9241" tvg-name="ESKA Best Music" tvg-logo="digitaltveurope.net/wp-content/uploads/2011/09/Eska-TV1-85x85.jpg" group-title="Music Channels", ESKA Best Music HD [COLOR yellow]720p[/COLOR]
+http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
+
+#EXTINF:-1, tvg-name="MTV MUSIC" tvg-logo="static.gigwise.com/artists/mtv.jpg" group-title="Music Channels", MTV MUSIC
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=160
+
+
+#EXTINF:-1, tvg-id="9242" tvg-name="Djing" tvg-logo="us.djing.com/newimages/logo.png" group-title="Music Channels", Djing HD [COLOR yellow]720p[/COLOR]
+http://www.djing.com/tv/h-05.m3u8
+
+#EXTINF:-1, tvg-id="9243" tvg-name="Djing Hot" tvg-logo="us.djing.com/newimages/logo.png" group-title="Music Channels", Djing Animation HD [COLOR yellow]720p[/COLOR]
+http://www.djing.com/tv/a-05.m3u8
+
+
+#EXTINF:-1, tvg-id="4241" tvg-name="Vevo 1" tvg-logo="lh4.googleusercontent.com/-1LYUqMtZM24/AAAAAAAAAAI/AAAAAAAAAEA/VOJJjVq_a6w/photo.jpg" group-title="Music Channels", Vevo 1 [COLOR yellow]720p[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1, tvg-id="4241" tvg-name="Vevo 2" tvg-logo="lh4.googleusercontent.com/-1LYUqMtZM24/AAAAAAAAAAI/AAAAAAAAAEA/VOJJjVq_a6w/photo.jpg" group-title="Music Channels", Vevo 2 [COLOR yellow]720p[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1, tvg-id="4241" tvg-name="Vevo 3" tvg-logo="lh4.googleusercontent.com/-1LYUqMtZM24/AAAAAAAAAAI/AAAAAAAAAEA/VOJJjVq_a6w/photo.jpg" group-title="Music Channels", Vevo 3 [COLOR yellow]720p[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1, tvg-id="4241" tvg-name="Vevo 4" tvg-logo="lh4.googleusercontent.com/-1LYUqMtZM24/AAAAAAAAAAI/AAAAAAAAAEA/VOJJjVq_a6w/photo.jpg" group-title="Music Channels", Vevo 4 [COLOR yellow]720p[/COLOR] HIP HOP
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1, tvg-id="4241" tvg-name="Vevo 5" tvg-logo="lh4.googleusercontent.com/-1LYUqMtZM24/AAAAAAAAAAI/AAAAAAAAAEA/VOJJjVq_a6w/photo.jpg" group-title="Music Channels", Vevo 5 [COLOR yellow]720p[/COLOR] COUNTRY
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+
+#EXTINF:-1, tvg-id="273" tvg-name="Music Videos 4" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/507.png" group-title="Music Channels", Music Videos 4 - BeatZ
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+
+#EXTINF:-1, tvg-id="278" tvg-name="Music Videos 9" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/505.png" group-title="Music Channels", Music Videos 9 - Monte Carlo
+rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1, tvg-id="279" tvg-name="Music Videos 10" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/277.png" group-title="Music Channels", Music Videos 10 - KissTV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1, tvg-id="280" tvg-name="Music Videos 11" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/509.png" group-title="Music Channels", Music Videos 11 - AmazingTV
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId%3DABA74CBC0702307FF0B559F938FC9B21.node1%26stream%3D2
+
+#EXTINF:-1, tvg-id="290" tvg-name="Music Videos 21" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/529.png" group-title="Music Channels", Music Videos 21 - PoloPortu TV
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+
+#EXTINF:-1, tvg-id="291" tvg-name="Music Videos 22" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music Channels", Music Videos 22 - Vox TV (Mex)
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+
+#EXTINF:-1, tvg-id="292" tvg-name="Music Videos 23" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/533.png" group-title="Music Channels", Music Videos 23 - Eska Party TV
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1, tvg-id="293" tvg-name="Music Videos 24" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/535.png" group-title="Music Channels", Music Videos 24 - Eska Rock TV
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1, tvg-id="294" tvg-name="Music Videos 25" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/537.png" group-title="Music Channels", Music Videos 25 - Eska BestMusic TV
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1, tvg-id="296" tvg-name="Music Videos 27" tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/465.png" group-title="Music Channels", Music Videos 27 - Pub TV
+http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
+
+
+#<!-------------------------------- End Music HD ------------------------->
+
 
 ######################## Mexico & España & Latino #########################################
 
@@ -468,6 +553,97 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=902
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=905
 #EXTINF:-1, tvg-logo="88888.se:8000/stalker_portal/misc/logos/kodi/906.png" group-title="China - HK - TVB TV", TVB Jade 5
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=906
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", ShanDong TV 720p
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", Tianjin TV 720p
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", Kirin Art TV 560p
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", Kirin Children TV 560p
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", Kirin Theater TV 560p
+#http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", Phoenix Hongkong TV 560p
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", Phoenix IT TV 560p
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", Travel Channel
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", Zhej TV 560p
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", TVB1K
+#http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/tvbj1/as/live/tvbj1_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", TVBEK
+#http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/tvbent/as/live/tvbent_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", TVB2K
+#http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/tvbj2/as/live/tvbj2_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 台视美洲
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 本港台
+#http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 民视HD
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 华视HD
+http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 广东国际
+http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/gdtvi/as/live/gdtvi_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 南方卫视
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 麒麟直播
+#http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 麒麟综艺
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 旅游卫视
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 厦门卫视
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 广东卫视
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/gdtvhd/as/live/gdtvhd_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 东森卫视
+#http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 美国中文
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 天下卫视
+#http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/skylink1/as/live/skylink1_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 凤凰香港
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 安徽国际
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 凤凰美洲
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 华夏电视台
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 华娱卫视
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 华语电视1
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/hyds/as/live/hyds_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 华语电视2
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 澳亚卫视
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 东森幼幼
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 宏观卫视
+http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 阳光卫视
+http://ktv007.cdnak.ds.kylintv.net/nlds/kylin/chann7/as/live/chann7_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", ICN国际卫视
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:-1, tvg-logo="portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="China - HK - TVB TV", 莲花卫视
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8 
 
 
 ####################################### Others ##########################################
@@ -1696,6 +1872,44 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32972
 
 ################### End USA UK UHDTV ####################################################
 
+#### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTV1 HD
+http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",VTV2 HD
+http://127.0.0.1:19098/vntvnetproxy/1010/vtv2
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTV3 HD
+http://127.0.0.1:19098/vntvnetproxy/1013/vtv3
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",VTV4 HD
+http://127.0.0.1:19098/vntvnetproxy/1009/vtv4
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg",VTC1 HD
+http://127.0.0.1:19098/vntvnetproxy/1007/vtc1
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg",NetViet HD
+http://127.0.0.1:19098/vntvnetproxy/1006/netviet
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg",VTC16 HD
+http://127.0.0.1:19098/vntvnetproxy/1018/vtc16
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",HTV9 HD
+http://127.0.0.1:19098/vntvnetproxy/1012/htv9
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",TTXVN HD
+http://127.0.0.1:19098/vntvnetproxy/1019/ttxvn
+
+#EXTINF:-1 group-title="VTVGoVN Live" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg",Ha Noi HD
+http://127.0.0.1:19098/vntvnetproxy/1008/hn
+
+
+
+
+
+#### VTVGoVN Live 4 Kodi 16 +++++++++++++++++++++++++++++++++++++
+
 
 #Top USA Channels
 #EXTINF:-1 group-title="Top USA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ESPN HD
@@ -2074,7 +2288,112 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8
 #EXTINF:-1 group-title="Top CANADA Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CTV NEWS NETWORK HD
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2423.ts
 
+#+++++++++++++++++++++TEST++++++++++++++++++++++++++++++
 
+#EXTINF:-1 group-title="TEST2" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png", Quê Hương TV (UNOTV-103 5001)
+http://localhost:5001/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
+	
+#EXTINF:-1 group-title="TEST2" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png", Bolero (UNOTV-112 5001) 
+http://localhost:5001/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu2N2SIB4yGcw
+
+#EXTINF: group-title="TEST2" tvg-logo="https://i.ytimg.com/vi/jN89KtdTkhs/hqdefault.jpg",Nhạc Xuân 2017 Mới
+http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=jN89KtdTkhs&name=Nhac%20+Xuan%20+2017
+
+#EXTINF: group-title="TEST2" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
+http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
+
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/tug1qABlQ-M/hqdefault.jpg" group-title="TEST2", Youtube MegaTV Live Event
+http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M
+
+#EXTINF: group-title="TEST2" tvg-logo="",[COLOR yellow]FOX SP HD (F4M)[/COLOR]
+http://127.0.0.1:8898/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/20810.ts;name=Fox%20Sports%202%20SP
+
+#EXTINF: group-title="TEST2" tvg-logo="",[COLOR yellow]HGTV HD (F4M)[/COLOR]
+http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/8943.ts;name=HGTV%20HD
+
+#EXTINF: group-title="TEST2" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017 - Trách Ai Vô Tình[/B][/COLOR]
+http://127.0.0.1:8898/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
+
+#EXTINF: group-title="TEST2" tvg-logo="http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo1.png",XXX RETURN OF XANDER CAGE 2017
+http://127.0.0.1:8898/vodstreamers/http://ok2.se:8000/movie/32273thuyvo174/00253/5858.mkv
+
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV1.png",[COLOR green]VTV1 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-1.html&mode=100&name=VTV1
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",[COLOR green]VTV2 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-2.html&mode=100&name=VTV2
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV3.png",[COLOR green]VTV3 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-3.html&mode=100&name=VTV3
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV6.png",[COLOR green]VTV6 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV1-6.html&mode=100&name=VTV6
+
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png",[COLOR green]VTV7 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV7-27.html&mode=100&name=VTV7
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png",[COLOR green]VTV8 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV8-36.html&mode=100&name=VTV8
+#EXTINF: group-title="TEST2" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV9.png",[COLOR green]VTV9 HD (ITVPlus)[/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itvplus/?url=http://vtvgo.vn/?xem-truc-tuyen-kenh-VTV9-39.html&mode=100&name=VTV9
+
+
+# +++++++++++++++++++TEST YOUTUBE++++++++++++++++++++++++++++++++++
+
+#EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg",[COLOR yellow][B] Lệ Quyên 2017[/B][/COLOR]
+http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=dqbybmXmQRM
+
+#EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/MYFf_UaeD3Y/hqdefault.jpg",[COLOR yellow][B] [Live 24/7] Nonstop Sến Nhảy[/B][/COLOR]
+http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=MYFf_UaeD3Y
+
+#EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/qYWpt-UKDfs/hqdefault.jpg",[COLOR yellow][B] Tổng Hợp Giọng Hát Bolero[/B][/COLOR]
+http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=qYWpt-UKDfs
+
+#EXTINF: group-title="YOUTUBE" tvg-logo="https://i.ytimg.com/vi/DAtvswlCU9E&list=PL7iNlLnIWpA9Q4lz-3FTo1h3N70xR1xkO/hqdefault.jpg",[COLOR yellow][B] Phim Đặc Nhiệm Quyến Rũ[/B][/COLOR]
+http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=DAtvswlCU9E&list=PL7iNlLnIWpA9Q4lz-3FTo1h3N70xR1xkO
+
+#EXTINF: group-title="YOUTUBE" tvg-logo="http://xbmc.itvplus.net/LOGO/THUYNGA/tn121.jpg",[COLOR lime][B] PBN 122 (iTVPlus)[/B][/COLOR]
+http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.itv.fshare/?url=https://www.fshare.vn/file/9IIR2P47E2UV&mode=100&name=ParisbyNight122
+
+
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF: group-title="TEST" tvg-logo="http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo1.png",XXX RETURN OF XANDER CAGE 2017 TEST
+http://127.0.0.1:19098/vodstreamers/http://ok2.se:8000/movie/32273thuyvo174/00253/5858.mkv
+
+#EXTINF:-1,US CNN HD
+http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/23898.ts;name=CNN%20HD
+
+#EXTINF:-1, HGTV HD
+http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dexonline.ninja:8000/live/lvhongus@yahoo.com/q91G69dFtu/8943.ts;name=HGTV%20HD
+
+#EXTINF:-1 group-title="TEST" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",Fox Sports 2 SP
+http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/20810.ts;name=Fox%20Sports%202%20SP
+
+
+#EXTINF:-1 group-title="TEST" tvg-id="" tvg-name="" tvg-logo="http://hashtaglegend.com/storage/app/media/uploaded-files/mayweather-mcgregor.jpg",1080(UK) PPV Skysports Box Office
+http://127.0.0.1:19098/f4mstreamers/plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://amiptv.ddns.net:25461/live/jake1/jake1/10066.ts;name=Skysports%20Box%20Office
+
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/dqbybmXmQRM/hqdefault.jpg" group-title="TEST3",Lệ Quyên 2017 Port 50165
+http://127.0.0.1:50165/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgGeNUDW2Kmk
+
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/jN89KtdTkhs/hqdefault.jpg" group-title="TEST3",Nhạc Xuân 2017 Mới
+http://127.0.0.1:50165/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3DjN89KtdTkhs
+
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/tug1qABlQ-M/hqdefault.jpg" group-title="TEST3", Youtube MegaTV Live Event
+http://127.0.0.1:50165/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Dtug1qABlQ-M
+
+#EXTINF:-1 tvg-id="" tvg-shift="" tvg-name="" tvg-logo="http://static.ontvtonight.com/static/2/Open/Canada_1282/Source/67352/nbchdchannel_400x400.png" group-title="TEST3",US NBC HD (m3u8)
+#http://127.0.0.1:50165/?url=http%3A%2F%2Fiptv.genius-stream.com%3A6204%2Flive%2Fonline%2Ftv%2F1507.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv1_vn.jpg" group-title="VN TVNET", VTV1 HD VTVGo
+http://localhost:5001/play.m3u8?url=vtvgo-VTV1-1
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv2_vn.jpg" group-title="VN TVNET", VTV2 HD VTVGo
+http://localhost:5001/play.m3u8?url=vtvgo-VTV1-2
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv3_vn.jpg" group-title="VN TVNET", VTV3 HD VTVGo
+http://localhost:5001/play.m3u8?url=vtvgo-VTV1-3
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg" group-title="VN TVNET", VTV4 HD VTVGo
+http://localhost:5001/play.m3u8?url=vtvgo-VTV1-4
+
+
+#++++++++++++++++++++++++++++++++++++++++++
 
 
 
