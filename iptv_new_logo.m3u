@@ -755,10 +755,10 @@ http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="www.ethnicchannels.com/wp-content/files_mf/sbtnlogo_hires86.png", [COLOR lime]SBTN HD[/COLOR]
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2433.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=1&portal=1&channel=2433
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vtv4_vn.jpg", VTV 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2424.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=1&portal=1&channel=2424
 
 #EXTINF: group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="http://www.viettv24.com/main/images/skcd.jpg",[COLOR green]Sân Khấu Cuộc Đời[/COLOR]
 http://127.0.0.1:19098/vodstreamers/plugin://plugin.video.kodi4vn.launcher/play/cailuong
@@ -815,20 +815,20 @@ http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu77li16%2B5lMH
 http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6o6WzI7QWZY
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="https://s24.postimg.org/umvwrvfrp/KVLA.png",VIETKVLA
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2426.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=1&portal=1&channel=2426
 
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="vietfacetv.com/wp-content/uploads/2012/11/vietface_logo.png",VSTAR
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2430.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=1&portal=1&channel=2430
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="www.uniquetimes.org/wp-content/uploads/2014/08/V-Star-Logo-FINAL-11-08-14-300x212.jpg",VIET PHO
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2428.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=1&portal=1&channel=2428
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",VIET IBC
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2427.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=1&portal=1&channel=2427
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="https://s23.postimg.org/uelya7dfv/VNCH.png",VIET DONG TRUNG
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://ok2.se:8000/live/32273thuyvo174/00253/2431.ts
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=1&portal=1&channel=2431
 
 
 #EXTINF:-1 group-title="[COLOR aqua]Top Viet Hai Ngoai TV[/COLOR]" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",[COLOR cyan][B] SBTN -SET channel 2072 -2 (m3u8)[/B][/COLOR]
