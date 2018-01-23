@@ -551,7 +551,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
   </extension>
 </addon>
 
-<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.50" provider-name="HME">
+<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.55" provider-name="HME">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="1.0.0"/>
@@ -578,7 +578,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">IPTV Client</summary>
-		<description lang="en">IPTV Stalker built-in M3U Server for PVR Simple Client. Last updated 03.16.2017 (Encripted - back to old V48. dues to V49 server autoload issue) - Author: HME (Home Media Entertainments).</description>
+		<description lang="en">IPTV Streamer built-in M3U Proxy Server - MAC ADDR Activating per Devices. Last updated 01.21.2018 @4:51 PN - by ViEIViP.</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
 	</extension>
