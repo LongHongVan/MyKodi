@@ -3,9 +3,122 @@
 #EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
 http://google.com
 
+# France Channels ################################################
+
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBC (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12402
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HISTORIA (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12410
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", MUSIQUE  (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12401
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", PRISE2 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12413
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TV5 HD (OUEST)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12420
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TV5 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12417
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TVA (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12395
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CANAL D (FR) - NOUVEAU
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=19633
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CANAL V (FR) - NOUVEAU
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=19634
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", LCN (FR) - NOUVEAU
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=19635
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TELE QUEBEC (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12400
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SUPER ECRAN 1 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12414
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SUPER ECRAN 2 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12415
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SUPER ECRAN 3 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12416
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", VRAK (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12408
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", YOOPA (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12394
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ZTELE (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12411
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SERIES  (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12409
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ADDIK (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12412
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ARTV (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12403
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SRC (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12399
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", RDI (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12396
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", RDS (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12404
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", RDS 2 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12405
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TVA 1 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12406
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TVA 2 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=12407
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", 6TER HD (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15910
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", BEIN 1 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15918
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", BEIN 2 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15917
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CANAL  CINEMA HD (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17141
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", EQUIPE 21 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17144
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FRANCE O (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17143
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", INFO SPORTS  HD (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17142
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", LCP (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17140
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", RTL9 HD (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17145
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CANAL  DECALE (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15903
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", PLANETTE (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15914
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CANAL CINEMA HD (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15913
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CANAL HD (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15911
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", BMF (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15916
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", W9 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15901
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", DISCOVERY SCIENCE (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15915
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FRANCE 2 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15921
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", FRANCE 5 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15922
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HD1 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15912
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", HISTOIRE (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15907
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", ICI (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15919
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", PLANETTE A&E HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15909
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", C8 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15902
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", RTS 1 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15906
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", RTS 2 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15905
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", SCIENCE&VIE (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15904
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TF1 (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15920
+#EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", TMC HD (FR)
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=15908
+
+# End France Channels ############################################
+
+
+
 # New VietnamLive-TV #############################################
-
-
 #EXTM3U tvg-shift=0
 #EXTINF:-1 group-title="VN-TVNET" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Vtv1hd.png", VTV1 HD
 http://127.0.0.1:19098/vntvnetproxy/1011/vtv1
