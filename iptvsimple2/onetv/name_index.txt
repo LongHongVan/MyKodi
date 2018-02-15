@@ -17,6 +17,7 @@
     "PAC-12 Mountain", 
     "PAC-12 Oregon", 
     "PAC-12 Washington", 
+    "BONUS PBN 124 720p", 
     "BONUS AM AP GIANG SINH 2017", 
     "BONUS ASIA 80 1080p", 
     "BONUS SBTN ThuoHocTro 720p", 
