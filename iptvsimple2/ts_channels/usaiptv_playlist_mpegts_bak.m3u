@@ -1,0 +1,1063 @@
+#EXTM3U
+#EXTINF:-1   tvg-id="NBC" group-title="Entertainment",NBC
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/140.mpegts
+#EXTINF:-1   tvg-id="AETV" group-title="Entertainment",A&E
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/300.mpegts
+#EXTINF:-1   tvg-id="ABC" group-title="Entertainment",ABC
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/9.mpegts
+#EXTINF:-1   tvg-id="AMCUS" group-title="Entertainment",AMC US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/372.mpegts
+#EXTINF:-1   tvg-id="Bravo" group-title="Entertainment",Bravo US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/369.mpegts
+#EXTINF:-1    group-title="Entertainment",CBC US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/964.mpegts
+#EXTINF:-1    group-title="Entertainment",CBS US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1516.mpegts
+#EXTINF:-1    group-title="Entertainment",CBC Canada
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1547.mpegts
+#EXTINF:-1   tvg-id="CIVT" group-title="Entertainment",CTV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/377.mpegts
+#EXTINF:-1   tvg-id="E! (E!)" group-title="Entertainment",E! US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/468.mpegts
+#EXTINF:-1   tvg-id="FOX US" group-title="Entertainment",FOX US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/139.mpegts
+#EXTINF:-1    group-title="Entertainment",Family US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/653.mpegts
+#EXTINF:-1   tvg-id="FX (FX)" group-title="Entertainment",FX US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/337.mpegts
+#EXTINF:-1   tvg-id="FXX (FXX)" group-title="Entertainment",FXX US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/782.mpegts
+#EXTINF:-1   tvg-id="PBSNET (PBS)" group-title="Entertainment",PBS
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/141.mpegts
+#EXTINF:-1    group-title="Entertainment",LMN US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/674.mpegts
+#EXTINF:-1   tvg-id="TNTUS" group-title="Entertainment",TNT
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/328.mpegts
+#EXTINF:-1   tvg-id="Hallmark (HALL)" group-title="Entertainment",Hallmark Channel USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/298.mpegts
+#EXTINF:-1    group-title="Entertainment",BBC AMERICA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6950.mpegts
+#EXTINF:-1   tvg-id="USANETUS" group-title="Entertainment",USA Network
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/428.mpegts
+#EXTINF:-1   tvg-id="SyfyUS" group-title="Entertainment",Syfy USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/427.mpegts
+#EXTINF:-1   tvg-id="SPIKEUS" group-title="Entertainment",Spike US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/338.mpegts
+#EXTINF:-1    group-title="Entertainment",Slice TV US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/676.mpegts
+#EXTINF:-1    group-title="Entertainment",TruTV US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7068.mpegts
+#EXTINF:-1   tvg-id="TBSUS" group-title="Entertainment",TBS US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/335.mpegts
+#EXTINF:-1   tvg-id="ComedyCentralUS" group-title="Entertainment",Comedy Central US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/645.mpegts
+#EXTINF:-1    group-title="Entertainment",ABC Family US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1634.mpegts
+#EXTINF:-1   tvg-id="CHCH" group-title="Entertainment",CHCH
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/778.mpegts
+#EXTINF:-1   tvg-id="TeleCentro (TLCN)" group-title="Entertainment",TLC USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/347.mpegts
+#EXTINF:-1   tvg-id="Lifetime (LIFE)" group-title="Entertainment",Lifetime USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/475.mpegts
+#EXTINF:-1   tvg-id="HiFi Music" group-title="Entertainment",HiFi US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/478.mpegts
+#EXTINF:-1   tvg-id="IFC (IFC)" group-title="Entertainment",IFC US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/788.mpegts
+#EXTINF:-1    group-title="Entertainment",FYI US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6954.mpegts
+#EXTINF:-1    group-title="Entertainment",BET TV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6956.mpegts
+#EXTINF:-1   tvg-id="KTLA" group-title="Entertainment",KTLA US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/479.mpegts
+#EXTINF:-1   tvg-id="WPIX US" group-title="Entertainment",WPIX US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/480.mpegts
+#EXTINF:-1   tvg-id="W Network" group-title="Entertainment",W NETWORK US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/962.mpegts
+#EXTINF:-1   tvg-id="CW" group-title="Entertainment",CW
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/138.mpegts
+#EXTINF:-1    group-title="Entertainment",BOUNCE
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6951.mpegts
+#EXTINF:-1    group-title="Entertainment",WILD TV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6957.mpegts
+#EXTINF:-1    group-title="Entertainment",OWN
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6955.mpegts
+#EXTINF:-1    group-title="Entertainment",MTV USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6958.mpegts
+#EXTINF:-1    group-title="Entertainment",TV Land
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6967.mpegts
+#EXTINF:-1    group-title="Entertainment",My9
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1501.mpegts
+#EXTINF:-1   tvg-id="City HD" group-title="Entertainment",CITY TV US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/790.mpegts
+#EXTINF:-1    group-title="Entertainment",GLOBAL TV  EDMONTON
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6785.mpegts
+#EXTINF:-1   tvg-id="ABC News 24" group-title="News",ABC News 24
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/136.mpegts
+#EXTINF:-1    group-title="News",MSNBC
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6949.mpegts
+#EXTINF:-1   tvg-id="CNNUS" group-title="News",CNN US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1505.mpegts
+#EXTINF:-1   tvg-id="CNBCUS" group-title="News",CNBC US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1506.mpegts
+#EXTINF:-1   tvg-id="Fox News Channel" group-title="News",Fox News
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/440.mpegts
+#EXTINF:-1    group-title="News",Fox Business US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6947.mpegts
+#EXTINF:-1    group-title="News",Euronews English
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1259.mpegts
+#EXTINF:-1    group-title="News",BNN
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6966.mpegts
+#EXTINF:-1    group-title="News",WGN
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1613.mpegts
+#EXTINF:-1   tvg-id="I210.10161.schedulesdirect.org" group-title="Entertainment",C-Span 1 HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/596.mpegts
+#EXTINF:-1   tvg-id="I211.10162.schedulesdirect.org" group-title="Entertainment",C-Span 2 HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/597.mpegts
+#EXTINF:-1    group-title="Entertainment",C-Span 3 HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/598.mpegts
+#EXTINF:-1   tvg-id="Drama" group-title="Entertainment",Drama
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/365.mpegts
+#EXTINF:-1   tvg-id="Syfy UK" group-title="Entertainment",Syfy UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/101.mpegts
+#EXTINF:-1   tvg-id="Spike" group-title="Entertainment",Spike UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/482.mpegts
+#EXTINF:-1   tvg-id="Home Shopping Network (HSN)" group-title="Entertainment",HSN
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/363.mpegts
+#EXTINF:-1   tvg-id="FOX" group-title="Entertainment",Fox UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/35.mpegts
+#EXTINF:-1   tvg-id="EUK" group-title="Entertainment",E! UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/483.mpegts
+#EXTINF:-1   tvg-id="Universal" group-title="Entertainment",Universal
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1041.mpegts
+#EXTINF:-1   tvg-id="TLC UK" group-title="Entertainment",TLC UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/277.mpegts
+#EXTINF:-1    group-title="Entertainment",E4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/77.mpegts
+#EXTINF:-1   tvg-id="alibi" group-title="Entertainment",Alibi
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/103.mpegts
+#EXTINF:-1   tvg-id="4seven" group-title="Entertainment",4seven HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/379.mpegts
+#EXTINF:-1   tvg-id="5 USA" group-title="Entertainment",5 USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/265.mpegts
+#EXTINF:-1   tvg-id="5*" group-title="Entertainment",5*
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/264.mpegts
+#EXTINF:-1   tvg-id="3e" group-title="Entertainment",3e
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/413.mpegts
+#EXTINF:-1   tvg-id="ComedyCentral" group-title="Entertainment",Comedy Central UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/110.mpegts
+#EXTINF:-1   tvg-id="ComedyXtra" group-title="Entertainment",Comedy Central Extra UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/381.mpegts
+#EXTINF:-1   tvg-id="Sky1" group-title="Entertainment",Sky1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/71.mpegts
+#EXTINF:-1   tvg-id="Sky2" group-title="Entertainment",Sky2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/72.mpegts
+#EXTINF:-1    group-title="Entertainment",Sky Atlantic
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/92.mpegts
+#EXTINF:-1    group-title="Entertainment",Sky Living
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/76.mpegts
+#EXTINF:-1   tvg-id="London Live" group-title="Entertainment",London Live
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/393.mpegts
+#EXTINF:-1   tvg-id="RTÉ One" group-title="Entertainment",RTE One
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/417.mpegts
+#EXTINF:-1   tvg-id="RTÉ Two" group-title="Entertainment",RTE Two
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/418.mpegts
+#EXTINF:-1   tvg-id="RTE News Now" group-title="News",RTE News
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/399.mpegts
+#EXTINF:-1   tvg-id="RTÉ Jr" group-title="Kids",RTE Jr
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1204.mpegts
+#EXTINF:-1    group-title="Entertainment",EDEN UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1463.mpegts
+#EXTINF:-1   tvg-id="QUEST" group-title="Documentaries",Quest  UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1470.mpegts
+#EXTINF:-1   tvg-id="Really" group-title="Entertainment",Really
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1473.mpegts
+#EXTINF:-1   tvg-id="Channel 4" group-title="Entertainment",Channel 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/33.mpegts
+#EXTINF:-1   tvg-id="Channel 5" group-title="Entertainment",Channel 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/34.mpegts
+#EXTINF:-1   tvg-id="Challenge" group-title="Entertainment",Challenge
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/652.mpegts
+#EXTINF:-1   tvg-id="Dave" group-title="Entertainment",Dave
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/398.mpegts
+#EXTINF:-1   tvg-id="GOLD" group-title="Entertainment",Gold
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/104.mpegts
+#EXTINF:-1   tvg-id="Watch" group-title="Entertainment",Watch
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/75.mpegts
+#EXTINF:-1    group-title="Entertainment",CBS Action
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/333.mpegts
+#EXTINF:-1    group-title="Entertainment",CBS Drama
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/332.mpegts
+#EXTINF:-1    group-title="Entertainment",CBS Reality
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/331.mpegts
+#EXTINF:-1   tvg-id="DMAX UK" group-title="Entertainment",DMAX UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/317.mpegts
+#EXTINF:-1   tvg-id="BBC1" group-title="Entertainment",BBC ONE HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1.mpegts
+#EXTINF:-1   tvg-id="BBC2" group-title="Entertainment",BBC TWO HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/2.mpegts
+#EXTINF:-1   tvg-id="BBC4" group-title="Entertainment",BBC Four
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/4.mpegts
+#EXTINF:-1   tvg-id="BBC Alba" group-title="Entertainment",BBC ALBA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/533.mpegts
+#EXTINF:-1   tvg-id="ITV" group-title="Entertainment",ITV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/29.mpegts
+#EXTINF:-1   tvg-id="ITV2" group-title="Entertainment",ITV2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/30.mpegts
+#EXTINF:-1   tvg-id="ITV3" group-title="Entertainment",ITV3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/31.mpegts
+#EXTINF:-1   tvg-id="ITV4" group-title="Entertainment",ITV4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/32.mpegts
+#EXTINF:-1    group-title="Entertainment",ITV Encore
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/655.mpegts
+#EXTINF:-1   tvg-id="ITVBe" group-title="Entertainment",ITVBe
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/105.mpegts
+#EXTINF:-1   tvg-id="Yesterday" group-title="Entertainment",Yesterday
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/74.mpegts
+#EXTINF:-1    group-title="News",CNN
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/678.mpegts
+#EXTINF:-1   tvg-id="Euronews" group-title="News",Euro News
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1139.mpegts
+#EXTINF:-1   tvg-id="Bloomberg" group-title="News",Bloomberg
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/392.mpegts
+#EXTINF:-1   tvg-id="HBO 2 East" group-title="Movies",HBO 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/188.mpegts
+#EXTINF:-1   tvg-id="HBO East" group-title="Movies",HBO East
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/189.mpegts
+#EXTINF:-1   tvg-id="HBO Comedy HD East (HBOCHD)" group-title="Movies",HBO Comedy
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/194.mpegts
+#EXTINF:-1   tvg-id="HBO Family" group-title="Movies",HBO Family
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/195.mpegts
+#EXTINF:-1   tvg-id="HBO Signature" group-title="Movies",HBO Signature
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/192.mpegts
+#EXTINF:-1   tvg-id="HBO Zone" group-title="Movies",HBO Zone
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/193.mpegts
+#EXTINF:-1   tvg-id="Cinemax East" group-title="Movies",Cinemax East
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/183.mpegts
+#EXTINF:-1   tvg-id="Cinemax 5 StarMax" group-title="Movies",Cinemax 5 StarMax
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/186.mpegts
+#EXTINF:-1   tvg-id="ActionMAX" group-title="Movies",Cinemax ActionMax
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/187.mpegts
+#EXTINF:-1   tvg-id="Moremax" group-title="Movies",Cinemax Moremax
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/334.mpegts
+#EXTINF:-1   tvg-id="Showtime East" group-title="Movies",Showtime HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/169.mpegts
+#EXTINF:-1   tvg-id="Showtime 2" group-title="Movies",Showtime 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/170.mpegts
+#EXTINF:-1   tvg-id="Showtime Showcase" group-title="Movies",Showtime Showcase
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/172.mpegts
+#EXTINF:-1   tvg-id="Showtime West" group-title="Movies",Showtime West
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/171.mpegts
+#EXTINF:-1   tvg-id="Showtime Beyond" group-title="Movies",Showtime Beyond
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/174.mpegts
+#EXTINF:-1   tvg-id="Showtime Extreme" group-title="Movies",Showtime Extreme
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/173.mpegts
+#EXTINF:-1    group-title="Movies",Showtime Next
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1646.mpegts
+#EXTINF:-1   tvg-id="Starz East (STRZ)" group-title="Movies",Starz East
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/182.mpegts
+#EXTINF:-1   tvg-id="Starz West (STZw)" group-title="Movies",Starz West
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/181.mpegts
+#EXTINF:-1   tvg-id="Starz Comedy HD (STZCHD)" group-title="Movies",Starz Comedy
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/178.mpegts
+#EXTINF:-1   tvg-id="Starz Edge (STZE)" group-title="Movies",Starz Edge
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/180.mpegts
+#EXTINF:-1   tvg-id="Starz Cinema HD (STZCIHD)" group-title="Movies",Starz Cinema
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/179.mpegts
+#EXTINF:-1   tvg-id="Starz Encore (SENC)" group-title="Movies",Starz Encore
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/464.mpegts
+#EXTINF:-1   tvg-id="Starz in Black (STZB)" group-title="Movies",Starz In Black
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/176.mpegts
+#EXTINF:-1   tvg-id="Starz Kids & Family HD (STZKHD)" group-title="Movies",Starz Kids
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/177.mpegts
+#EXTINF:-1   tvg-id="Sky Action" group-title="Movies",Sky Movies Action HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/36.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Premiere" group-title="Movies",Sky Movies Premiere HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/410.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Greats" group-title="Movies",Sky Movies Modern Greats HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/45.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Comedy" group-title="Movies",Sky Movies Comedy HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/37.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Showcase" group-title="Movies",Sky Movies Showcase HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/43.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Select" group-title="Movies",Sky Movies Select HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/46.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Thriller" group-title="Movies",Sky Movies Thriller HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/39.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Sci-Fi" group-title="Movies",Sky Movies Sci-Fi HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/42.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Drama" group-title="Movies",Sky Movies Drama HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/41.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Family" group-title="Movies",Sky Movies Family HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/38.mpegts
+#EXTINF:-1   tvg-id="Sky Movies Disney" group-title="Movies",Sky Movies Disney HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/44.mpegts
+#EXTINF:-1    group-title="Movies",Super Channel 1 US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1465.mpegts
+#EXTINF:-1    group-title="Movies",Super Channel 2 US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1466.mpegts
+#EXTINF:-1    group-title="Movies",Super Channel 3 US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1467.mpegts
+#EXTINF:-1    group-title="Movies",Super Channel 4 US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1468.mpegts
+#EXTINF:-1   tvg-id="Turner Classic Movies (TCM)" group-title="Movies",TCM US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/786.mpegts
+#EXTINF:-1    group-title="Entertainment",Discovery Family US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6848.mpegts
+#EXTINF:-1    group-title="Movies",Action
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6994.mpegts
+#EXTINF:-1   tvg-id="Starz Encore (SENC)" group-title="Movies",Encore US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/779.mpegts
+#EXTINF:-1   tvg-id="Starz Encore Action (SEAC)" group-title="Movies",Encore Action US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/780.mpegts
+#EXTINF:-1   tvg-id="Film4" group-title="Movies",Film4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/267.mpegts
+#EXTINF:-1   tvg-id="SPACE" group-title="Movies",SPACE
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/481.mpegts
+#EXTINF:-1   tvg-id="Sony Movies" group-title="Movies",Sony Movies  US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/986.mpegts
+#EXTINF:-1    group-title="Movies",Sony Movies+1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/985.mpegts
+#EXTINF:-1    group-title="Movies",THE MOVIE CHANNEL US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6887.mpegts
+#EXTINF:-1    group-title="Movies",True Movies 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/330.mpegts
+#EXTINF:-1   tvg-id="True Movies 1" group-title="Movies",True Movies 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/329.mpegts
+#EXTINF:-1   tvg-id="DiscoveryChannelUS" group-title="Documentaries",Discovery Channel US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/476.mpegts
+#EXTINF:-1   tvg-id="History Channel (HIST)" group-title="Documentaries",HISTORY US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/469.mpegts
+#EXTINF:-1   tvg-id="H2 USA" group-title="Documentaries",H2 USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/375.mpegts
+#EXTINF:-1   tvg-id="National Geographic TV (NGC)" group-title="Documentaries",National Geographic US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/473.mpegts
+#EXTINF:-1   tvg-id="Nat Geo WILD (NGW)" group-title="Documentaries",Nat Geo Wild US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/474.mpegts
+#EXTINF:-1    group-title="Documentaries",Destination America
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1635.mpegts
+#EXTINF:-1   tvg-id="AnimalPlanetUS" group-title="Documentaries",Animal Planet US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/373.mpegts
+#EXTINF:-1    group-title="Documentaries",Velocity
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6993.mpegts
+#EXTINF:-1   tvg-id="Investigation Discovery (ID)" group-title="Documentaries",Investigation Discovery  US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/477.mpegts
+#EXTINF:-1    group-title="Documentaries",ESCAPE
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6952.mpegts
+#EXTINF:-1    group-title="Documentaries",Love Nature
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/987.mpegts
+#EXTINF:-1    group-title="Entertainment",CREATE US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7070.mpegts
+#EXTINF:-1   tvg-id="HGTV" group-title="Documentaries",HGTV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/203.mpegts
+#EXTINF:-1   tvg-id="DIY" group-title="Documentaries",DIY Network
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/204.mpegts
+#EXTINF:-1   tvg-id="NASA" group-title="Documentaries",NASA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/150.mpegts
+#EXTINF:-1    group-title="Documentaries",Travel Channel US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6948.mpegts
+#EXTINF:-1   tvg-id="Discovery" group-title="Documentaries",Discovery Channel
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/414.mpegts
+#EXTINF:-1   tvg-id="History" group-title="Documentaries",History UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/411.mpegts
+#EXTINF:-1   tvg-id="H2 UK" group-title="Documentaries",H2 UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/320.mpegts
+#EXTINF:-1   tvg-id="Animal Planet" group-title="Documentaries",Animal Planet UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/56.mpegts
+#EXTINF:-1   tvg-id="Disc.History" group-title="Documentaries",Discovery History UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/53.mpegts
+#EXTINF:-1   tvg-id="Discovery Shed" group-title="Documentaries",Discovery Shed UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/380.mpegts
+#EXTINF:-1   tvg-id="Disc.Science" group-title="Documentaries",Discovery Science UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/54.mpegts
+#EXTINF:-1   tvg-id="HomeHealth UK" group-title="Documentaries",Discovery Home & Health UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/278.mpegts
+#EXTINF:-1   tvg-id="Disc.Turbo" group-title="Documentaries",Discovery Turbo
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/55.mpegts
+#EXTINF:-1   tvg-id="National Geographic UK" group-title="Documentaries",National Geographic UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/57.mpegts
+#EXTINF:-1   tvg-id="Nat Geo Wild" group-title="Documentaries",Nat Geo Wild UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/58.mpegts
+#EXTINF:-1   tvg-id="Crime Investigation UK" group-title="Documentaries",Crime Investigation UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/95.mpegts
+#EXTINF:-1   tvg-id="Investigation Discovery" group-title="Documentaries",Investigation Discovery
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/51.mpegts
+#EXTINF:-1    group-title="Documentaries",Travel Channel
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1472.mpegts
+#EXTINF:-1   tvg-id="Good Food" group-title="Documentaries",Good Food UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/421.mpegts
+#EXTINF:-1   tvg-id="Food Network UK" group-title="Documentaries",Food Network UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/319.mpegts
+#EXTINF:-1   tvg-id="NBC Sports Network (NBCS)" group-title="Sports",NBC Sports US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/467.mpegts
+#EXTINF:-1   tvg-id="CBS Sports Network (CBS SN)" group-title="Sports",CBS Sport  Network
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/785.mpegts
+#EXTINF:-1   tvg-id="ESPNUS" group-title="Sports",ESPN US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/371.mpegts
+#EXTINF:-1   tvg-id="ESPN2US" group-title="Sports",ESPN 2 US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/466.mpegts
+#EXTINF:-1    group-title="Sports",ESPNU
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1638.mpegts
+#EXTINF:-1   tvg-id="FOX Sports 1" group-title="Sports",FOX Sports 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/212.mpegts
+#EXTINF:-1   tvg-id="FOX Sports 2" group-title="Sports",FOX Sports 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/228.mpegts
+#EXTINF:-1    group-title="Sports",NBA TV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1427.mpegts
+#EXTINF:-1   tvg-id="MLB Network" group-title="Sports",MLB Network
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/456.mpegts
+#EXTINF:-1    group-title="Sports",NFL Network
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1190.mpegts
+#EXTINF:-1   tvg-id="NFL Network (NFL)" group-title="Sports",NFL Network Now
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1066.mpegts
+#EXTINF:-1    group-title="Sports",NFL Red Zone
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6871.mpegts
+#EXTINF:-1   tvg-id="NHL Network HD (NHLHD)" group-title="Sports",NHL USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/299.mpegts
+#EXTINF:-1    group-title="247",UFC 24/7
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1183.mpegts
+#EXTINF:-1    group-title="Sports",Tennis HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7063.mpegts
+#EXTINF:-1    group-title="Sports",UFC Latino
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6898.mpegts
+#EXTINF:-1   tvg-id="WWE Network" group-title="Sports",WWE Network
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/79.mpegts
+#EXTINF:-1   tvg-id="TSN1" group-title="Sports",TSN1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/342.mpegts
+#EXTINF:-1   tvg-id="TSN2" group-title="Sports",TSN 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/343.mpegts
+#EXTINF:-1   tvg-id="TSN3" group-title="Sports",TSN 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/344.mpegts
+#EXTINF:-1   tvg-id="TSN4" group-title="Sports",TSN 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/345.mpegts
+#EXTINF:-1   tvg-id="TSN5" group-title="Sports",TSN 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/346.mpegts
+#EXTINF:-1   tvg-id="Sports Net One" group-title="Sports",SPORTSNET ONE
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/698.mpegts
+#EXTINF:-1   tvg-id="The Score HD" group-title="Sports",SPORTSNET 360
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/701.mpegts
+#EXTINF:-1   tvg-id="Sportsnet World" group-title="Sports",SPORTSNET WORLD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/700.mpegts
+#EXTINF:-1   tvg-id="Sports Net Ontario" group-title="Sports",SPORTSNET ONTARIO
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/699.mpegts
+#EXTINF:-1    group-title="Sports",SPORTSNET PACIFIC
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6934.mpegts
+#EXTINF:-1   tvg-id="Sky Sports 1" group-title="Sports",Sky Sports 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/24.mpegts
+#EXTINF:-1   tvg-id="Sky Sports 2" group-title="Sports",Sky Sports 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/25.mpegts
+#EXTINF:-1   tvg-id="Sky Sports 3" group-title="Sports",Sky Sports 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/26.mpegts
+#EXTINF:-1   tvg-id="Sky Sports 4" group-title="Sports",Sky Sports 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/27.mpegts
+#EXTINF:-1   tvg-id="Sky Sports 5" group-title="Sports",Sky Sports 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/28.mpegts
+#EXTINF:-1   tvg-id="Sky Sports F1" group-title="Sports",Sky Sports F1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/64.mpegts
+#EXTINF:-1   tvg-id="Sky Sports Box Office" group-title="Sports",Sky Sports Box Office
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/446.mpegts
+#EXTINF:-1   tvg-id="I405.759235.microsoft.com" group-title="Sports",Sky Sports News
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/63.mpegts
+#EXTINF:-1   tvg-id="BoxNation" group-title="Sports",BoxNation
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/47.mpegts
+#EXTINF:-1   tvg-id="Premier Sports" group-title="Sports",Premier Sports
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/23.mpegts
+#EXTINF:-1   tvg-id="BT Sports 1" group-title="Sports",BT Sports 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1201.mpegts
+#EXTINF:-1   tvg-id="BT Sports 2" group-title="Sports",BT Sports 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1755.mpegts
+#EXTINF:-1    group-title="Sports",BT Sports 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6828.mpegts
+#EXTINF:-1   tvg-id="BT Sports ESPN" group-title="Sports",BT Sports ESPN
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/273.mpegts
+#EXTINF:-1   tvg-id="Racing UK" group-title="Sports",Racing UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/261.mpegts
+#EXTINF:-1   tvg-id="At The Races" group-title="Sports",At The Races
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/272.mpegts
+#EXTINF:-1    group-title="Sports",Willow HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6897.mpegts
+#EXTINF:-1   tvg-id="NBCSN Golf" group-title="Sports",NBCSN Golf
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/65.mpegts
+#EXTINF:-1   tvg-id="Chelsea TV" group-title="Sports",Chelsea TV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/100.mpegts
+#EXTINF:-1   tvg-id="LFCTV" group-title="Sports",LFCTV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/98.mpegts
+#EXTINF:-1   tvg-id="MUTV" group-title="Sports",MUTV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/99.mpegts
+#EXTINF:-1   tvg-id="Astro SuperSport" group-title="Sports",Astro SuperSport
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/484.mpegts
+#EXTINF:-1   tvg-id="Astro SuperSport 2" group-title="Sports",Astro SuperSport 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/690.mpegts
+#EXTINF:-1   tvg-id="Astro SuperSport 3" group-title="Sports",Astro SuperSport 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/691.mpegts
+#EXTINF:-1    group-title="Sports",Astro SuperSport 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/487.mpegts
+#EXTINF:-1   tvg-id="I410.759079.microsoft.com" group-title="Sports",Eurosport 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/275.mpegts
+#EXTINF:-1   tvg-id="I411.760271.microsoft.com" group-title="Sports",Eurosport 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/60.mpegts
+#EXTINF:-1    group-title="Sports",Fight Sport
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1082.mpegts
+#EXTINF:-1    group-title="Sports",Poker Central
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/340.mpegts
+#EXTINF:-1    group-title="Sports",True Sport 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1192.mpegts
+#EXTINF:-1    group-title="Sports",Bein Sports ES
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/677.mpegts
+#EXTINF:-1    group-title="Sports",Eir Sports 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6844.mpegts
+#EXTINF:-1    group-title="Sports",Eir Sports 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6845.mpegts
+#EXTINF:-1   tvg-id="Arena Sport 1" group-title="Sports",Arena Sport 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/257.mpegts
+#EXTINF:-1   tvg-id="Arena Sport 2" group-title="Sports",Arena Sport 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/258.mpegts
+#EXTINF:-1   tvg-id="Arena Sport 3" group-title="Sports",Arena Sport 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/259.mpegts
+#EXTINF:-1   tvg-id="Arena Sport 4" group-title="Sports",Arena Sport 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/260.mpegts
+#EXTINF:-1    group-title="Sports",Arena Sports 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1013.mpegts
+#EXTINF:-1    group-title="Sports",BeinSports USA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1232.mpegts
+#EXTINF:-1   tvg-id="FR beIN Sports 1" group-title="Sports",BeinSports 1 FR
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/224.mpegts
+#EXTINF:-1   tvg-id="FR beIN Sports 2" group-title="Sports",BeinSports 2 FR
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/225.mpegts
+#EXTINF:-1   tvg-id="FR beIN Sports 3" group-title="Sports",BeinSports 3 FR
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/226.mpegts
+#EXTINF:-1   tvg-id="BeinSports1" group-title="Sports",BeinSports 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/213.mpegts
+#EXTINF:-1   tvg-id="BeinSports2" group-title="Sports",BeinSports 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/214.mpegts
+#EXTINF:-1   tvg-id="BeinSports3" group-title="Sports",BeinSports 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/215.mpegts
+#EXTINF:-1   tvg-id="BeinSports4" group-title="Sports",BeinSports 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/216.mpegts
+#EXTINF:-1   tvg-id="BeinSports5" group-title="Sports",BeinSports 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/217.mpegts
+#EXTINF:-1   tvg-id="BeinSports6" group-title="Sports",BeinSports6
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/218.mpegts
+#EXTINF:-1   tvg-id="BeinSports7" group-title="Sports",BeinSports7
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/219.mpegts
+#EXTINF:-1   tvg-id="BeinSports8" group-title="Sports",BeinSports8
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/220.mpegts
+#EXTINF:-1   tvg-id="BeinSports9" group-title="Sports",BeinSports9
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/221.mpegts
+#EXTINF:-1   tvg-id="BeinSports10" group-title="Sports",BeinSports10
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/222.mpegts
+#EXTINF:-1   tvg-id="BeinSports11" group-title="Sports",BeinSports11
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/223.mpegts
+#EXTINF:-1   tvg-id="BeinSports12" group-title="Sports",BeinSports12
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/559.mpegts
+#EXTINF:-1   tvg-id="DE Sky Sport 1" group-title="German",Sky Sport 1 DE
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/638.mpegts
+#EXTINF:-1    group-title="German",Sky Sport 2 DE
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/696.mpegts
+#EXTINF:-1    group-title="German",Sky Sport News DE
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/697.mpegts
+#EXTINF:-1    group-title="Sports",SportKlub 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6778.mpegts
+#EXTINF:-1   tvg-id="SportKlub 2" group-title="Sports",SportKlub 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/537.mpegts
+#EXTINF:-1   tvg-id="SportKlub 3" group-title="Sports",SportKlub 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/538.mpegts
+#EXTINF:-1   tvg-id="FOX Sports NL 1" group-title="Sports",FOX Sports NL 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/664.mpegts
+#EXTINF:-1   tvg-id="FOX Sports NL 2" group-title="Sports",FOX Sports NL 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/665.mpegts
+#EXTINF:-1   tvg-id="FOX Sports NL 3" group-title="Sports",FOX Sports NL 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/666.mpegts
+#EXTINF:-1    group-title="Sports",Premier League 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/67.mpegts
+#EXTINF:-1    group-title="Sports",Premier League 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/66.mpegts
+#EXTINF:-1    group-title="Sports",Premier League 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/69.mpegts
+#EXTINF:-1    group-title="Sports",Premier League 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/68.mpegts
+#EXTINF:-1    group-title="Sports",Premier League 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/70.mpegts
+#EXTINF:-1    group-title="Sports",PAC 12 Network
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/125.mpegts
+#EXTINF:-1    group-title="Sports",PAC 12 LA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/123.mpegts
+#EXTINF:-1    group-title="Sports",PAC 12 Bay Area
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/122.mpegts
+#EXTINF:-1    group-title="Sports",PAC 12 Oregon
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/126.mpegts
+#EXTINF:-1    group-title="Sports",PAC 12 Mountain
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/124.mpegts
+#EXTINF:-1   tvg-id="Star Sports 1" group-title="Sports",STAR SPORTS 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/703.mpegts
+#EXTINF:-1   tvg-id="Star Sports 2" group-title="Sports",STAR SPORTS 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/704.mpegts
+#EXTINF:-1   tvg-id="Star Sports 3" group-title="Sports",STAR SPORTS 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/705.mpegts
+#EXTINF:-1   tvg-id="Star Sports 4" group-title="Sports",STAR SPORTS 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/706.mpegts
+#EXTINF:-1    group-title="Sports",MIO Stadium 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6836.mpegts
+#EXTINF:-1    group-title="Sports",MIO Stadium 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6837.mpegts
+#EXTINF:-1    group-title="Sports",MIO Stadium 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6838.mpegts
+#EXTINF:-1    group-title="Sports",MIO Stadium 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6839.mpegts
+#EXTINF:-1    group-title="Sports",MIO Stadium 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6840.mpegts
+#EXTINF:-1    group-title="Sports",MIO Stadium 6
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6841.mpegts
+#EXTINF:-1    group-title="Sports",MIO Stadium 7
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6842.mpegts
+#EXTINF:-1    group-title="Sports",Nile Sports
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1052.mpegts
+#EXTINF:-1   tvg-id="CartoonNetworkUS" group-title="Kids",Cartoon Network US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/471.mpegts
+#EXTINF:-1   tvg-id="Cartoon Network" group-title="Kids",Cartoon Network UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/50.mpegts
+#EXTINF:-1   tvg-id="Boomerang" group-title="Kids",Boomerang UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1396.mpegts
+#EXTINF:-1   tvg-id="Disney Chnl" group-title="Kids",Disney Channel
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/424.mpegts
+#EXTINF:-1   tvg-id="Disney Junior UK" group-title="Kids",Disney Junior UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/207.mpegts
+#EXTINF:-1   tvg-id="Disney XD" group-title="Kids",Disney XD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/422.mpegts
+#EXTINF:-1    group-title="Kids",Nick  Too
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1224.mpegts
+#EXTINF:-1   tvg-id="Nickelodeon" group-title="Kids",Nickelodeon UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/420.mpegts
+#EXTINF:-1   tvg-id="NickelodeonUS" group-title="Kids",Nickelodeon US
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1503.mpegts
+#EXTINF:-1   tvg-id="Nicktoons" group-title="Kids",Nicktoons
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/419.mpegts
+#EXTINF:-1   tvg-id="Nick Jr UK" group-title="Kids",Nick Jr UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/160.mpegts
+#EXTINF:-1   tvg-id="CBeebies" group-title="Kids",CBeebies
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/531.mpegts
+#EXTINF:-1   tvg-id="CITV" group-title="Kids",CITV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/641.mpegts
+#EXTINF:-1   tvg-id="CBBC" group-title="Kids",CBBC
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/530.mpegts
+#EXTINF:-1   tvg-id="BabyTV" group-title="Kids",BABY TV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/401.mpegts
+#EXTINF:-1   tvg-id="MTV" group-title="Music",MTV UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/644.mpegts
+#EXTINF:-1   tvg-id="MTV HITS" group-title="Music",MTV Hits
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/263.mpegts
+#EXTINF:-1   tvg-id="MTV DANCE" group-title="Music",MTV Dance
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/262.mpegts
+#EXTINF:-1    group-title="Radio",Better Country Radio
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1436.mpegts
+#EXTINF:-1    group-title="Music",Country Music Mix
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1432.mpegts
+#EXTINF:-1    group-title="Radio",Country Show Radio
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1433.mpegts
+#EXTINF:-1    group-title="Music",Country Hits
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1431.mpegts
+#EXTINF:-1    group-title="Music",Dance - Non stop Dance Tracks
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1028.mpegts
+#EXTINF:-1    group-title="Music",Dance Station - non stop latest Dance tracks
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1029.mpegts
+#EXTINF:-1    group-title="Music",Demon FM
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1023.mpegts
+#EXTINF:-1    group-title="Music",Heavy Metal Non stop Heavy Metal
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1026.mpegts
+#EXTINF:-1    group-title="Music",Heart FM
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/244.mpegts
+#EXTINF:-1    group-title="Radio",Hit Radio
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1021.mpegts
+#EXTINF:-1    group-title="Music",Retro Country Music
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1435.mpegts
+#EXTINF:-1    group-title="Music",VH1 UK
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/647.mpegts
+#EXTINF:-1    group-title="Music",Virgin Music TV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/243.mpegts
+#EXTINF:-1    group-title="Music",Vibe Tv
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1000.mpegts
+#EXTINF:-1   tvg-id="Viva" group-title="Music",Viva
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/965.mpegts
+#EXTINF:-1    group-title="Music",VEVO MUSIC 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/395.mpegts
+#EXTINF:-1    group-title="Spanish",TELEMUNDO
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6901.mpegts
+#EXTINF:-1    group-title="Spanish",UNIVISION
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6902.mpegts
+#EXTINF:-1    group-title="Spanish",AXN LAT
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1787.mpegts
+#EXTINF:-1    group-title="Spanish",TBS LAT
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1785.mpegts
+#EXTINF:-1    group-title="Spanish",TNT Series LAT
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1786.mpegts
+#EXTINF:-1    group-title="Spanish",Fox LAT
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1792.mpegts
+#EXTINF:-1    group-title="Spanish",Canal + Accion ES
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1729.mpegts
+#EXTINF:-1    group-title="Spanish",Canal + Extra ES
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1737.mpegts
+#EXTINF:-1   tvg-id="Canal Discovery World Latinoamérica" group-title="Spanish",Discovery World ES
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/956.mpegts
+#EXTINF:-1    group-title="Spanish",Tele Medellin
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1439.mpegts
+#EXTINF:-1    group-title="Spanish",360 Deportes
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1230.mpegts
+#EXTINF:-1    group-title="Spanish",DXTV
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1511.mpegts
+#EXTINF:-1    group-title="Adults",Naughty America XXX
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6888.mpegts
+#EXTINF:-1    group-title="Adults",Mofos XXX
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6889.mpegts
+#EXTINF:-1    group-title="Adults",Pink Erotic
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1403.mpegts
+#EXTINF:-1    group-title="Adults",Teen XXX
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6891.mpegts
+#EXTINF:-1    group-title="Adults",Dorcel
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6890.mpegts
+#EXTINF:-1    group-title="Adults",Blue Hustler
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1398.mpegts
+#EXTINF:-1    group-title="Adults",Brazzers
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1401.mpegts
+#EXTINF:-1    group-title="Adults",Pink Erotic 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1405.mpegts
+#EXTINF:-1    group-title="Adults",Hot XXX
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1402.mpegts
+#EXTINF:-1    group-title="Entertainment",Jolly HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1010.mpegts
+#EXTINF:-1    group-title="Adults",Playboy 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1077.mpegts
+#EXTINF:-1    group-title="Adults",Bunga Bunga  XXX
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1397.mpegts
+#EXTINF:-1    group-title="Adults",Desire XXX
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1399.mpegts
+#EXTINF:-1    group-title="Adults",Exotica XXX
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1400.mpegts
+#EXTINF:-1    group-title="247",Die Hard 24/7
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1428.mpegts
+#EXTINF:-1    group-title="247",American Dad Series 12 24/7
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/1171.mpegts
+#EXTINF:-1    group-title="Spanish",WAPA PR
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6960.mpegts
+#EXTINF:-1    group-title="Spanish",UNICABLE SP
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6961.mpegts
+#EXTINF:-1    group-title="Spanish",SYFY SP
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6962.mpegts
+#EXTINF:-1    group-title="Spanish",DW LATINOAMERICA
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6963.mpegts
+#EXTINF:-1    group-title="Spanish",CANAL+D CINE ES
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6969.mpegts
+#EXTINF:-1    group-title="Spanish",CANAL ESTRENOS ES
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6970.mpegts
+#EXTINF:-1    group-title="Spanish",CANAL+COMEDIA ES
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6971.mpegts
+#EXTINF:-1    group-title="Spanish",CANAL+SERIES XTRA ES
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6972.mpegts
+#EXTINF:-1    group-title="Sports",NHL Live 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6974.mpegts
+#EXTINF:-1    group-title="Sports",NBL Live
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6945.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6944.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6946.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7024.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7025.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7026.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 6
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7027.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 7
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7028.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 8
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7029.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 9
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7043.mpegts
+#EXTINF:-1    group-title="Sports",NBA Live 10
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7067.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6862.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6863.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6864.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6865.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6866.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 6
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6867.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 7
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6868.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 8
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6869.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 9
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6870.mpegts
+#EXTINF:-1    group-title="Sports",NFL Live 10
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6872.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 1
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6895.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6924.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 3
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6925.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 4
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6926.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 5
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6927.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 6
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6928.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 7
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6929.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 8
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6930.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 9
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6931.mpegts
+#EXTINF:-1    group-title="Sports",MLB Live 10
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/6932.mpegts
+#EXTINF:-1    group-title="Entertainment",Oprah Winfrey Network
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7044.mpegts
+#EXTINF:-1    group-title="Entertainment",AFN Pulse
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7061.mpegts
+#EXTINF:-1    group-title="Entertainment",TBN HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7064.mpegts
+#EXTINF:-1    group-title="Kids",Sprout
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7065.mpegts
+#EXTINF:-1    group-title="Sports",AFN Sports 2
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7066.mpegts
+#EXTINF:-1    group-title="Entertainment",tv3 test
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7082.mpegts
+#EXTINF:-1    group-title="Sports",SEC Network HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7121.mpegts
+#EXTINF:-1    group-title="Sports",BIG Ten Network HD
+http://usaiptv.ddns.net:9090/load/fb420db14ec6/7122.mpegts
+#EXTINF:-1 group-title="Replay"  ,UFC 204 Bisping vs Henderson
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/217.m3u8
+#EXTINF:-1 group-title="Films 1980-1990" tvg-logo="http://usaiptv.ddns.net:9090/logos/v216.jpg"  ,Sunset (1988)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/216.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v214.jpg"  ,Ted 2 (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/214.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v213.jpg"  ,Irrational Man (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/213.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v212.jpg"  ,Spectre (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/212.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v211.jpg"  ,The Program (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/211.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v210.jpg"  ,Blood Diamond (2006)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/210.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v209.jpg"  ,Casino Royale (2006)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/209.m3u8
+#EXTINF:-1 group-title="Films 1990-2000" tvg-logo="http://usaiptv.ddns.net:9090/logos/v208.jpg"  ,Casino (1995)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/208.m3u8
+#EXTINF:-1 group-title="Films 1980-1990" tvg-logo="http://usaiptv.ddns.net:9090/logos/v207.jpg"  ,Die Hard (1988)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/207.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v206.jpg"  ,District 9 (2009)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/206.m3u8
+#EXTINF:-1 group-title="Films 2012" tvg-logo="http://usaiptv.ddns.net:9090/logos/v205.jpg"  ,Django Unchained (2012)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/205.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v204.jpg"  ,Downfall (2004)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/204.m3u8
+#EXTINF:-1 group-title="Films 2013" tvg-logo="http://usaiptv.ddns.net:9090/logos/v203.jpg"  ,Gravity (2013)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/203.m3u8
+#EXTINF:-1 group-title="Films 2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v202.jpg"  ,Inception (2010)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/202.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v201.jpg"  ,The Big Short (2015
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/201.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v200.jpg"  ,Deadpool (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/200.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v199.jpg"  ,Mr. Holmes (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/199.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v198.jpg"  ,Taken (2008)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/198.m3u8
+#EXTINF:-1 group-title="Films 2011" tvg-logo="http://usaiptv.ddns.net:9090/logos/v197.jpg"  ,The Help (2011)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/197.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v196.jpg"  ,The Peanuts Movie (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/196.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v195.jpg"  ,The Prestige (2006)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/195.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v194.jpg"  ,The Boy Next Door (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/194.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v191.jpg"  ,Sharknado 4: The 4th Awakens (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/191.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v190.jpg"  ,Friend Request (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/190.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v189.jpg"  ,Florence Foster Jenkins
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/189.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v188.jpg"  ,All the Way (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/188.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v187.jpg"  ,Free State of Jones
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/187.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v186.jpg"  ,Jane Got a Gun (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/186.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v185.jpg"  ,Lake Eerie (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/185.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v184.jpg"  ,The Legend of Tarzan (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/184.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v183.jpg"  ,Our Kind of Traitor (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/183.m3u8
+#EXTINF:-1 group-title="Films 1990-2000"  ,Demolition Man 1993
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/182.m3u8
+#EXTINF:-1 group-title="Replay"  ,WWE Backlash
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/181.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Episode 10 Series 6
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/179.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v177.jpg"  ,He Never Died (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/177.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v176.jpg"  ,The Last Rescue (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/176.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v175.jpg"  ,The Purge: Election Year (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/175.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v174.jpg"  ,The Other Side Of The Door (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/174.m3u8
+#EXTINF:-1 group-title="Replay"  ,UFC 201 Lawler vs Woodley RP
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/172.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v167.jpg"  ,Central Intelligence (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/167.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v166.jpg"  ,The Brothers Grimsby (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/166.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v165.jpg"  ,The Conjuring 2 (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/165.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v164.jpg"  ,The Wedding Ringer (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/164.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v163.jpg"  ,Zoolander 2 (2016) [FR-EN]
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/163.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v162.jpg"  ,The Bet (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/162.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v161.jpg"  ,The Bourne Identity [2002]
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/161.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v160.jpg"  ,The Bourne Ultimatum [2007]
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/160.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v159.jpg"  ,London Has Fallen (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/159.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v158.jpg"  ,One More Time (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/158.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v157.jpg"  ,Tripple 9
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/157.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v156.jpg"  ,Sacrifice (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/156.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v155.jpg"  ,The Asian Connection (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/155.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v154.jpg"  ,Kill Command (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/154.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v148.jpg"  ,A Conspiracy of Faith (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/148.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v147.jpg"  ,Indiscretion (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/147.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v146.jpg"  ,Sniper: Ghost Shooter (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/146.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Casual Encounters (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/145.m3u8
+#EXTINF:-1 group-title="Replay"  ,Leo Santa Cruz vs Carl Frampton (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/139.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v136.jpg"  ,The Nice Guys (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/136.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Before I Wake - (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/135.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v134.jpg"  ,Batman v Superman: Dawn of Justice (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/134.m3u8
+#EXTINF:-1 group-title="Films 2011" tvg-logo="http://usaiptv.ddns.net:9090/logos/v132.jpg"  ,Harry Potter and the Deathly Hallows (2011) part 2
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/132.m3u8
+#EXTINF:-1 group-title="Films 2011" tvg-logo="http://usaiptv.ddns.net:9090/logos/v131.jpg"  ,Harry Potter and the Deathly Hallows (2010) part 1
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/131.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones" tvg-logo="http://usaiptv.ddns.net:9090/logos/v130.jpg"  ,Game Of Thrones Season 6 Episode 9
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/130.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Finding Dory LQ (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/129.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Game Of Thrones Season 6 Episode 10
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/128.m3u8
+#EXTINF:-1 group-title="Films 2014" tvg-logo="http://usaiptv.ddns.net:9090/logos/v127.jpg"  ,Dumb and Dumber 2
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/127.m3u8
+#EXTINF:-1 group-title="Films 1990-2000" tvg-logo="http://usaiptv.ddns.net:9090/logos/v126.jpg"  ,Batman and Robin (1997)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/126.m3u8
+#EXTINF:-1 group-title="Films 1980-1990" tvg-logo="http://usaiptv.ddns.net:9090/logos/v124.jpg"  ,Batman (1989)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/124.m3u8
+#EXTINF:-1 group-title="Films 1990-2000"  ,Batman Returns (1992)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/123.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v121.jpg"  ,13 Hours : Secret Soldiers of Benghazi (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/121.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Pride and Prejudice (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/119.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Lost in the Pacific (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/118.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Likes for Likes (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/116.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Criminal (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/114.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Captain America Civil War (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/113.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Other Side OF TheDoor (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/112.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Blood Orange (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/111.m3u8
+#EXTINF:-1 group-title="Films 2015"  ,Back In The Day (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/110.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Before I Wake (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/109.m3u8
+#EXTINF:-1 group-title=""  ,UFC 200 Prelims
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/106.m3u8
+#EXTINF:-1 group-title=""  ,UFC 200 Early Prelims
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/104.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v102.jpg"  ,Eddie the Eagle [2016]
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/102.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Approcahing the Unknown (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/99.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Angry Birds (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/98.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Alice Through the Looking Glass (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/97.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v94.jpg"  ,X-Men: Apocalypse (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/94.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v92.jpg"  ,Neighbors 2: Sorority Rising (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/92.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,The Last Heist (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/88.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v83.jpg"  ,My Big Fat Greek Wedding 2 (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/83.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v82.jpg"  ,The Perfect Match (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/82.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v81.jpg"  ,Marauders (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/81.m3u8
+#EXTINF:-1 group-title="Films 2016" tvg-logo="http://usaiptv.ddns.net:9090/logos/v80.jpg"  ,Me Before you (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/80.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones" tvg-logo="http://usaiptv.ddns.net:9090/logos/v78.jpg"  ,Game Of Thrones S06E10
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/78.m3u8
+#EXTINF:-1 group-title="Films 2000-2010" tvg-logo="http://usaiptv.ddns.net:9090/logos/v76.jpg"  ,Finding Nemo (2003)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/76.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v75.jpg"  ,Star Wars The Force Awakens (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/75.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v74.jpg"  ,Minions (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/74.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v73.jpg"  ,Hitman Agent 47 (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/73.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v72.jpg"  ,The 33 (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/72.m3u8
+#EXTINF:-1 group-title="Films 2015" tvg-logo="http://usaiptv.ddns.net:9090/logos/v71.jpg"  ,Plan 9 (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/71.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,The 5th Wave (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/69.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Ride Along 2 (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/68.m3u8
+#EXTINF:-1 group-title="Films 2015"  ,The Revenant (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/66.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,Special Correspondents (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/65.m3u8
+#EXTINF:-1 group-title="Films 2015"  ,Hooligan Legacy (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/60.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Game Of Thrones SE 6 EP 8
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/59.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Game Of Thrones SE 6 EP 7
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/58.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Game Of Thrones SE6 EP 6
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/57.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Game Of Thrones SE 6 EP 5
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/56.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Game OfThrones SE 6 EP 4
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/55.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Game Of Thrones SE 6 EP 2
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/53.m3u8
+#EXTINF:-1 group-title="Boxsets Game Of Thrones"  ,Game Of Thrones SE 6 EP 1
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/52.m3u8
+#EXTINF:-1 group-title="Films 2016"  ,94 Feet (2016)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/51.m3u8
+#EXTINF:-1 group-title="Films 2015"  ,600 Miles (2015)
+http://usaiptv.ddns.net:9090/loadvod/fb420db14ec6/50.m3u8
