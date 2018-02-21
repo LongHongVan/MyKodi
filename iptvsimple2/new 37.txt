@@ -780,6 +780,7 @@ old stuff - still works good
 http://usaiptv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp&output=ts Good
 http://usaiptv.ddns.net:9090/m3u8/fb420db14ec6?type=m3u&amp&output=mpegts updated 02/16/2018
 http://smashtv.ddns.net:9090/m3u8/0855ebd4f90b?type=m3u&amp&output=mpegts Good
+http://smashtv.ddns.net:9090/m3u8/fb420db14ec6?type=m3u&amp&output=mpegts updated 02/16/2018
 http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 USA Similar Port "iptv.monkeycline"
 
 TEST F4M
