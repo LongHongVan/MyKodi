@@ -697,7 +697,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 
 <addon
   id="plugin.video.kenh88"
-  version="2.0.0"
+  version="2.0.2"
   name="*[COLOR yellow]kenh88.com[/COLOR]"
   provider-name="Dknight">
   <requires>
@@ -715,7 +715,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>kenh88</summary>
-    <description>Watch kenh88.com(Vietnamese)Videos. last updated 02.28.18 by LH@HME</description>
+    <description>Watch kenh88.com(Vietnamese)Videos. last updated 02.28.18 @6:22 PM by LH@HME</description>
     <platform>all</platform>
   </extension>
 </addon>
