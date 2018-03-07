@@ -3,6 +3,47 @@
 #EXTINF:-1, tvg-id="1" tvg-name="TV GUIDE" tvg-logo="a1.mzstatic.com/eu/r30/Purple7/v4/6f/3f/fb/6f3ffb1b-9016-54dc-3e41-efba099770a9/icon175x175.jpeg" group-title="", TV GUIDE
 http://google.com
 
+# NBA Channels ################################################
+#EXTINF:-1 group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg", TNT HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=341
+
+#EXTINF:-1 group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg", *NBA HD
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=165
+
+#EXTINF:-1 group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg", NBA HD1
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9047
+#EXTINF:-1 group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg", NBA HD2
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9046
+#EXTINF:-1 group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg", NBA HD3
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9045
+#EXTINF:-1 group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg", NBA HD4
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9044
+#EXTINF:-1 group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg", NBA HD5
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9043
+#EXTINF:-1 group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]" tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg", NBA HD6
+http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=9042
+
+
+#EXTINF:-1, tvg-id="155" tvg-name="NBA TV" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]", NBA TV HD
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32953
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]", NBA LEAGUE PASS 1
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26304
+#EXTINF:-1,NBA LEAGUE PASS 2
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26305
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]", NBA LEAGUE PASS 3
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26306
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]", NBA LEAGUE PASS 4
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26307
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]", NBA LEAGUE PASS 5
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26308
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]", NBA LEAGUE PASS 6
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26309
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]", NBA LEAGUE PASS 7
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=26310
+#EXTINF:-1, tvg-id="155" tvg-name="" tvg-logo="upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_NBA_TV.svg/1055px-Logo_NBA_TV.svg.png" group-title="[COLOR teal]NBA LEAGUE PASS Channels[/COLOR]", NBA LEAGUE PASS 8
+http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=32482
+
+
 # France Channels ################################################
 
 #EXTINF:-1 group-title="France Channels" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png", CBC (FR) New
@@ -328,7 +369,7 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=482
 
 ###################### TOP Movies ######################################
 
-#EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", >> [B][COLOR red]Adult 18+[/COLOR][/B] 2017 <<
+#EXTINF:-1, tvg-id="2" tvg-name="TOP MOVIES TV" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", >> [B][COLOR lime]Adult 18+[/COLOR][/B] 2017 <<
 http://google.com
 
 #EXTINF:-1, tvg-id="2" tvg-name="" tvg-logo="s-media-cache-ak0.pinimg.com/564x/17/25/f8/1725f81d09458501368ec84b1e36bf1e.jpg" group-title="ADULT TV", HD VOD XXX  13
