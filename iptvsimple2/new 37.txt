@@ -1,9 +1,16 @@
+03/14/2018
+http://superstreams.tv:80/get.php?username=123ABC&password=123ABC&type=m3u
+
 04/09/2017
 
 http://otttv.co:2095/live/iapp/9191/22026.m3u8
 
 http://51.254.197.40:25461/get.php?username=sean&password=sean&type=m3u GOOD 18 USA Similar Port "iptv.monkeycline"
 http://lightspeed.sytes.net:25461/get.php?username=exQbn8JqFa&password=2jE8Z1lXvx&type=m3u
+
+http://superstreams.tv:80/live/123ABC/123ABC/51341.m3u8
+
+
 
 03/27/2017
 
