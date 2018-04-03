@@ -1,5 +1,5 @@
 [
-	["UlVNNk9FVTZRalU2TkRRNk5ERTZORFE9", "Long/HongDesktop", "01/21/2018", "SanJose", "Windows10", "laptopCorei7", "Kodi17", "SN00000"], 
+	["UlVNNk9FVTZRalU2TkRRNk5ERTZORFE9", "Long/HongDesktop", "01/21/2018", "SanJose", "Windows10", "laptopCorei7", "Kodi17", "SN00000"],
 	["UXpRNk5FVTZRVU02TVRBNk9UVTZNekU9", "Suong/Tran(Offline)", "01/21/2018", "SanJose", "Android4", "M8N", "Kodi14", "SN00000"],
 	["TnpnNlF6STZRekE2T1VFNk1UTTZRakk9", "Calvin/Nguyen", "01/29/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00001"],
 	["UXpZNk5FWTZOams2UkVZNk5URTZPRFk9", "Long/HongLivingRoom", "01/27/2018", "SanJose", "Android4", "MPlayer5", "Kodi16p3", "SN00000"],
