@@ -17,6 +17,8 @@
     "PAC-12 Mountain", 
     "PAC-12 Oregon", 
     "PAC-12 Washington", 
+    "BONUS ASIA 81 DVD1", 
+    "BONUS ASIA 81 DVD2", 
     "BONUS PBN 124 720p", 
     "BONUS AM AP GIANG SINH 2017", 
     "BONUS ASIA 80 1080p", 
