@@ -1737,6 +1737,20 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 	</extension>
 </addon>
 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodi4vn.pro" name="[COLOR yellow]Kodi4VN PRO REPO[/COLOR]" version="1.7" provider-name="LongHong">
+	<extension point="xbmc.addon.repository" name="LongHong's Addon Repository">
+		<info compressed="false">https://raw.githubusercontent.com/LongHongVan/MyKodi/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/LongHongVan/MyKodi/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/LongHongVan/MyKodi/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Kodi4VN Addons</summary>
+		<description>Download and install addons from Kodi4VN's Repo Long Hong TV-Box (ViETViP) Edition 05.16.2018 @ 7:43PM: Best addons for Vietnamese</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="plugin.video.live.streamspro"
        name="LiveStreamsPro"
        version="3.0.1"
