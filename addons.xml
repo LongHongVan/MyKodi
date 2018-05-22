@@ -572,7 +572,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
   </extension>
 </addon>
 
-<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.64" provider-name="LongHong">
+<addon id="plugin.video.iptvnow" name="*[COLOR aqua]IPTV[/COLOR] [COLOR lime]HME[/COLOR]" version="0.0.67" provider-name="LongHong">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="1.0.0"/>
@@ -599,7 +599,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">IPTV Client</summary>
-		<description lang="en">IPTV Streamer built-in M3U Proxy Server - MAC ADDR Activating per Devices. Last updated 04.30.2018 @10:07 PM - by LongHong.</description>
+		<description lang="en">IPTV Streamer built-in M3U Proxy Server - MAC ADDR Activating per Devices. Last updated 05.21.2018 @9:14 PM - by LongHong.</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
 	</extension>
