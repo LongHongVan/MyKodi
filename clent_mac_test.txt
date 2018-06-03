@@ -14,10 +14,10 @@
 	["UXpRNk5FVTZRVU02TVRNNlJqRTZNVUU9", "Calvin/Nguyen", "02/10/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN00000"],
 	["TnpnNlF6STZRekE2T1VFNk1URTZNekE9", "My/Vo", "03/03/2018", "Washington", "Android7", "H96ProPlus", "Kodi17", "SN00005"],
 	["UXpRNk5FVTZRVU02TVRNNlJqazZRVGc9", "Suong/Dinh", "04/02/2018", "SanJose1740", "Android6", "M12S", "Kodi17p6", "SN10001"],
-	["UXpRNk5FVTZRVU02TVRNNlJqQTZSVUU9", "New1/Customer", "04/03/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10004"],
-	["UXpRNk5FVTZRVU02TVRNNlJqZzZOMFk9", "New2/Customer", "04/14/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10005"],
+	["UXpRNk5FVTZRVU02TVRNNlJqQTZSVUU9", "Thanh/Nguyen", "05/25/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10004"],
+	["UXpRNk5FVTZRVU02TVRNNlJqZzZOMFk9", "New2MasterRoom/Customer", "04/14/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10005"],
 	["TnpnNlF6STZRekE2T1VFNk1FVTZRVFE9", "Calvin/Nguyen", "01/29/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00006"],
-	["TnpnNlF6STZRekE2T1VFNk1rSTZPREk9", "New4/Customer", "03/03/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00007"],
+	["TnpnNlF6STZRekE2T1VFNk1rSTZPREk9", "New4LivingRoom/Customer", "03/03/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00007"],
 	["UXpRNk5FVTZRVU02TVRRNlJESTZRelE9", "Thanh/Nguyen", "05/25/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10006"],
-	["UXpRNk5FVTZRVU02TVRRNlJESTZPRGM9", "New5/Customer", "06/03/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10007"]
+	["UXpRNk5FVTZRVU02TVRRNlJESTZPRGM9", "New5MinhTan/Customer", "06/03/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10007"]
 ]
