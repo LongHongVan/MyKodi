@@ -1606,7 +1606,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
 
 <addon
   id="plugin.video.xomgiaitri"
-  version="1.7"
+  version="1.9"
   name="*[COLOR lime]XomGiaiTri.com[/COLOR]"
   provider-name="thongld">
   <requires>
@@ -1619,7 +1619,7 @@ Other languages with a great number of subtitles are: Danish, French, Swedish, D
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>xomgiaitri.com</summary>
-    <description>Watch free xomgiaitri.com (Vietnamese) Videos - upadted 09.18.17 (ViETViP)</description>
+    <description>Watch free xomgiaitri.com (Vietnamese) Videos - upadted 06.03.18 (LongHong)</description>
     <platform>all</platform>
   </extension>
 </addon>
