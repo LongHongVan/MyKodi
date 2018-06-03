@@ -1,7 +1,7 @@
 [
 	["UlVNNk9FVTZRalU2TkRRNk5ERTZORFE9", "Long/HongDesktop", "01/21/2018", "SanJose", "Windows10", "laptopCorei7", "Kodi17", "SN00000"],
 	["UXpRNk5FVTZRVU02TVRBNk9UVTZNekU9", "Suong/Tran(Offline)", "01/21/2018", "SanJose", "Android4", "M8N", "Kodi14", "SN00000"],
-	["TnpnNlF6STZRekE2T1VFNk1UTTZRakk9", "Calvin/Nguyen", "01/29/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00001"],
+	["TnpnNlF6STZRekE2T1VFNk1UTTZRakk9", "New0/Customer", "01/29/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00001"],
 	["UXpZNk5FWTZOams2UkVZNk5URTZPRFk9", "Long/HongLivingRoom", "01/27/2018", "SanJose", "Android4", "MPlayer5", "Kodi16p3", "SN00000"],
 	["UXpRNk5FVTZRVU02TVRNNlJqRTZNVVk9", "Long/HongMasterBed", "01/24/2018", "SanJose", "Android6", "M12S", "Kodi16p3", "SN00000"],
 	["UXpRNk5FVTZRVU02TVRNNlJqazZNME09", "De/Tran", "02/24/2018", "Acronics", "Android6", "M12S", "Kodi17p6", "SN10002"],
@@ -16,7 +16,8 @@
 	["UXpRNk5FVTZRVU02TVRNNlJqazZRVGc9", "Suong/Dinh", "04/02/2018", "SanJose1740", "Android6", "M12S", "Kodi17p6", "SN10001"],
 	["UXpRNk5FVTZRVU02TVRNNlJqQTZSVUU9", "New1/Customer", "04/03/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10004"],
 	["UXpRNk5FVTZRVU02TVRNNlJqZzZOMFk9", "New2/Customer", "04/14/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10005"],
-	["TnpnNlF6STZRekE2T1VFNk1FVTZRVFE9", "New3/Customer", "03/03/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00006"],
+	["TnpnNlF6STZRekE2T1VFNk1FVTZRVFE9", "Calvin/Nguyen", "01/29/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00006"],
 	["TnpnNlF6STZRekE2T1VFNk1rSTZPREk9", "New4/Customer", "03/03/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00007"],
-	["UXpRNk5FVTZRVU02TVRRNlJESTZRelE9", "Thanh/Nguyen", "05/25/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10006"]
+	["UXpRNk5FVTZRVU02TVRRNlJESTZRelE9", "Thanh/Nguyen", "05/25/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10006"],
+	["UXpRNk5FVTZRVU02TVRRNlJESTZPRGM9", "New5/Customer", "06/03/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10007"]
 ]
