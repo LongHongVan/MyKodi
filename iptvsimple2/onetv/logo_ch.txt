@@ -194,5 +194,11 @@
     "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
     "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
     "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
+    "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
+    "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
+    "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
+    "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
+    "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
+    "http://repo.streamlive.to/repository.streamlive.to/icon.png", 
     "http://repo.streamlive.to/repository.streamlive.to/icon.png"
 ]
