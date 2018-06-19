@@ -98,7 +98,7 @@
     "NBC New York USA", 
     "FOX Sports Arizona", 
     "CBS Sports Network", 
-    "NBC Los Ángeles", 
+    "NBC Los Angeles", 
     "NBC Washington", 
     "FOX Sports Detroit", 
     "FOX Sports Florida", 
