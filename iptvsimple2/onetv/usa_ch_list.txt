@@ -454,7 +454,7 @@
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://193.200.164.171:6969/live/robert/robert123/892.ts;name=US+Network+%28US%29%0D", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://193.200.164.171:6969/live/robert/robert123/124.ts;name=US+SYFY+HD%0D", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://193.200.164.171:6969/live/robert/robert123/50.ts;name=US+AE+HD%0D", 
-    "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://193.200.164.171:6969/live/robert/robert123/13.ts;name=US+Fox+Sports+2+HD%0D", 
+    "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://193.200.164.171:6969/live/robert/robert123/13.ts;name=US+Fox+Sports+1+HD%0D720p", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://193.200.164.171:6969/live/robert/robert123/98.ts;name=US+NBCSNHD%0D", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://193.200.164.171:6969/live/robert/robert123/90.ts;name=US+NFL+Network+HD%0D", 
     "plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://193.200.164.171:6969/live/robert/robert123/392.ts;name=US+PAC+12+Arizona%0D", 

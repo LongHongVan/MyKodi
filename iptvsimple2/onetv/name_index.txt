@@ -454,7 +454,7 @@
     "US Network (US)", 
     "US SYFY HD", 
     "US AE HD", 
-    "US Fox Sports 2 HD", 
+    "US Fox Sports 1 HD 720p", 
     "US NBCSNHD", 
     "US NFL Network HD", 
     "US PAC 12 Arizona", 
