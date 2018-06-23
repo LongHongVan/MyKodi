@@ -2186,3 +2186,26 @@ http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/95.ts
 #EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US: CA | TSN 5*
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/96.ts
+
+
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US: Fox Sports 1 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/14.ts
+
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US: Fox Sports 1 HD 1080P
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/8574.ts
+
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US: Fox Sports 1 HD backup
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/16150.ts
+
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",Latino: Fox Sports 1 FHD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/18291.ts
+
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",IT: Fox Sports FHD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/18155.ts
+
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",NL: Fox Sports 4 HD ( 1080P )
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/7475.ts
+
+
+
+
