@@ -820,10 +820,10 @@
     "UK BBC 3_CBBC FHD", 
     "UK BBC 4_CBEEBIES FHD", 
     "UK INSIGHT UHD", 
-    "IT UKV 2FHD", 
-    "IT UKV 3 FHD", 
-    "IT UKV 4 FHD", 
-    "IT UKV FHD", 
+    "UK iTV 2 FHD", 
+    "UK iTV 3 FHD", 
+    "UK iTV 4 FHD", 
+    "UK iTV 1 FHD", 
     "UK PREMIER SPORTS FHD", 
     "UK UK RACING FHD"
 ]
