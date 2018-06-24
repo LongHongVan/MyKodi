@@ -2144,26 +2144,26 @@ http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4074
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=2423
 
 # +++++++++++++++ These for World-Cup 2018 TSN
-#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US Sport TSN 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/1451.ts
-#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US Sport TSN 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/1452.ts
-#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US Sport TSN 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/1453.ts
-#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US Sport TSN 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/1454.ts
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US TSN 1 (World-cup)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://66.70.179.126:25461/live/1234/1234/1109.ts
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US TSN 2
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://66.70.179.126:25461/live/1234/1234/1108.ts
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US TSN 3
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://66.70.179.126:25461/live/1234/1234/1107.ts
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US TSN 4 (World-cup)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://66.70.179.126:25461/live/1234/1234/1106.ts
 
 #EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",US Sport TSN 5
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/1455.ts
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://66.70.179.126:25461/live/1234/1234/1105.ts
 
-#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",UK Sky ITV 1
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/471.ts
-#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",UK Sky ITV 2
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/470.ts
-#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",UK Sky ITV 3
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/469.ts
-#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",UK Sky ITV 4
-http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://212.8.248.197:8080/live/101/101/468.ts
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",UK ITV 1 HD (World-cup)
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/26860.ts
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",UK ITV 2 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/26861.ts
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",UK ITV 3 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/26859.ts
+#EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",UK ITV 4 HD
+http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/26858.ts
 
 #EXTINF:-1 group-title="World-Cup 2018 TSN_iTV_FS1" tvg-id="" tvg-name="" tvg-logo="http://repo.streamlive.to/repository.streamlive.to/icon.png",CA: TSN HD 1
 http://localhost:8898/tsf4mst.m3u?&pkid=0&tmp=1&portal=1&channel=http://193.200.164.171:6969/live/jad/jad/9372.ts
