@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/rangdong_logo.jpg",101 Rạng Đông TV (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/iSaigon_logo.jpg",102 iSaiGon (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/Hai%2024-7.jpg",103 Hài 24-7 (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/hai/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/VpopTV_logo.jpg",104 VPopTV (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/VNATV_Logo.jpg",105 VNATV 57.3 (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/Hai_Le_Logo.jpg",106 Hải Lê Television (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/ttt/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/VBolero-Logo.jpg",108 VBolero TV (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/viettv24_channel_logo.jpg",113 Viet TV24 APP (Giới Thiệu và Hướng Dẫn) (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/dgtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/Vmusic_logo.jpg",115 VMusic (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/VietMediaTV_logo.jpg",116 Việt Media TV (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vietmediatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/Vo_Mon_Thien_Tu.jpg",117 Vô Môn Thiền Tự (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vmtt/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Vietname Entertainment channels" tvg-logo="http://www.viettv24.com/main/images/skcd.jpg",118 Sân Khấu & Cuộc Đời (Hải ngoại)
+http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/cailuong/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
