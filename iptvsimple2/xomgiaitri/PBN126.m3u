@@ -1,0 +1,15 @@
+#EXTCPlayListM3U::M3U
+#EXTINF:0,Episode 1a
+plugin://plugin.video.kenh88/?url=http%3A%2F%2Fwww.kenh88.com%2Fxem-phim-online%2Fparis-by-night-126-hanh-trinh-35-nam-2018%3Flink%3D825262&mode=3&name=Episode+1a&mirrorname=
+#EXTINF:0,Episode 1b
+plugin://plugin.video.kenh88/?url=http%3A%2F%2Fwww.kenh88.com%2Fxem-phim-online%2Fparis-by-night-126-hanh-trinh-35-nam-2018%3Flink%3D825263&mode=3&name=Episode+1b&mirrorname=
+#EXTINF:0,Episode 1c
+plugin://plugin.video.kenh88/?url=http%3A%2F%2Fwww.kenh88.com%2Fxem-phim-online%2Fparis-by-night-126-hanh-trinh-35-nam-2018%3Flink%3D825264&mode=3&name=Episode+1c&mirrorname=
+#EXTINF:0,Episode 1d
+plugin://plugin.video.kenh88/?url=http%3A%2F%2Fwww.kenh88.com%2Fxem-phim-online%2Fparis-by-night-126-hanh-trinh-35-nam-2018%3Flink%3D825265&mode=3&name=Episode+1d&mirrorname=
+#EXTINF:0,Episode 1e
+plugin://plugin.video.kenh88/?url=http%3A%2F%2Fwww.kenh88.com%2Fxem-phim-online%2Fparis-by-night-126-hanh-trinh-35-nam-2018%3Flink%3D825266&mode=3&name=Episode+1e&mirrorname=
+#EXTINF:0,Episode 1f
+plugin://plugin.video.kenh88/?url=http%3A%2F%2Fwww.kenh88.com%2Fxem-phim-online%2Fparis-by-night-126-hanh-trinh-35-nam-2018%3Flink%3D825267&mode=3&name=Episode+1f&mirrorname=
+#EXTINF:0,Episode 1g
+plugin://plugin.video.kenh88/?url=http%3A%2F%2Fwww.kenh88.com%2Fxem-phim-online%2Fparis-by-night-126-hanh-trinh-35-nam-2018%3Flink%3D825268&mode=3&name=Episode+1g&mirrorname=
