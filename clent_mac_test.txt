@@ -24,5 +24,6 @@
 	["UXpRNk5FVTZRVU02TVRBNk9UTTZRelU9", "Kiem2/HoangVo", "07/06/2018", "SanJose", "Android5", "M8N", "Kodi16p1Modiptvnow", "SN00016"],
 	["UXpRNk5FVTZRVU02TVRNNlJqazZORUk9", "NewCustomer/Customer", "07/08/2018", "SanJose", "Android6", "M12S", "Kodi17p6", "SN10008"],
 	["TnpnNlF6STZRekE2T1VFNk1UTTZRakE9", "Thuy/MusicBand1", "06/17/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00008"],
-	["TnpnNlF6STZRekE2T1VFNk5rVTZOemM9", "New/MusicBand2", "06/17/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00009"]
+	["TnpnNlF6STZRekE2T1VFNk5rVTZOemM9", "New/MusicBand2", "06/17/2018", "SanJose", "Android7", "H96ProPlus", "Kodi17", "SN00009"],
+	["UXpRNk5FVTZRVU02TVRRNlJESTZPVFk9", "Suong/Dinh", "11/28/2018", "SanJose1740", "Android6", "M12S", "Kodi17p6", "SN10009"]
 ]
