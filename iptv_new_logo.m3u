@@ -675,10 +675,16 @@ http://localhost:8898/dtiptv.m3u?&pkid=0&tmp=0&portal=1&channel=35575
 
 
 
-##################### NEWS TV 2017 ##################################
+##################### NEWS TV 2017 ##################################[COLOR teal]Top Cloud USA 37-CH 2017[/COLOR]
 
 #EXTINF:-1, tvg-name="" tvg-logo="https://lh3.ggpht.com/vuP80gsKVzgiFNsNJMNzYx3NHMxcUUnkWg0q_WxsqF-LRVd0V0SlBV0K-jUfYGwd2Q=w300" group-title="NEWS TV", [COLOR teal]News TV 19-CH 2017[/COLOR]
 http://google.com
+
+#EXTINF:-1, tvg-id="8910" tvg-name="CNN News" tvg-logo="http://hostmybuild.com/logos/CNN%20(CNN).png" group-title="NEWS TV", [COLOR teal]CNN News HD[/COLOR]
+http://addonfreak.com:8080/lvhongus@yahoo.com/Y17q2xuB2n/8910
+
+#EXTINF:-1, tvg-id="8910" tvg-name="CNN News" tvg-logo="http://hostmybuild.com/logos/FOX%20News.png" group-title="NEWS TV", [COLOR lime]FOX News HD[/COLOR]
+http://addonfreak.com:8080/lvhongus@yahoo.com/Y17q2xuB2n/8917
 
 #EXTINF:0, tvg-id="8154" tvg-name="Weather Channel" tvg-logo="" group-title="NEWS TV", Weather USA
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=3080
