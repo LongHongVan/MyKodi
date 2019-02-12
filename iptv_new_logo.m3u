@@ -2887,268 +2887,268 @@ https://www.youtube.com/watch?v=KatYW_gN4j8
 
 
 
-###### NEW CH for IPTV SHOP 02/03/19 For Testing purpose ###############################
+###### NEW CH for IPTV SHOP 02/03/19 For Testing purpose ###############################http://127.0.0.1:
 
 #EXTINF:-1 tvg-id="" tvg-name="########## USA ##########" tvg-logo="http://pici.life/usa.png" group-title="United States",########## USA ##########
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6365
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6365
 #EXTINF:-1 tvg-id="aande.us" tvg-name="A&E FHD US" tvg-logo="http://pici.life/us/AandE.us.png" group-title="United States",A&E FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4960
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4960
 #EXTINF:-1 tvg-id="aande.us" tvg-name="A&E HD US" tvg-logo="http://pici.life/US/ae.png" group-title="United States",A&E HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14399
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14399
 #EXTINF:-1 tvg-id="" tvg-name="ABC News US" tvg-logo="http://pici.life/pics/usa/abc-news.png" group-title="United States",ABC News US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6364
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6364
 #EXTINF:-1 tvg-id="abc.us" tvg-name="ABC US" tvg-logo="http://pici.life/us/ABC.us.png" group-title="United States",ABC US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4925
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4925
 #EXTINF:-1 tvg-id="afnprimepacific.us" tvg-name="AFN Prime Pacific US" tvg-logo="http://pici.life/us/AFNPrimePacific.us.png" group-title="United States",AFN Prime Pacific US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4933
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4933
 #EXTINF:-1 tvg-id="afnspectrum.us" tvg-name="AFN Spectrum HD US" tvg-logo="http://pici.life/US/afn_spectrum.png" group-title="United States",AFN Spectrum HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14396
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14396
 #EXTINF:-1 tvg-id="" tvg-name="AFN Sport 1 US" tvg-logo="http://pici.life/US/AFN_Sports_US.png" group-title="United States",AFN Sport 1 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14395
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14395
 #EXTINF:-1 tvg-id="AFNSports2.us" tvg-name="AFN Sport 2 US" tvg-logo="http://pici.life/US/AFN_Sports_US.png" group-title="United States",AFN Sport 2 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14394
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14394
 #EXTINF:-1 tvg-id="afnsports2.us" tvg-name="AFN Sports 2 US" tvg-logo="http://pici.life/us/AFNSports2.us.png" group-title="United States",AFN Sports 2 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4927
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4927
 #EXTINF:-1 tvg-id="afnsports.us" tvg-name="AFN Sports HD US" tvg-logo="http://pici.life/us/AFNSports.us.png" group-title="United States",AFN Sports HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4928
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4928
 #EXTINF:-1 tvg-id="afnsports.us" tvg-name="AFN Sports US" tvg-logo="http://pici.life/US/AFN_Sports_US.png" group-title="United States",AFN Sports US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14412
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14412
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="http://pici.life/us/AMC.us.png" group-title="United States",AMC HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4959
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4959
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC  US" tvg-logo="http://pici.life/us/AMC.us.png" group-title="United States",AMC  US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6363
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6363
 #EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="Weather Channel US" tvg-logo="http://pici.life/lg/US/amg.png" group-title="United States",Weather Channel US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4900
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4900
 #EXTINF:-1 tvg-id="actionmax.us" tvg-name="Action Max FHD US" tvg-logo="http://pici.life/us/ActionMax.us.png" group-title="United States",Action Max FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4869
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4869
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet HD US" tvg-logo="http://pici.life/US/animalplanethd.png" group-title="United States",Animal Planet HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14393
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14393
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet US" tvg-logo="http://pici.life/us/AnimalPlanet.us.png" group-title="United States",Animal Planet US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6362
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6362
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="beIN Sports FHD US" tvg-logo="http://pici.life/US/Bein_sports_hd.png" group-title="United States",beIN Sports FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13759
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13759
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="beiN Sports HD US" tvg-logo="http://pici.life/us/beINSports.us.png" group-title="United States",beiN Sports HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4902
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4902
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America HD US" tvg-logo="http://pici.life/picon/bbchd.png" group-title="United States",BBC America HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14392
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14392
 #EXTINF:-1 tvg-id="" tvg-name="BTN Sport US" tvg-logo="" group-title="United States",BTN Sport US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4884
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4884
 #EXTINF:-1 tvg-id="" tvg-name="BYU Sports TV US" tvg-logo="http://pici.life/lg/US/BYUtvSportsFinal.jpg" group-title="United States",BYU Sports TV US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4910
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4910
 #EXTINF:-1 tvg-id="bet.us" tvg-name="Bet FHD US" tvg-logo="http://pici.life/picon/bet.png" group-title="United States",Bet FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13764
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13764
 #EXTINF:-1 tvg-id="bet.us" tvg-name="Bet HD US" tvg-logo="http://pici.life/us/BET.us.png" group-title="United States",Bet HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4958
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4958
 #EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="Big Ten US" tvg-logo="http://pici.life/us/BigTenNetwork.us.png" group-title="United States",Big Ten US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6361
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6361
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="Bloomberg FHD US" tvg-logo="http://pici.life/us/BloombergTV.us.png" group-title="United States",Bloomberg FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4940
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4940
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="Bloomberg HD US" tvg-logo="http://pici.life/us/BloombergTV.us.png" group-title="United States",Bloomberg HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6360
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6360
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="http://pici.life/lg/US/bravous.png" group-title="United States",Bravo HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4883
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4883
 #EXTINF:-1 tvg-id="" tvg-name="C-Span 1 US" tvg-logo="http://pici.life/US/cspanus.png" group-title="United States",C-Span 1 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14391
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14391
 #EXTINF:-1 tvg-id="" tvg-name="C-Span 2 US" tvg-logo="http://pici.life/US/cspan2us.png" group-title="United States",C-Span 2 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14390
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14390
 #EXTINF:-1 tvg-id="" tvg-name="C-Span 3 US" tvg-logo="http://pici.life/US/cspan3us.png" group-title="United States",C-Span 3 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14389
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14389
 #EXTINF:-1 tvg-id="" tvg-name="CBN US" tvg-logo="http://pici.life/lg/US/CBN.png" group-title="United States",CBN US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4920
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4920
 #EXTINF:-1 tvg-id="cbs.us" tvg-name="CBS FHD US" tvg-logo="http://pici.life/US/cbshdus.png" group-title="United States",CBS FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13751
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13751
 #EXTINF:-1 tvg-id="cbs.us" tvg-name="CBS HD US" tvg-logo="http://pici.life/lg/US/cbshdus.png" group-title="United States",CBS HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6348
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6348
 #EXTINF:-1 tvg-id="cbssportsnetwork.us" tvg-name="CBS Sports Network HD US" tvg-logo="http://pici.life/US/cbs_sports_network.png" group-title="United States",CBS Sports Network HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14385
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14385
 #EXTINF:-1 tvg-id="cbs.us" tvg-name="CBS US" tvg-logo="http://pici.life/us/CBS.us.png" group-title="United States",CBS US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4885
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4885
 #EXTINF:-1 tvg-id="" tvg-name="CBSN  HD US" tvg-logo="http://pici.life/lg/US/cbsn.png" group-title="United States",CBSN  HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6342
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6342
 #EXTINF:-1 tvg-id="" tvg-name="CBSN US" tvg-logo="" group-title="United States",CBSN US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4939
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4939
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="http://pici.life/lg/US/cnbc.png" group-title="United States",CNBC HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4956
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4956
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN HD US" tvg-logo="http://pici.life/us/CNN.us.png" group-title="United States",CNN HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4919
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4919
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN News FHD US" tvg-logo="http://pici.life/picon/cnn_2.png" group-title="United States",CNN News FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13750
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13750
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN News HD US" tvg-logo="http://pici.life/picon/cnn_2.png" group-title="United States",CNN News HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14377
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14377
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN US" tvg-logo="http://pici.life/us/CNN.us.png" group-title="United States",CNN US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6359
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6359
 #EXTINF:-1 tvg-id="CW.us" tvg-name="CW Central US" tvg-logo="http://pici.life/US/CW_central.png" group-title="United States",CW Central US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14401
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14401
 #EXTINF:-1 tvg-id="cw.us" tvg-name="CW US" tvg-logo="http://pici.life/us/CW.us.png" group-title="United States",CW US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4955
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4955
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network FHD US" tvg-logo="http://pici.life/lg/US/cartoonnetwork.png" group-title="United States",Cartoon Network FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4886
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4886
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network HD US" tvg-logo="http://pici.life/US/cartoonnetwork.png" group-title="United States",Cartoon Network HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14387
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14387
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="CineMax Action HD US" tvg-logo="http://pici.life/picon/cinemaxhd.png" group-title="United States",CineMax Action HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14382
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14382
 #EXTINF:-1 tvg-id="" tvg-name="CineMax ActionMax East US" tvg-logo="http://pici.life/picon/cinemaxhd.png" group-title="United States",CineMax ActionMax East US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14381
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14381
 #EXTINF:-1 tvg-id="" tvg-name="CineMax East US" tvg-logo="http://pici.life/picon/cinemaxhd.png" group-title="United States",CineMax East US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14380
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14380
 #EXTINF:-1 tvg-id="MoreMax.us" tvg-name="CineMax MoreMax US" tvg-logo="http://pici.life/picon/cinemaxhd.png" group-title="United States",CineMax MoreMax US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14378
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14378
 #EXTINF:-1 tvg-id="5starmax.us" tvg-name="Cinemax 5 Starmax US" tvg-logo="http://pici.life/US/cinemax.png" group-title="United States",Cinemax 5 Starmax US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4911
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4911
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="" group-title="United States",CMT HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14383
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14383
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax East FHD US" tvg-logo="http://pici.life/picon/cinemaxhd.png" group-title="United States",Cinemax East FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4912
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4912
 #EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax FHD US" tvg-logo="http://pici.life/us/Cinemax.us.png" group-title="United States",Cinemax FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4914
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4914
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax More HD US" tvg-logo="http://pici.life/picon/cinemaxhd.png" group-title="United States",Cinemax More HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14379
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14379
 #EXTINF:-1 tvg-id="MoreMax.us" tvg-name="Cinemax Moremax FHD US" tvg-logo="http://pici.life/lg/US/cinemax.png" group-title="United States",Cinemax Moremax FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4913
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4913
 #EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax US" tvg-logo="http://pici.life/cinemax_2.png" group-title="United States",Cinemax US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6693
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6693
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central FHD US" tvg-logo="http://pici.life/US/comedycentral.png" group-title="United States",Comedy Central FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14376
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14376
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://pici.life/US/comedycentral.png" group-title="United States",Comedy Central HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13823
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13823
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central US" tvg-logo="http://pici.life/lg/US/comedycentral.png" group-title="United States",Comedy Central US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4882
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4882
 #EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="Crime and Investigation US" tvg-logo="http://pici.life/us/CrimeInvestigation.us.png" group-title="United States",Crime and Investigation US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4879
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4879
 #EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="Destination America FHD USA" tvg-logo="http://pici.life/US/Destination_America.png" group-title="United States",Destination America FHD USA
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17640
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=17640
 #EXTINF:-1 tvg-id="" tvg-name="DW US" tvg-logo="http://pici.life/Logo/all/dw.png" group-title="United States",DW US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14366
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14366
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel HD US" tvg-logo="http://pici.life/US/discoverychannelhd.png" group-title="United States",Discovery Channel HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14373
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14373
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel US" tvg-logo="http://pici.life/picon/discoverychannel_2.png" group-title="United States",Discovery Channel US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=16988
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=16988
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD US" tvg-logo="http://pici.life/Logo/all/discoveryhd.png" group-title="United States",Discovery HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14372
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14372
 #EXTINF:-1 tvg-id="" tvg-name="Discovery ID FHD US" tvg-logo="http://pici.life/us/DiscoveryChannel.us.png" group-title="United States",Discovery ID FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4918
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4918
 #EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="Discovery Science US" tvg-logo="http://pici.life/us/DiscoveryScience.us.png" group-title="United States",Discovery Science US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4887
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4887
 #EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="Discovery Velocity FHD US" tvg-logo="http://pici.life/us/DiscoveryVelocity.us.png" group-title="United States",Discovery Velocity FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4877
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4877
 #EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="Discovery Velocity US" tvg-logo="http://pici.life/US/Discovery_Velocity.png" group-title="United States",Discovery Velocity US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14371
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14371
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel FHD US" tvg-logo="http://pici.life/Logo/all/disneychannelhd.png" group-title="United States",Disney Channel FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14370
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14370
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel HD US" tvg-logo="http://pici.life/Logo/all/disneychannelhd.png" group-title="United States",Disney Channel HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14369
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14369
 #EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD FHD US" tvg-logo="http://pici.life/Logo/all/disneyxdhd.png" group-title="United States",Disney XD FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14368
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14368
 #EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD US" tvg-logo="http://pici.life/Logo/all/disneyxdhd.png" group-title="United States",Disney XD HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14367
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14367
 #EXTINF:-1 tvg-id="" tvg-name="Diy Network HD US" tvg-logo="http://pici.life/lg/US/diynetworkus.png" group-title="United States",Diy Network HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=11373
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=11373
 #EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="E! HD US" tvg-logo="http://pici.life/picon/entertainment.png" group-title="United States",E! HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14365
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14365
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! Network US" tvg-logo="http://pici.life/lg/US/e.png" group-title="United States",E! Network US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4951
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4951
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN 1 US" tvg-logo="http://pici.life/Logo/all/espn_tv_us.png" group-title="United States",ESPN 1 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14405
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14405
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2 FHD US" tvg-logo="http://pici.life/US/espn2us.png" group-title="United States",ESPN 2 FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13749
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13749
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 2 HD US" tvg-logo="http://pici.life/us/ESPN2.us.png" group-title="United States",ESPN 2 HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4936
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4936
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN 3 US" tvg-logo="http://pici.life/lg/Latin%20America%20(LAM)/ESPN3.png" group-title="United States",ESPN 3 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6708
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6708
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD US" tvg-logo="http://pici.life/Logo/all/espn_tv_us.png" group-title="United States",ESPN HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14363
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14363
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN News HD US" tvg-logo="http://pici.life/us/ESPNNews.us.png" group-title="United States",ESPN News HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4935
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4935
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Plus US" tvg-logo="http://pici.life/lg/Latin%20America%20(LAM)/ESPN-Plus.png" group-title="United States",ESPN Plus US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6707
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6707
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U US" tvg-logo="http://pici.life/picon/espn.png" group-title="United States",ESPN U US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=33498
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=33498
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN US" tvg-logo="http://pici.life/us/ESPN.us.png" group-title="United States",ESPN US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4937
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4937
 #EXTINF:-1 tvg-id="elrey.us" tvg-name="El Rey Network FHD US" tvg-logo="http://pici.life/US/El_Rey_Network.png" group-title="United States",El Rey Network FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13758
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13758
 #EXTINF:-1 tvg-id="ElRey.us" tvg-name="El Rey Network HD US" tvg-logo="http://pici.life/US/El_Rey_Network.png" group-title="United States",El Rey Network HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14364
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14364
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-name="Fox Sports HD US" tvg-logo="http://pici.life/picon/foxsportshd_2.png" group-title="United States",Fox Sports HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14562
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14562
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 US" tvg-logo="http://pici.life/us/FoxSports1.us.png" group-title="United States",Fox Sports 1 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=63735
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=63735
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 FHD US" tvg-logo="http://pici.life/picon/foxsports1hd.png" group-title="United States",Fox Sports 1 FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=137256
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=137256
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 HD US" tvg-logo="http://pici.life/us/FoxSports1.us.png" group-title="United States",Fox Sports 1 HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=494720
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=494720
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="Fox Sports 2 US" tvg-logo="http://pici.life/us/FoxSports2.us.png" group-title="United States",Fox Sports 2 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=63365
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=63365
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="Fox Sports 2 HD US" tvg-logo="http://pici.life/us/FoxSports2.us.png" group-title="United States",Fox Sports 2 HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=494259
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=494259
 #EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="FOX Soccer Plus HD US" tvg-logo="http://pici.life/US/FOX_Soccer_Plus.png" group-title="United States",FOX Soccer Plus HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14408
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14408
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX FHD US" tvg-logo="http://pici.life/US/fxhdus.png" group-title="United States",FX FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13763
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13763
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="http://pici.life/us/FX.us.png" group-title="United States",FX HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4942
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4942
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX FHD US" tvg-logo="http://pici.life/US/fxxhdus.png" group-title="United States",FXX FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13756
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13756
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="http://pici.life/US/fxxhdus.png" group-title="United States",FXX HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14353
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14353
 #EXTINF:-1 tvg-id="" tvg-name="Fashion One HD US" tvg-logo="http://pici.life/US/Fashionone_hd.png" group-title="United States",Fashion One HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14362
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14362
 #EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD US" tvg-logo="http://pici.life/Logo/pta/Fight_network.png" group-title="United States",Fight Network FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13748
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13748
 #EXTINF:-1 tvg-id="fightsports.us" tvg-name="Fight Sport US" tvg-logo="http://pici.life/picon/fightsports.png" group-title="United States",Fight Sport US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14361
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14361
 #EXTINF:-1 tvg-id="" tvg-name="Fine Living US" tvg-logo="http://pici.life/Logo/all/fineliving.png" group-title="United States",Fine Living US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14360
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14360
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network HD US" tvg-logo="http://pici.life/picon/foodnetwork_2.png" group-title="United States",Food Network HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14359
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14359
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network US" tvg-logo="http://pici.life/us/FoodNetwork.us.png" group-title="United States",Food Network US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4949
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4949
 #EXTINF:-1 tvg-id="fox.us" tvg-name="Fox FHD US" tvg-logo="http://pici.life/US/foxhd.png" group-title="United States",Fox FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13757
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13757
 #EXTINF:-1 tvg-id="fox.us" tvg-name="Fox HD US" tvg-logo="http://pici.life/us/FOX.us.png" group-title="United States",Fox HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4948
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4948
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News FHD US" tvg-logo="http://pici.life/US/foxnews.png" group-title="United States",Fox News FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14358
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14358
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="Fox News HD US" tvg-logo="Fox News FHD US" group-title="United States",Fox News HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14357
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14357
 #EXTINF:-1 tvg-id="" tvg-name="Fox News US" tvg-logo="http://pici.life/us/FoxNews.us.png" group-title="United States",Fox News US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4943
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4943
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506 FHD US" tvg-logo="https://d3spxwpngnho1k.cloudfront.net/wp-content/uploads/TV-Fox506.png" group-title="United States",Fox Sports 506 FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4944
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4944
 #EXTINF:-1 tvg-id="foxsportsnorth.us" tvg-name="Fox Sports North HD US" tvg-logo="http://pici.life/US/Fox_sports_north_hd.png" group-title="United States",Fox Sports North HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14355
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14355
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="Free Form US" tvg-logo="http://pici.life/lg/US/freeformus.png" group-title="United States",Free Form US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4950
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4950
 #EXTINF:-1 tvg-id="" tvg-name="Global BC US" tvg-logo="http://pici.life/US/Global_BC.png" group-title="United States",Global BC US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14352
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14352
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="Golf HD US" tvg-logo="http://pici.life/lg/US/Golf.png" group-title="United States",Golf HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6340
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6340
 #EXTINF:-1 tvg-id="" tvg-name="H2 US" tvg-logo="http://pici.life/h2_2.png" group-title="United States",H2 US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4888
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4888
 #EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy FHD US" tvg-logo="http://pici.life/us/HBOComedy.us.png" group-title="United States",HBO Comedy FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4921
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4921
 #EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy HD US" tvg-logo="http://pici.life/US/hbocomedy.png" group-title="United States",HBO Comedy HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13762
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13762
 #EXTINF:-1 tvg-id="" tvg-name="HBO Est FHD US" tvg-logo="http://pici.life/picon/hbo_2.png" group-title="United States",HBO Est FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13742
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13742
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO FHD US" tvg-logo="http://pici.life/US/hbohd.png" group-title="United States",HBO FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14411
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14411
 #EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO Family FHD US" tvg-logo="http://pici.life/US/HBO_Family_HD.png" group-title="United States",HBO Family FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13741
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13741
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="http://pici.life/lg/US/hbohd.png" group-title="United States",HBO HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4923
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4923
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature FHD US" tvg-logo="http://pici.life/US/hbosignatureus.png" group-title="United States",HBO Signature FHD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13761
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=13761
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD US" tvg-logo="http://pici.life/lg/US/hbo%20singature.png" group-title="United States",HBO Signature HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6343
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=6343
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO US" tvg-logo="http://pici.life/picon/hbo_2.png" group-title="United States",HBO US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14350
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14350
 #EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO Zone US" tvg-logo="http://pici.life/us/HBOZone.us.png" group-title="United States",HBO Zone US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4922
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4922
 #EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV HD US" tvg-logo="http://pici.life/US/hgtv.png" group-title="United States",HGTV HD US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14348
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=14348
 #EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV US" tvg-logo="http://pici.life/lg/US/hgtv.png" group-title="United States",HGTV US
-http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=10218
+http://127.0.0.1:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=10218
 #EXTINF:-1 tvg-id="" tvg-name="HIFI HD US" tvg-logo="http://pici.life/lg/US/HIFI.png" group-title="United States",HIFI HD US
 http://localhost:8898/iptvsubstv.m3u?&pkid=0&tmp=0&portal=1&channel=4890
 #EXTINF:-1 tvg-id="hallmark.us" tvg-name="Hallmark FHD US" tvg-logo="http://pici.life/us/Hallmark.us.png" group-title="United States",Hallmark FHD US
