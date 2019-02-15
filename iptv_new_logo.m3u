@@ -2886,9 +2886,22 @@ http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id
 ###### End Testing Youtube on LiveTV ###############
 
 
+###### MYTVHome ####################################
 
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E FHD US" tvg-logo="http://pici.life/us/AandE.us.png" group-title="MYTVHome",A&E FHD US
+http://127.0.0.1:19098/unitedlivetv/4960
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E HD US" tvg-logo="http://pici.life/US/ae.png" group-title="MYTVHome",A&E HD US
+http://127.0.0.1:19098/unitedlivetv/14399
+#EXTINF:-1 tvg-id="" tvg-name="ABC News US" tvg-logo="http://pici.life/pics/usa/abc-news.png" group-title="MYTVHome",ABC News US
+http://127.0.0.1:19098/unitedlivetv/6364
+#EXTINF:-1 tvg-id="abc.us" tvg-name="ABC US" tvg-logo="http://pici.life/us/ABC.us.png" group-title="MYTVHome",ABC US
+http://127.0.0.1:19098/unitedlivetv/4925
 
-
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV HD US" tvg-logo="http://pici.life/US/hgtv.png" group-title="MYTVHome",HGTV HD US
+http://127.0.0.1:19098/unitedlivetv/14348
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV US" tvg-logo="http://pici.life/lg/US/hgtv.png" group-title="MYTVHome",HGTV US
+http://127.0.0.1:19098/unitedlivetv/10218
+###### End MYTVHome ####################################
 
 
 
