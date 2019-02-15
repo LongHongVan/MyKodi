@@ -2875,7 +2875,15 @@ https://www.youtube.com/watch?v=KatYW_gN4j8
 
 
 
+###### Testing Youtube on LiveTV ###################
+#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="" group-title="YOUTUBE",Nhu Quynh Xuan Vang Anh
+http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=6YIPquf_dBU
 
+#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="" group-title="YOUTUBE",Huong Thuy - Tam Su Ngay Xuan
+http://127.0.0.1:19098/youtubevideo/plugin://plugin.video.youtube/play/?video_id=Ras5I6g_uuI
+
+
+###### End Testing Youtube on LiveTV ###############
 
 
 
