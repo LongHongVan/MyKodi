@@ -1,0 +1,16 @@
+#EXTM3U
+###### NEW CH for IPTV SHOP 02/03/19 For Testing purpose ###############################
+
+#EXTINF:-1 tvg-id="" tvg-name="########## USA ##########" tvg-logo="http://pici.life/usa.png" group-title="United States",########## USA ##########
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.rent:80/wj3babysgg/20spoikcj/6365
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E FHD US" tvg-logo="http://pici.life/us/AandE.us.png" group-title="United States",A&E FHD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.rent:80/wj3babysgg/20spoikcj/4960
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E HD US" tvg-logo="http://pici.life/US/ae.png" group-title="United States",A&E HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.rent:80/wj3babysgg/20spoikcj/14399
+#EXTINF:-1 tvg-id="" tvg-name="ABC News US" tvg-logo="http://pici.life/pics/usa/abc-news.png" group-title="United States",ABC News US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.rent:80/wj3babysgg/20spoikcj/6364
+#EXTINF:-1 tvg-id="abc.us" tvg-name="ABC US" tvg-logo="http://pici.life/us/ABC.us.png" group-title="United States",ABC US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.rent:80/wj3babysgg/20spoikcj/4925
+
+
+###### END NEW CH for IPTV SHOP 02/03/19 For Testing purpose ###############################
